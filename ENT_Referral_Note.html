@@ -120,6 +120,21 @@ th {
 
 .refs a.pdf-link, .refs a.md-link { color: inherit; text-decoration: none; border-bottom: 1px dotted #888; }
 .refs a.pdf-link:hover, .refs a.md-link:hover { color: #0a4d8c; border-bottom: 1px solid #0a4d8c; }
+
+@media screen {
+  html { background: #eef2f7; }
+  body {
+    max-width: 980px;
+    margin: 24px auto;
+    padding: 32px 40px;
+    background: white;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+    border-radius: 6px;
+  }
+}
+@media screen and (max-width: 720px) {
+  body { margin: 0; padding: 18px; border-radius: 0; box-shadow: none; }
+}
 </style>
 </head>
 <body>
