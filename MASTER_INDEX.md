@@ -2,11 +2,11 @@
 
 **Patient**: Saroj Agarwal  •  **Patient ID**: 0010663186  •  **DOB**: 27 Aug 1962  •  **Sex**: Female
 
-**Total reports**: 193  •  **Date range**: 2026-02-20 → 2026-06-22  •  **Generated**: 2026-04-29 (updated 2026-06-24)  •  **Vision-verified**: 193/193
+**Total reports**: 194  •  **Date range**: 2026-02-20 → 2026-06-22  •  **Generated**: 2026-04-29 (updated 2026-06-24)  •  **Vision-verified**: 194/194
 
 All reports verified for patient identity and content accuracy by reading the rendered PDF page images and comparing against the markdown summary. Reports are grouped by date the test was performed (newest first). Each entry links to the renamed source PDF in `report_pdf/` and a per-report markdown file in `report_md/`.
 
-> **Update 2026-06-24**: Added 5 outpatient follow-up reports from Surat (post-discharge) — 4 Nobel Micropath lab panels (6, 18, 25 May & 15 Jun 2026) and the follow-up **WB FDG PET-CT (22 Jun 2026, Prismaa Oncoimaging)**, which shows **RECIST 1.1 Partial Response, −47.1%** versus the 21 Feb 2026 baseline PET.
+> **Update 2026-06-24**: Added 6 post-discharge outpatient follow-up reports from Surat — 4 Nobel Micropath lab panels (6, 18, 25 May & 15 Jun 2026), a **right lower-limb venous Doppler (1 May 2026, Navkar — no DVT)**, and the follow-up **WB FDG PET-CT (22 Jun 2026, Prismaa Oncoimaging)** which shows **RECIST 1.1 Partial Response, −47.1%** versus the 21 Feb 2026 baseline PET. (Duplicate re-exports of the discharge summary and the 26 Mar APTT, found loose in `report_pdf/`, were discarded.)
 
 ## Counts by category
 
@@ -20,8 +20,8 @@ All reports verified for patient identity and content accuracy by reading the re
 | `Lab-Surat` | 4 | Outpatient follow-up labs, Surat (Nobel Micropath — CBC, biochem, NT-proBNP) |
 | `ECHO` | 3 | Echocardiography |
 | `CT` | 3 | Computed tomography (incl. PET-CT) |
+| `USG` | 3 | Ultrasonography (incl. limb venous Doppler) |
 | `Lab-ClinPath` | 2 | Clinical pathology (urine routine, body fluids) |
-| `USG` | 2 | Ultrasonography |
 | `ECG` | 1 | Electrocardiogram |
 | `Holter` | 1 | Continuous ambulatory ECG monitoring |
 | `Consent` | 1 | Procedure consent form |
@@ -54,6 +54,11 @@ All reports verified for patient identity and content accuracy by reading the re
 
 - **Combined Panel — CBC + Electrolytes + Creatinine + LFT** — _Lab-Surat_  [[PDF](./report_pdf/2026-05-06_Lab-Surat_Combined-Panel.pdf)] [[MD](./report_md/2026-05-06_Lab-Surat_Combined-Panel.md)]
     Bundled outpatient panel (Nobel Micropath, Surat) — collected 06/05/2026 10:05. CBC: Hb 8.4 g/dL (low), HCT 26.5% (low), RBC 2.79 (low), MCV 95.0, RDW 21.4% (high), WBC 5410 (normal), platelets 352000 (normal); smear anisocytosis (+). Electrolytes normal (Na 139, K 4.3, Cl 103). Creatinine 0.71 mg/dL (normal). LFT: enzymes/bilirubin normal (SGPT 6.7, SGOT 11.9, ALP 71.2, GGT 16.2), but total protein 4.62 (low), albumin 2.65 (low), globulin 1.97 (low). Findings: persistent normochromic-macrocytic anaemia with elevated RDW; marked hypoproteinaemia/hypoalbuminaemia (likely driving new bilateral leg/abdominal edema); renal function and electrolytes preserved.
+
+### Friday, 1 May 2026 (2026-05-01) — 1 report
+
+- **Right Lower-Limb Arterial & Venous Doppler** — _USG_  [[PDF](./report_pdf/2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler.pdf)] [[Images](./report_pdf/2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler_images.pdf)] [[MD](./report_md/2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler.md)]
+    Right lower-limb arterial & venous Doppler (Navkar, Surat; ref. Dr. Sanjay Agrawal) — 01/05/2026, for right-leg swelling. **No DVT**; no arterial/venous thrombosis, stenosis or occlusion; veins compressible with normal augmentation; arteries triphasic with mild atheromatous plaque/intimo-medial thickening. Soft tissue: moderate-to-severe subcutaneous fat-plane oedema of the right leg/ankle/foot, plus mild superficial fat-plane change in the right thigh (possible subtle haemorrhage/petechial sequelae). Swelling is due to subcutaneous oedema, not DVT — reassuring given prior PE and anticoagulation.
 
 ### Monday, 13 April 2026 (2026-04-13) — 5 reports
 

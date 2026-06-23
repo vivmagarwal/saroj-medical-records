@@ -2,18 +2,18 @@
 
 **Patient**: Saroj Agarwal · **Patient ID**: 0010663186 · **DOB**: 27 Aug 1962 · **Sex**: Female
 
-This file combines all **193** per-report markdown files into a single document, ordered **newest → oldest** by the date the test was performed. Each report retains its title, metadata bullets, vision-verified summary, and verbatim PDF text. The individual per-report markdowns under `report_md/` are unchanged.
+This file combines all **194** per-report markdown files into a single document, ordered **newest → oldest** by the date the test was performed. Each report retains its title, metadata bullets, vision-verified summary, and verbatim PDF text. The individual per-report markdowns under `report_md/` are unchanged.
 
 Source PDFs are in `report_pdf/`. The date-grouped master index is in `MASTER_INDEX.md`.
 
-> **Update 2026-06-24**: The 5 newest reports below are post-discharge outpatient follow-ups from Surat (May–Jun 2026: 4 Nobel Micropath lab panels + the 22 Jun follow-up WB FDG PET-CT). They are labelled *Follow-up Report 1–5 of 5* and prepended here; the original 188 Reliance reports retain their *Report N of 188* labels unchanged.
+> **Update 2026-06-24**: The 6 newest reports below are post-discharge outpatient follow-ups from Surat (May–Jun 2026: 4 Nobel Micropath lab panels, a 1 May venous Doppler, and the 22 Jun follow-up WB FDG PET-CT). They are labelled *Follow-up Report 1–6 of 6* and prepended here; the original 188 Reliance reports retain their *Report N of 188* labels unchanged.
 
 
 ---
 
 ---
 
-> **Follow-up Report 1 of 5** (added 2026-06-24) · `2026-06-22_CT_WB-FDG-PET-CT-scan.md`
+> **Follow-up Report 1 of 6** (added 2026-06-24) · `2026-06-22_CT_WB-FDG-PET-CT-scan.md`
 
 # WB FDG PET - CT scan (follow-up)
 
@@ -95,7 +95,7 @@ Medicine); Dr. Keyur Mandaliya (MBBS, DNB — Consultant Onco-Radiologist).
 
 ---
 
-> **Follow-up Report 2 of 5** (added 2026-06-24) · `2026-06-15_Lab-Surat_Combined-Panel.md`
+> **Follow-up Report 2 of 6** (added 2026-06-24) · `2026-06-15_Lab-Surat_Combined-Panel.md`
 
 # Combined Panel — CBC + Electrolytes + Creatinine + NT-proBNP + LFT (Surat, Nobel Micropath)
 
@@ -183,7 +183,7 @@ Lab: 6th Floor, Rhythm House, Besides Venus Hospital, Lal Darwaja, Surat
 
 ---
 
-> **Follow-up Report 3 of 5** (added 2026-06-24) · `2026-05-25_Lab-Surat_CBC-Creatinine.md`
+> **Follow-up Report 3 of 6** (added 2026-06-24) · `2026-05-25_Lab-Surat_CBC-Creatinine.md`
 
 # CBC + Creatinine (Surat, Nobel Micropath)
 
@@ -240,7 +240,7 @@ Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology
 
 ---
 
-> **Follow-up Report 4 of 5** (added 2026-06-24) · `2026-05-18_Lab-Surat_CBC-Creatinine.md`
+> **Follow-up Report 4 of 6** (added 2026-06-24) · `2026-05-18_Lab-Surat_CBC-Creatinine.md`
 
 # CBC + Creatinine (Surat, Nobel Micropath)
 
@@ -296,7 +296,7 @@ Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology
 
 ---
 
-> **Follow-up Report 5 of 5** (added 2026-06-24) · `2026-05-06_Lab-Surat_Combined-Panel.md`
+> **Follow-up Report 5 of 6** (added 2026-06-24) · `2026-05-06_Lab-Surat_Combined-Panel.md`
 
 # Combined Panel — CBC + Electrolytes + Creatinine + LFT (Surat, Nobel Micropath)
 
@@ -371,6 +371,37 @@ Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology
 Lab: 6th Floor, Rhythm House, Besides Venus Hospital, Lal Darwaja, Surat
 ```
 
+
+---
+
+> **Follow-up Report 6 of 6** (added 2026-06-24) · `2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler.md`
+
+# Right Lower Extremity Arterial & Venous Doppler Study (Surat, Navkar)
+
+- **Date performed**: 2026-05-01
+- **Category**: USG
+- **Centre**: Navkar Radio Diagnostic Center, Surat (Vesu / Althan)
+- **Referring doctor**: Dr. Sanjay Agrawal
+- **Reported by**: Dr. Jenish Shah (MBBS, MD Radiologist); Dr. Parth Bhut (DNB Radiodiagnosis)
+- **Source PDF**: [`./report_pdf/2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler.pdf`](./report_pdf/2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler.pdf)
+- **Image plates (companion PDF)**: [`./report_pdf/2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler_images.pdf`](./report_pdf/2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler_images.pdf)
+- **Original filenames**: `093212_SAROJ AGARWAL.pdf` (report) + `093212_SAROJ AGARWAL_01May26_113935_000.pdf` (images)
+
+## Summary (extracted)
+
+Real-time colour-flow and pulsed-Doppler study of the arterial & venous drainage of the **right lower limb**, done 01/05/2026 at Navkar, Surat (for evaluation of right-leg swelling).
+
+**Key result — NO DVT.** No signs of acute or chronic thrombosis in the arterial or venous system; no haemodynamically significant stenosis or occlusion; no superficial vein thrombosis or abnormal perforators; veins compressible with normal augmentation (++) and normal phasic flow.
+
+**Arterial**: Common femoral, superficial femoral, popliteal, anterior tibial, posterior tibial and peroneal arteries normal in course and calibre, with normal triphasic waveforms and normal colour filling (incl. dorsalis pedis). **Mild atheromatous plaque & intimo-medial thickening** noted. No abnormal arterial occlusion.
+
+**Venous**: Common femoral, superficial femoral, deep femoral, popliteal, anterior tibial and posterior tibial veins normal; probe-compressible; normal colour filling; sapheno-femoral junction normal flow direction. No greater/short saphenous varicosities.
+
+**Soft tissue (explains the swelling)**: Moderate-to-severe subcutaneous fat-plane oedema of the **right leg / ankle / foot**; minimal-to-mild superficial subcutaneous fat-plane inhomogeneous echogenicity throughout the right thigh — possible **subtle superficial haemorrhage / petechial sequelae** (in keeping with anticoagulation). No abnormal focal lesion or collection.
+
+**Clinical significance**: The right-leg swelling is due to subcutaneous oedema (± petechial haemorrhage sequelae), **not DVT** — reassuring given her prior saddle pulmonary embolism and ongoing anticoagulation.
+
+---
 
 > **Report 1 of 188** · `2026-04-13_XRay_X-Ray-Portable-Chest-AP.md`
 

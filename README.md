@@ -1,6 +1,6 @@
 # Saroj Agarwal — Medical Records Collection
 
-Compiled medical-record archive totalling **193 reports**, organised for quick clinical handoff. The core **188 reports** are from Sir H. N. Reliance Foundation Hospital, Mumbai (20 Feb – 13 Apr 2026); **5 post-discharge outpatient follow-ups** from Surat have since been added (May–Jun 2026: 4 Nobel Micropath lab panels + the 22 Jun follow-up WB FDG PET-CT from Prismaa Oncoimaging, which shows **RECIST 1.1 Partial Response, −47.1%** vs the February baseline).
+Compiled medical-record archive totalling **194 reports**, organised for quick clinical handoff. The core **188 reports** are from Sir H. N. Reliance Foundation Hospital, Mumbai (20 Feb – 13 Apr 2026); **6 post-discharge outpatient follow-ups** from Surat have since been added (May–Jun 2026: 4 Nobel Micropath lab panels, a 1 May right-lower-limb venous Doppler [no DVT, from Navkar], and the 22 Jun follow-up WB FDG PET-CT from Prismaa Oncoimaging, which shows **RECIST 1.1 Partial Response, −47.1%** vs the February baseline).
 
 > 🌐 **Live site**: https://vivmagarwal.github.io/saroj-medical-records/ (after Pages is enabled)
 
@@ -12,10 +12,10 @@ Compiled medical-record archive totalling **193 reports**, organised for quick c
 | `ENT_Referral_Note.{html,pdf}` | 2-page ENT specialty handoff note |
 | `Pulmonology_Referral_Note.{html,pdf}` | 2-page Pulmonology specialty handoff note |
 | `Cardiology_Referral_Note.{html,pdf}` | 2-page Cardiology specialty handoff note |
-| `MASTER_INDEX.md` | Date-grouped index of all 193 reports, newest → oldest |
-| `ALL_MD_REPORTS.md` | All 193 per-report markdowns combined into one document |
-| `report_pdf/` | 193 source PDFs, renamed `YYYY-MM-DD_Type_Description.pdf` |
-| `report_md/` | 193 per-report markdowns (vision-verified summary + verbatim PDF text) |
+| `MASTER_INDEX.md` | Date-grouped index of all 194 reports, newest → oldest |
+| `ALL_MD_REPORTS.md` | All 194 per-report markdowns combined into one document |
+| `report_pdf/` | 194 source PDFs, renamed `YYYY-MM-DD_Type_Description.pdf` (+ companion Doppler image plates) |
+| `report_md/` | 194 per-report markdowns (vision-verified summary + verbatim PDF text) |
 | `surat_reports_and_other_details/` | Raw original Surat PDFs (Nobel Micropath), by lab registration no. |
 
 ## Patient
@@ -38,13 +38,13 @@ Compiled medical-record archive totalling **193 reports**, organised for quick c
 | Lab — Surat follow-up (Nobel Micropath) | 4 |
 | Echocardiography | 3 |
 | CT (incl. PET-CT) | 3 |
-| Ultrasonography | 2 |
+| Ultrasonography (incl. limb venous Doppler) | 3 |
 | Lab — Clinical pathology | 2 |
 | ECG, Holter, Discharge Summary, Daycare Summary, Consent | 1 each |
 
 ## Verification
 
-- All 193 per-report summaries were **vision-verified** against the rendered source PDFs.
+- All 194 per-report summaries were **vision-verified** against the rendered source PDFs.
 - The three specialty handoff notes were **independently fact-checked** by separate verification agents — every date, drug, dose, value, and verbatim quote was cross-referenced to the original.
 
 ## Privacy
