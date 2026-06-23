@@ -1,0 +1,66 @@
+# S. Electrolytes
+
+- **Date performed**: 2026-03-29
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`../../report_pdf/archived/2026-03-29_Lab-Biochem_S-Electrolytes.pdf`](../../report_pdf/archived/2026-03-29_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004241805703000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode) collected 29/03/2026 03:40. Sodium 142.50 mmol/L (ref 136-145, normal); Potassium 3.38 mmol/L (ref 3.5-5.1, LOW, rechecked from fresh sample); Chloride 101.50 mmol/L (ref 98-107, normal).
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
+Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
+Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 142.50
+Potassium mmol/L 3.5-5.1 3.38
+Medical Remarks: Rechecked from fresh sample.
+Chloride mmol/L 98-107 101.50
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
+Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
+Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
+Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
+Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```

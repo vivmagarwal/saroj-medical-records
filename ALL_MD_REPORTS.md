@@ -2,18 +2,11 @@
 
 **Patient**: Saroj Agarwal · **Patient ID**: 0010663186 · **DOB**: 27 Aug 1962 · **Sex**: Female
 
-This file combines all **194** per-report markdown files into a single document, ordered **newest → oldest** by the date the test was performed. Each report retains its title, metadata bullets, vision-verified summary, and verbatim PDF text. The individual per-report markdowns under `report_md/` are unchanged.
-
-Source PDFs are in `report_pdf/`. The date-grouped master index is in `MASTER_INDEX.md`.
-
-> **Update 2026-06-24**: The 6 newest reports below are post-discharge outpatient follow-ups from Surat (May–Jun 2026: 4 Nobel Micropath lab panels, a 1 May venous Doppler, and the 22 Jun follow-up WB FDG PET-CT). They are labelled *Follow-up Report 1–6 of 6* and prepended here; the original 188 Reliance reports retain their *Report N of 188* labels unchanged.
-
+This file combines all **194** per-report markdowns, **newest → oldest**. The first **91** are the key reports; an **Archived** appendix at the end holds the **103** routine serial-monitoring reports (their values are tabulated in [TRENDS.md](./TRENDS.md)). Generated 2026-06-24.
 
 ---
 
----
-
-> **Follow-up Report 1 of 6** (added 2026-06-24) · `2026-06-22_CT_WB-FDG-PET-CT-scan.md`
+> **Report 1 of 91** · `2026-06-22_CT_WB-FDG-PET-CT-scan.md`
 
 # WB FDG PET - CT scan (follow-up)
 
@@ -92,10 +85,9 @@ Dr. Manas Mayank (MD, DRM — Consultant Nuclear Medicine); Dr. Shubham Padashet
 Consultant Onco-Radiologist); Dr. Krishan Kant Agarwal (MBBS, MD — Consultant & Nuclear
 Medicine); Dr. Keyur Mandaliya (MBBS, DNB — Consultant Onco-Radiologist).
 
-
 ---
 
-> **Follow-up Report 2 of 6** (added 2026-06-24) · `2026-06-15_Lab-Surat_Combined-Panel.md`
+> **Report 2 of 91** · `2026-06-15_Lab-Surat_Combined-Panel.md`
 
 # Combined Panel — CBC + Electrolytes + Creatinine + NT-proBNP + LFT (Surat, Nobel Micropath)
 
@@ -180,10 +172,9 @@ Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology
 Lab: 6th Floor, Rhythm House, Besides Venus Hospital, Lal Darwaja, Surat
 ```
 
-
 ---
 
-> **Follow-up Report 3 of 6** (added 2026-06-24) · `2026-05-25_Lab-Surat_CBC-Creatinine.md`
+> **Report 3 of 91** · `2026-05-25_Lab-Surat_CBC-Creatinine.md`
 
 # CBC + Creatinine (Surat, Nobel Micropath)
 
@@ -237,10 +228,9 @@ Trend (chart on page 3): Hb 8.4 (06-May) → 9.7 (18-May) → 9.7 (25-May);
 Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology)
 ```
 
-
 ---
 
-> **Follow-up Report 4 of 6** (added 2026-06-24) · `2026-05-18_Lab-Surat_CBC-Creatinine.md`
+> **Report 4 of 91** · `2026-05-18_Lab-Surat_CBC-Creatinine.md`
 
 # CBC + Creatinine (Surat, Nobel Micropath)
 
@@ -293,10 +283,9 @@ Trend (chart on page 3): Hb 8.4 (06-May) → 9.7 (18-May); Creatinine 0.71 → 0
 Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology)
 ```
 
-
 ---
 
-> **Follow-up Report 5 of 6** (added 2026-06-24) · `2026-05-06_Lab-Surat_Combined-Panel.md`
+> **Report 5 of 91** · `2026-05-06_Lab-Surat_Combined-Panel.md`
 
 # Combined Panel — CBC + Electrolytes + Creatinine + LFT (Surat, Nobel Micropath)
 
@@ -371,10 +360,9 @@ Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology
 Lab: 6th Floor, Rhythm House, Besides Venus Hospital, Lal Darwaja, Surat
 ```
 
-
 ---
 
-> **Follow-up Report 6 of 6** (added 2026-06-24) · `2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler.md`
+> **Report 6 of 91** · `2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler.md`
 
 # Right Lower Extremity Arterial & Venous Doppler Study (Surat, Navkar)
 
@@ -397,13 +385,72 @@ Real-time colour-flow and pulsed-Doppler study of the arterial & venous drainage
 
 **Venous**: Common femoral, superficial femoral, deep femoral, popliteal, anterior tibial and posterior tibial veins normal; probe-compressible; normal colour filling; sapheno-femoral junction normal flow direction. No greater/short saphenous varicosities.
 
-**Soft tissue (explains the swelling)**: Moderate-to-severe subcutaneous fat-plane oedema of the **right leg / ankle / foot**; minimal-to-mild superficial subcutaneous fat-plane inhomogeneous echogenicity throughout the right thigh — possible **subtle superficial haemorrhage / petechial sequelae** (in keeping with anticoagulation). No abnormal focal lesion or collection.
+**Soft tissue (explains the swelling)**:
+- **Moderate-to-severe subcutaneous fat-plane oedema** involving the **right leg / ankle / foot**.
+- Minimal-to-mild superficial subcutaneous fat-plane inhomogeneous echogenicity throughout the right thigh — possible **subtle superficial haemorrhage / petechial sequelae** (in keeping with her anticoagulation).
+- No abnormal focal lesion or collection in the soft-tissue plane.
 
-**Clinical significance**: The right-leg swelling is due to subcutaneous oedema (± petechial haemorrhage sequelae), **not DVT** — reassuring given her prior saddle pulmonary embolism and ongoing anticoagulation.
+**Advice**: clinical + lab-data correlation; local & systemic examination correlation; SOS follow-up with treatment / further evaluation if symptoms persist.
+
+**Clinical significance**: The right-leg swelling is due to subcutaneous oedema (± petechial haemorrhage sequelae), **not DVT** — a reassuring finding given her prior saddle pulmonary embolism and ongoing anticoagulation.
+
+## Verbatim text from PDF
+
+```
+NAVKAR DIGITAL X RAY - 4D SONOGRAPHY - CT SCAN (Vesu / Althan), Surat
+Dr. Jenish Shah (MD Radio-Diagnosis) · Dr. Parth Bhut (DNB Radio-Diagnosis)
+Patient Name: SAROJ AGARWAL    Age/Sex: 63 Years / Female
+Ref. By: DR. SANJAY AGRAWAL    Date: 01/05/2026
+
+RIGHT LOWER EXTREMITY ARTERIAL & VENOUS DOPPLER STUDY
+Real time scan with colour flow mapping and pulsed Doppler analysis of arterial &
+venous drainage of right lower limb done.
+
+GRAY SCALE IMAGING:
+- Common femoral, superficial femoral, popliteal, anterior tibial, posterior tibial and
+  peroneal arteries are normal in course and caliber.
+- Evidence of mild atheromatous plaque & intimo-medial thickening seen.
+- E/o minimal to mild degree superficial subcutaneous fat plane inhomogeneous
+  echogenicity involving right thigh region all around. P/o changes of superficially
+  subtle haemorrhage - petechial lesions sequelae likely.
+- E/o moderate to severe degree of subcutaneous fat plane oedema changes noted
+  involving right leg ankle foot region.
+- Common Femoral vein, Superficial Femoral vein, Deep Femoral vein, Popliteal vein,
+  Anterior Tibial vein, Posterior Tibial vein are normal in course and calibre.
+  Probe Compressibility: present in above mentioned veins.
+
+COLOUR FLOW IMAGING:
+- Above mentioned arteries show normal colour filling. Normal colour filling in dorsalis pedis artery.
+- Above mentioned veins show normal colour filling. Sapheno-Femoral junction shows normal flow direction.
+
+SPECTRAL ANALYSIS:
+- Above mentioned arteries show normal wave form with triphasic pattern. No abnormal arterial occlusion seen.
+- Above mentioned veins show normal wave form with normal Cardiac and Respiratory phasic variations.
+  - Augmentation ++
+  - No e/o DEEP VEIN THROMBOSIS - DVT
+- Superficial venous system examined: no abnormal dilated greater saphanous varicosities;
+  no varicocities in short sephanous vein territory; no superficial vein thrombosis.
+- No e/o abnormal focal lesion or collection noted in soft tissue plane of lower limb.
+
+COMMENT:
+- No signs of acute or chronic thrombosis in arterial or venous system.
+- No e/o hemodynamically significant stenosis or occlusion.
+- No abnormal varicosities or superficial / Deep venous thrombosis or abnormal perforators in lower limb.
+- No abnormal collection in soft tissue.
+- E/o minimal to mild superficial subcutaneous fat plane inhomogeneous echogenicity involving
+  right thigh region all around. P/o superficially subtle haemorrhage - petechial lesions sequelae likely.
+- E/o moderate to severe subcutaneous fat plane oedema changes involving right leg ankle foot region.
+
+Adv: clinical - lab data correlation, Local & systemic examination correlation;
+     SOS follow up with treatment / further evaluate if symptoms not relieved.
+Reported by: Dr. Shah Jenish (MBBS, MD Radiologist)
+
+[Companion PDF contains the greyscale/colour-Doppler image plates for this study.]
+```
 
 ---
 
-> **Report 1 of 188** · `2026-04-13_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 7 of 91** · `2026-04-13_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -446,10 +493,9 @@ MMC Number: 49380.
 1
 ```
 
-
 ---
 
-> **Report 2 of 188** · `2026-04-13_Summary-Daycare_Daycare-Discharge-Summary-Chemotherapy.md`
+> **Report 8 of 91** · `2026-04-13_Summary-Daycare_Daycare-Discharge-Summary-Chemotherapy.md`
 
 # Daycare Discharge Summary (Chemotherapy)
 
@@ -549,10 +595,9 @@ Oncology)
 Print Date/Time : 28/04/2026 / 10:54 PM Page 3 of 3
 ```
 
-
 ---
 
-> **Report 3 of 188** · `2026-04-13_Lab-Haem_Complete-Blood-Count.md`
+> **Report 9 of 91** · `2026-04-13_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -714,10 +759,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 4 of 188** · `2026-04-13_Lab-Biochem_Renal-Profile.md`
+> **Report 10 of 91** · `2026-04-13_Lab-Biochem_Renal-Profile.md`
 
 # Renal Profile
 
@@ -909,10 +953,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 5 of 188** · `2026-04-13_Lab-Biochem_Liver-Profile.md`
+> **Report 11 of 91** · `2026-04-13_Lab-Biochem_Liver-Profile.md`
 
 # Liver Profile
 
@@ -1065,10 +1108,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 6 of 188** · `2026-04-08_Summary-Discharge_Discharge-Summary.md`
+> **Report 12 of 91** · `2026-04-08_Summary-Discharge_Discharge-Summary.md`
 
 # Discharge Summary
 
@@ -1564,10 +1606,9 @@ Print Date/Time : 28/04/2026 / 11:07 PM Page 13 of
 13
 ```
 
-
 ---
 
-> **Report 7 of 188** · `2026-04-07_XRay_X-RAY-Barium-Swallow.md`
+> **Report 13 of 91** · `2026-04-07_XRay_X-RAY-Barium-Swallow.md`
 
 # X-RAY Barium Swallow
 
@@ -1631,10 +1672,9 @@ MMC Number: 49380.
 2
 ```
 
-
 ---
 
-> **Report 8 of 188** · `2026-04-07_Lab-Biochem_S-Electrolytes.md`
+> **Report 14 of 91** · `2026-04-07_Lab-Biochem_S-Electrolytes.md`
 
 # S. Electrolytes
 
@@ -1702,10 +1742,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 9 of 188** · `2026-04-07_Consent_X-Ray-Barium-Swallow-Consent-Form.md`
+> **Report 15 of 91** · `2026-04-07_Consent_X-Ray-Barium-Swallow-Consent-Form.md`
 
 # X-Ray Barium Swallow (Consent Form)
 
@@ -1769,10 +1808,9 @@ kelo Ca @holowetn. ow C7.
 FORM/CONSENT/123/MAY-19 Page 1 of 1
 ```
 
-
 ---
 
-> **Report 10 of 188** · `2026-04-06_XRay_X-RAY-Chest-AP.md`
+> **Report 16 of 91** · `2026-04-06_XRay_X-RAY-Chest-AP.md`
 
 # X-RAY Chest AP
 
@@ -1813,10 +1851,9 @@ MMC Number: 49380.
 1
 ```
 
-
 ---
 
-> **Report 11 of 188** · `2026-04-06_Lab-Haem_Complete-Blood-Count.md`
+> **Report 17 of 91** · `2026-04-06_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -1995,194 +2032,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 12 of 188** · `2026-04-04_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-04-04
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-04-04_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-04-04_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004251869501000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (EDTA Whole Blood) — Collected 04/04/2026 04:41. Abnormal values: Red cell count 3.51 x10^12/L (low; ref 3.8-4.8), Haemoglobin 9.8 g/dL (low; ref 12.0-15.0), Haematocrit 31.9% (low; ref 36.0-46.0), MCHC 30.7 g/dL (low; ref 31.5-34.5), RDW 19.4% (high; ref 11.6-14.0), TLC 3.87 x10^9/L (low; ref 4-10), Myelocyte 4.00% (no ref), Lymphocytes 11.9% (low; ref 20-40), Eosinophils 0.0% (low; ref 1-6), Lymphocytes# 0.46 x10^9/L (low; ref 1-3), Eosinophils# 0.00 x10^9/L (low; ref 0.02-0.5), Platelet Count 93 x10^9/L (low; ref 150-410), MPV 13.0 fl (high; ref 7.5-10.5), Nucleated RBC 2.00/100 cells. Normal: MCV 90.9, MCH 27.9, Neutrophils 78.6%, Monocytes 5.2%, Basophils 0.3%, Neutrophils# 3.20, Monocytes# 0.20, Basophils# 0.01. RBC morphology: normocytic normochromic, moderate anisopoikilocytosis and mild polychromasia, occasional nRBCs (02/100 WBCs). WBC morphology: Leukopenia with toxic granulations and shift to left in myeloid series. Platelets: Thrombocytopenia. Manually verified on smear.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
-Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.51
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 9.8
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 31.9
-(EDTA Whole Blood)
-MCV
-fl 83-101 90.9
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.9
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 30.7
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 19.4
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 3.87
-(EDTA Whole Blood,Automated)
-Myelocyte
-% 4.00
-(EDTA Whole Blood)
-Neutrophils
-% 40-80 78.60
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
-Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Lymphocytes
-% 20-40 11.9
-(EDTA Whole Blood)
-Monocytes
-% 2-10 5.2
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.3
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 3.20
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.46
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.20
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.01
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 93
-(EDTA Whole Blood)
-Medical Remarks: Manually verified on smear.
-MPV
-fl 7.5-10.5 13.0
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
-Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Nucleated RBC
-/100 Cells 2.00
-(EDTA Whole Blood)
-Normocytic normochromic RBCs showing moderate
-RBC Morphology
-anisopoikilocytosis and mild polychromasia. Occasional
-(EDTA Whole Blood)
-nRBCs (02/100 WBCs) noted.
-WBC Morphology Leukopenia with toxic granulations and shift to left in myeloid
-(EDTA Whole Blood) series.
-Platelets
-Thrombocytopenia.
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
-Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
-Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
-Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 13 of 188** · `2026-04-04_Lab-Biochem_S-Electrolytes.md`
+> **Report 18 of 91** · `2026-04-04_Lab-Biochem_S-Electrolytes.md`
 
 # S. Electrolytes
 
@@ -2250,10 +2102,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 14 of 188** · `2026-04-04_Lab-Biochem_Creatinine.md`
+> **Report 19 of 91** · `2026-04-04_Lab-Biochem_Creatinine.md`
 
 # Creatinine
 
@@ -2322,292 +2173,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 15 of 188** · `2026-04-03_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-04-03
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-04-03_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-04-03_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004250769600000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
-is seen in the left midzone. Rest of the lungs are clear.
-There is no evidence of a pleural effusion.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Internal jugular line and nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 03-04-2026 06:43 AM Order No. : 0041405687
-Referred By : Shah Darshit Report Date : 03-04-2026 12:48 PM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
-is seen in the left midzone. Rest of the lungs are clear.
-There is no evidence of a pleural effusion.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Internal jugular line and nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 16 of 188** · `2026-04-03_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-04-03
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-04-03_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-04-03_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004250808001000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (EDTA Whole Blood) — Collected 03/04/2026 04:32. Abnormal values: Red cell count 3.37 x10^12/L (low; ref 3.8-4.8), Haemoglobin 9.5 g/dL (low; ref 12.0-15.0), Haematocrit 30.9% (low; ref 36.0-46.0), MCHC 30.7 g/dL (low; ref 31.5-34.5), RDW 19.0% (high; ref 11.6-14.0), Neutrophils 86.6% (high; ref 40-80), Lymphocytes 7.7% (low; ref 20-40), Eosinophils 0.0% (low; ref 1-6), Lymphocytes# 0.34 x10^9/L (low; ref 1-3), Eosinophils# 0.00 x10^9/L (low; ref 0.02-0.5), Platelet Count 86 x10^9/L (low; ref 150-410), MPV 13.5 fl (high; ref 7.5-10.5). Normal: MCV 91.7, MCH 28.2, TLC 4.40, Monocytes 5.2%, Basophils 0.5%, Neutrophils# 3.81, Monocytes# 0.23, Basophils# 0.02. Findings consistent with anemia and thrombocytopenia.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
-Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.37
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 9.5
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 30.9
-(EDTA Whole Blood)
-MCV
-fl 83-101 91.7
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 28.2
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 30.7
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 19.0
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 4.40
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 86.6
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 7.7
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
-M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
-Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 5.2
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.5
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 3.81
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.34
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.23
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.02
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 86
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 13.5
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
-M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
-Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
-M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
-Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
-M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
-Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
-Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
-M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 17 of 188** · `2026-04-03_Lab-Biochem_S-Electrolytes_2.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-04-03
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-04-03_Lab-Biochem_S-Electrolytes_2.pdf`](./report_pdf/2026-04-03_Lab-Biochem_S-Electrolytes_2.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004251481701000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode) — Collected 03/04/2026 17:09. Sodium 150.40 mmol/L (high; ref 136-145), Potassium 2.96 mmol/L (low; ref 3.5-5.1), Chloride 107.80 mmol/L (high; ref 98-107). Indicates hypernatremia, hypokalemia, and mild hyperchloremia.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 17:09
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 18:10
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 19:18
-Accession : 2600073711 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 150.40
-Potassium mmol/L 3.5-5.1 2.96
-Chloride mmol/L 98-107 107.80
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 17:09
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 18:10
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 19:18
-Accession : 2600073711 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 17:09
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 18:10
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 19:18
-Accession : 2600073711 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 18 of 188** · `2026-04-03_Lab-Biochem_S-Electrolytes.md`
+> **Report 20 of 91** · `2026-04-03_Lab-Biochem_S-Electrolytes.md`
 
 # S. Electrolytes
 
@@ -2678,514 +2246,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 19 of 188** · `2026-04-03_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-04-03
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-04-03_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-04-03_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004250958702000.pdf`
-
-## Summary (extracted)
-
-Creatinine (Serum, Jaffe - kinetic): 0.71 mg/dL (Normal; reference 0.50-0.90 mg/dL). Medical Remarks: Rechecked from fresh sample. eGFR (Serum, Calculated): 82.93 mL/min/1.73 m^2 (Mild Decreased; ranges: Normal/High >=90, Mild Decreased 60-89, Mild to Moderately Decreased 45-59, Moderately to Severely Decreased 30-44, Severely Decreased 15-29, Kidney Failure <15). Page 2 contains Trend Analysis & Graph. Collected 03/04/2026 04:32; reported 03/04/2026 11:06.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:22
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 11:06
-Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.71
-(Serum,Jaffe - kinetic)
-Medical Remarks: Rechecked from fresh sample.
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-82.93
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
-Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:22
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 11:06
-Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 20 of 188** · `2026-04-02_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-04-02
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-04-02_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-04-02_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004248717301000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (EDTA Whole Blood) — multiple abnormal values: Red cell count 3.50 x10^12/L (Low; ref 3.8-4.8), Haemoglobin 10.1 g/dL (Low; ref 12.0-15.0), Haematocrit 31.5% (Low; ref 36.0-46.0), MCV 90.0 fl (Normal), MCH 28.9 pg (Normal), MCHC 32.1 g/dL (Normal), RDW 19.1% (High; ref 11.6-14.0), Total Leukocyte Count 5.89 x10^9/L (Normal), Neutrophils 89.3% (High; ref 40-80), Lymphocytes 7.3% (Low; ref 20-40), Monocytes 2.9%, Eosinophils 0.0% (Low; ref 01-06), Basophils 0.5%, Neutrophils# 5.26 x10^9 cells/L (Normal), Lymphocytes# 0.43 x10^9 cells/L (Low; ref 1-3), Monocytes# 0.17 x10^9 cells/L (Low; ref 0.2-1.0), Eosinophils# 0.00 x10^9 cells/L (Low), Basophils# 0.03 x10^9 cells/L, Platelet Count 87 x10^9/L (Low; ref 150-410), MPV 13.1 fl (High; ref 7.5-10.5). Pages 4-5 contain Trend Analysis & Graph. Collected 02/04/2026 04:49; reported 02/04/2026 09:45.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
-Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.50
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 10.1
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 31.5
-(EDTA Whole Blood)
-MCV
-fl 83-101 90.0
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 28.9
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.1
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 19.1
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 5.89
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 89.3
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 7.3
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
-Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 2.9
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.5
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 5.26
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.43
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.17
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.03
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 87
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 13.1
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
-Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
-Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
-Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
-Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 21 of 188** · `2026-04-01_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-04-01
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-04-01_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-04-01_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004246755200000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
-is seen in the left midzone. Rest of the lungs are clear.
-There is no evidence of a pleural effusion.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Internal jugular line and nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 01-04-2026 06:30 AM Order No. : 0041365635
-Referred By : Shah Darshit Report Date : 01-04-2026 10:11 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
-is seen in the left midzone. Rest of the lungs are clear.
-There is no evidence of a pleural effusion.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Internal jugular line and nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 22 of 188** · `2026-04-01_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-04-01
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-04-01_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-04-01_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004246916801000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (EDTA Whole Blood) — multiple abnormal values: Red cell count 3.55 x10^12/L (Low; ref 3.8-4.8), Haemoglobin 10.1 g/dL (Low; ref 12.0-15.0), Haematocrit 31.7% (Low; ref 36.0-46.0), MCV 89.3 fl (Normal), MCH 28.5 pg (Normal), MCHC 31.9 g/dL (Normal), RDW 18.7% (High; ref 11.6-14.0), Total Leukocyte Count 4.97 x10^9/L (Normal), Neutrophils 81.3% (High; ref 40-80), Lymphocytes 14.3% (Low; ref 20-40), Monocytes 3.4%, Eosinophils 0.0% (Low; ref 01-06), Basophils 1.0%, Neutrophils# 4.04 x10^9 cells/L (Normal), Lymphocytes# 0.71 x10^9 cells/L (Low; ref 1-3), Monocytes# 0.17 x10^9 cells/L (Low; ref 0.2-1.0), Eosinophils# 0.00 x10^9 cells/L (Low), Basophils# 0.05 x10^9 cells/L, Platelet Count 83 x10^9/L (Low; ref 150-410), MPV 13.4 fl (High; ref 7.5-10.5). Comments: Delta check failed for WBC count — kindly correlate clinically. Pages 4-5 contain Trend Analysis & Graph. Collected 01/04/2026 04:49; reported 01/04/2026 09:50.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
-Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.55
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 10.1
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 31.7
-(EDTA Whole Blood)
-MCV
-fl 83-101 89.3
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 28.5
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 31.9
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 18.7
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 4.97
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 81.3
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 14.3
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
-Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 3.4
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-Basophils
-% 0-02 1.0
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 4.04
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.71
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.17
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.05
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 83
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 13.4
-(EDTA Whole Blood)
-Comments
-Delta check failed for WBC count. Kindly correlate clinically.
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
-Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR
-M.D ( Pathology)
-Head Of Hematopathology
-DR. PREETI SINGH
-M.D Pathology
-Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
-Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
-Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
-Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
-Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR
-M.D ( Pathology)
-Head Of Hematopathology
-DR. PREETI SINGH
-M.D Pathology
-Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 23 of 188** · `2026-03-31_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-31
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-31_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-31_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004244669200000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
-is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Internal jugular line is seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 31-03-2026 06:15 AM Order No. : 0041346338
-Referred By : Shah Darshit Report Date : 31-03-2026 08:26 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
-is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Internal jugular line is seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 24 of 188** · `2026-03-31_Lab-Micro_Sputum-Culture.md`
+> **Report 21 of 91** · `2026-03-31_Lab-Micro_Sputum-Culture.md`
 
 # Sputum Culture
 
@@ -3285,10 +2348,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 25 of 188** · `2026-03-31_Lab-Micro_Blood-Culture-Set.md`
+> **Report 22 of 91** · `2026-03-31_Lab-Micro_Blood-Culture-Set.md`
 
 # Blood Culture Set
 
@@ -3394,10 +2456,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 26 of 188** · `2026-03-31_Lab-Haem_Complete-Blood-Count.md`
+> **Report 23 of 91** · `2026-03-31_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -3573,10 +2634,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 27 of 188** · `2026-03-31_Lab-ClinPath_Urine-Routine.md`
+> **Report 24 of 91** · `2026-03-31_Lab-ClinPath_Urine-Routine.md`
 
 # Urine Routine
 
@@ -3717,10 +2777,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 28 of 188** · `2026-03-31_Lab-Biochem_Venous-Blood-Gas-Analysis-Electrolyte-Lactate-Glucose.md`
+> **Report 25 of 91** · `2026-03-31_Lab-Biochem_Venous-Blood-Gas-Analysis-Electrolyte-Lactate-Glucose.md`
 
 # Venous Blood Gas Analysis Electrolyte, Lactate & Glucose
 
@@ -3809,153 +2868,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 29 of 188** · `2026-03-31_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-31
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-31_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-31_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004244698201000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode): Sodium 144.60 mmol/L (Normal; ref 136-145), Potassium 4.26 mmol/L (Normal; ref 3.5-5.1), Chloride 104.00 mmol/L (Normal; ref 98-107). All values within normal range. Pages 2-3 contain Trend Analysis & Graph. Collected 31/03/2026 02:38; reported 31/03/2026 09:27.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :31/03/2026 02:38
-Patient ID : 0010663186 Visit Type :IP Received : 31/03/2026 06:34
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :31/03/2026 09:27
-Accession : 2600070553 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 144.60
-Potassium mmol/L 3.5-5.1 4.26
-Chloride mmol/L 98-107 104.00
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :31/03/2026 02:38
-Patient ID : 0010663186 Visit Type :IP Received : 31/03/2026 06:34
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :31/03/2026 09:27
-Accession : 2600070553 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :31/03/2026 02:38
-Patient ID : 0010663186 Visit Type :IP Received : 31/03/2026 06:34
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :31/03/2026 09:27
-Accession : 2600070553 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 30 of 188** · `2026-03-31_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-31
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-31_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-31_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004244698001000.pdf`
-
-## Summary (extracted)
-
-Creatinine (Serum, Jaffe - kinetic): 0.89 mg/dL (Normal; reference 0.50-0.90 mg/dL). eGFR (Serum, Calculated): 63.92 mL/min/1.73 m^2 (Mild Decreased; ranges: Normal/High >=90, Mild Decreased 60-89, Mild to Moderately Decreased 45-59, Moderately to Severely Decreased 30-44, Severely Decreased 15-29, Kidney Failure <15). Page 2 contains Trend Analysis & Graph. Collected 31/03/2026 02:38; reported 31/03/2026 09:27.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :31/03/2026 02:38
-Patient ID : 0010663186 Visit Type :IP Received : 31/03/2026 06:34
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :31/03/2026 09:27
-Accession : 2600070553 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.89
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-63.92
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :31/03/2026 02:38
-Patient ID : 0010663186 Visit Type :IP Received : 31/03/2026 06:34
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :31/03/2026 09:27
-Accession : 2600070553 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 31 of 188** · `2026-03-30_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 26 of 91** · `2026-03-30_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -3998,10 +2913,9 @@ MMC Number: 49380.
 1
 ```
 
-
 ---
 
-> **Report 32 of 188** · `2026-03-30_Lab-Serol_Procalcitonin-Quantitative.md`
+> **Report 27 of 91** · `2026-03-30_Lab-Serol_Procalcitonin-Quantitative.md`
 
 # Procalcitonin Quantitative
 
@@ -4047,10 +2961,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 33 of 188** · `2026-03-30_Lab-Haem_Prothrombin-Time-PT.md`
+> **Report 28 of 91** · `2026-03-30_Lab-Haem_Prothrombin-Time-PT.md`
 
 # Prothrombin Time (PT)
 
@@ -4134,200 +3047,21 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 34 of 188** · `2026-03-30_Lab-Haem_Complete-Blood-Count.md`
+> **Report 29 of 91** · `2026-03-30_Lab-Biochem_Blood-Urea-Nitrogen.md`
 
-# Complete Blood Count
-
-- **Date performed**: 2026-03-30
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-30_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-30_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004242676503000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (EDTA Whole Blood) — multiple abnormal values: Red cell count 3.15 x10^12/L (Low; ref 3.8-4.8), Haemoglobin 9.0 g/dL (Low; ref 12.0-15.0), Haematocrit 27.5% (Low; ref 36.0-46.0), MCV 87.3 fl (Normal), MCH 28.6 pg (Normal), MCHC 32.7 g/dL (Normal), RDW 17.9% (High; ref 11.6-14.0), Total Leukocyte Count 1.81 x10^9/L (Low; ref 4-10), Neutrophils 81.1% (High; ref 40-80), Lymphocytes 9.4% (Low; ref 20-40), Monocytes 7.2%, Eosinophils 1.7%, Basophils 0.6%, Neutrophils# 1.47 x10^9 cells/L (Low; ref 2-7), Lymphocytes# 0.17 x10^9 cells/L (Low; ref 1-3), Monocytes# 0.13 x10^9 cells/L (Low; ref 0.2-1.0), Eosinophils# 0.03 x10^9 cells/L, Basophils# 0.01 x10^9 cells/L, Platelet Count 63 x10^9/L (Low; ref 150-410), MPV 11.3 fl (High; ref 7.5-10.5). RBC Morphology: predominantly normocytic normochromic RBCs showing mild anisopoikilocytosis and mild polychromasia. WBC Morphology: Leukopenia. Platelets: Thrombocytopenia. Pages 4-5 contain Trend Analysis & Graph. Collected 30/03/2026 02:19; reported 30/03/2026 10:00.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.15
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 9.0
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 27.5
-(EDTA Whole Blood)
-MCV
-fl 83-101 87.3
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 28.6
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.7
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 17.9
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 1.81
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 81.1
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 9.4
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 7.2
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 1.7
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.6
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 1.47
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.17
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.13
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.03
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.01
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 63
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 11.3
-(EDTA Whole Blood)
-RBC Morphology Predominantly normocytic normochromic RBCs showing
-(EDTA Whole Blood) mild anisopoikilocytosis and mild polychromasia.
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-WBC Morphology
-Leukopenia
-(EDTA Whole Blood)
-Platelets
-Thrombocytopenia.
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR
-M.D ( Pathology)
-Head Of Hematopathology
-DR. PREETI SINGH
-M.D Pathology
-Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 35 of 188** · `2026-03-30_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
+# Blood Urea Nitrogen
 
 - **Date performed**: 2026-03-30
 - **Category**: Lab-Biochem
 - **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-30_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-30_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004242619901000.pdf`
+- **Source PDF**: [`./report_pdf/2026-03-30_Lab-Biochem_Blood-Urea-Nitrogen.pdf`](./report_pdf/2026-03-30_Lab-Biochem_Blood-Urea-Nitrogen.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004242620101000.pdf`
 
 ## Summary (extracted)
 
-S. Electrolytes (Serum, Ion-selective electrode): Sodium 142.70 mmol/L (Normal; ref 136-145), Potassium 4.43 mmol/L (Normal; ref 3.5-5.1), Chloride 102.40 mmol/L (Normal; ref 98-107). All values within normal range. Pages 2-3 contain Trend Analysis & Graph. Collected 30/03/2026 02:19; reported 30/03/2026 09:48.
+Blood Urea Nitrogen panel (Serum, Urease/Glutamate dehydrogenase) collected 30/03/2026 02:19. BUN 28.36 mg/dL (ref 8-23, HIGH); Urea 60.70 mg/dL (ref 16.6-48.5, HIGH).
 
 ## Verbatim text from PDF
 
@@ -4339,98 +3073,17 @@ Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
 DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
 Reference Low Normal High
 Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 142.70
-Potassium mmol/L 3.5-5.1 4.43
-Chloride mmol/L 98-107 102.40
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 36 of 188** · `2026-03-30_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-30
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-30_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-30_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004242620001000.pdf`
-
-## Summary (extracted)
-
-Creatinine (Serum, Jaffe - kinetic): 0.71 mg/dL (Normal; reference 0.50-0.90 mg/dL). eGFR (Serum, Calculated): 82.96 mL/min/1.73 m^2 (Mild Decreased; ranges: Normal/High >=90, Mild Decreased 60-89, Mild to Moderately Decreased 45-59, Moderately to Severely Decreased 30-44, Severely Decreased 15-29, Kidney Failure <15). Page 2 contains Trend Analysis & Graph. Collected 30/03/2026 02:19; reported 30/03/2026 09:48.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.71
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-82.96
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
+Blood Urea Nitrogen
+(Serum,Urease/Glutamate dehydrogenase)
+BUN mg/dL 8-23 28.36
+Urea mg/dL 16.6-48.5 60.70
+Urea:
+Urea is the final degradation product of protein and amino acid metabolism. Blood urea nitrogen currently is the most widely
+used screening test for the evaluation of kidney function. Protein catabolism causes formation of ammonia which is
+synthesized to urea with and elimination of excess nitrogen in the liver. Increased blood urea nitrogen may be due to cardiac
+decompensation, water depletion due to decreased intake and excessive loss, increased protein catabolism, high protein
+diet, acute glomerulonephritis, chronic nephritis, polycystic kidney disease, nephrosclerosis, tubular necrosis and all types of
+obstruction of the urinary tract.
 DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
 MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
 CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
@@ -4443,8 +3096,6 @@ Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
 Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
 Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
 DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
 Trend Analysis & Graph
 ∞ End of Report ∞
 DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
@@ -4455,10 +3106,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 37 of 188** · `2026-03-30_Lab-Biochem_C-Reactive-Protein-CRP.md`
+> **Report 30 of 91** · `2026-03-30_Lab-Biochem_C-Reactive-Protein-CRP.md`
 
 # C-Reactive Protein [CRP]
 
@@ -4516,70 +3166,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 38 of 188** · `2026-03-30_Lab-Biochem_Blood-Urea-Nitrogen.md`
-
-# Blood Urea Nitrogen
-
-- **Date performed**: 2026-03-30
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-30_Lab-Biochem_Blood-Urea-Nitrogen.pdf`](./report_pdf/2026-03-30_Lab-Biochem_Blood-Urea-Nitrogen.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004242620101000.pdf`
-
-## Summary (extracted)
-
-Blood Urea Nitrogen panel (Serum, Urease/Glutamate dehydrogenase) collected 30/03/2026 02:19. BUN 28.36 mg/dL (ref 8-23, HIGH); Urea 60.70 mg/dL (ref 16.6-48.5, HIGH).
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Blood Urea Nitrogen
-(Serum,Urease/Glutamate dehydrogenase)
-BUN mg/dL 8-23 28.36
-Urea mg/dL 16.6-48.5 60.70
-Urea:
-Urea is the final degradation product of protein and amino acid metabolism. Blood urea nitrogen currently is the most widely
-used screening test for the evaluation of kidney function. Protein catabolism causes formation of ammonia which is
-synthesized to urea with and elimination of excess nitrogen in the liver. Increased blood urea nitrogen may be due to cardiac
-decompensation, water depletion due to decreased intake and excessive loss, increased protein catabolism, high protein
-diet, acute glomerulonephritis, chronic nephritis, polycystic kidney disease, nephrosclerosis, tubular necrosis and all types of
-obstruction of the urinary tract.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
-Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
-Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 39 of 188** · `2026-03-30_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.md`
+> **Report 31 of 91** · `2026-03-30_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.md`
 
 # Blood Gas Analysis-Electrolyt.,Lactate & Glucose
 
@@ -4682,56 +3271,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 40 of 188** · `2026-03-29_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-29
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-29_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-29_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004241663300000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the left
-midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Internal jugular line and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 29-03-2026 06:01 AM Order No. : 0041317753
-Referred By : Shah Darshit Report Date : 29-03-2026 06:40 PM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the left
-midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Internal jugular line and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 41 of 188** · `2026-03-29_Lab-Haem_Complete-Blood-Count.md`
+> **Report 32 of 91** · `2026-03-29_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -4907,429 +3449,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 42 of 188** · `2026-03-29_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-29
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-29_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-29_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004241805703000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode) collected 29/03/2026 03:40. Sodium 142.50 mmol/L (ref 136-145, normal); Potassium 3.38 mmol/L (ref 3.5-5.1, LOW, rechecked from fresh sample); Chloride 101.50 mmol/L (ref 98-107, normal).
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
-Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
-Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 142.50
-Potassium mmol/L 3.5-5.1 3.38
-Medical Remarks: Rechecked from fresh sample.
-Chloride mmol/L 98-107 101.50
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
-Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
-Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
-Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
-Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 43 of 188** · `2026-03-29_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-29
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-29_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-29_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004241808503000.pdf`
-
-## Summary (extracted)
-
-Creatinine panel collected 29/03/2026 03:40. Creatinine (Serum, Jaffe-kinetic) 0.71 mg/dL (ref 0.50-0.90, normal); rechecked from fresh sample. eGFR 82.96 mL/min/1.73 m^2 (Mild Decreased: 60-89).
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
-Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
-Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.71
-(Serum,Jaffe - kinetic)
-Medical Remarks: Rechecked from fresh sample.
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-82.96
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
-Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
-Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 44 of 188** · `2026-03-28_XRay_X-Ray-Portable-Chest-AP_2.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-28
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-28_XRay_X-Ray-Portable-Chest-AP_2.pdf`](./report_pdf/2026-03-28_XRay_X-Ray-Portable-Chest-AP_2.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004240950800000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the
-left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Internal jugular line, endotracheal tube and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 28-03-2026 03:18 PM Order No. : 0041304941
-Referred By : Shah Darshit Report Date : 28-03-2026 11:57 PM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the
-left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Internal jugular line, endotracheal tube and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 45 of 188** · `2026-03-28_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-28
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-28_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-28_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004239775700000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right lower zone.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 28-03-2026 06:13 AM Order No. : 0041300753
-Referred By : Shah Darshit Report Date : 28-03-2026 10:00 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right lower zone.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 46 of 188** · `2026-03-28_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-28
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-28_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-28_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004239820701000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (collected 28/03/2026 04:31). Abnormal values: Red cell count 2.99 x10^12/L (ref 3.8-4.8, LOW); Haemoglobin 8.4 g/dL (ref 12.0-15.0, LOW); Haematocrit 26.1% (ref 36.0-46.0, LOW); RDW 18.7% (ref 11.6-14.0, HIGH); Neutrophils 90.4% (ref 40-80, HIGH); Lymphocytes 6.1% (ref 20-40, LOW); Eosinophils 0.7% (ref 1-6, LOW); Lymphocytes# 0.27 x10^9/L (ref 1-3, LOW); Monocytes# 0.10 x10^9/L (ref 0.2-1.0, LOW); Platelet Count 67 x10^9/L (ref 150-410, LOW, manually verified on smear); MPV 11.9 fl (ref 7.5-10.5, HIGH). MCV/MCH/MCHC, Total Leukocyte Count 4.40 x10^9/L, Monocytes 2.3% and Basophils 0.5% normal. RBC Morphology: predominantly normocytic normochromic RBCs showing mild anisopoikilocytosis and mild polychromasia with few acanthocytes and elliptocytes. WBC Morphology: relative neutrophilia. Platelets: thrombocytopenia with occasional large platelets.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 2.99
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 8.4
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 26.1
-(EDTA Whole Blood)
-MCV
-fl 83-101 87.3
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 28.1
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.2
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 18.7
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 4.40
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 90.4
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 6.1
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 2.3
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.7
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.5
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 3.98
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.27
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.10
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.03
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.02
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 67
-(EDTA Whole Blood)
-Medical Remarks: Manually verified on smear.
-MPV
-fl 7.5-10.5 11.9
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Predominantly normocytic normochromic RBCs showing
-RBC Morphology
-mild anisopoikilocytosis and mild polychromasia with few
-(EDTA Whole Blood)
-acanthocytes and elliptocytes .
-WBC Morphology
-Relative neutrophilia.
-(EDTA Whole Blood)
-Platelets
-Thrombocytopenia with occasional large platelets.
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR
-M.D ( Pathology)
-Head Of Hematopathology
-DR. PREETI SINGH
-M.D Pathology
-Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 47 of 188** · `2026-03-28_Lab-Haem_Coagulation-Profile.md`
+> **Report 33 of 91** · `2026-03-28_Lab-Haem_Coagulation-Profile.md`
 
 # Coagulation Profile
 
@@ -5380,153 +3502,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 48 of 188** · `2026-03-28_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-28
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-28_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-28_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004239798201000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode) collected 28/03/2026 04:31. Sodium 142.30 mmol/L (ref 136-145, normal); Potassium 3.37 mmol/L (ref 3.5-5.1, LOW); Chloride 99.50 mmol/L (ref 98-107, normal).
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 05:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 09:08
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 142.30
-Potassium mmol/L 3.5-5.1 3.37
-Chloride mmol/L 98-107 99.50
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 05:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 09:08
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 05:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 09:08
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 49 of 188** · `2026-03-28_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-28
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-28_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-28_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004239797601000.pdf`
-
-## Summary (extracted)
-
-Creatinine panel collected 28/03/2026 04:31. Creatinine (Serum, Jaffe-kinetic) 0.95 mg/dL (ref 0.50-0.90, HIGH); eGFR 59.28 mL/min/1.73 m^2 (Mild to Moderately Decreased: 45-59).
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 05:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 09:08
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.95
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-59.28
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
-Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 05:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 09:08
-Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 50 of 188** · `2026-03-28_Lab-Biochem_Blood-Urea-Nitrogen.md`
+> **Report 34 of 91** · `2026-03-28_Lab-Biochem_Blood-Urea-Nitrogen.md`
 
 # Blood Urea Nitrogen
 
@@ -5583,479 +3561,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 51 of 188** · `2026-03-27_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-27
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-27_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-27_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004237876500000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right lower zone.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 27-03-2026 05:39 AM Order No. : 0041284074
-Referred By : Shah Darshit Report Date : 27-03-2026 12:58 PM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right lower zone.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 52 of 188** · `2026-03-27_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-27
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-27_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-27_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004237901302000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (collected 27/03/2026 03:51). Abnormal values: Red cell count 3.45 x10^12/L (ref 3.8-4.8, LOW); Haemoglobin 9.8 g/dL (ref 12.0-15.0, LOW); Haematocrit 29.8% (ref 36.0-46.0, LOW); RDW 18.8% (ref 11.6-14.0, HIGH); Neutrophils 88.6% (ref 40-80, HIGH); Lymphocytes 9.0% (ref 20-40, LOW); Monocytes 1.6% (ref 2-10, LOW); Eosinophils 0.3% (ref 1-6, LOW); Lymphocytes# 0.52 x10^9/L (ref 1-3, LOW); Monocytes# 0.09 x10^9/L (ref 0.2-1.0, LOW); Platelet Count 84 x10^9/L (ref 150-410, LOW, manually verified on smear); MPV 12.2 fl (ref 7.5-10.5, HIGH). MCV/MCH/MCHC and Total Leukocyte Count normal. RBC Morphology: predominantly normocytic normochromic RBCs showing mild anisopoikilocytosis and mild polychromasia with few elliptocytes and occasional schistocytes (0.3%). WBC Morphology: relative neutrophilia with many hypolobated neutrophils. Platelets: thrombocytopenia. Comments: delta check failed for WBC count, correlate clinically; advice: reticulocyte count.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.45
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 9.8
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 29.8
-(EDTA Whole Blood)
-MCV
-fl 83-101 86.4
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 28.4
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.9
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 18.8
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 5.76
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 88.6
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 9.0
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 1.6
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.3
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.5
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 5.10
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.52
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.09
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.02
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.03
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 84
-(EDTA Whole Blood)
-Medical Remarks: Manually verified on smear.
-MPV
-fl 7.5-10.5 12.2
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Predominantly normocytic normochromic RBCs showing
-RBC Morphology
-mild anisopoikilocytosis and mild polychromasia with few
-(EDTA Whole Blood)
-elliptocytes and occasional schistocytes (0.3%).
-WBC Morphology
-Relative neutrophilia with many hypolobated neutrophils.
-(EDTA Whole Blood)
-Platelets
-Thrombocytopenia.
-(EDTA Whole Blood)
-Comments Delta check failed for WBC count. Kindly correlate clinically.
-(EDTA Whole Blood) Advice: Reticulocyte count
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 53 of 188** · `2026-03-27_Lab-Biochem_Renal-Profile.md`
-
-# Renal Profile
-
-- **Date performed**: 2026-03-27
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-27_Lab-Biochem_Renal-Profile.pdf`](./report_pdf/2026-03-27_Lab-Biochem_Renal-Profile.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004238179802000.pdf`
-
-## Summary (extracted)
-
-Renal Profile (collected 27/03/2026 03:51). Abnormal results: BUN 34.67 mg/dL (ref 8-23, HIGH); Urea 74.20 mg/dL (ref 16.6-48.5, HIGH); Creatinine 1.74 mg/dL (ref 0.50-0.90, HIGH, rechecked); eGFR 29.49 mL/min/1.73 m^2 (severely decreased, range 15-29); Uric Acid 7.80 mg/dL (ref 2.4-5.7, HIGH); Calcium 7.54 mg/dL (ref 8.8-10.2, LOW). Proteins: Total Protein 4.74 g/dL (ref 6.4-8.3, LOW); Albumin 2.91 g/dL (ref 3.5-5.2, LOW); Globulin 1.83 g/dL (ref 2-3.5, LOW); A/G ratio 1.59 (normal). S. Electrolytes: Sodium 135.90 mmol/L (ref 136-145, slightly LOW); Potassium 3.52 mmol/L (normal); Chloride 95.40 mmol/L (ref 98-107, LOW); Bicarbonate 25.10 mmol/L (normal). Phosphorus 3.43 mg/dL (normal).
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Renal Profile
-BUN
-mg/dL 8-23 34.67
-(Serum,Urease/Glutamate dehydrogenase)
-Urea
-mg/dL 16.6-48.5 74.20
-(Serum,Urease/Glutamate dehydrogenase)
-Creatinine Clearance Test [eGFR]
-Creatinine
-mg/dL 0.50-0.90 1.74
-(Serum,Jaffe - kinetic)
-Medical Remarks: Rechecked.
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-29.49
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Uric Acid
-mg/dL 2.4-5.7 7.80
-(Serum,Enzymatic - colorimetric)
-Calcium
-mg/dL 8.8-10.2 7.54
-(Serum,NM - BAPTA)
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 1 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Phosphorus
-mg/dL 2.5-4.5 3.43
-(Serum,Molybdate - UV)
-Proteins
-Total Protein
-g/dL 6.4-8.3 4.74
-(Serum,Colorimetric - biuret)
-Albumin
-g/dL 3.5-5.2 2.91
-(Serum,Colorimetric - BCG)
-Globulin
-g/dL 2-3.5 1.83
-(Serum,Calculated)
-A / G ratio
-1.0-2.5 1.59
-(Serum,Calculated)
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 135.90
-Potassium mmol/L 3.5-5.1 3.52
-Chloride mmol/L 98-107 95.40
-Bicarbonate
-mmol/L 22-29 25.10
-(Serum,Enzymatic - PEPC)
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 2 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Urea:
-Urea is the final degradation product of protein and amino acid metabolism. Blood urea nitrogen currently is the most widely
-used screening test for the evaluation of kidney function. Protein catabolism causes formation of ammonia which is
-synthesized to urea with and elimination of excess nitrogen in the liver. Increased blood urea nitrogen may be due to cardiac
-decompensation, water depletion due to decreased intake and excessive loss, increased protein catabolism, high protein
-diet, acute glomerulonephritis, chronic nephritis, polycystic kidney disease, nephrosclerosis, tubular necrosis and all types of
-obstruction of the urinary tract.
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 3 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 4 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 5 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 6 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 7 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 8 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 9 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
-Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 10 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 54 of 188** · `2026-03-26_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-26
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-26_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-26_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004235846601000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the left
-midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 26-03-2026 01:46 AM Order No. : 0041264979
-Referred By : Shah Darshit Report Date : 26-03-2026 08:43 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the left
-midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 55 of 188** · `2026-03-26_Lab-Micro_Blood-Culture-Set.md`
+> **Report 35 of 91** · `2026-03-26_Lab-Micro_Blood-Culture-Set.md`
 
 # Blood Culture Set
 
@@ -6136,306 +3644,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 56 of 188** · `2026-03-26_Lab-Haem_Prothrombin-Time-PT.md`
-
-# Prothrombin Time (PT)
-
-- **Date performed**: 2026-03-26
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-26_Lab-Haem_Prothrombin-Time-PT.pdf`](./report_pdf/2026-03-26_Lab-Haem_Prothrombin-Time-PT.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004235885402000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Haematology. Prothrombin Time (PT) (Citrate Plasma, Nephelometry):
-- Prothrombin Time: 13.9 secs (reference 9.93-12.47) — HIGH
-- Mean Normal PT: 11.2 secs
-- INR (calculated): 1.24 (reference 0.86-1.14) — HIGH
-
-Test performed on fully automated coagulometer. Trend graph included.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 02:21
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 03:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 08:18
-Accession : 2600066759 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Prothrombin Time (PT)
-Prothrombin Time.
-Secs 9.93-12.47 13.9
-(Citrate Plasma,Nephelometry)
-Mean Normal PT
-Secs 11.2
-(Citrate Plasma)
-INR
-sec 0.86-1.14 1.24
-(Citrate Plasma,Calculated)
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 02:21
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 03:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 08:18
-Accession : 2600066759 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Test performed on Fully Automated Coagulometer.
-Prothrombin Time (PT):
-• Prothrombin time (PT) is used to evaluate the extrinsic and common pathways of coagulation, which helps detect
-deficiencies of factors ( II, V, VII, X ) and low fibrinogen concentrations.
-• PT/INR is used to monitor oral anticoagulant therapy.
-• Prothrombin time maybe prolonged in cases of chronic liver disease, vitamin K deficiency, disseminated
-intravascular coagulation (DIC) and antiphospholipid antibody syndrome.
-Interference in the assay can be caused by:
-• Preanalytical errors such as hemolyzed, icteric, clotted specimens, improper blood-to-anticoagulant ratio and
-lipemic samples (decreased prothrombin time).
-• Contamination with saline, heparin, or other anticoagulants.
-• Polycythemia with a hematocrit greater than 55%.
-Reference: Yang R, Zubair M, Moosavi L. Prothrombin Time. [Updated 2024 Jan 23]. In: StatPearls [Internet]. Treasure
-Island (FL): StatPearls Publishing; 2024 Jan. Available from: https://www.ncbi.nlm.nih.gov/books/NBK544269.
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 02:21
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 03:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 08:18
-Accession : 2600066759 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 57 of 188** · `2026-03-26_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-26
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-26_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-26_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004235877701000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Haematology. Complete Blood Count (EDTA whole blood):
-- Red cell count: 4.02 x10^12/L (ref 3.8-4.8) — normal
-- Haemoglobin: 11.3 g/dL (ref 12.0-15.0) — LOW
-- Haematocrit: 35.3% (ref 36.0-46.0) — LOW
-- MCV: 87.8 fL (ref 83-101) — normal
-- MCH: 28.1 pg (ref 27.0-32.0) — normal
-- MCHC: 32.0 g/dL (ref 31.5-34.5) — normal
-- RDW: 19.1% (ref 11.6-14.0) — HIGH
-- Total Leukocyte Count: 17.04 x10^9/L (ref 4-10) — HIGH
-- Neutrophils: 97.4% (ref 40-80) — HIGH
-- Lymphocytes: 1.9% (ref 20-40) — LOW
-- Monocytes: 0.4% (ref 2-10) — LOW
-- Eosinophils: 0.1% (ref 1-6) — LOW
-- Basophils: 0.2% (ref 0-2) — normal
-- Neutrophils# absolute: 16.61 x10^9 cells/L (ref 2-7) — HIGH
-- Lymphocytes# absolute: 0.33 x10^9 cells/L (ref 1-3) — LOW
-- Monocytes# absolute: 0.06 x10^9 cells/L (ref 0.2-1.0) — LOW
-- Eosinophils# absolute: 0.01 x10^9 cells/L (ref 0.02-0.5) — LOW
-- Basophils# absolute: 0.03 x10^9 cells/L (ref 0.0-0.1) — normal
-- Platelet Count: 83 x10^9/L (ref 150-410) — LOW (medical remarks: manually verified on smear)
-- MPV: 11.8 fL (ref 7.5-10.5) — HIGH
-- RBC Morphology: Predominantly normocytic normochromic RBCs with mild anisopoikilocytosis and mild polychromasia
-- WBC Morphology: Neutrophilic leukocytosis
-- Platelets: Thrombocytopenia
-- Comments: Delta check failed for WBC count — clinically correlate.
-
-Trend graphs included.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
-Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.02
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 11.3
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 35.3
-(EDTA Whole Blood)
-MCV
-fl 83-101 87.8
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 28.1
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.0
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 19.1
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 17.04
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 97.4
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 1.9
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
-Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 0.4
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.1
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.2
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 16.61
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.33
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.06
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.01
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.03
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 83
-(EDTA Whole Blood)
-Medical Remarks: Manually verified on smear.
-MPV
-fl 7.5-10.5 11.8
-(EDTA Whole Blood)
-RBC Morphology Predominantly normocytic normochromic RBCs with mild
-(EDTA Whole Blood) anisopoikilocytosis and mild polychromasia.
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
-Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-WBC Morphology
-Neutrophilic leukocytosis.
-(EDTA Whole Blood)
-Platelets
-Thrombocytopenia.
-(EDTA Whole Blood)
-Comments Delta check failed for WBC count. Kindly correlate clinically.
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
-Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
-Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
-Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 58 of 188** · `2026-03-26_Lab-Haem_Activated-Partial-Thromboplastin-Time-APTT.md`
+> **Report 36 of 91** · `2026-03-26_Lab-Haem_Activated-Partial-Thromboplastin-Time-APTT.md`
 
 # Activated Partial Thromboplastin Time (APTT)
 
@@ -6492,71 +3703,59 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 59 of 188** · `2026-03-26_Lab-Biochem_C-Reactive-Protein-CRP.md`
+> **Report 37 of 91** · `2026-03-25_Lab-Micro_Hepatitis-B-Virus-Surface-Antigen-HBsAg.md`
 
-# C-Reactive Protein [CRP]
+# Hepatitis B Virus Surface Antigen [HBsAg]
 
-- **Date performed**: 2026-03-26
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-26_Lab-Biochem_C-Reactive-Protein-CRP.pdf`](./report_pdf/2026-03-26_Lab-Biochem_C-Reactive-Protein-CRP.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004235939203000.pdf`
+- **Date performed**: 2026-03-25
+- **Category**: Lab-Micro
+- **Department**: MICROBIOLOGY
+- **Source PDF**: [`./report_pdf/2026-03-25_Lab-Micro_Hepatitis-B-Virus-Surface-Antigen-HBsAg.pdf`](./report_pdf/2026-03-25_Lab-Micro_Hepatitis-B-Virus-Surface-Antigen-HBsAg.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004235785602000.pdf`
 
 ## Summary (extracted)
 
-Department of Laboratory Medicine - Biochemistry. C-Reactive Protein [CRP] (Serum, Immunoturbidimetric): 2.04 mg/dL (reference <0.5 mg/dL) — HIGH, indicating active inflammation. Page 2 has trend analysis graph showing prior values (~1.07 on 23 Feb 2026) compared with current 2.04.
+Department of Laboratory Medicine - Microbiology. Hepatitis B Virus Surface Antigen [HBsAg] (Serum, CMIA): HBS Ag (Test 1) — Non-reactive, S/CO 0.24 (reference: Non-Reactive <1.0; Reactive ≥1.0). Negative screening for hepatitis B.
 
 ## Verbatim text from PDF
 
 ```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 03:51
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 08:44
-Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :25/03/2026 19:25
+Patient ID : 0010663186 Visit Type :IP Received : 25/03/2026 21:41
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 10:00
+Accession : 2600066581 Location :1T13S`1TR1322`1TB1322``ICU
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- MMMIIICCCRRROOOBBBIIIOOOLLLOOOGGGYYY
 Reference Low Normal High
 Test Name Unit Range
-C-Reactive Protein [CRP]
-mg/dL < 0.5 2.04
-(Serum,Immunoturbidimetric)
-CRP:
-C-reactive protein (CRP) is one of the most sensitive acute-phase reactants for inflammation. CRP elevations are nonspecific
-and may be useful for the detection of systemic inflammatory processes; to assess treatment of bacterial infections with
-antibiotics; to detect intrauterine infections with concomitant premature amniorrhexis; to differentiate between active and
-inactive forms of disease with concurrent infection; to therapeutically monitor rheumatic disease and assess anti-
-inflammatory therapy; to determine the presence of postoperative complications at an early stage and to distinguish between
-infection and bone marrow rejection.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
-Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 03:51
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 08:44
-Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
+Hepatitis B Virus Surface Antigen [HBsAg]
+(Serum,CMIA)
+Non-
+Non-Reactive: < 1.0
+HBS Ag (Test 1) S/CO reactive,0.2
+Reactive: >= 1.0
+4
+HBsAg:
+This is the screening test for Hepatitis B virus infection.
+HBsAG is the first serological marker after infection with HBV appearing 1 to 10 weeks after exposure and 2-8 weeks before
+the onset of clinical symptoms.
+For diagnostic purpose result should be used in conjunction with patient history and other Hepatitis markers for diagnosis of
+acute or chronic infection.
 ∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
+DDRR.. NNEEEETTUU BBIIYYAANNII DR. SHASHIKALA
+SHIVAPRAKASHA
+MMDD MMiiccrroobbiioollooggyy
+CCoonnssuullttaanntt MMiiccrroobbiioollooggiisstt MD Microbiology
+Consultant Microbiologist
+Page 1 of 1
 Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
 MC-7539
 ```
 
-
 ---
 
-> **Report 60 of 188** · `2026-03-25_Lab-Micro_Human-Immunodeficiency-Virus-Ag-Ab.md`
+> **Report 38 of 91** · `2026-03-25_Lab-Micro_Human-Immunodeficiency-Virus-Ag-Ab.md`
 
 # Human Immunodeficiency Virus Ag/Ab
 
@@ -6605,10 +3804,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 61 of 188** · `2026-03-25_Lab-Micro_Hepatitis-C-Antibodies-HCV-Ab.md`
+> **Report 39 of 91** · `2026-03-25_Lab-Micro_Hepatitis-C-Antibodies-HCV-Ab.md`
 
 # Hepatitis C Antibodies [HCV Ab]
 
@@ -6655,61 +3853,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 62 of 188** · `2026-03-25_Lab-Micro_Hepatitis-B-Virus-Surface-Antigen-HBsAg.md`
-
-# Hepatitis B Virus Surface Antigen [HBsAg]
-
-- **Date performed**: 2026-03-25
-- **Category**: Lab-Micro
-- **Department**: MICROBIOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-25_Lab-Micro_Hepatitis-B-Virus-Surface-Antigen-HBsAg.pdf`](./report_pdf/2026-03-25_Lab-Micro_Hepatitis-B-Virus-Surface-Antigen-HBsAg.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004235785602000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Microbiology. Hepatitis B Virus Surface Antigen [HBsAg] (Serum, CMIA): HBS Ag (Test 1) — Non-reactive, S/CO 0.24 (reference: Non-Reactive <1.0; Reactive ≥1.0). Negative screening for hepatitis B.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :25/03/2026 19:25
-Patient ID : 0010663186 Visit Type :IP Received : 25/03/2026 21:41
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 10:00
-Accession : 2600066581 Location :1T13S`1TR1322`1TB1322``ICU
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- MMMIIICCCRRROOOBBBIIIOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Hepatitis B Virus Surface Antigen [HBsAg]
-(Serum,CMIA)
-Non-
-Non-Reactive: < 1.0
-HBS Ag (Test 1) S/CO reactive,0.2
-Reactive: >= 1.0
-4
-HBsAg:
-This is the screening test for Hepatitis B virus infection.
-HBsAG is the first serological marker after infection with HBV appearing 1 to 10 weeks after exposure and 2-8 weeks before
-the onset of clinical symptoms.
-For diagnostic purpose result should be used in conjunction with patient history and other Hepatitis markers for diagnosis of
-acute or chronic infection.
-∞ End of Report ∞
-DDRR.. NNEEEETTUU BBIIYYAANNII DR. SHASHIKALA
-SHIVAPRAKASHA
-MMDD MMiiccrroobbiioollooggyy
-CCoonnssuullttaanntt MMiiccrroobbiioollooggiisstt MD Microbiology
-Consultant Microbiologist
-Page 1 of 1
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 63 of 188** · `2026-03-25_Lab-Biochem_Troponin-I-hs.md`
+> **Report 40 of 91** · `2026-03-25_Lab-Biochem_Troponin-I-hs.md`
 
 # Troponin I hs
 
@@ -6770,10 +3916,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 64 of 188** · `2026-03-24_Lab-Serol_NT-pro-B-type-Natriuretic-Peptide-NT-pro-BNP.md`
+> **Report 41 of 91** · `2026-03-24_Lab-Serol_NT-pro-B-type-Natriuretic-Peptide-NT-pro-BNP.md`
 
 # NT pro B-type Natriuretic Peptide [NT pro BNP]
 
@@ -6832,582 +3977,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 65 of 188** · `2026-03-24_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-24
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-24_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-24_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004233599401000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Haematology. Complete Blood Count (EDTA whole blood):
-- Red cell count: 4.53 x10^12/L (ref 3.8-4.8) — normal
-- Haemoglobin: 12.9 g/dL (ref 12.0-15.0) — normal
-- Haematocrit: 39.9% (ref 36.0-46.0) — normal
-- MCV: 88.1 fL (ref 83-101) — normal
-- MCH: 28.5 pg (ref 27.0-32.0) — normal
-- MCHC: 32.3 g/dL (ref 31.5-34.5) — normal
-- RDW: 19.5% (ref 11.6-14.0) — HIGH
-- Total Leukocyte Count: 7.86 x10^9/L (ref 4-10) — normal
-- Neutrophils: 89.7% (ref 40-80) — HIGH
-- Lymphocytes: 6.1% (ref 20-40) — LOW
-- Monocytes: 3.9% (ref 2-10) — normal
-- Eosinophils: 0.0% (ref 1-6) — LOW
-- Basophils: 0.3% (ref 0-2) — normal
-- Neutrophils# absolute: 7.05 x10^9 cells/L (ref 2-7) — HIGH
-- Lymphocytes# absolute: 0.48 x10^9 cells/L (ref 1-3) — LOW
-- Monocytes# absolute: 0.31 x10^9 cells/L (ref 0.2-1.0) — normal
-- Eosinophils# absolute: 0.00 x10^9 cells/L (ref 0.02-0.5) — LOW
-- Basophils# absolute: 0.02 x10^9 cells/L (ref 0.0-0.1) — normal
-- Platelet Count: 109 x10^9/L (ref 150-410) — LOW
-- MPV: 11.8 fL (ref 7.5-10.5) — HIGH
-
-Pattern: thrombocytopenia, neutrophilic leukocytosis with lymphopenia and elevated RDW. Trend graphs included.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.53
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 12.9
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 39.9
-(EDTA Whole Blood)
-MCV
-fl 83-101 88.1
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 28.5
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.3
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 19.5
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 7.86
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 89.7
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 6.1
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 3.9
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.3
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 7.05
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.48
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.31
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.02
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 109
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 11.8
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 66 of 188** · `2026-03-24_Lab-Biochem_Renal-Profile.md`
-
-# Renal Profile
-
-- **Date performed**: 2026-03-24
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-24_Lab-Biochem_Renal-Profile.pdf`](./report_pdf/2026-03-24_Lab-Biochem_Renal-Profile.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004233708201000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Biochemistry. Renal Profile:
-- BUN (Serum, Urease/GLDH): 22.38 mg/dL (ref 8-23) — normal
-- Urea: 47.90 mg/dL (ref 16.6-48.5) — normal
-- Creatinine (Serum, Jaffe-kinetic): 1.01 mg/dL (ref 0.50-0.90) — HIGH
-- eGFR (calculated): 55.24 mL/min/1.73 m^2 — Mild to Moderately Decreased (45-59 range)
-- Uric Acid: 5.33 mg/dL (ref 2.4-5.7) — normal
-- Calcium (Serum, NM-BAPTA): 8.75 mg/dL (ref 8.8-10.2) — LOW
-- Phosphorus: 4.37 mg/dL (ref 2.5-4.5) — normal
-
-Proteins:
-- Total Protein: 5.63 g/dL (ref 6.4-8.3) — LOW
-- Albumin: 3.38 g/dL (ref 3.5-5.2) — LOW
-- Globulin: 2.25 g/dL (ref 2-3.5) — normal
-- A/G ratio: 1.50 (ref 1.0-2.5) — normal
-
-Serum Electrolytes (Ion-selective electrode):
-- Sodium: 134.80 mmol/L (ref 136-145) — LOW
-- Potassium: 4.97 mmol/L (ref 3.5-5.1) — normal
-- Chloride: 97.10 mmol/L (ref 98-107) — LOW
-- Bicarbonate (PEPC): 26.20 mmol/L (ref 22-29) — normal
-
-Trend graphs included on later pages.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Renal Profile
-BUN
-mg/dL 8-23 22.38
-(Serum,Urease/Glutamate dehydrogenase)
-Urea
-mg/dL 16.6-48.5 47.90
-(Serum,Urease/Glutamate dehydrogenase)
-Creatinine Clearance Test [eGFR]
-Creatinine
-mg/dL 0.50-0.90 1.01
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-55.24
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Uric Acid
-mg/dL 2.4-5.7 5.33
-(Serum,Enzymatic - colorimetric)
-Calcium
-mg/dL 8.8-10.2 8.75
-(Serum,NM - BAPTA)
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 1 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Phosphorus
-mg/dL 2.5-4.5 4.37
-(Serum,Molybdate - UV)
-Proteins
-Total Protein
-g/dL 6.4-8.3 5.63
-(Serum,Colorimetric - biuret)
-Albumin
-g/dL 3.5-5.2 3.38
-(Serum,Colorimetric - BCG)
-Globulin
-g/dL 2-3.5 2.25
-(Serum,Calculated)
-A / G ratio
-1.0-2.5 1.50
-(Serum,Calculated)
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 134.80
-Potassium mmol/L 3.5-5.1 4.97
-Chloride mmol/L 98-107 97.10
-Bicarbonate
-mmol/L 22-29 26.20
-(Serum,Enzymatic - PEPC)
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Urea:
-Urea is the final degradation product of protein and amino acid metabolism. Blood urea nitrogen currently is the most widely
-used screening test for the evaluation of kidney function. Protein catabolism causes formation of ammonia which is
-synthesized to urea with and elimination of excess nitrogen in the liver. Increased blood urea nitrogen may be due to cardiac
-decompensation, water depletion due to decreased intake and excessive loss, increased protein catabolism, high protein
-diet, acute glomerulonephritis, chronic nephritis, polycystic kidney disease, nephrosclerosis, tubular necrosis and all types of
-obstruction of the urinary tract.
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 4 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 5 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 6 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 7 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 8 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 9 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 10 of 10
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 67 of 188** · `2026-03-24_Lab-Biochem_Liver-Profile.md`
-
-# Liver Profile
-
-- **Date performed**: 2026-03-24
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-24_Lab-Biochem_Liver-Profile.pdf`](./report_pdf/2026-03-24_Lab-Biochem_Liver-Profile.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004233707801000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Biochemistry. Liver Profile:
-- Total Bilirubin (Serum, Diazo): 0.50 mg/dL (ref ≤1.2) — normal
-- Direct Bilirubin: 0.22 mg/dL (ref ≤0.3) — normal
-- Indirect Bilirubin: 0.28 mg/dL (ref ≤1.2) — normal
-- Alanine Aminotransferase [ALT/PT]: 49.80 U/L (ref ≤35) — HIGH
-- Aspartate Aminotransferase [AST/OT]: 35.30 U/L (ref ≤35) — HIGH
-- Gamma Glutamyltransferase [GGT]: 169.00 U/L (ref <40) — HIGH
-- Alkaline Phosphatase [ALP]: 77.50 U/L (ref 35-104) — normal
-- Total Protein (Serum, Biuret): 5.63 g/dL (ref 6.4-8.3) — LOW
-- Albumin (Serum, BCG): 3.38 g/dL (ref 3.5-5.2) — LOW
-- Globulin (calculated): 2.25 g/dL (ref 2-3.5) — normal
-- A/G ratio: 1.50 (ref 1.0-2.5) — normal
-
-Trend analysis graphs for ALT/PT and AST/OT included on later pages.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Liver Profile
-Bilirubin Total + Direct
-Total Bilirubin
-mg/dL <= 1.2 0.50
-(Serum,Diazo)
-Direct Bilirubin
-mg/dL <= 0.3 0.22
-(Serum,Diazo)
-Indirect Bilirubin
-mg/dL <= 1.2 0.28
-(Serum,Calculated)
-Alanine Aminotransferase [ALT/PT]
-U/L <= 35 49.80
-(Serum,IFCC-Enzymatic with P5P)
-Aspartate Aminotransferase [AST/OT]
-U/L <= 35 35.30
-(Serum,IFCC-Enzymatic with P5P)
-Gamma Glutamyltransferase [GGT]
-U/L < 40 169.00
-(Serum,Enzymatic IFCC)
-Alkaline Phosphatase [ALP]
-U/L 35-104 77.50
-(Serum,Enzymatic IFCC)
-Proteins
-Total Protein
-g/dL 6.4-8.3 5.63
-(Serum,Colorimetric - biuret)
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 1 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Albumin
-g/dL 3.5-5.2 3.38
-(Serum,Colorimetric - BCG)
-Globulin
-g/dL 2-3.5 2.25
-(Serum,Calculated)
-A / G ratio
-1.0-2.5 1.50
-(Serum,Calculated)
-Total Bilirubin:
-• Diseases or conditions which, through hemolytic processes, produce bilirubin faster than the liver can metabolize it,
-cause the levels of unconjugated (indirect) bilirubin to increase in the circulation.
-• Liver immaturity and several other diseases in which the bilirubin conjugation mechanism is impaired cause similar
-elevations of circulating unconjugated bilirubin.
-• Bile duct obstruction or damage to hepatocellular structure causes increases in the levels of both conjugated (direct)
-and unconjugated (indirect)bilirubin in the circulation.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 4 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 5 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 6 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 7 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
-Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 8 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 68 of 188** · `2026-03-24_ECHO_Echocardiography.md`
+> **Report 42 of 91** · `2026-03-24_ECHO_Echocardiography.md`
 
 # Echocardiography
 
@@ -7488,10 +4060,9 @@ severe
 PULMONARY 0.8 Nil
 ```
 
-
 ---
 
-> **Report 69 of 188** · `2026-03-24_CT_CT-Angiography-Pulmonary.md`
+> **Report 43 of 91** · `2026-03-24_CT_CT-Angiography-Pulmonary.md`
 
 # CT Angiography - Pulmonary
 
@@ -7596,54 +4167,9 @@ Med. Council No. 2016114714
 2
 ```
 
-
 ---
 
-> **Report 70 of 188** · `2026-03-23_XRay_X-Ray-Portable-Chest-AP_2.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-23
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-23_XRay_X-Ray-Portable-Chest-AP_2.pdf`](./report_pdf/2026-03-23_XRay_X-Ray-Portable-Chest-AP_2.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004231689600000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 23-03-2026 07:20 PM Order No. : 0041217699
-Referred By : Shah Darshit Report Date : 23-03-2026 09:13 PM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 71 of 188** · `2026-03-23_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 44 of 91** · `2026-03-23_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -7684,132 +4210,9 @@ MMC Number: 49380.
 1
 ```
 
-
 ---
 
-> **Report 72 of 188** · `2026-03-23_Lab-Biochem_Blood-Gas-Analysis.md`
-
-# Blood Gas Analysis
-
-- **Date performed**: 2026-03-23
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-23_Lab-Biochem_Blood-Gas-Analysis.pdf`](./report_pdf/2026-03-23_Lab-Biochem_Blood-Gas-Analysis.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004233952901000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Biochemistry. Blood Gas Analysis (arterial blood, ion-selective electrode/calculated):
-- pH: 7.47 (ref 7.35-7.45) — HIGH (mild alkalosis)
-- pCO2: 39.50 mmHg (ref 32-45) — normal
-- pO2: 65.90 mmHg (ref 83-108) — LOW (hypoxemia)
-- sO2: 93.50 % saturation (ref 94-98) — LOW
-- HCO3: 29.00 mmol/L (ref 22.2-28.3) — HIGH
-
-Pattern suggests metabolic alkalosis with hypoxemia.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/03/2026 22:53
-Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 23:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:44
-Accession : 2600064925 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Blood Gas Analysis
-pH
-7.35-7.45 7.47
-(Arterial blood,Ion-selective electrode)
-pCO2
-mmHg 32-45 39.50
-(Arterial blood,Ion-selective electrode)
-pO2
-mmHg 83-108 65.90
-(Arterial blood,Ion-selective electrode)
-sO2 %
-94-98 93.50
-(Arterial blood,Ion-selective electrode) saturation
-HCO3
-mmol/L 22.2-28.3 29.00
-(Arterial blood,Calculated)
-Blood Gas Analysis:
-Blood gases are a group of tests that are performed together to measure the pH, the amount of oxygen and carbon dioxide
-present in arterial blood in order to evaluate lung function and help detect an acid-base imbalance that could indicate a
-respiratory, metabolic or kidney disorder.
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
-Page 1 of 1
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 73 of 188** · `2026-03-19_Lab-Biochem_Sodium.md`
-
-# Sodium
-
-- **Date performed**: 2026-03-19
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-19_Lab-Biochem_Sodium.pdf`](./report_pdf/2026-03-19_Lab-Biochem_Sodium.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004224687002000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Biochemistry. Sodium (Serum, Ion-selective electrode): 136.90 mmol/L (reference range 136-145 mmol/L) — within normal limits. Page 2 includes a trend analysis graph showing prior values around 138-139 mmol/L over preceding visits.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :19/03/2026 03:16
-Patient ID : 0010663186 Visit Type :IP Received : 19/03/2026 06:26
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :19/03/2026 09:09
-Accession : 2600061805 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-Sodium
-mmol/L 136-145 136.90
-(Serum,Ion-selective electrode)
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :19/03/2026 03:16
-Patient ID : 0010663186 Visit Type :IP Received : 19/03/2026 06:26
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :19/03/2026 09:09
-Accession : 2600061805 Location :1T06N`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 74 of 188** · `2026-03-19_Lab-Biochem_Potassium.md`
+> **Report 45 of 91** · `2026-03-19_Lab-Biochem_Potassium.md`
 
 # Potassium
 
@@ -7865,467 +4268,67 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 75 of 188** · `2026-03-17_Lab-Biochem_Potassium.md`
+> **Report 46 of 91** · `2026-03-19_Lab-Biochem_Sodium.md`
 
-# Potassium
+# Sodium
 
-- **Date performed**: 2026-03-17
+- **Date performed**: 2026-03-19
 - **Category**: Lab-Biochem
 - **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-17_Lab-Biochem_Potassium.pdf`](./report_pdf/2026-03-17_Lab-Biochem_Potassium.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004220626302000.pdf`
+- **Source PDF**: [`./report_pdf/2026-03-19_Lab-Biochem_Sodium.pdf`](./report_pdf/2026-03-19_Lab-Biochem_Sodium.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004224687002000.pdf`
 
 ## Summary (extracted)
 
-Potassium (Serum, Ion-selective electrode), collected 17/03/2026 03:21. Potassium 4.18 mmol/L (within ref 3.5-5.1). No abnormal flag.
+Department of Laboratory Medicine - Biochemistry. Sodium (Serum, Ion-selective electrode): 136.90 mmol/L (reference range 136-145 mmol/L) — within normal limits. Page 2 includes a trend analysis graph showing prior values around 138-139 mmol/L over preceding visits.
 
 ## Verbatim text from PDF
 
 ```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :17/03/2026 03:21
-Patient ID : 0010663186 Visit Type :IP Received : 17/03/2026 07:53
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :17/03/2026 09:25
-Accession : 2600059996 Location :1T06N`1TR0626`1TB0630`1ONCOMED
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :19/03/2026 03:16
+Patient ID : 0010663186 Visit Type :IP Received : 19/03/2026 06:26
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :19/03/2026 09:09
+Accession : 2600061805 Location :1T06N`1TR0509`1TB0509`1ONCOMED
 DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
 Reference Low Normal High
 Test Name Unit Range
-Potassium
-mmol/L 3.5-5.1 4.18
+Sodium
+mmol/L 136-145 136.90
 (Serum,Ion-selective electrode)
-Potassium:
-• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
-decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
-body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
-dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :17/03/2026 03:21
-Patient ID : 0010663186 Visit Type :IP Received : 17/03/2026 07:53
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :17/03/2026 09:25
-Accession : 2600059996 Location :1T06N`1TR0626`1TB0630`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 76 of 188** · `2026-03-16_Lab-Biochem_Potassium.md`
-
-# Potassium
-
-- **Date performed**: 2026-03-16
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-16_Lab-Biochem_Potassium.pdf`](./report_pdf/2026-03-16_Lab-Biochem_Potassium.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004218479403000.pdf`
-
-## Summary (extracted)
-
-Potassium (Serum, Ion-selective electrode), collected 16/03/2026 03:36. Potassium 3.78 mmol/L (within ref 3.5-5.1). No abnormal flag.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :16/03/2026 03:36
-Patient ID : 0010663186 Visit Type :IP Received : 16/03/2026 08:02
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :16/03/2026 10:10
-Accession : 2600059023 Location :1T06N`1TR0626`1TB0630`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-Potassium
-mmol/L 3.5-5.1 3.78
-(Serum,Ion-selective electrode)
-Potassium:
-• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
-decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
-body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
-dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :16/03/2026 03:36
-Patient ID : 0010663186 Visit Type :IP Received : 16/03/2026 08:02
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :16/03/2026 10:10
-Accession : 2600059023 Location :1T06N`1TR0626`1TB0630`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 77 of 188** · `2026-03-15_Lab-Biochem_Potassium.md`
-
-# Potassium
-
-- **Date performed**: 2026-03-15
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-15_Lab-Biochem_Potassium.pdf`](./report_pdf/2026-03-15_Lab-Biochem_Potassium.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004217031701000.pdf`
-
-## Summary (extracted)
-
-Potassium (Serum, Ion-selective electrode), collected 15/03/2026 05:25. Potassium 4.26 mmol/L (within ref 3.5-5.1). No abnormal flag.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :15/03/2026 05:25
-Patient ID : 0010663186 Visit Type :IP Received : 15/03/2026 06:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :15/03/2026 09:50
-Accession : 2600058507 Location :1T06N`1TR0626`1TB0627`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-Potassium
-mmol/L 3.5-5.1 4.26
-(Serum,Ion-selective electrode)
-Potassium:
-• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
-decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
-body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
-dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :15/03/2026 05:25
-Patient ID : 0010663186 Visit Type :IP Received : 15/03/2026 06:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :15/03/2026 09:50
-Accession : 2600058507 Location :1T06N`1TR0626`1TB0627`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 78 of 188** · `2026-03-14_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-14
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-14_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-14_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004215151500000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 14-03-2026 06:20 AM Order No. : 0041062931
-Referred By : Shah Darshit Report Date : 14-03-2026 06:30 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 79 of 188** · `2026-03-14_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-14
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-14_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-14_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004215164201000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count, collected 14/03/2026 04:28. Abnormal findings: Haemoglobin 11.7 g/dL (low; ref 12.0-15.0), Haematocrit 36.0% (borderline at lower limit; ref 36.0-46.0), RDW 18.5% (high; ref 11.6-14.0), Neutrophils 84.8% (high; ref 40-80), Lymphocytes 10.9% (low; ref 20-40), Lymphocytes# 0.64 x10^9/L (low; ref 1-3), Eosinophils# 0.01 x10^9/L (low; ref 0.02-0.5). Within normal limits: Red cell count 4.13 x10^12/L, MCV 87.2 fl, MCH 28.3 pg, MCHC 32.5 g/dL, Total Leukocyte Count 5.86 x10^9/L, Monocytes 3.8%, Eosinophils 0.2%, Basophils 0.3%, Neutrophils# 4.97, Monocytes# 0.22, Basophils# 0.02, Platelet Count 146 x10^9/L (low; ref 150-410), MPV 10.2 fl. Mild anaemia, neutrophilic differential with lymphopenia, borderline thrombocytopenia.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
-Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
-Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.13
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 11.7
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 36.0
-(EDTA Whole Blood)
-MCV
-fl 83-101 87.2
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 28.3
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.5
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 18.5
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 5.86
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 84.8
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 10.9
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
-Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
-Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 3.8
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.2
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.3
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 4.97
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.64
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.22
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.01
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.02
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 146
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.2
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
-Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
-Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
-Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
-Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
-Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
-Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
-Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
-Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 80 of 188** · `2026-03-14_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-14
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-14_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-14_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004215146201000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode), collected 14/03/2026 04:28. All values within normal limits: Sodium 139.90 mmol/L (ref 136-145), Potassium 3.91 mmol/L (ref 3.5-5.1), Chloride 102.10 mmol/L (ref 98-107). No abnormal flags.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
-Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:43
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 09:10
-Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 139.90
-Potassium mmol/L 3.5-5.1 3.91
-Chloride mmol/L 98-107 102.10
 Sodium:
 • Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
 causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
 and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
 increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 3
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
 Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
 MC-7539
 
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
-Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:43
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 09:10
-Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :19/03/2026 03:16
+Patient ID : 0010663186 Visit Type :IP Received : 19/03/2026 06:26
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :19/03/2026 09:09
+Accession : 2600061805 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
 Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
-Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:43
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 09:10
-Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
 ∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 3 of 3
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
 Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
 MC-7539
 ```
 
-
 ---
 
-> **Report 81 of 188** · `2026-03-14_Holter_Holter-ECG-Report.md`
+> **Report 47 of 91** · `2026-03-14_Holter_Holter-ECG-Report.md`
 
 # Holter ECG Report
 
@@ -8951,10 +4954,9 @@ Lead aVL
 Report ID 000457-001 © SmartCardia SA | All rights reserved | Page 14
 ```
 
-
 ---
 
-> **Report 82 of 188** · `2026-03-14_ECG_ECG-Report.md`
+> **Report 48 of 91** · `2026-03-14_ECG_ECG-Report.md`
 
 # ECG Report
 
@@ -8983,1280 +4985,9 @@ Print Date/Time : 28/04/2026 / 11:00 PM
 Page 1 of 1
 ```
 
-
 ---
 
-> **Report 83 of 188** · `2026-03-13_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-13
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-13_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-13_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004213074500000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 13-03-2026 05:45 AM Order No. : 0041043562
-Referred By : Shah Darshit Report Date : 13-03-2026 08:09 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 84 of 188** · `2026-03-13_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-13
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-13_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-13_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004213248504000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count, collected 13/03/2026 03:37. Abnormal findings: Haemoglobin 11.1 g/dL (low; ref 12.0-15.0), Haematocrit 34.5% (low; ref 36.0-46.0), RDW 18.1% (high; ref 11.6-14.0), Lymphocytes 14.4% (low; ref 20-40), Lymphocytes# 0.84 x10^9/L (low; ref 1-3). Within normal limits: Red cell count 3.98 x10^12/L, MCV 86.7 fl, MCH 27.9 pg, MCHC 32.2 g/dL, Total Leukocyte Count 5.83 x10^9/L, Neutrophils 78.1%, Monocytes 6.5%, Eosinophils 0.5%, Basophils 0.5%, Neutrophils# 4.55, Monocytes# 0.38, Eosinophils# 0.03, Basophils# 0.03, Platelet Count 211 x10^9/L, MPV 10.4 fl. Mild anaemia with relative lymphopenia.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.98
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 11.1
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 34.5
-(EDTA Whole Blood)
-MCV
-fl 83-101 86.7
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.9
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.2
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 18.1
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 5.83
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 78.1
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 14.4
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 6.5
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.5
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.5
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 4.55
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.84
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.38
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.03
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.03
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 211
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.4
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR
-M.D ( Pathology)
-Head Of Hematopathology
-DR. PREETI SINGH
-M.D Pathology
-Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR
-M.D ( Pathology)
-Head Of Hematopathology
-DR. PREETI SINGH
-M.D Pathology
-Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 85 of 188** · `2026-03-13_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-13
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-13_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-13_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004213134404000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode), collected 13/03/2026 03:37. All values within normal limits: Sodium 140.20 mmol/L (ref 136-145), Potassium 3.56 mmol/L (ref 3.5-5.1, near lower limit), Chloride 101.50 mmol/L (ref 98-107). No abnormal flags.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 08:25
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 140.20
-Potassium mmol/L 3.5-5.1 3.56
-Chloride mmol/L 98-107 101.50
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 08:25
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 08:25
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 86 of 188** · `2026-03-13_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-13
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-13_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-13_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004213134204000.pdf`
-
-## Summary (extracted)
-
-Creatinine, collected 13/03/2026 03:37. Creatinine 0.88 mg/dL (within ref 0.50-0.90, Serum Jaffe-kinetic). eGFR (Calculated) 64.75 mL/min/1.73 m^2 — corresponds to "Mild Decreased" range (60-89). No creatinine elevation; mildly reduced eGFR.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 08:25
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.88
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-64.75
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
-Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 08:25
-Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 87 of 188** · `2026-03-12_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-12
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-12_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-12_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004211006600000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 12-03-2026 05:46 AM Order No. : 0041026132
-Referred By : Shah Darshit Report Date : 12-03-2026 08:07 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 88 of 188** · `2026-03-12_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-12
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-12_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-12_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004211004301000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count, collected 12/03/2026 03:51. Abnormal findings: Red cell count 3.88 x10^12/L (within ref but borderline; ref 3.8-4.8), Haemoglobin 10.8 g/dL (low; ref 12.0-15.0), Haematocrit 33.6% (low; ref 36.0-46.0), RDW 17.6% (high; ref 11.6-14.0), Neutrophils 86.3% (high; ref 40-80), Lymphocytes 8.6% (low; ref 20-40), Eosinophils 0.1% (low; ref 01-06), Lymphocytes# 0.58 x10^9/L (low; ref 1-3), Eosinophils# 0.01 x10^9/L (low; ref 0.02-0.5). Within normal limits: MCV 86.6 fl, MCH 27.8 pg, MCHC 32.1 g/dL, Total Leukocyte Count 6.75 x10^9/L, Monocytes 4.6%, Basophils 0.4%, Neutrophils# 5.82, Monocytes# 0.31, Basophils# 0.03, Platelet Count 206 x10^9/L, MPV 10.3 fl. Mild anaemia with neutrophilic leucocytosis pattern and lymphopenia.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.88
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 10.8
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 33.6
-(EDTA Whole Blood)
-MCV
-fl 83-101 86.6
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.8
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.1
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 17.6
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 6.75
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 86.3
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 8.6
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 4.6
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.1
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.4
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 5.82
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.58
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.31
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.01
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.03
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 206
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.3
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 89 of 188** · `2026-03-12_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-12
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-12_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-12_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004211008202000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode), collected 12/03/2026 03:51. All values within normal limits: Sodium 137.90 mmol/L (ref 136-145), Potassium 3.80 mmol/L (ref 3.5-5.1), Chloride 99.80 mmol/L (ref 98-107). No abnormal flags.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 06:47
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 137.90
-Potassium mmol/L 3.5-5.1 3.80
-Chloride mmol/L 98-107 99.80
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 06:47
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 06:47
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 90 of 188** · `2026-03-12_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-12
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-12_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-12_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004211008302000.pdf`
-
-## Summary (extracted)
-
-Creatinine, collected 12/03/2026 03:51. Creatinine 0.85 mg/dL (within ref 0.50-0.90, Serum Jaffe-kinetic). eGFR (Calculated) 67.40 mL/min/1.73 m^2 — corresponds to "Mild Decreased" range (60-89). No creatinine elevation; mildly reduced eGFR.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 06:47
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.85
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-67.40
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
-Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:21
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 06:47
-Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 91 of 188** · `2026-03-11_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-11
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-11_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-11_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004209014600000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 11-03-2026 06:00 AM Order No. : 0041006054
-Referred By : Shah Darshit Report Date : 11-03-2026 08:30 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 92 of 188** · `2026-03-11_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-11
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-11_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-11_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004209017002000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count, collected 11/03/2026 04:37. Abnormal findings: Red cell count 3.65 x10^12/L (low; ref 3.8-4.8), Haemoglobin 10.2 g/dL (low; ref 12.0-15.0), Haematocrit 31.4% (low; ref 36.0-46.0), RDW 16.9% (high; ref 11.6-14.0), Lymphocytes 16.0% (low; ref 20-40), Lymphocytes# 0.72 x10^9/L (low; ref 1-3), Eosinophils# 0.01 x10^9/L (low; ref 0.02-0.5). Within normal limits: MCV 86.0 fl, MCH 27.9 pg, MCHC 32.5 g/dL, Total Leukocyte Count 4.49 x10^9/L, Neutrophils 76.9%, Monocytes 6.5%, Eosinophils 0.2%, Basophils 0.4%, Neutrophils# 3.45, Monocytes# 0.29, Basophils# 0.02, Platelet Count 176 x10^9/L, MPV 10.4 fl. Picture suggestive of mild normocytic anaemia with relative lymphopenia.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
-Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
-Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.65
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 10.2
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 31.4
-(EDTA Whole Blood)
-MCV
-fl 83-101 86.0
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.9
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.5
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 16.9
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 4.49
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 76.9
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 16.0
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
-Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
-Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 6.5
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.2
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.4
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 3.45
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.72
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.29
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.01
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.02
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 176
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.4
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
-Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
-Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
-Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
-Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
-Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
-Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
-Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
-Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 93 of 188** · `2026-03-11_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-11
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-11_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-11_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004209017102000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode), collected 11/03/2026 04:37. All values within normal limits: Sodium 139.20 mmol/L (ref 136-145), Potassium 4.03 mmol/L (ref 3.5-5.1), Chloride 101.70 mmol/L (ref 98-107). No abnormal flags.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
-Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:40
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 09:12
-Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 139.20
-Potassium mmol/L 3.5-5.1 4.03
-Chloride mmol/L 98-107 101.70
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
-Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:40
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 09:12
-Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
-Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:40
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 09:12
-Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 94 of 188** · `2026-03-10_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-10
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-10_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-10_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004207036900000.pdf`
-
-## Summary (extracted)
-
-he soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 10-03-2026 05:52 AM Order No. : 0040988385
-Referred By : Shah Darshit Report Date : 10-03-2026 08:02 AM
-Study Description : X Ray Portable Chest AP
-he soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 95 of 188** · `2026-03-10_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-10
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-10_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-10_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004207052702000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (collected 10/03/2026 03:08, IP, Dr. Darshit Shah). Abnormal/borderline values flagged: Red cell count 3.82 x10^12/L (low; ref 3.8-4.8); Haemoglobin 10.4 g/dL (low; ref 12.0-15.0); Haematocrit 32.3% (low; ref 36.0-46.0); RDW 16.7% (high; ref 11.6-14.0); Total Leukocyte Count 3.88 x10^9/L (low; ref 4-10); Lymphocytes 13.1% (low; ref 20-40); Eosinophils 0.0% (low; ref 01-06); Lymphocytes# 0.51 x10^9/L (low; ref 1-3); Eosinophils# 0.00 x10^9/L (low; ref 0.02-0.5). Within range: MCV 84.6 fl; MCH 27.2 pg; MCHC 32.2 g/dL; Neutrophils 78.9%; Monocytes 7.7%; Basophils 0.3%; Neutrophils# 3.06, Monocytes# 0.30, Basophils# 0.01 x10^9/L; Platelet Count 187 x10^9/L; MPV 10.3 fl. Anemia and leukopenia/lymphopenia noted. Methods: RBC and platelets by impedance; WBC total/differential by flow cytometry; Hb by SLS-hemoglobin. Includes Trend Analysis & Graph section.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
-Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
-Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.82
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 10.4
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 32.3
-(EDTA Whole Blood)
-MCV
-fl 83-101 84.6
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.2
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.2
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 16.7
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 3.88
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 78.9
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 13.1
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
-Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
-Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 7.7
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.3
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 3.06
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.51
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.30
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.01
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 187
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.3
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
-Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
-Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
-Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
-Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
-Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
-Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
-Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
-Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 96 of 188** · `2026-03-10_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-10
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-10_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-10_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004207068402000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (collected 10/03/2026 03:08, IP, Dr. Darshit Shah; Serum, Ion-selective electrode). Results: Sodium 133.20 mmol/L (LOW; ref 136-145); Potassium 4.15 mmol/L (Normal; ref 3.5-5.1); Chloride 98.10 mmol/L (Normal; ref 98-107). Hyponatremia noted. Notes: Sodium is the major extracellular cation maintaining fluid distribution and osmotic pressure; decreased levels can be caused by prolonged vomiting/diarrhoea, diminished kidney reabsorption, or excessive fluid retention. Includes Trend Analysis & Graph section.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
-Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:58
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:31
-Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 133.20
-Potassium mmol/L 3.5-5.1 4.15
-Chloride mmol/L 98-107 98.10
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
-Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:58
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:31
-Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
-Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:58
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:31
-Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 97 of 188** · `2026-03-09_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 49 of 91** · `2026-03-09_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -10297,10 +5028,9 @@ MMC Number: 49380.
 1
 ```
 
-
 ---
 
-> **Report 98 of 188** · `2026-03-09_Lab-Micro_MRSA-Screening.md`
+> **Report 50 of 91** · `2026-03-09_Lab-Micro_MRSA-Screening.md`
 
 # MRSA Screening
 
@@ -10333,333 +5063,9 @@ Consultant Microbiologist Consultant Microbiologist
 Page 1 of 1
 ```
 
-
 ---
 
-> **Report 99 of 188** · `2026-03-09_Lab-Haem_Prothrombin-Time-PT.md`
-
-# Prothrombin Time (PT)
-
-- **Date performed**: 2026-03-09
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-09_Lab-Haem_Prothrombin-Time-PT.pdf`](./report_pdf/2026-03-09_Lab-Haem_Prothrombin-Time-PT.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004205155701000.pdf`
-
-## Summary (extracted)
-
-Prothrombin Time (PT) (collected 09/03/2026 03:04, IP, Dr. Darshit Shah; Citrate Plasma, Nephelometry, Fully Automated Coagulometer). Results: Prothrombin Time 11.9 sec (within ref 9.93-12.47); Mean Normal PT 11.2 sec; INR 1.06 (within ref 0.86-1.14). All values within normal range. Notes: PT evaluates extrinsic/common pathways of coagulation; PT/INR is used to monitor oral anticoagulant therapy; PT may be prolonged in chronic liver disease, vitamin K deficiency, DIC, and antiphospholipid antibody syndrome. Includes Trend Analysis & Graph section.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:27
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Prothrombin Time (PT)
-Prothrombin Time.
-Secs 9.93-12.47 11.9
-(Citrate Plasma,Nephelometry)
-Mean Normal PT
-Secs 11.2
-(Citrate Plasma)
-INR
-sec 0.86-1.14 1.06
-(Citrate Plasma,Calculated)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:27
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Test performed on Fully Automated Coagulometer.
-Prothrombin Time (PT):
-• Prothrombin time (PT) is used to evaluate the extrinsic and common pathways of coagulation, which helps detect
-deficiencies of factors ( II, V, VII, X ) and low fibrinogen concentrations.
-• PT/INR is used to monitor oral anticoagulant therapy.
-• Prothrombin time maybe prolonged in cases of chronic liver disease, vitamin K deficiency, disseminated
-intravascular coagulation (DIC) and antiphospholipid antibody syndrome.
-Interference in the assay can be caused by:
-• Preanalytical errors such as hemolyzed, icteric, clotted specimens, improper blood-to-anticoagulant ratio and
-lipemic samples (decreased prothrombin time).
-• Contamination with saline, heparin, or other anticoagulants.
-• Polycythemia with a hematocrit greater than 55%.
-Reference: Yang R, Zubair M, Moosavi L. Prothrombin Time. [Updated 2024 Jan 23]. In: StatPearls [Internet]. Treasure
-Island (FL): StatPearls Publishing; 2024 Jan. Available from: https://www.ncbi.nlm.nih.gov/books/NBK544269.
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:27
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) MD PATHOLOGY M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Senior Clinical Associate Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 100 of 188** · `2026-03-09_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-09
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-09_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-09_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004205152101000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (collected 09/03/2026 03:04, IP, Dr. Darshit Shah). Abnormal/borderline values flagged: Haemoglobin 11.4 g/dL (low; ref 12.0-15.0); Haematocrit 35.2% (low; ref 36.0-46.0); RDW 16.8% (high; ref 11.6-14.0); Total Leukocyte Count 3.84 x10^9/L (low; ref 4-10); Lymphocytes 16.7% (low; ref 20-40); MPV 10.6 fl (high; ref 7.5-10.5); Lymphocytes# 0.64 x10^9/L (low; ref 1-3). Within range: Red cell count 4.17 x10^12/L; MCV 84.4 fl; MCH 27.3 pg; MCHC 32.4 g/dL; Neutrophils 72.6%; Monocytes 9.4%; Eosinophils 0.8%; Basophils 0.5%; Neutrophils# 2.79, Monocytes# 0.36, Eosinophils# 0.03, Basophils# 0.02 x10^9/L; Platelet Count 193 x10^9/L. Methods: RBC and platelets by impedance; WBC total/differential by flow cytometry; Hb by SLS-hemoglobin. Includes Trend Analysis & Graph section.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.17
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 11.4
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 35.2
-(EDTA Whole Blood)
-MCV
-fl 83-101 84.4
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.3
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.4
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 16.8
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 3.84
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 72.6
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 16.7
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 9.4
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.8
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.5
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 2.79
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.64
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.36
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.03
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.02
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 193
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.6
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 101 of 188** · `2026-03-09_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-09
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-09_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-09_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004205161001000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (collected 09/03/2026 03:04, IP, Dr. Darshit Shah; Serum, Ion-selective electrode). Results: Sodium 134.40 mmol/L (LOW; ref 136-145); Potassium 4.41 mmol/L (Normal; ref 3.5-5.1); Chloride 99.70 mmol/L (Normal; ref 98-107). Mild hyponatremia noted. Notes: Sodium is the major extracellular cation maintaining fluid distribution and osmotic pressure; decreased levels can be caused by prolonged vomiting/diarrhoea, diminished kidney reabsorption, or excessive fluid retention. Includes Trend Analysis & Graph section.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:22
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 06:50
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 134.40
-Potassium mmol/L 3.5-5.1 4.41
-Chloride mmol/L 98-107 99.70
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:22
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 06:50
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:22
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 06:50
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 102 of 188** · `2026-03-09_Lab-Biochem_Phosphorus.md`
+> **Report 51 of 91** · `2026-03-09_Lab-Biochem_Phosphorus.md`
 
 # Phosphorus
 
@@ -10714,238 +5120,111 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 103 of 188** · `2026-03-09_Lab-Biochem_Creatinine.md`
+> **Report 52 of 91** · `2026-03-08_Lab-Serol_Anti-Nuclear-Antibody-ANA.md`
 
-# Creatinine
-
-- **Date performed**: 2026-03-09
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-09_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-09_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004205161301000.pdf`
-
-## Summary (extracted)
-
-Creatinine (collected 09/03/2026 03:04, IP, Dr. Darshit Shah; Serum, Jaffe-kinetic). Result: 0.87 mg/dL — within reference range 0.50-0.90 mg/dL (high-normal). eGFR (Serum, Calculated): 65.61 mL/min/1.73 m^2 — corresponds to "Mild to Moderately Decreased" (45-59) / "Mild Decreased" (60-89) range, indicating mildly decreased kidney function. Notes: Creatinine is synthesized endogenously and removed by glomerular filtration; levels generally do not increase until renal function is substantially impaired. Includes Trend Analysis & Graph section.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:22
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 06:50
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.87
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-65.61
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
-Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:22
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 06:50
-Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 104 of 188** · `2026-03-08_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-08
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-08_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-08_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004204245900000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 08-03-2026 06:02 AM Order No. : 0040962258
-Referred By : Shah Darshit Report Date : 08-03-2026 03:55 PM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A right sided PICC line and a nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 105 of 188** · `2026-03-08_Lab-Serol_pANCA-MPO-ELISA-Less-than-2-0-RU-ml-Negative-20.md`
-
-# pANCA/MPO ELISA Less than 2.0 RU/ml Negative: < 20
+# Anti Nuclear Antibody (ANA)
 
 - **Date performed**: 2026-03-08
 - **Category**: Lab-Serol
 - **Department**: IMMUNOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Serol_pANCA-MPO-ELISA-Less-than-2-0-RU-ml-Negative-20.pdf`](./report_pdf/2026-03-08_Lab-Serol_pANCA-MPO-ELISA-Less-than-2-0-RU-ml-Negative-20.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004206028702000.pdf`
+- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Serol_Anti-Nuclear-Antibody-ANA.pdf`](./report_pdf/2026-03-08_Lab-Serol_Anti-Nuclear-Antibody-ANA.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004207977801000.pdf`
 
 ## Summary (extracted)
 
-pANCA/MPO ELISA (collected 08/03/2026 11:56, IP, Dr. Darshit Shah; Serum, ELISA). Result: Less than 2.0 RU/ml. Reference range: Negative < 20, Positive >= 20 RU/ml. Result is within negative range. Notes: ANCA is a screening test for autoimmune vasculitis including Wegener's granulomatosis (WG), microscopic polyangiitis (MPA), Churg-Strauss syndrome, or organ-limited variants. Antibodies to MPO produce the pANCA pattern; useful in diagnosis and monitoring inflammatory activity.
+Anti Nuclear Antibody (ANA) test (collected 08/03/2026 11:56, IP, Dr. Darshit Shah; method Serum Immunofluorescence). ANA Result: Positive (reference: Negative). Pattern: Nucleoplasm granular. Titre: 1:320. Sample screening dilution is 1:100. Interpretation notes: positive result needs clinical correlation; further testing for detection of specific antigens/autoantibodies recommended; immunofluorescence pattern can indicate antigen type and clinical association. Report includes a reference table of antibodies vs. disease prevalence (Ribosomal P-proteins, nRNP/Sm, Sm, SS-A (Ro), SS-B (La), Scl-70, Jo-1, Centromeres) for SLE, Sharp syndrome, systemic sclerosis, polymyositis/dermatomyositis, Sjögren's syndrome, neonatal lupus, primary biliary cirrhosis.
 
 ## Verbatim text from PDF
 
 ```
 Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 11:56
 Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 11:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 15:37
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 13:28
 Accession : 2600053150 Location :1T05S`1TR0509`1TB0509`1ONCOMED
 DEPARTMENT OF LABORATORY MEDICINE - IMMUNOLOGY
 Test Name Result Units Biological Reference Range
-pANCA/MPO ELISA Less than 2.0 RU/ml Negative: < 20
-(Serum,ELISA) Positive: >= 20
-pANCA/MPO Test Interpretation:
-1. Negative result indicates that there is no detectable level of pANCA.
-2. Positive result needs to be correlated clinically;
-3. It is advisable to combine ANCA IFA testing with monospecific ELISA assays for pANCA - anti-proteinase3 (Anti-PR3) and
-cANCA - myeloperoxidase (Anti-MPO) for complete evaluation.
-pANCA/MPO Clinical Information:
-1. Anti neutrophil cytoplasmic antibody (ANCA) is a screening test in suspected cases of autoimmune vasculitis including
-Wegener's granulomatosis (WG), microscopic polyangiitis (MPA), C-S syndrome, or organ-limited variants such as pauci-
-immune necrotizing glomerulonephritis, chronic inflammatory bowel disease, chronic liver disease, etc.
-2. ANCA react with enzymes in the cytoplasmic granules of human neutrophils including proteinase 3 (PR3),
-myeloperoxidase (MPO), elastase, cathepsin G and other target antigens. Antibodies to MPO produce the pANCA pattern.
-The test helps in diagnosis and to monitor inflammatory activity.
-3. The results of tests for autoantibodies including ANCA and specific autoantibodies are ancillary hence therapeutic
-decisions to judge the disease activity or to determine the response to treatment based solely on ANCA titres are not
-generally recommended. Reported results are for the information of the referring Clinician. Results should be interpreted in
-correlation with medical history, clinical presentation and other findings.
-4. Reference ranges and clinical information/interpretations are traceable to kit inserts/textbooks/defined guidelines and
-""https://www.mayocliniclabs.com/test-catalog/index.html".
-∞ End of Report ∞
+Anti Nuclear Antibody (ANA)
+ANA Result Positive Negative
+(Serum,Immunofluorescence)
+Pattern Nucleoplasm
+(Serum) granular
+Titre 1:320
+(Serum)
+ANA Test Interpretation:
+1. Sample screening dilution is 1:100.
+2. Negative result indicates that there is no detectable level of antinuclear antibodies.
+3. Trace positive result needs to be correlated clinically; repeat test after 6 weeks; further testing for detection of
+specific antigens / autoantibodies can be done.
+4. Positive result needs to be correlated clinically; further testing for detection of specific antigens /
+autoantibodies can be done.
+5. Immunofluorescence pattern can indicate the antigen type and its clinical association.
+ANA Clinical Information:
+1. Antinuclear antibody test is a sensitive screening test used to detect presence of autoantibodies which occur
+in a variety of autoimmune diseases, both systemic and organ-specific. The diagnosis is based primarily on the
+presence of compatible clinical signs and symptoms.
+2. The assay results for autoantibodies are ancillary hence therapeutic decision, disease activity or response to
+treatment based solely on the result values are not generally recommended.
+3. Reported results are for the information of the referring Clinician. Results should be interpreted in correlation
+with medical history, clinical presentation and other findings.
+4. Reference ranges and clinical information/interpretations are traceable to kit inserts/textbooks/defined
+guidelines.
 DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
 M D Biochemistry M.D, DPB, DCP (London)
 Consultant Biochemist Consultant Pathologist
-Page 1 of 1
+Page 1 of 3
 Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
 MC-7539
-```
 
-
----
-
-> **Report 106 of 188** · `2026-03-08_Lab-Serol_cANCA-PR3-ELISA.md`
-
-# cANCA/PR3 ELISA
-
-- **Date performed**: 2026-03-08
-- **Category**: Lab-Serol
-- **Department**: IMMUNOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Serol_cANCA-PR3-ELISA.pdf`](./report_pdf/2026-03-08_Lab-Serol_cANCA-PR3-ELISA.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004206028502000.pdf`
-
-## Summary (extracted)
-
-cANCA/PR3 ELISA (collected 08/03/2026 11:56, IP, Dr. Darshit Shah; Serum, ELISA). Result: Less than 2.0 RU/ml. Reference range: Negative < 20, Positive >= 20 RU/ml. Result is within negative range. Notes: ANCA is a screening test for autoimmune vasculitis including Wegener's granulomatosis (WG), microscopic polyangiitis (MPA), Churg-Strauss syndrome, or organ-limited variants. Antibodies to PR3 produce the cANCA pattern; useful in diagnosis and monitoring inflammatory activity.
-
-## Verbatim text from PDF
-
-```
 Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 11:56
 Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 11:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 15:37
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 13:28
 Accession : 2600053150 Location :1T05S`1TR0509`1TB0509`1ONCOMED
 DEPARTMENT OF LABORATORY MEDICINE - IMMUNOLOGY
 Test Name Result Units Biological Reference Range
-cANCA/PR3 ELISA
-(Serum,ELISA)
-cANCA/PR3 ELISA Less than 2.0 RU/ml Negative: < 20
-Positive: >= 20
-cANCA/PR3 Test Interpretation:
-1. Negative result indicates that there is no detectable level of ANCA.
-2. Positive result needs to be correlated clinically;
-3. It is advisable to combine ANCA IFA testing with monospecific ELISA assays for pANCA - anti-proteinase3 (Anti-PR3) and
-cANCA - myeloperoxidase (Anti-MPO) for complete evaluation.
-cANCA/PR3 Clinical Information:
-1. Anti neutrophil cytoplasmic antibody (ANCA) is a screening test in suspected cases of autoimmune vasculitis including
-Wegener's granulomatosis (WG), microscopic polyangiitis (MPA), C-S syndrome, or organ-limited variants such as pauci-
-immune necrotizing glomerulonephritis, chronic inflammatory bowel disease, chronic liver disease, etc.
-2. ANCA react with enzymes in the cytoplasmic granules of human neutrophils including proteinase 3 (PR3),
-myeloperoxidase (MPO), elastase, cathepsin G and other target antigens. Antibodies to PR3 produce the cANCA pattern.
-The test helps in diagnosis and to monitor inflammatory activity.
-3. The results of tests for autoantibodies including ANCA and specific autoantibodies are ancillary hence therapeutic
-decisions to judge the disease activity or to determine the response to treatment based solely on ANCA titres are not
-generally recommended. Reported results are for the information of the referring Clinician. Results should be interpreted in
-correlation with medical history, clinical presentation and other findings.
-4. Reference ranges and clinical information/interpretations are traceable to kit inserts/textbooks/defined guidelines and
-""https://www.mayocliniclabs.com/test-catalog/index.html"..
-∞ End of Report ∞
+Antibodies against Disease Prevalence
+Ribosomal P-proteins Systemic lupus erythematosus 5% - 46%
+nRNP/Sm Sharp syndrome 95% - 100%
+nRNP/Sm Systemic lupus erythematosus 3% - 47%
+nRNP/Sm Systemic sclerosis 2% - 14%
+nRNP/Sm Polymyositis/Dermatomyositis 12% - 16%
+nRNP/Sm Overlapping approx. 24%
+polymyositis/Systemic sclerosis
+Sm Systemic lupus erythematosus 5% - 40%
+SS-A (Ro) Sjögren's syndrome 40% - 95%
+SS-A (Ro) Systemic lupus erythematosus 20% - 60%
+SS-A (Ro) Neonatal lupus erythematosus 95% - 100%
+SS-B (La) Sjögren's syndrome 40% - 95%
+SS-B (La) Systemic lupus erythematosus 5% - 35%
+SS-B (La) Neonatal lupus erythematosus 75% - 80%
+Scl-70 Systemic sclerosis - limited form 5% - 30% or 25% - 75%
+or diffuse form
+Jo-1 Polymyositis/Dermatomyositis 18% - 30%
+Centromeres Systemic sclerosis - limited form 80-95% or approx. 8%
+or diffuse form
+Primary biliary cirrhosis 15% - 30%
 DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
 M D Biochemistry M.D, DPB, DCP (London)
 Consultant Biochemist Consultant Pathologist
-Page 1 of 1
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 11:56
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 11:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 13:28
+Accession : 2600053150 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+Test Name Result Units Biological Reference Range
+∞ End of Report ∞
+Page 3 of 3
 Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
 MC-7539
 ```
 
-
 ---
 
-> **Report 107 of 188** · `2026-03-08_Lab-Serol_Magnesium.md`
+> **Report 53 of 91** · `2026-03-08_Lab-Serol_Magnesium.md`
 
 # Magnesium
 
@@ -11004,10 +5283,63 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
+---
+
+> **Report 54 of 91** · `2026-03-08_Lab-Serol_pANCA-MPO-ELISA-Less-than-2-0-RU-ml-Negative-20.md`
+
+# pANCA/MPO ELISA Less than 2.0 RU/ml Negative: < 20
+
+- **Date performed**: 2026-03-08
+- **Category**: Lab-Serol
+- **Department**: IMMUNOLOGY
+- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Serol_pANCA-MPO-ELISA-Less-than-2-0-RU-ml-Negative-20.pdf`](./report_pdf/2026-03-08_Lab-Serol_pANCA-MPO-ELISA-Less-than-2-0-RU-ml-Negative-20.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004206028702000.pdf`
+
+## Summary (extracted)
+
+pANCA/MPO ELISA (collected 08/03/2026 11:56, IP, Dr. Darshit Shah; Serum, ELISA). Result: Less than 2.0 RU/ml. Reference range: Negative < 20, Positive >= 20 RU/ml. Result is within negative range. Notes: ANCA is a screening test for autoimmune vasculitis including Wegener's granulomatosis (WG), microscopic polyangiitis (MPA), Churg-Strauss syndrome, or organ-limited variants. Antibodies to MPO produce the pANCA pattern; useful in diagnosis and monitoring inflammatory activity.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 11:56
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 11:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 15:37
+Accession : 2600053150 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - IMMUNOLOGY
+Test Name Result Units Biological Reference Range
+pANCA/MPO ELISA Less than 2.0 RU/ml Negative: < 20
+(Serum,ELISA) Positive: >= 20
+pANCA/MPO Test Interpretation:
+1. Negative result indicates that there is no detectable level of pANCA.
+2. Positive result needs to be correlated clinically;
+3. It is advisable to combine ANCA IFA testing with monospecific ELISA assays for pANCA - anti-proteinase3 (Anti-PR3) and
+cANCA - myeloperoxidase (Anti-MPO) for complete evaluation.
+pANCA/MPO Clinical Information:
+1. Anti neutrophil cytoplasmic antibody (ANCA) is a screening test in suspected cases of autoimmune vasculitis including
+Wegener's granulomatosis (WG), microscopic polyangiitis (MPA), C-S syndrome, or organ-limited variants such as pauci-
+immune necrotizing glomerulonephritis, chronic inflammatory bowel disease, chronic liver disease, etc.
+2. ANCA react with enzymes in the cytoplasmic granules of human neutrophils including proteinase 3 (PR3),
+myeloperoxidase (MPO), elastase, cathepsin G and other target antigens. Antibodies to MPO produce the pANCA pattern.
+The test helps in diagnosis and to monitor inflammatory activity.
+3. The results of tests for autoantibodies including ANCA and specific autoantibodies are ancillary hence therapeutic
+decisions to judge the disease activity or to determine the response to treatment based solely on ANCA titres are not
+generally recommended. Reported results are for the information of the referring Clinician. Results should be interpreted in
+correlation with medical history, clinical presentation and other findings.
+4. Reference ranges and clinical information/interpretations are traceable to kit inserts/textbooks/defined guidelines and
+""https://www.mayocliniclabs.com/test-catalog/index.html".
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 1 of 1
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
 
 ---
 
-> **Report 108 of 188** · `2026-03-08_Lab-Serol_ENA-Profile.md`
+> **Report 55 of 91** · `2026-03-08_Lab-Serol_ENA-Profile.md`
 
 # ENA Profile
 
@@ -11134,10 +5466,56 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
+---
+
+> **Report 56 of 91** · `2026-03-08_Lab-Serol_Anti-cyclic-citrullinated-peptide-Anti.md`
+
+# Anti-cyclic citrullinated peptide [Anti-
+
+- **Date performed**: 2026-03-08
+- **Category**: Lab-Serol
+- **Department**: IMMUNOLOGY
+- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Serol_Anti-cyclic-citrullinated-peptide-Anti.pdf`](./report_pdf/2026-03-08_Lab-Serol_Anti-cyclic-citrullinated-peptide-Anti.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004205548503000.pdf`
+
+## Summary (extracted)
+
+Anti-cyclic citrullinated peptide [Anti-CCP] (collected 08/03/2026 11:56, IP, Dr. Darshit Shah; Serum, CMIA method). Result: Less than 0.50 U/mL. Reference range: Negative <5.0, Positive >=5.0 U/mL. Interpretation: Anti-CCP antibodies have improved specificity for Rheumatoid arthritis; levels are useful in evaluating suspected RA and differentiating from other connective tissue diseases. Result is within negative range.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 11:56
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 13:11
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 10:22
+Accession : 2600053150 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- IIMMMMUUNNOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Anti-cyclic citrullinated peptide [Anti-
+Negative: < 5.0 Less than
+CCP] U/mL
+Positive: >= 5.0 0.50
+(Serum,CMIA)
+Anti-CCP:
+1. Anti-cyclic citrullinated peptide antibodies have much improved specificity for Rheumatoid arthritis.
+2. Levels are useful in evaluating for suspected RA and differentiating it from other connective tissue diseases that may
+present with arthritis.
+3. Reported results are for the information of the referring Clinician. Results should be interpreted in correlation with medical
+history, clinical presentation and other findings.
+4. Reference ranges and clinical information/interpretations are traceable to kit inserts/textbooks/defined guidelines.
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
+Page 1 of 1
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
 
 ---
 
-> **Report 109 of 188** · `2026-03-08_Lab-Serol_Anti-dsDNA-ELISA-IgG-Less-than-10-0-IU-ml-Negative-100.md`
+> **Report 57 of 91** · `2026-03-08_Lab-Serol_Anti-dsDNA-ELISA-IgG-Less-than-10-0-IU-ml-Negative-100.md`
 
 # Anti dsDNA ELISA IgG Less than 10.0 IU/ml Negative: < 100
 
@@ -11183,326 +5561,105 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 110 of 188** · `2026-03-08_Lab-Serol_Anti-cyclic-citrullinated-peptide-Anti.md`
+> **Report 58 of 91** · `2026-03-08_Lab-Serol_cANCA-PR3-ELISA.md`
 
-# Anti-cyclic citrullinated peptide [Anti-
+# cANCA/PR3 ELISA
 
 - **Date performed**: 2026-03-08
 - **Category**: Lab-Serol
 - **Department**: IMMUNOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Serol_Anti-cyclic-citrullinated-peptide-Anti.pdf`](./report_pdf/2026-03-08_Lab-Serol_Anti-cyclic-citrullinated-peptide-Anti.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004205548503000.pdf`
+- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Serol_cANCA-PR3-ELISA.pdf`](./report_pdf/2026-03-08_Lab-Serol_cANCA-PR3-ELISA.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004206028502000.pdf`
 
 ## Summary (extracted)
 
-Anti-cyclic citrullinated peptide [Anti-CCP] (collected 08/03/2026 11:56, IP, Dr. Darshit Shah; Serum, CMIA method). Result: Less than 0.50 U/mL. Reference range: Negative <5.0, Positive >=5.0 U/mL. Interpretation: Anti-CCP antibodies have improved specificity for Rheumatoid arthritis; levels are useful in evaluating suspected RA and differentiating from other connective tissue diseases. Result is within negative range.
+cANCA/PR3 ELISA (collected 08/03/2026 11:56, IP, Dr. Darshit Shah; Serum, ELISA). Result: Less than 2.0 RU/ml. Reference range: Negative < 20, Positive >= 20 RU/ml. Result is within negative range. Notes: ANCA is a screening test for autoimmune vasculitis including Wegener's granulomatosis (WG), microscopic polyangiitis (MPA), Churg-Strauss syndrome, or organ-limited variants. Antibodies to PR3 produce the cANCA pattern; useful in diagnosis and monitoring inflammatory activity.
 
 ## Verbatim text from PDF
 
 ```
 Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 11:56
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 13:11
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 10:22
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 11:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 15:37
 Accession : 2600053150 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- IIMMMMUUNNOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Anti-cyclic citrullinated peptide [Anti-
-Negative: < 5.0 Less than
-CCP] U/mL
-Positive: >= 5.0 0.50
-(Serum,CMIA)
-Anti-CCP:
-1. Anti-cyclic citrullinated peptide antibodies have much improved specificity for Rheumatoid arthritis.
-2. Levels are useful in evaluating for suspected RA and differentiating it from other connective tissue diseases that may
-present with arthritis.
-3. Reported results are for the information of the referring Clinician. Results should be interpreted in correlation with medical
-history, clinical presentation and other findings.
-4. Reference ranges and clinical information/interpretations are traceable to kit inserts/textbooks/defined guidelines.
+DEPARTMENT OF LABORATORY MEDICINE - IMMUNOLOGY
+Test Name Result Units Biological Reference Range
+cANCA/PR3 ELISA
+(Serum,ELISA)
+cANCA/PR3 ELISA Less than 2.0 RU/ml Negative: < 20
+Positive: >= 20
+cANCA/PR3 Test Interpretation:
+1. Negative result indicates that there is no detectable level of ANCA.
+2. Positive result needs to be correlated clinically;
+3. It is advisable to combine ANCA IFA testing with monospecific ELISA assays for pANCA - anti-proteinase3 (Anti-PR3) and
+cANCA - myeloperoxidase (Anti-MPO) for complete evaluation.
+cANCA/PR3 Clinical Information:
+1. Anti neutrophil cytoplasmic antibody (ANCA) is a screening test in suspected cases of autoimmune vasculitis including
+Wegener's granulomatosis (WG), microscopic polyangiitis (MPA), C-S syndrome, or organ-limited variants such as pauci-
+immune necrotizing glomerulonephritis, chronic inflammatory bowel disease, chronic liver disease, etc.
+2. ANCA react with enzymes in the cytoplasmic granules of human neutrophils including proteinase 3 (PR3),
+myeloperoxidase (MPO), elastase, cathepsin G and other target antigens. Antibodies to PR3 produce the cANCA pattern.
+The test helps in diagnosis and to monitor inflammatory activity.
+3. The results of tests for autoantibodies including ANCA and specific autoantibodies are ancillary hence therapeutic
+decisions to judge the disease activity or to determine the response to treatment based solely on ANCA titres are not
+generally recommended. Reported results are for the information of the referring Clinician. Results should be interpreted in
+correlation with medical history, clinical presentation and other findings.
+4. Reference ranges and clinical information/interpretations are traceable to kit inserts/textbooks/defined guidelines and
+""https://www.mayocliniclabs.com/test-catalog/index.html"..
 ∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
 Page 1 of 1
 Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
 MC-7539
 ```
 
-
 ---
 
-> **Report 111 of 188** · `2026-03-08_Lab-Serol_Anti-Nuclear-Antibody-ANA.md`
+> **Report 59 of 91** · `2026-03-08_Lab-Biochem_Angiotensin-Converting-Enzyme-19-10-U-L-12-68.md`
 
-# Anti Nuclear Antibody (ANA)
+# Angiotensin Converting Enzyme 19.10 U/L 12-68
 
 - **Date performed**: 2026-03-08
-- **Category**: Lab-Serol
-- **Department**: IMMUNOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Serol_Anti-Nuclear-Antibody-ANA.pdf`](./report_pdf/2026-03-08_Lab-Serol_Anti-Nuclear-Antibody-ANA.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004207977801000.pdf`
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Biochem_Angiotensin-Converting-Enzyme-19-10-U-L-12-68.pdf`](./report_pdf/2026-03-08_Lab-Biochem_Angiotensin-Converting-Enzyme-19-10-U-L-12-68.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004205090802000.pdf`
 
 ## Summary (extracted)
 
-Anti Nuclear Antibody (ANA) test (collected 08/03/2026 11:56, IP, Dr. Darshit Shah; method Serum Immunofluorescence). ANA Result: Positive (reference: Negative). Pattern: Nucleoplasm granular. Titre: 1:320. Sample screening dilution is 1:100. Interpretation notes: positive result needs clinical correlation; further testing for detection of specific antigens/autoantibodies recommended; immunofluorescence pattern can indicate antigen type and clinical association. Report includes a reference table of antibodies vs. disease prevalence (Ribosomal P-proteins, nRNP/Sm, Sm, SS-A (Ro), SS-B (La), Scl-70, Jo-1, Centromeres) for SLE, Sharp syndrome, systemic sclerosis, polymyositis/dermatomyositis, Sjögren's syndrome, neonatal lupus, primary biliary cirrhosis.
+Angiotensin Converting Enzyme (ACE) (Serum, Enzymatic): 19.10 U/L (Normal; Biological Reference Range 12-68).
+
+Notes from report: ACE activity is increased in Sarcoidosis; elevated levels may also be seen with lung diseases such as tuberculosis, fibrosis and tumors; ACE enzyme inhibitory drugs can reduce serum ACE levels.
 
 ## Verbatim text from PDF
 
 ```
 Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 11:56
 Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 11:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 13:28
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 07:23
 Accession : 2600053150 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - IMMUNOLOGY
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
 Test Name Result Units Biological Reference Range
-Anti Nuclear Antibody (ANA)
-ANA Result Positive Negative
-(Serum,Immunofluorescence)
-Pattern Nucleoplasm
-(Serum) granular
-Titre 1:320
-(Serum)
-ANA Test Interpretation:
-1. Sample screening dilution is 1:100.
-2. Negative result indicates that there is no detectable level of antinuclear antibodies.
-3. Trace positive result needs to be correlated clinically; repeat test after 6 weeks; further testing for detection of
-specific antigens / autoantibodies can be done.
-4. Positive result needs to be correlated clinically; further testing for detection of specific antigens /
-autoantibodies can be done.
-5. Immunofluorescence pattern can indicate the antigen type and its clinical association.
-ANA Clinical Information:
-1. Antinuclear antibody test is a sensitive screening test used to detect presence of autoantibodies which occur
-in a variety of autoimmune diseases, both systemic and organ-specific. The diagnosis is based primarily on the
-presence of compatible clinical signs and symptoms.
-2. The assay results for autoantibodies are ancillary hence therapeutic decision, disease activity or response to
-treatment based solely on the result values are not generally recommended.
-3. Reported results are for the information of the referring Clinician. Results should be interpreted in correlation
-with medical history, clinical presentation and other findings.
-4. Reference ranges and clinical information/interpretations are traceable to kit inserts/textbooks/defined
-guidelines.
+Angiotensin Converting Enzyme 19.10 U/L 12-68
+(ACE)
+(Serum,Enzymatic)
+1. ACE activity is increased in Sarcoidosis
+2. Elevated levels of ACE may also be seen with lung diseases such as tuberculosis ,fibrosis & tumors.
+3. ACE enzyme inhibitory drugs can reduce serum ACE levels.
+∞ End of Report ∞
 DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
 M D Biochemistry M.D, DPB, DCP (London)
 Consultant Biochemist Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 11:56
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 11:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 13:28
-Accession : 2600053150 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - IMMUNOLOGY
-Test Name Result Units Biological Reference Range
-Antibodies against Disease Prevalence
-Ribosomal P-proteins Systemic lupus erythematosus 5% - 46%
-nRNP/Sm Sharp syndrome 95% - 100%
-nRNP/Sm Systemic lupus erythematosus 3% - 47%
-nRNP/Sm Systemic sclerosis 2% - 14%
-nRNP/Sm Polymyositis/Dermatomyositis 12% - 16%
-nRNP/Sm Overlapping approx. 24%
-polymyositis/Systemic sclerosis
-Sm Systemic lupus erythematosus 5% - 40%
-SS-A (Ro) Sjögren's syndrome 40% - 95%
-SS-A (Ro) Systemic lupus erythematosus 20% - 60%
-SS-A (Ro) Neonatal lupus erythematosus 95% - 100%
-SS-B (La) Sjögren's syndrome 40% - 95%
-SS-B (La) Systemic lupus erythematosus 5% - 35%
-SS-B (La) Neonatal lupus erythematosus 75% - 80%
-Scl-70 Systemic sclerosis - limited form 5% - 30% or 25% - 75%
-or diffuse form
-Jo-1 Polymyositis/Dermatomyositis 18% - 30%
-Centromeres Systemic sclerosis - limited form 80-95% or approx. 8%
-or diffuse form
-Primary biliary cirrhosis 15% - 30%
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 11:56
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 11:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 13:28
-Accession : 2600053150 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-Test Name Result Units Biological Reference Range
-∞ End of Report ∞
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
+Page 1 of 1
 ```
-
 
 ---
 
-> **Report 112 of 188** · `2026-03-08_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-08
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-08_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004204242602000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (collected 08/03/2026 05:00, IP, Dr. Darshit Shah). Abnormal/borderline values flagged: Haemoglobin 11.8 g/dL (low; ref 12.0-15.0); Haematocrit 36.4% (low-normal; ref 36.0-46.0); RDW 16.6% (high; ref 11.6-14.0); Lymphocytes 15.3% (low; ref 20-40); MPV 11.3 fl (high; ref 7.5-10.5); Lymphocytes# 0.74 x10^9/L (low; ref 1-3). Within range: Red cell count 4.25 x10^12/L; MCV 85.6 fl; MCH 27.8 pg; MCHC 32.4 g/dL; Total Leukocyte Count 4.84 x10^9/L; Neutrophils 75.0%; Monocytes 8.9%; Eosinophils 0.6%; Basophils 0.2%; Neutrophils# 3.63, Monocytes# 0.43, Eosinophils# 0.03, Basophils# 0.01 x10^9/L; Platelet Count 153 x10^9/L. Methods: RBC and platelets by impedance; WBC total/differential by flow cytometry; Hb by SLS-hemoglobin. Includes Trend Analysis & Graph section.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
-Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.25
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 11.8
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 36.4
-(EDTA Whole Blood)
-MCV
-fl 83-101 85.6
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.8
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.4
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 16.6
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 4.84
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 75.0
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 15.3
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
-Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 8.9
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.6
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.2
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 3.63
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.74
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.43
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.03
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.01
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 153
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 11.3
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
-Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
-Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
-Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
-Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 113 of 188** · `2026-03-08_Lab-Biochem_Troponin-I-hs-Less-than.md`
+> **Report 60 of 91** · `2026-03-08_Lab-Biochem_Troponin-I-hs-Less-than.md`
 
 # Troponin I hs Less than
 
@@ -11550,171 +5707,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 114 of 188** · `2026-03-08_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-08
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-08_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004204272201000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode):
-- Sodium: 133.20 mmol/L (Low; Reference 136-145)
-- Potassium: 3.92 mmol/L (Normal; Reference 3.5-5.1)
-- Chloride: 98.90 mmol/L (Normal; Reference 98-107)
-
-Trend graphs included.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 06:03
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 08:25
-Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 133.20
-Potassium mmol/L 3.5-5.1 3.92
-Chloride mmol/L 98-107 98.90
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 06:03
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 08:25
-Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 06:03
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 08:25
-Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 115 of 188** · `2026-03-08_Lab-Biochem_Angiotensin-Converting-Enzyme-19-10-U-L-12-68.md`
-
-# Angiotensin Converting Enzyme 19.10 U/L 12-68
-
-- **Date performed**: 2026-03-08
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-08_Lab-Biochem_Angiotensin-Converting-Enzyme-19-10-U-L-12-68.pdf`](./report_pdf/2026-03-08_Lab-Biochem_Angiotensin-Converting-Enzyme-19-10-U-L-12-68.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004205090802000.pdf`
-
-## Summary (extracted)
-
-Angiotensin Converting Enzyme (ACE) (Serum, Enzymatic): 19.10 U/L (Normal; Biological Reference Range 12-68).
-
-Notes from report: ACE activity is increased in Sarcoidosis; elevated levels may also be seen with lung diseases such as tuberculosis, fibrosis and tumors; ACE enzyme inhibitory drugs can reduce serum ACE levels.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 11:56
-Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 11:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 07:23
-Accession : 2600053150 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Test Name Result Units Biological Reference Range
-Angiotensin Converting Enzyme 19.10 U/L 12-68
-(ACE)
-(Serum,Enzymatic)
-1. ACE activity is increased in Sarcoidosis
-2. Elevated levels of ACE may also be seen with lung diseases such as tuberculosis ,fibrosis & tumors.
-3. ACE enzyme inhibitory drugs can reduce serum ACE levels.
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 1 of 1
-```
-
-
----
-
-> **Report 116 of 188** · `2026-03-07_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-07
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-07_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-07_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004202411700000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side. There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 07-03-2026 06:04 AM Order No. : 0040941680
-Referred By : Shah Darshit Report Date : 07-03-2026 09:22 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side. There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 117 of 188** · `2026-03-07_XRay_X-RAY-Chest-AP-and-Lateral.md`
+> **Report 61 of 91** · `2026-03-07_XRay_X-RAY-Chest-AP-and-Lateral.md`
 
 # X-RAY Chest AP and Lateral
 
@@ -11755,623 +5750,9 @@ MMC Number: 49380.
 1
 ```
 
-
 ---
 
-> **Report 118 of 188** · `2026-03-07_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-07
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-07_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-07_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004202843001000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (EDTA Whole Blood):
-- Red cell count: 4.38 x10^12/L (Normal; 3.8-4.8)
-- Haemoglobin: 12.3 g/dL (Normal; 12.0-15.0)
-- Haematocrit: 38.0% (Normal; 36.0-46.0)
-- MCV: 86.8 fl (Normal; 83-101)
-- MCH: 28.1 pg (Normal; 27.0-32.0)
-- MCHC: 32.4 g/dL (Normal; 31.5-34.5)
-- RDW: 17.1% (High; 11.6-14.0)
-- Total Leukocyte Count: 5.06 x10^9/L (Normal; 4-10)
-- Neutrophils: 82.0% (High; 40-80); Neutrophils#: 4.15 x10^9/L (Normal; 2-7)
-- Lymphocytes: 11.1% (Low; 20-40); Lymphocytes#: 0.56 x10^9/L (Low; 1-3)
-- Monocytes: 5.7% (Normal; 2-10); Monocytes#: 0.29 x10^9/L (Normal; 0.2-1.0)
-- Eosinophils: 0.8% (Low; 1-6); Eosinophils#: 0.04 x10^9/L (Normal; 0.02-0.5)
-- Basophils: 0.4% (Normal; 0-2); Basophils#: 0.02 x10^9/L (Normal; 0.0-0.1)
-- Platelet Count: 144 x10^9/L (Low; 150-410)
-- MPV: 11.6 fl (High; 7.5-10.5)
-
-Trend graphs included for CBC parameters.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
-Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
-Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.38
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 12.3
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 38.0
-(EDTA Whole Blood)
-MCV
-fl 83-101 86.8
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 28.1
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.4
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 17.1
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 5.06
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 82.0
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 11.1
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
-Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
-Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 5.7
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.8
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.4
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 4.15
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.56
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.29
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.04
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.02
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 144
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 11.6
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
-Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
-Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
-Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
-Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
-Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
-Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
-Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
-Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 119 of 188** · `2026-03-07_Lab-Biochem_Potassium.md`
-
-# Potassium
-
-- **Date performed**: 2026-03-07
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-07_Lab-Biochem_Potassium.pdf`](./report_pdf/2026-03-07_Lab-Biochem_Potassium.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004202986701000.pdf`
-
-## Summary (extracted)
-
-Potassium (Serum, Ion-selective electrode): 4.88 mmol/L (Normal; Reference 3.5-5.1)
-
-Trend graph included.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
-Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:22
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 12:00
-Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-Potassium
-mmol/L 3.5-5.1 4.88
-(Serum,Ion-selective electrode)
-Potassium:
-• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
-decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
-body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
-dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
-Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:22
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 12:00
-Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 120 of 188** · `2026-03-06_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-06
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-06_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-06_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004200411300000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side. There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 06-03-2026 06:35 AM Order No. : 0040922882
-Referred By : Shah Darshit Report Date : 06-03-2026 08:34 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side. There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 121 of 188** · `2026-03-06_Lab-Serol_Magnesium.md`
-
-# Magnesium
-
-- **Date performed**: 2026-03-06
-- **Category**: Lab-Serol
-- **Department**: IMMUNOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-06_Lab-Serol_Magnesium.pdf`](./report_pdf/2026-03-06_Lab-Serol_Magnesium.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004201754301000.pdf`
-
-## Summary (extracted)
-
-Magnesium (Serum, Colorimetric Endpoint Method): 2.21 mg/dL (Normal; Reference 1.6-2.4)
-
-Trend graph included.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 12:17
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 12:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 16:41
-Accession : 2600051658 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- IIMMMMUUNNOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Magnesium
-mg/dL 1.6-2.4 2.21
-(Serum,Colorimetric Endpoint Method)
-Magnesium:
-Magnesium along with potassium is a major intracellular cation. Magnesium is a cofactor of many enzyme systems.
-Approximately 70% of magnesium ions are stored in bone. Levels are regulated mainly via the kidneys. Hypermagnesemia is
-found in acute and chronic renal failure, magnesium overload and magnesium release from the intracellular space related to
-changes in calcium-, potassium- and phosphate-homeostasis. This may result in prolonged atrioventricular conduction time,
-ventricular arrhythmias , coronary artery spasms, central nervous system depression or cardiac and/or respiratory arrest.
-Conditions associated with hypomagnesemia include chronic alcoholism, childhood malnutrition, lactation, malabsorption,
-acute pancreatitis, hypothyroidism, chronic glomerulonephritis, aldosteronism and prolonged intravenous feeding.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 12:17
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 12:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 16:41
-Accession : 2600051658 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- IIIMMMMMMUUUNNNOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 122 of 188** · `2026-03-06_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-06
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-06_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-06_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004200365401000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (EDTA Whole Blood):
-- Red cell count: 4.53 x10^12/L (Normal; 3.8-4.8)
-- Haemoglobin: 12.5 g/dL (Normal; 12.0-15.0)
-- Haematocrit: 38.4% (Normal; 36.0-46.0)
-- MCV: 84.8 fl (Normal; 83-101)
-- MCH: 27.6 pg (Normal; 27.0-32.0)
-- MCHC: 32.6 g/dL (Normal; 31.5-34.5)
-- RDW: 17.0% (High; 11.6-14.0)
-- Total Leukocyte Count: 9.87 x10^9/L (Normal; 4-10)
-- Neutrophils: 94.6% (High; 40-80); Neutrophils#: 9.33 x10^9/L (High; 2-7)
-- Lymphocytes: 3.4% (Low; 20-40); Lymphocytes#: 0.34 x10^9/L (Low; 1-3)
-- Monocytes: 1.1% (Low; 2-10); Monocytes#: 0.11 x10^9/L (Low; 0.2-1.0)
-- Eosinophils: 0.7% (Low; 1-6); Eosinophils#: 0.07 x10^9/L (Normal; 0.02-0.5)
-- Basophils: 0.2% (Normal; 0-2); Basophils#: 0.02 x10^9/L (Normal; 0.0-0.1)
-- Platelet Count: 163 x10^9/L (Normal; 150-410)
-- MPV: 11.2 fl (High; 7.5-10.5)
-- Comments: Delta check failed for WBC count, Kindly correlate clinically.
-
-Trend graphs included for CBC parameters.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
-Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.53
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 12.5
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 38.4
-(EDTA Whole Blood)
-MCV
-fl 83-101 84.8
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.6
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.6
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 17.0
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 9.87
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 94.6
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 3.4
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
-Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 1.1
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.7
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.2
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 9.33
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.34
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.11
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.07
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.02
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 163
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 11.2
-(EDTA Whole Blood)
-Comments
-Delta check failed for WBC count, Kindly correlate clinically.
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
-Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
-Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
-Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
-Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 123 of 188** · `2026-03-06_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-06
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-06_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-06_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004200378902000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode):
-- Sodium: 134.20 mmol/L (Low; Reference 136-145)
-- Potassium: 4.60 mmol/L (Normal; Reference 3.5-5.1)
-- Chloride: 100.10 mmol/L (Normal; Reference 98-107)
-
-Trend graphs included.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:33
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 06:31
-Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 134.20
-Potassium mmol/L 3.5-5.1 4.60
-Chloride mmol/L 98-107 100.10
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:33
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 06:31
-Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
-Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:33
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 06:31
-Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 124 of 188** · `2026-03-06_Lab-Biochem_Phosphorus.md`
+> **Report 62 of 91** · `2026-03-06_Lab-Biochem_Phosphorus.md`
 
 # Phosphorus
 
@@ -12428,629 +5809,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 125 of 188** · `2026-03-05_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-05
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-05_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-05_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004198379400000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid zone and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 05-03-2026 06:24 AM Order No. : 0040907511
-Referred By : Shah Darshit Report Date : 05-03-2026 07:54 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid zone and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 126 of 188** · `2026-03-05_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-05
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-05_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-05_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004198500601000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (EDTA Whole Blood):
-- Red cell count: 4.48 x10^12/L (Normal; 3.8-4.8)
-- Haemoglobin: 12.5 g/dL (Normal; 12.0-15.0)
-- Haematocrit: 39.4% (Normal; 36.0-46.0)
-- MCV: 87.9 fl (Normal; 83-101)
-- MCH: 27.9 pg (Normal; 27.0-32.0)
-- MCHC: 31.7 g/dL (Normal; 31.5-34.5)
-- RDW: 16.8% (High; 11.6-14.0)
-- Total Leukocyte Count: 24.13 x10^9/L (High; 4-10)
-- Neutrophils: 97.4% (High; 40-80); Neutrophils#: 23.49 x10^9/L (High; 2-7)
-- Lymphocytes: 1.8% (Low; 20-40); Lymphocytes#: 0.44 x10^9/L (Low; 1-3)
-- Monocytes: 0.4% (Low; 2-10); Monocytes#: 0.09 x10^9/L (Low; 0.2-1.0)
-- Eosinophils: 0.3% (Low; 1-6); Eosinophils#: 0.08 x10^9/L (Normal; 0.02-0.5)
-- Basophils: 0.1% (Normal; 0-2); Basophils#: 0.03 x10^9/L (Normal; 0.0-0.1)
-- Platelet Count: 190 x10^9/L (Normal; 150-410)
-- MPV: 12.0 fl (High; 7.5-10.5)
-
-Trend graphs included for CBC parameters.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.48
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 12.5
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 39.4
-(EDTA Whole Blood)
-MCV
-fl 83-101 87.9
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.9
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 31.7
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 16.8
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 24.13
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 97.4
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 1.8
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 0.4
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.3
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.1
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 23.49
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.44
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.09
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.08
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.03
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 190
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 12.0
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 127 of 188** · `2026-03-05_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-05
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-05_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-05_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004198820701000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode):
-- Sodium: 133.30 mmol/L (Low; Reference 136-145)
-- Potassium: 4.79 mmol/L (Normal; Reference 3.5-5.1)
-- Chloride: 100.20 mmol/L (Normal; Reference 98-107)
-
-Medical Remarks: Rechecked from fresh sample. Trend graphs included.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 06:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:20
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 133.30
-Potassium mmol/L 3.5-5.1 4.79
-Chloride mmol/L 98-107 100.20
-Medical Remarks: Rechecked from fresh sample.
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 06:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:20
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Clinical Assistant Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 06:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:20
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Clinical Assistant Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 128 of 188** · `2026-03-05_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-05
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-05_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-05_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004198820801000.pdf`
-
-## Summary (extracted)
-
-Creatinine:
-- Creatinine (Serum, Jaffe - kinetic): 0.76 mg/dL (Normal; Reference 0.50-0.90)
-- eGFR (Serum, Calculated): 76.69 mL/min/1.73 m^2 (Mild Decreased range 60-89; reference categories: Normal/High >=90, Mild 60-89, Mild-Moderate 45-59, Moderate-Severe 30-44, Severe 15-29, Kidney Failure <15)
-
-Trend graph for Creatinine included.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 06:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:20
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.76
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-76.69
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
-Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 06:31
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:20
-Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 129 of 188** · `2026-03-04_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-04
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-04_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-04_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004196498300000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid zone and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 04-03-2026 06:11 AM Order No. : 0040889308
-Referred By : Shah Darshit Report Date : 04-03-2026 06:14 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid zone and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 130 of 188** · `2026-03-04_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-04
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-04_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-04_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004196627802000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (EDTA Whole Blood):
-- Red cell count: 4.25 x10^12/L (Normal; 3.8-4.8)
-- Haemoglobin: 11.7 g/dL (Low; 12.0-15.0)
-- Haematocrit: 36.8% (Normal; 36.0-46.0)
-- MCV: 86.6 fl (Normal; 83-101)
-- MCH: 27.5 pg (Normal; 27.0-32.0)
-- MCHC: 31.8 g/dL (Normal; 31.5-34.5)
-- RDW: 16.1% (High; 11.6-14.0)
-- Total Leukocyte Count: 19.49 x10^9/L (High; 4-10)
-- Neutrophils: 97.0% (High; 40-80); Neutrophils#: 18.90 x10^9/L (High; 2-7)
-- Lymphocytes: 1.7% (Low; 20-40); Lymphocytes#: 0.34 x10^9/L (Low; 1-3)
-- Monocytes: 1.2% (Low; 2-10); Monocytes#: 0.24 x10^9/L (Normal; 0.2-1.0)
-- Eosinophils: 0.0% (Low; 1-6); Eosinophils#: 0.00 x10^9/L (Low; 0.02-0.5)
-- Basophils: 0.1% (Normal; 0-2); Basophils#: 0.01 x10^9/L (Normal; 0.0-0.1)
-- Platelet Count: 210 x10^9/L (Normal; 150-410)
-- MPV: 11.3 fl (High; 7.5-10.5)
-- RBC Morphology: Normocytic normochromic RBCs.
-- WBC Morphology: Neutrophilic leukocytosis.
-- Platelets: Adequate in smear.
-
-Trend graphs included for CBC parameters.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
-Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
-Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.25
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 11.7
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 36.8
-(EDTA Whole Blood)
-MCV
-fl 83-101 86.6
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.5
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 31.8
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 16.1
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 19.49
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 97.0
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 1.7
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
-Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
-Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 1.2
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.1
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 18.90
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.34
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.24
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.01
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 210
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 11.3
-(EDTA Whole Blood)
-RBC Morphology
-Normocytic normochromic RBCs
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
-Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
-Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-WBC Morphology
-Neutrophilic leukocytosis.
-(EDTA Whole Blood)
-Platelets
-Adequate in smear.
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) MD PATHOLOGY M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Senior Clinical Associate Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
-Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
-Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
-Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
-Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
-Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
-Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 131 of 188** · `2026-03-04_Lab-Biochem_S-Electrolytes.md`
+> **Report 63 of 91** · `2026-03-04_Lab-Biochem_S-Electrolytes.md`
 
 # S. Electrolytes
 
@@ -13126,537 +5887,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 132 of 188** · `2026-03-04_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-04
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-04_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-04_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004200411300000asdf.pdf`
-
-## Summary (extracted)
-
-Creatinine (Department of Laboratory Medicine - Biochemistry), collected 04/03/2026 05:21. Serum Creatinine (Jaffe - kinetic) 0.76 mg/dL (within ref 0.50-0.90). eGFR (calculated) 76.69 mL/min/1.73 m^2 (Mild Decreased: 60-89). Includes Trend Analysis & Graph.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
-Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:29
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 08:36
-Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.76
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-76.69
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
-Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:29
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 08:36
-Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 133 of 188** · `2026-03-03_XRay_X-Ray-Portable-Chest-AP_2.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-03
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-03_XRay_X-Ray-Portable-Chest-AP_2.pdf`](./report_pdf/2026-03-03_XRay_X-Ray-Portable-Chest-AP_2.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004196101800000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid zone and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 03-03-2026 04:58 PM Order No. : 0040884595
-Referred By : Shah Darshit Report Date : 03-03-2026 07:04 PM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid zone and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 134 of 188** · `2026-03-03_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-03
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-03_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-03_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004195568600000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid zone and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 03-03-2026 05:51 AM Order No. : 0040881299
-Referred By : Shah Darshit Report Date : 03-03-2026 04:36 PM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid zone and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 135 of 188** · `2026-03-03_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-03
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-03_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-03_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004195595702000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (Department of Laboratory Medicine - Haematology), collected 03/03/2026 03:18. Abnormal values: Haemoglobin 10.9 g/dL (low; ref 12.0-15.0); Haematocrit 34.2% (low; ref 36.0-46.0); MCHC 31.9 g/dL (within); RDW 15.9% (high; ref 11.6-14.0); Neutrophils 92.0% (high; ref 40-80); Lymphocytes 5.5% (low; ref 20-40); Lymphocytes# 0.36 x10^9 cells/L (low; ref 1-3); Monocytes# 0.15 x10^9 cells/L (low; ref 0.2-1.0); MPV 10.9 fl (high; ref 7.5-10.5). Within range: Red cell count 3.97 x10^12/L, MCV 86.1 fl, MCH 27.5 pg, Total Leukocyte Count 6.59 x10^9/L, Monocytes 2.3%, Eosinophils 0.0%, Basophils 0.2%, Neutrophils# 6.07, Eosinophils# 0.00, Basophils# 0.01, Platelet Count 225 x10^9/L. Includes Trend Analysis & Graph pages.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.97
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 10.9
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 34.2
-(EDTA Whole Blood)
-MCV
-fl 83-101 86.1
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.5
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 31.9
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 15.9
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 6.59
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 92.0
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 5.5
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
-M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Monocytes
-% 2-10 2.3
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-Basophils
-% 0-02 0.2
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 6.07
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.36
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.15
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.01
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 225
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.9
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
-M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
-M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
-M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-∞ End of Report ∞
-DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
-M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 136 of 188** · `2026-03-03_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-03
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-03_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-03_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004195586301000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode), collected 03/03/2026 03:18 (Department of Laboratory Medicine - Biochemistry). Sodium 136.60 mmol/L (ref 136-145); Potassium 4.62 mmol/L (ref 3.5-5.1); Chloride 99.90 mmol/L (ref 98-107). All values within reference range. Includes Trend Analysis & Graph pages.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 08:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 136.60
-Potassium mmol/L 3.5-5.1 4.62
-Chloride mmol/L 98-107 99.90
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 08:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 08:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-∞ End of Report ∞
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 3
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 137 of 188** · `2026-03-03_Lab-Biochem_Potassium.md`
-
-# Potassium
-
-- **Date performed**: 2026-03-03
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-03_Lab-Biochem_Potassium.pdf`](./report_pdf/2026-03-03_Lab-Biochem_Potassium.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004196154002000.pdf`
-
-## Summary (extracted)
-
-Potassium (Department of Laboratory Medicine - Biochemistry), collected 03/03/2026 17:04. Serum Potassium (Ion-selective electrode) 4.14 mmol/L (within ref 3.5-5.1). Includes Trend Analysis & Graph.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 17:04
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 18:43
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 19:28
-Accession : 2600049277 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-Potassium
-mmol/L 3.5-5.1 4.14
-(Serum,Ion-selective electrode)
-Potassium:
-• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
-decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
-body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
-dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 17:04
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 18:43
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 19:28
-Accession : 2600049277 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 138 of 188** · `2026-03-03_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-03
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-03_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-03_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004195586101000.pdf`
-
-## Summary (extracted)
-
-Creatinine (Department of Laboratory Medicine - Biochemistry), collected 03/03/2026 03:18. Serum Creatinine (Jaffe - kinetic) 0.83 mg/dL (within ref 0.50-0.90). eGFR (calculated) 69.28 mL/min/1.73 m^2 (Mild Decreased: 60-89). Includes Trend Analysis & Graph.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 08:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.83
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-69.28
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
-Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 08:08
-Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 139 of 188** · `2026-03-02_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 64 of 91** · `2026-03-02_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -13697,10 +5930,9 @@ MMC Number: 49380.
 1
 ```
 
-
 ---
 
-> **Report 140 of 188** · `2026-03-02_Lab-Serol_Magnesium.md`
+> **Report 65 of 91** · `2026-03-02_Lab-Serol_Magnesium.md`
 
 # Magnesium
 
@@ -13744,590 +5976,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 141 of 188** · `2026-03-02_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-02
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-02_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-02_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004193832902000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (Department of Laboratory Medicine - Haematology), collected 02/03/2026 03:43. Abnormal values: Haemoglobin 10.7 g/dL (low; ref 12.0-15.0); Haematocrit 34.3% (low; ref 36.0-46.0); MCHC 31.2 g/dL (low; ref 31.5-34.5); RDW 15.5% (high; ref 11.6-14.0); Neutrophils 88.1% (high; ref 40-80); Lymphocytes 5.9% (low; ref 20-40); Lymphocytes# 0.39 x10^9 cells/L (low; ref 1-3). Within range: Red cell count 3.97 x10^12/L, MCV 86.4 fl, MCH 27.0 pg, Total Leukocyte Count 6.58 x10^9/L, Monocytes 5.8%, Eosinophils 0.0%, Basophils 0.2%, Neutrophils# 5.80 x10^9 cells/L, Monocytes# 0.38, Eosinophils# 0.00, Basophils# 0.01, Platelet Count 214 x10^9/L, MPV 10.4 fl. Includes Trend Analysis & Graph pages.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 05:55
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 08:58
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.97
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 10.7
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 34.3
-(EDTA Whole Blood)
-MCV
-fl 83-101 86.4
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.0
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 31.2
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 15.5
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 6.58
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 88.1
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 5.9
-(EDTA Whole Blood)
-Monocytes
-% 2-10 5.8
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 1 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 05:55
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 08:58
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Basophils
-% 0-02 0.2
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 5.80
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.39
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.38
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.01
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 214
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.4
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
-Page 2 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 05:55
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 08:58
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 3 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 05:55
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 08:58
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 4 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 05:55
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 08:58
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-∞ End of Report ∞
-Page 5 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 142 of 188** · `2026-03-02_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-02
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-02_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-02_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004193822402000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode), collected 02/03/2026 03:43 (Department of Laboratory Medicine - Biochemistry). Sodium 141.40 mmol/L (ref 136-145); Potassium 4.13 mmol/L (ref 3.5-5.1); Chloride 102.00 mmol/L (ref 98-107). All values within reference range. Includes Trend Analysis & Graph pages.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 141.40
-Potassium mmol/L 3.5-5.1 4.13
-Chloride mmol/L 98-107 102.00
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 2 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 3 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-∞ End of Report ∞
-Page 4 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 143 of 188** · `2026-03-02_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-02
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-02_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-02_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004193822502000.pdf`
-
-## Summary (extracted)
-
-Creatinine (Department of Laboratory Medicine - Biochemistry), collected 02/03/2026 03:43. Serum Creatinine (Jaffe - kinetic) 0.86 mg/dL (within ref 0.50-0.90). eGFR (calculated) 66.50 mL/min/1.73 m^2 (Mild Decreased: 60-89). Includes Trend Analysis & Graph.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.86
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-66.50
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
-Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
-Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 144 of 188** · `2026-03-01_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-03-01
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-03-01_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-03-01_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004193132300000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 01-03-2026 08:26 AM Order No. : 0040857790
-Referred By : Shah Darshit Report Date : 01-03-2026 02:33 PM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 145 of 188** · `2026-03-01_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-03-01
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-03-01_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-03-01_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004192959602000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (Department of Laboratory Medicine - Haematology), collected 01/03/2026 03:44. Abnormal values: Red cell count 3.83 x10^12/L (low; ref 3.8-4.8 — borderline); Haemoglobin 10.7 g/dL (low; ref 12.0-15.0); Haematocrit 33.1% (low; ref 36.0-46.0); RDW 15.1% (high; ref 11.6-14.0); Neutrophils 86.1% (high; ref 40-80); Lymphocytes 6.5% (low; ref 20-40); Neutrophils# 7.10 x10^9 cells/L (high; ref 2-7 — borderline); Lymphocytes# 0.54 x10^9 cells/L (low; ref 1-3); MPV 10.6 fl (high; ref 7.5-10.5). Within range: MCV 86.4 fl, MCH 27.9 pg, MCHC 32.3 g/dL, Total Leukocyte Count 8.25 x10^9/L, Monocytes 7.2%, Eosinophils 0.1%, Basophils 0.1%, Monocytes# 0.59, Eosinophils# 0.01, Basophils# 0.01, Platelet Count 229 x10^9/L. Includes Trend Analysis & Graph pages.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:27
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 09:51
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.83
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 10.7
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 33.1
-(EDTA Whole Blood)
-MCV
-fl 83-101 86.4
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.9
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.3
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 15.1
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 8.25
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 86.1
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 6.5
-(EDTA Whole Blood)
-Monocytes
-% 2-10 7.2
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.1
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 1 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:27
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 09:51
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Basophils
-% 0-02 0.1
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 7.10
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.54
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.59
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.01
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.01
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 229
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.6
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) MD PATHOLOGY M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Senior Clinical Associate Consultant Pathologist
-Page 2 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:27
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 09:51
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 3 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:27
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 09:51
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
-M.D ( Pathology) MD PATHOLOGY M.D Pathology
-Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
-Page 4 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:27
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 09:51
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-∞ End of Report ∞
-Page 5 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 146 of 188** · `2026-03-01_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-03-01
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-01_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-03-01_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004192977601000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode), collected 01/03/2026 03:44 (Department of Laboratory Medicine - Biochemistry). Sodium 143.60 mmol/L (ref 136-145); Potassium 3.84 mmol/L (ref 3.5-5.1); Chloride 101.80 mmol/L (ref 98-107). All values within reference range. Includes Trend Analysis & Graph pages.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 143.60
-Potassium mmol/L 3.5-5.1 3.84
-Chloride mmol/L 98-107 101.80
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-∞ End of Report ∞
-Page 4 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 147 of 188** · `2026-03-01_Lab-Biochem_Potassium.md`
+> **Report 66 of 91** · `2026-03-01_Lab-Biochem_Potassium.md`
 
 # Potassium
 
@@ -14383,1275 +6034,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 148 of 188** · `2026-03-01_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-03-01
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-03-01_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-03-01_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004192977701000.pdf`
-
-## Summary (extracted)
-
-Creatinine (Department of Laboratory Medicine - Biochemistry), collected 01/03/2026 03:44. Serum Creatinine (Jaffe - kinetic) 0.94 mg/dL (high; ref 0.50-0.90). eGFR (calculated) 60.01 mL/min/1.73 m^2 (Mild to Moderately Decreased: 45-59 / Mild Decreased: 60-89 boundary). Includes Trend Analysis & Graph.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.94
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-60.01
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
-Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
-Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 149 of 188** · `2026-02-28_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-02-28
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-02-28_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-02-28_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004191152200000.pdf`
-
-## Summary (extracted)
-
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 28-02-2026 05:53 AM Order No. : 0040839676
-Referred By : Shah Darshit Report Date : 28-02-2026 06:43 AM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-A nasogastric tube is seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 150 of 188** · `2026-02-28_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-02-28
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-02-28_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-02-28_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004191166401000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (Department of Laboratory Medicine - Haematology), collected 28/02/2026 03:27. Abnormal values: Red cell count 3.68 x10^12/L (low; ref 3.8-4.8); Haemoglobin 9.8 g/dL (low; ref 12.0-15.0); Haematocrit 32.1% (low; ref 36.0-46.0); MCH 26.6 pg (low; ref 27.0-32.0); MCHC 30.5 g/dL (low; ref 31.5-34.5); RDW 15.1% (high; ref 11.6-14.0); Neutrophils 87.5% (high; ref 40-80); Lymphocytes 6.3% (low; ref 20-40); Neutrophils# 8.44 x10^9 cells/L (high; ref 2-7); Lymphocytes# 0.61 x10^9 cells/L (low; ref 1-3); MPV 10.6 fl (high; ref 7.5-10.5). Within range: MCV 87.2 fl, Total Leukocyte Count 9.65 x10^9/L, Monocytes 6.1%, Eosinophils 0.0%, Basophils 0.1%, Monocytes# 0.59, Eosinophils# 0.00, Basophils# 0.01, Platelet Count 209 x10^9/L. Includes Trend Analysis & Graph pages.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
-Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 05:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 08:35
-Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 3.68
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 9.8
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 32.1
-(EDTA Whole Blood)
-MCV
-fl 83-101 87.2
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 26.6
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 30.5
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 15.1
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 9.65
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 87.5
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 6.3
-(EDTA Whole Blood)
-Monocytes
-% 2-10 6.1
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 1 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
-Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 05:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 08:35
-Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Basophils
-% 0-02 0.1
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 8.44
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.61
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.59
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.01
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 209
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.6
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
-Page 2 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
-Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 05:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 08:35
-Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 3 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
-Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 05:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 08:35
-Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 4 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
-Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 05:44
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 08:35
-Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-∞ End of Report ∞
-Page 5 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 151 of 188** · `2026-02-28_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-02-28
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-28_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-02-28_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004191183201000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode). Abnormal/flagged values:
-- Potassium: 3.46 mmol/L (Low; ref 3.5-5.1) — mild hypokalaemia
-
-Within normal range:
-- Sodium: 141.30 mmol/L (ref 136-145)
-- Chloride: 101.10 mmol/L (ref 98-107)
-
-Reported by Dr. Kshama Pimpalgaonkar, Dr. Rina Shah, Dr. Srikant Gharpure.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
-Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 09:34
-Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 141.30
-Potassium mmol/L 3.5-5.1 3.46
-Chloride mmol/L 98-107 101.10
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
-Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 09:34
-Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 2 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
-Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 09:34
-Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 3 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
-Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 06:12
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 09:34
-Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-∞ End of Report ∞
-Page 4 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 152 of 188** · `2026-02-27_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-02-27
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-02-27_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-02-27_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004189423501000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (CBC). Abnormal/flagged values:
-- Haemoglobin: 11.0 g/dL (Low; ref 12.0-15.0)
-- Haematocrit: 34.7 % (Low; ref 36.0-46.0)
-- RDW: 15.1 % (High; ref 11.6-14.0)
-- Total Leukocyte Count: 10.49 x10^9/L (High; ref 4-10) — borderline leukocytosis
-- Neutrophils: 92.5 % (High; ref 40-80)
-- Lymphocytes: 4.6 % (Low; ref 20-40)
-- Eosinophils: 0.0 % (Low; ref 01-06)
-- Neutrophils#: 9.71 x10^9 cells/L (High; ref 2-7)
-- Lymphocytes#: 0.48 x10^9 cells/L (Low; ref 1-3)
-- Eosinophils#: 0.00 x10^9 cells/L (Low; ref 0.02-0.5)
-- MPV: 10.5 fl (High; ref 7.5-10.5 — at upper limit)
-
-Within normal range: Red cell count 4.07, MCV 85.3, MCH 27.0, MCHC 31.7, Monocytes 2.7%, Basophils 0.2%, Monocytes# 0.28, Basophils# 0.02, Platelet Count 234. Picture continues to show neutrophilia with relative/absolute lymphopenia and mild anaemia. Reported by Dr. Archana Vazifdar and Dr. Preeti Singh.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:08
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:47
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:19
-Accession : 2600046331 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.07
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 11.0
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 34.7
-(EDTA Whole Blood)
-MCV
-fl 83-101 85.3
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.0
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 31.7
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 15.1
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 10.49
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 92.5
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 4.6
-(EDTA Whole Blood)
-Monocytes
-% 2-10 2.7
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.0
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 1 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:08
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:47
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:19
-Accession : 2600046331 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Basophils
-% 0-02 0.2
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 9.71
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.48
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.28
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.00
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.02
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 234
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.5
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Consultant Pathologist
-Page 2 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:08
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:47
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:19
-Accession : 2600046331 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology
-Head Of Hematopathology Consultant Pathologist
-Page 3 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:08
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:47
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:19
-Accession : 2600046331 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-DR. ARCHANA VAZIFDAR
-M.D ( Pathology)
-Head Of Hematopathology
-DR. PREETI SINGH
-M.D Pathology
-Consultant Pathologist
-Page 4 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:08
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:47
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:19
-Accession : 2600046331 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-∞ End of Report ∞
-Page 5 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 153 of 188** · `2026-02-27_Lab-Biochem_S-Electrolytes.md`
-
-# S. Electrolytes
-
-- **Date performed**: 2026-02-27
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-27_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-02-27_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004189414901000.pdf`
-
-## Summary (extracted)
-
-S. Electrolytes (Serum, Ion-selective electrode). All values within normal range:
-- Sodium: 142.20 mmol/L (ref 136-145)
-- Potassium: 3.75 mmol/L (ref 3.5-5.1)
-- Chloride: 98.90 mmol/L (ref 98-107)
-
-Reported by Dr. Kshama Pimpalgaonkar, Dr. Rina Shah, Dr. Srikant Gharpure.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 142.20
-Potassium mmol/L 3.5-5.1 3.75
-Chloride mmol/L 98-107 98.90
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 2 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist Consultant Pathologist
-Page 3 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-∞ End of Report ∞
-Page 4 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 154 of 188** · `2026-02-27_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-02-27
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-27_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-02-27_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004189415001000.pdf`
-
-## Summary (extracted)
-
-Creatinine. Abnormal/flagged values:
-- Creatinine (Serum, Jaffe - kinetic): 0.93 mg/dL (High; ref 0.50-0.90)
-- eGFR (Serum, Calculated): 60.77 mL/min/1.73 m^2 (Mild to Moderately Decreased band: 45-59 / Mild Decreased band: 60-89; ref Normal or High >=90)
-
-Picture suggests rising creatinine and reduced eGFR compared to 23-Feb-2026 (Cr 0.88 / eGFR 64.77) — trending toward worsening renal function. Reported by Dr. Kshama Pimpalgaonkar, Dr. Rina Shah, Dr. Srikant Gharpure.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.93
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-60.77
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 155 of 188** · `2026-02-27_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.md`
-
-# Blood Gas Analysis-Electrolyt.,Lactate & Glucose
-
-- **Date performed**: 2026-02-27
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-27_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.pdf`](./report_pdf/2026-02-27_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004189284401000.pdf`
-
-## Summary (extracted)
-
-Blood Gas Analysis - Electrolytes, Lactate & Glucose (Arterial blood). Abnormal/flagged values:
-- pH: 7.47 (High; ref 7.35-7.45) — mild alkalosis
-- pCO2: 48.70 mmHg (High; ref 32-45)
-- pO2: 75.90 mmHg (Low; ref 83-108)
-- HCO3: 35.70 mmol/L (High; ref 22.2-28.3)
-- Chloride: 97.00 mmol/L (Low; ref 98-107)
-- Lactate: 1.60 mmol/L (High; ref 0.36-0.75)
-- Glucose: 114.00 mg/dL (High; ref 65-95)
-
-Within normal range: sO2 95.70 %, Sodium 140.00 mmol/L, Potassium 3.40 mmol/L (at lower limit). Picture suggestive of mixed metabolic alkalosis with mild respiratory acidosis (compensated alkalaemia) and mild hypoxaemia. Reported by Dr. Kshama Pimpalgaonkar and Dr. Srikant Gharpure.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 06:59
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Blood Gas Analysis-Electrolyt.,Lactate & Glucose
-Blood Gas Analysis
-pH
-7.35-7.45 7.47
-(Arterial blood,Ion-selective electrode)
-pCO2
-mmHg 32-45 48.70
-(Arterial blood,Ion-selective electrode)
-pO2
-mmHg 83-108 75.90
-(Arterial blood,Ion-selective electrode)
-sO2 %
-94-98 95.70
-(Arterial blood,Ion-selective electrode) saturation
-HCO3
-mmol/L 22.2-28.3 35.70
-(Arterial blood,Calculated)
-Sodium mmol/L 136-145 140.00
-Potassium mmol/L 3.4-4.4 3.40
-Chloride mmol/L 98-107 97.00
-Lactate mmol/L 0.36-0.75 1.60
-Glucose mg/dL 65-95 114.00
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 1 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 06:59
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Potassium:
-• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
-decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
-body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
-dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
-Blood Gas Analysis:
-Blood gases are a group of tests that are performed together to measure the pH, the amount of oxygen and carbon dioxide
-present in arterial blood in order to evaluate lung function and help detect an acid-base imbalance that could indicate a
-respiratory, metabolic or kidney disorder.
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 2 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 06:59
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 3 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 06:59
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
-M D Biochemistry M.D, DPB, DCP (London)
-Consultant Biochemist Consultant Pathologist
-Page 4 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
-Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:08
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 06:59
-Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
-∞ End of Report ∞
-Page 5 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 156 of 188** · `2026-02-26_XRay_X-Ray-Portable-Chest-AP.md`
-
-# X Ray Portable Chest AP
-
-- **Date performed**: 2026-02-26
-- **Category**: XRay
-- **Source PDF**: [`./report_pdf/2026-02-26_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/2026-02-26_XRay_X-Ray-Portable-Chest-AP.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004189127700000.pdf`
-
-## Summary (extracted)
-
-X Ray Portable Chest AP performed 26-02-2026 22:53. The soft tissues and bony thorax are normal. The cardiac size is within normal limits and the cardiac silhouette is normal. Patchy consolidation is seen in the left mid and both lower zones. Rest of the lungs are clear. A small pleural effusion is seen on the left side. There is no pneumothorax. No hilar, diaphragmatic or mediastinal lesion is seen. Endotracheal tube and nasogastric tube are seen in position. Reported by Dr. Bhujang Pai (MD, FRCR London; Visiting Radiologist; MMC Number 49380).
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 26-02-2026 10:53 PM Order No. : 0040820796
-Referred By : Shah Darshit Report Date : 26-02-2026 11:00 PM
-Study Description : X Ray Portable Chest AP
-The soft tissues and bony thorax are normal.
-The cardiac size is within normal limits and the cardiac silhouette is normal.
-Patchy consolidation is seen in the left mid and both lower zones.
-Rest of the lungs are clear.
-A small pleural effusion is seen on the left side.
-There is no pneumothorax.
-No hilar, diaphragmatic or mediastinal lesion is seen.
-Endotracheal tube and nasogastric tube are seen in position.
-Dr. Bhujang Pai
-MD, FRCR (London)
-Visiting Radiologist
-MMC Number: 49380.
-1
-```
-
-
----
-
-> **Report 157 of 188** · `2026-02-26_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-02-26
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-02-26_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-02-26_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004188783101000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (CBC). Abnormal/flagged values:
-- Haemoglobin: 11.6 g/dL (Low; ref 12.0-15.0)
-- MCH: 26.8 pg (Low; ref 27.0-32.0)
-- MCHC: 31.4 g/dL (Low; ref 31.5-34.5)
-- RDW: 14.8 % (High; ref 11.6-14.0)
-- Neutrophils: 87.9 % (High; ref 40-80)
-- Lymphocytes: 7.0 % (Low; ref 20-40)
-- Neutrophils#: 7.77 x10^9 cells/L (High; ref 2-7)
-- Lymphocytes#: 0.62 x10^9 cells/L (Low; ref 1-3)
-
-Within normal range: Red cell count 4.33, Haematocrit 36.9%, MCV 85.2 fl, Total Leukocyte Count 8.85 x10^9/L, Monocytes 4.6%, Eosinophils 0.3%, Basophils 0.2%, Monocytes# 0.41, Eosinophils# 0.03, Basophils# 0.02, Platelet Count 216, MPV 10.2 fl. Comments: Delta checked failed for WBC, Kindly correlate clinically. (Note: previous CBC on 24-Feb-2026 had TLC 29.62 — significant interval drop after antibiotic therapy.) Reported by Dr. Archana Vazifdar, Dr. Archi Chawla, Dr. Preeti Singh.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.33
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 11.6
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 36.9
-(EDTA Whole Blood)
-MCV
-fl 83-101 85.2
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 26.8
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 31.4
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 14.8
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 8.85
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 87.9
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 7.0
-(EDTA Whole Blood)
-Monocytes
-% 2-10 4.6
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.3
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 1 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Basophils
-% 0-02 0.2
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 7.77
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.62
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.41
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.03
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.02
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 216
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.2
-(EDTA Whole Blood)
-Delta checked failed for WBC, Kindly correlate clinically.
-Comments
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 2 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 3 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 4 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 5 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-∞ End of Report ∞
-Page 6 of 6
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 158 of 188** · `2026-02-26_Lab-Biochem_Renal-Profile.md`
-
-# Renal Profile
-
-- **Date performed**: 2026-02-26
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-26_Lab-Biochem_Renal-Profile.pdf`](./report_pdf/2026-02-26_Lab-Biochem_Renal-Profile.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004188821701000.pdf`
-
-## Summary (extracted)
-
-Renal Profile. Abnormal/flagged values:
-- Calcium: 8.34 mg/dL (Low; ref 8.8-10.2)
-- Total Protein: 5.36 g/dL (Low; ref 6.4-8.3)
-- Albumin: 3.15 g/dL (Low; ref 3.5-5.2)
-- Potassium: 3.16 mmol/L (Low; ref 3.5-5.1)
-- Bicarbonate: 33.40 mmol/L (High; ref 22-29)
-
-Within normal range: BUN 17.06 mg/dL, Urea 36.50 mg/dL, Creatinine 0.67 mg/dL, eGFR 88.73 mL/min/1.73 m^2 (Mild Decreased band edge), Uric Acid 4.66 mg/dL, Phosphorus 3.25 mg/dL, Globulin 2.21 g/dL, A/G ratio 1.43, Sodium 141.10 mmol/L, Chloride 98.00 mmol/L. Picture shows persistent hypoalbuminaemia/hypoproteinaemia, hypokalaemia, mild hypocalcaemia and elevated bicarbonate (metabolic alkalosis). Reported by Dr. Kshama Pimpalgaonkar, Dr. Talatnoor Sheikh, Dr. Srikant Gharpure.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Renal Profile
-BUN
-mg/dL 8-23 17.06
-(Serum,Urease/Glutamate dehydrogenase)
-Urea
-mg/dL 16.6-48.5 36.50
-(Serum,Urease/Glutamate dehydrogenase)
-Creatinine Clearance Test [eGFR]
-Creatinine
-mg/dL 0.50-0.90 0.67
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-88.73
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Uric Acid
-mg/dL 2.4-5.7 4.66
-(Serum,Enzymatic - colorimetric)
-Calcium
-mg/dL 8.8-10.2 8.34
-(Serum,NM - BAPTA)
-Phosphorus
-mg/dL 2.5-4.5 3.25
-(Serum,Molybdate - UV)
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 1 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Proteins
-Total Protein
-g/dL 6.4-8.3 5.36
-(Serum,Colorimetric - biuret)
-Albumin
-g/dL 3.5-5.2 3.15
-(Serum,Colorimetric - BCG)
-Globulin
-g/dL 2-3.5 2.21
-(Serum,Calculated)
-A / G ratio
-1.0-2.5 1.43
-(Serum,Calculated)
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 141.10
-Potassium mmol/L 3.5-5.1 3.16
-Chloride mmol/L 98-107 98.00
-Bicarbonate
-mmol/L 22-29 33.40
-(Serum,Enzymatic - PEPC)
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 2 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Urea:
-Urea is the final degradation product of protein and amino acid metabolism. Blood urea nitrogen currently is the most widely
-used screening test for the evaluation of kidney function. Protein catabolism causes formation of ammonia which is
-synthesized to urea with and elimination of excess nitrogen in the liver. Increased blood urea nitrogen may be due to cardiac
-decompensation, water depletion due to decreased intake and excessive loss, increased protein catabolism, high protein
-diet, acute glomerulonephritis, chronic nephritis, polycystic kidney disease, nephrosclerosis, tubular necrosis and all types of
-obstruction of the urinary tract.
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 3 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 4 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 5 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 6 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 7 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-∞ End of Report ∞
-Page 8 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 159 of 188** · `2026-02-26_Lab-Biochem_C-Reactive-Protein-CRP.md`
-
-# C-Reactive Protein [CRP]
-
-- **Date performed**: 2026-02-26
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-26_Lab-Biochem_C-Reactive-Protein-CRP.pdf`](./report_pdf/2026-02-26_Lab-Biochem_C-Reactive-Protein-CRP.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004188821601000.pdf`
-
-## Summary (extracted)
-
-C-Reactive Protein [CRP] (Serum, Immunoturbidimetric): 0.18 mg/dL (within reference range <0.5 mg/dL). Reported by Dr. Kshama Pimpalgaonkar, Dr. Talatnoor Sheikh, Dr. Srikant Gharpure. Note: previous CRP on 23-Feb-2026 was 1.07 mg/dL — value has decreased.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-C-Reactive Protein [CRP]
-mg/dL < 0.5 0.18
-(Serum,Immunoturbidimetric)
-CRP:
-C-reactive protein (CRP) is one of the most sensitive acute-phase reactants for inflammation. CRP elevations are nonspecific
-and may be useful for the detection of systemic inflammatory processes; to assess treatment of bacterial infections with
-antibiotics; to detect intrauterine infections with concomitant premature amniorrhexis; to differentiate between active and
-inactive forms of disease with concurrent infection; to therapeutically monitor rheumatic disease and assess anti-
-inflammatory therapy; to determine the presence of postoperative complications at an early stage and to distinguish between
-infection and bone marrow rejection.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
-Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
-Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 160 of 188** · `2026-02-26_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.md`
+> **Report 67 of 91** · `2026-02-26_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.md`
 
 # Blood Gas Analysis-Electrolyt.,Lactate & Glucose
 
@@ -15737,10 +6122,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 161 of 188** · `2026-02-26_ECHO_Echocardiography-Portable.md`
+> **Report 68 of 91** · `2026-02-26_ECHO_Echocardiography-Portable.md`
 
 # Echocardiography Portable
 
@@ -15817,10 +6201,9 @@ TRICUSPID Nil
 PULMONARY Nil
 ```
 
-
 ---
 
-> **Report 162 of 188** · `2026-02-25_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 69 of 91** · `2026-02-25_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -15855,10 +6238,9 @@ MMC Number: 49380.
 1
 ```
 
-
 ---
 
-> **Report 163 of 188** · `2026-02-24_XRay_X-Ray-Portable-Chest-PA.md`
+> **Report 70 of 91** · `2026-02-24_XRay_X-Ray-Portable-Chest-PA.md`
 
 # X-Ray Portable Chest PA
 
@@ -15893,10 +6275,9 @@ MMC Number: 49380.
 1
 ```
 
-
 ---
 
-> **Report 164 of 188** · `2026-02-24_Lab-Haem_Complete-Blood-Count.md`
+> **Report 71 of 91** · `2026-02-24_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -16083,10 +6464,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 165 of 188** · `2026-02-23_USG_USG-Portable-Single-Organ.md`
+> **Report 72 of 91** · `2026-02-23_USG_USG-Portable-Single-Organ.md`
 
 # USG Portable Single Organ
 
@@ -16146,194 +6526,9 @@ MMC 87736
 2
 ```
 
-
 ---
 
-> **Report 166 of 188** · `2026-02-23_Lab-Biochem_Renal-Profile.md`
-
-# Renal Profile
-
-- **Date performed**: 2026-02-23
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-23_Lab-Biochem_Renal-Profile.pdf`](./report_pdf/2026-02-23_Lab-Biochem_Renal-Profile.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004182279802000.pdf`
-
-## Summary (extracted)
-
-Renal Profile. Abnormal/flagged values:
-- eGFR (Calculated): 64.77 mL/min/1.73 m^2 (Mild to Moderately Decreased; ref Normal/High >=90)
-- Calcium: 8.60 mg/dL (Low; ref 8.8-10.2)
-- Total Protein: 5.64 g/dL (Low; ref 6.4-8.3)
-- Albumin: 3.09 g/dL (Low; ref 3.5-5.2)
-- Chloride: 94.70 mmol/L (Low; ref 98-107)
-- Bicarbonate: 30.50 mmol/L (High; ref 22-29)
-
-Within normal range: BUN 14.67 mg/dL, Urea 31.40 mg/dL, Creatinine 0.88 mg/dL, Uric Acid 4.89 mg/dL, Phosphorus 4.19 mg/dL, Globulin 2.55 g/dL, A/G ratio 1.21, Sodium 138.50 mmol/L, Potassium 4.19 mmol/L. Picture shows mildly reduced eGFR with hypoalbuminaemia, hypoproteinaemia and mild metabolic alkalosis (raised bicarbonate). Reported by Dr. Kshama Pimpalgaonkar, Dr. Archi Chawla, Dr. Srikant Gharpure.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
-Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
-Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Renal Profile
-BUN
-mg/dL 8-23 14.67
-(Serum,Urease/Glutamate dehydrogenase)
-Urea
-mg/dL 16.6-48.5 31.40
-(Serum,Urease/Glutamate dehydrogenase)
-Creatinine Clearance Test [eGFR]
-Creatinine
-mg/dL 0.50-0.90 0.88
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-64.77
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Uric Acid
-mg/dL 2.4-5.7 4.89
-(Serum,Enzymatic - colorimetric)
-Calcium
-mg/dL 8.8-10.2 8.60
-(Serum,NM - BAPTA)
-Phosphorus
-mg/dL 2.5-4.5 4.19
-(Serum,Molybdate - UV)
-DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Clinical Assistant Consultant Pathologist
-Page 1 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
-Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
-Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Proteins
-Total Protein
-g/dL 6.4-8.3 5.64
-(Serum,Colorimetric - biuret)
-Albumin
-g/dL 3.5-5.2 3.09
-(Serum,Colorimetric - BCG)
-Globulin
-g/dL 2-3.5 2.55
-(Serum,Calculated)
-A / G ratio
-1.0-2.5 1.21
-(Serum,Calculated)
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 138.50
-Potassium mmol/L 3.5-5.1 4.19
-Chloride mmol/L 98-107 94.70
-Bicarbonate
-mmol/L 22-29 30.50
-(Serum,Enzymatic - PEPC)
-DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Clinical Assistant Consultant Pathologist
-Page 2 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
-Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
-Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Urea:
-Urea is the final degradation product of protein and amino acid metabolism. Blood urea nitrogen currently is the most widely
-used screening test for the evaluation of kidney function. Protein catabolism causes formation of ammonia which is
-synthesized to urea with and elimination of excess nitrogen in the liver. Increased blood urea nitrogen may be due to cardiac
-decompensation, water depletion due to decreased intake and excessive loss, increased protein catabolism, high protein
-diet, acute glomerulonephritis, chronic nephritis, polycystic kidney disease, nephrosclerosis, tubular necrosis and all types of
-obstruction of the urinary tract.
-DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Clinical Assistant Consultant Pathologist
-Page 3 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
-Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
-Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Clinical Assistant Consultant Pathologist
-Page 4 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
-Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
-Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 5 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
-Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
-Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Page 6 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
-Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
-Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
-M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
-Consultant Biochemist Clinical Assistant Consultant Pathologist
-Page 7 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
-Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
-Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-∞ End of Report ∞
-Page 8 of 8
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 167 of 188** · `2026-02-23_Lab-Biochem_C-Reactive-Protein-CRP.md`
+> **Report 73 of 91** · `2026-02-23_Lab-Biochem_C-Reactive-Protein-CRP.md`
 
 # C-Reactive Protein [CRP]
 
@@ -16376,172 +6571,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 168 of 188** · `2026-02-22_Lab-Haem_Complete-Blood-Count.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-02-22
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-02-22_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/2026-02-22_Lab-Haem_Complete-Blood-Count.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004180311002000.pdf`
-
-## Summary (extracted)
-
-Complete Blood Count (CBC). Abnormal/flagged values:
-- Red cell count: 4.85 x10^12/L (High; ref 3.8-4.8)
-- RDW: 14.6 % (High; ref 11.6-14.0)
-- Total Leukocyte Count: 15.28 x10^9/L (High; ref 4-10) — leukocytosis
-- Neutrophils: 91.6 % (High; ref 40-80)
-- Lymphocytes: 5.2 % (Low; ref 20-40)
-- Neutrophils#: 13.99 x10^9 cells/L (High; ref 2-7)
-- Lymphocytes#: 0.80 x10^9 cells/L (Low; ref 1-3)
-- MPV: 11.7 fl (High; ref 7.5-10.5)
-
-Within normal range: Haemoglobin 13.1 g/dL, Haematocrit 41.6%, MCV 85.8 fl, MCH 27.0 pg, MCHC 31.5 g/dL, Monocytes 2.9%, Eosinophils 0.1%, Basophils 0.2%, Monocytes# 0.44, Eosinophils# 0.02, Basophils# 0.03 x10^9/L, Platelet count 246 x10^9/L. Picture suggests neutrophilic leukocytosis with relative/absolute lymphopenia. Reported by Dr. Archana Vazifdar, Dr. Purva Jagetia, Dr. Preeti Singh.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :22/02/2026 03:10
-Patient ID : 0010663186 Visit Type :IP Received : 22/02/2026 06:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 09:43
-Accession : 2600042225 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.85
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 13.1
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 41.6
-(EDTA Whole Blood)
-MCV
-fl 83-101 85.8
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.0
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 31.5
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 14.6
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 15.28
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 91.6
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 5.2
-(EDTA Whole Blood)
-Monocytes
-% 2-10 2.9
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 0.1
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 1 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :22/02/2026 03:10
-Patient ID : 0010663186 Visit Type :IP Received : 22/02/2026 06:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 09:43
-Accession : 2600042225 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Basophils
-% 0-02 0.2
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 13.99
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.80
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.44
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.02
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.03
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 246
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 11.7
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
-Page 2 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :22/02/2026 03:10
-Patient ID : 0010663186 Visit Type :IP Received : 22/02/2026 06:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 09:43
-Accession : 2600042225 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 3 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :22/02/2026 03:10
-Patient ID : 0010663186 Visit Type :IP Received : 22/02/2026 06:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 09:43
-Accession : 2600042225 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
-M.D ( Pathology) M.D (Pathology) M.D Pathology
-Head Of Hematopathology Clinical Associate Consultant Pathologist
-Page 4 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :22/02/2026 03:10
-Patient ID : 0010663186 Visit Type :IP Received : 22/02/2026 06:56
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 09:43
-Accession : 2600042225 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-∞ End of Report ∞
-Page 5 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 169 of 188** · `2026-02-21_Lab-Micro_Urine-Culture-Colony-Count.md`
+> **Report 74 of 91** · `2026-02-21_Lab-Micro_Urine-Culture-Colony-Count.md`
 
 # Urine Culture Colony Count
 
@@ -16760,10 +6792,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 170 of 188** · `2026-02-21_Lab-Micro_Sputum-Culture.md`
+> **Report 75 of 91** · `2026-02-21_Lab-Micro_Sputum-Culture.md`
 
 # Sputum Culture
 
@@ -16887,10 +6918,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 171 of 188** · `2026-02-21_CT_WB-FDG-PET-CECT-scan.md`
+> **Report 76 of 91** · `2026-02-21_CT_WB-FDG-PET-CECT-scan.md`
 
 # WB FDG PET - CECT scan
 
@@ -17152,10 +7182,9 @@ AM KL
 5
 ```
 
-
 ---
 
-> **Report 172 of 188** · `2026-02-20_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 77 of 91** · `2026-02-20_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -17194,10 +7223,9 @@ MMC Number: 49380.
 1
 ```
 
-
 ---
 
-> **Report 173 of 188** · `2026-02-20_USG_USG-Portable-Kidney-Transplant-Kidney-KUB.md`
+> **Report 78 of 91** · `2026-02-20_USG_USG-Portable-Kidney-Transplant-Kidney-KUB.md`
 
 # USG Portable Kidney/Transplant Kidney/KUB
 
@@ -17257,10 +7285,9 @@ Study Description : USG Portable Kidney/Transplant Kidney/KUB
 2
 ```
 
-
 ---
 
-> **Report 174 of 188** · `2026-02-20_Lab-Serol_NT-pro-B-type-Natriuretic-Peptide-NT-pro-BNP.md`
+> **Report 79 of 91** · `2026-02-20_Lab-Serol_NT-pro-B-type-Natriuretic-Peptide-NT-pro-BNP.md`
 
 # NT pro B-type Natriuretic Peptide [NT pro BNP]
 
@@ -17307,10 +7334,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 175 of 188** · `2026-02-20_Lab-Micro_Urine-Culture-Colony-Count.md`
+> **Report 80 of 91** · `2026-02-20_Lab-Micro_Urine-Culture-Colony-Count.md`
 
 # Urine Culture Colony Count
 
@@ -17516,89 +7542,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 176 of 188** · `2026-02-20_Lab-Micro_MRSA-Screening.md`
-
-# MRSA Screening
-
-- **Date performed**: 2026-02-20
-- **Category**: Lab-Micro
-- **Department**: MICROBIOLOGY
-- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Micro_MRSA-Screening.pdf`](./report_pdf/2026-02-20_Lab-Micro_MRSA-Screening.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004180693903000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Microbiology. MRSA (Methicillin-Resistant Staphylococcus aureus) Screening on Nasal Swab (collected 20-Feb-2026 05:17). Result: No MRSA Isolated.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 05:17
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 05:17
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 16:01
-Accession : 2600040492 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - MICROBIOLOGY
-Test Name Result Units Biological Reference Range
-MRSA Screening
-Nasal Swab No MRSA Isolated
-(Nasal/Axilla/Groin/FWS Swab)
-∞ End of Report ∞
-DR. NEETU BIYANI DR. SHASHIKALA SHIVAPRAKASHA
-MD Microbiology MD Microbiology
-DDRR.. AAPPUURRWWAA BBHHOOJJRRAAJJ
-Consultant Microbiologist Consultant Microbiologist
-MM..DD MMiiccrroobbiioollooggyy
-CClliinniiccaall AAssssoocciiaattee
-Page 1 of 1
-```
-
-
----
-
-> **Report 177 of 188** · `2026-02-20_Lab-Micro_Candida-Auris-Screen.md`
-
-# Candida Auris Screen
-
-- **Date performed**: 2026-02-20
-- **Category**: Lab-Micro
-- **Department**: MICROBIOLOGY
-- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Micro_Candida-Auris-Screen.pdf`](./report_pdf/2026-02-20_Lab-Micro_Candida-Auris-Screen.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004180694401000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Microbiology. Candida Auris Screen (collected 20-Feb-2026 05:17). Results:
-- Axilla Swab: No Candida auris isolated
-- Groin Swab: No Candida auris isolated
-- Rectal Swab: No Candida auris isolated
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 05:17
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 09:57
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 15:58
-Accession : 2600040492 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - MICROBIOLOGY
-Test Name Result
-Candida Auris Screen
-Axilla Swab No Candida auris isolated
-Groin Swab No Candida auris isolated
-Rectal Swab No Candida auris isolated
-∞ End of Report ∞
-DR. NEETU BIYANI DR. APURWA BHOJRAJ DR. SHASHIKALA SHIVAPRAKASHA
-MD Microbiology M.D Microbiology MD Microbiology
-Consultant Microbiologist Clinical Associate Consultant Microbiologist
-Page 1 of 1
-```
-
-
----
-
-> **Report 178 of 188** · `2026-02-20_Lab-Micro_CRE-Screen.md`
+> **Report 81 of 91** · `2026-02-20_Lab-Micro_CRE-Screen.md`
 
 # CRE Screen
 
@@ -17637,10 +7583,86 @@ CClliinniiccaall AAssssoocciiaattee
 Page 1 of 1
 ```
 
+---
+
+> **Report 82 of 91** · `2026-02-20_Lab-Micro_Candida-Auris-Screen.md`
+
+# Candida Auris Screen
+
+- **Date performed**: 2026-02-20
+- **Category**: Lab-Micro
+- **Department**: MICROBIOLOGY
+- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Micro_Candida-Auris-Screen.pdf`](./report_pdf/2026-02-20_Lab-Micro_Candida-Auris-Screen.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004180694401000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Microbiology. Candida Auris Screen (collected 20-Feb-2026 05:17). Results:
+- Axilla Swab: No Candida auris isolated
+- Groin Swab: No Candida auris isolated
+- Rectal Swab: No Candida auris isolated
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 05:17
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 09:57
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 15:58
+Accession : 2600040492 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - MICROBIOLOGY
+Test Name Result
+Candida Auris Screen
+Axilla Swab No Candida auris isolated
+Groin Swab No Candida auris isolated
+Rectal Swab No Candida auris isolated
+∞ End of Report ∞
+DR. NEETU BIYANI DR. APURWA BHOJRAJ DR. SHASHIKALA SHIVAPRAKASHA
+MD Microbiology M.D Microbiology MD Microbiology
+Consultant Microbiologist Clinical Associate Consultant Microbiologist
+Page 1 of 1
+```
 
 ---
 
-> **Report 179 of 188** · `2026-02-20_Lab-Haem_Prothrombin-Time-PT.md`
+> **Report 83 of 91** · `2026-02-20_Lab-Micro_MRSA-Screening.md`
+
+# MRSA Screening
+
+- **Date performed**: 2026-02-20
+- **Category**: Lab-Micro
+- **Department**: MICROBIOLOGY
+- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Micro_MRSA-Screening.pdf`](./report_pdf/2026-02-20_Lab-Micro_MRSA-Screening.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004180693903000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Microbiology. MRSA (Methicillin-Resistant Staphylococcus aureus) Screening on Nasal Swab (collected 20-Feb-2026 05:17). Result: No MRSA Isolated.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 05:17
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 05:17
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 16:01
+Accession : 2600040492 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - MICROBIOLOGY
+Test Name Result Units Biological Reference Range
+MRSA Screening
+Nasal Swab No MRSA Isolated
+(Nasal/Axilla/Groin/FWS Swab)
+∞ End of Report ∞
+DR. NEETU BIYANI DR. SHASHIKALA SHIVAPRAKASHA
+MD Microbiology MD Microbiology
+DDRR.. AAPPUURRWWAA BBHHOOJJRRAAJJ
+Consultant Microbiologist Consultant Microbiologist
+MM..DD MMiiccrroobbiioollooggyy
+CClliinniiccaall AAssssoocciiaattee
+Page 1 of 1
+```
+
+---
+
+> **Report 84 of 91** · `2026-02-20_Lab-Haem_Prothrombin-Time-PT.md`
 
 # Prothrombin Time (PT)
 
@@ -17715,179 +7737,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide Page 2 of 
 certificate number MC-7539
 ```
 
-
 ---
 
-> **Report 180 of 188** · `2026-02-20_Lab-Haem_Complete-Blood-Count_2.md`
-
-# Complete Blood Count
-
-- **Date performed**: 2026-02-20
-- **Category**: Lab-Haem
-- **Department**: HAEMATOLOGY
-- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Haem_Complete-Blood-Count_2.pdf`](./report_pdf/2026-02-20_Lab-Haem_Complete-Blood-Count_2.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004178155601000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Haematology. Complete Blood Count (collected 20-Feb-2026 21:16; second draw of the day):
-- Red cell count: 4.74 x10^12/L (Ref: 3.8-4.8) - Normal (upper end)
-- Haemoglobin: 12.8 g/dL (Ref: 12.0-15.0) - Normal
-- Haematocrit: 39.9 % (Ref: 36.0-46.0) - Normal
-- MCV: 84.2 fl (Ref: 83-101) - Normal
-- MCH: 27.0 pg (Ref: 27.0-32.0) - Normal
-- MCHC: 32.1 g/dL (Ref: 31.5-34.5) - Normal
-- RDW: 14.4 % (Ref: 11.6-14.0) - HIGH
-- Total Leukocyte Count: 13.88 x10^9/L (Ref: 4-10) - HIGH (worsening leukocytosis)
-- Neutrophils: 89.3 % (Ref: 40-80) - HIGH; Absolute: 12.39 x10^9/L (Ref: 2-7) - HIGH
-- Lymphocytes: 4.3 % (Ref: 20-40) - LOW; Absolute: 0.60 x10^9/L (Ref: 1-3) - LOW (lymphopenia)
-- Monocytes: 3.8 % (Ref: 2-10) - Normal; Absolute: 0.53 x10^9/L (Ref: 0.2-1.0) - Normal
-- Eosinophils: 2.3 % (Ref: 1-6); Absolute: 0.32 x10^9/L - Normal
-- Basophils: 0.3 % (Ref: 0-2); Absolute: 0.04 x10^9/L - Normal
-- Platelet Count: 244 x10^9/L (Ref: 150-410) - Normal
-- MPV: 10.7 fl (Ref: 7.5-10.5) - HIGH
-
-Notable: Worsening leukocytosis with marked neutrophilia and now absolute lymphopenia compared to morning draw - consistent with progressing acute infection. Trend analysis & graphs included.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 22:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:58
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
-Reference Low Normal High
-Test Name Unit Range
-Complete Blood Count
-Red cell count
-x10^12/L 3.8-4.8 4.74
-(EDTA Whole Blood)
-Haemoglobin
-g/dL 12.0-15.0 12.8
-(EDTA Whole Blood)
-Haematocrit
-% 36.0-46.0 39.9
-(EDTA Whole Blood)
-MCV
-fl 83-101 84.2
-(EDTA Whole Blood)
-MCH
-pg 27.0-32.0 27.0
-(EDTA Whole Blood)
-MCHC
-g/dL 31.5-34.5 32.1
-(EDTA Whole Blood)
-RDW
-% 11.6-14.0 14.4
-(EDTA Whole Blood)
-Total Leukocyte Count
-x10^9/L 4-10 13.88
-(EDTA Whole Blood,Automated)
-Neutrophils
-% 40-80 89.3
-(EDTA Whole Blood)
-Lymphocytes
-% 20-40 4.3
-(EDTA Whole Blood)
-Monocytes
-% 2-10 3.8
-(EDTA Whole Blood)
-Eosinophils
-% 01-06 2.3
-(EDTA Whole Blood)
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 1 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 22:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:58
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
-Reference Low Normal High
-Test Name Unit Range
-Basophils
-% 0-02 0.3
-(EDTA Whole Blood)
-Neutrophils# x10^9
-2-7 12.39
-(EDTA Whole Blood) cells/L
-Lymphocytes# x10^9
-1-3 0.60
-(EDTA Whole Blood) cells/L
-Monocytes# x10^9
-0.2-1.0 0.53
-(EDTA Whole Blood) cells/L
-Eosinophils# x10^9
-0.02-0.5 0.32
-(EDTA Whole Blood) cells/L
-Basophils# x10^9
-0.0-0.1 0.04
-(EDTA Whole Blood) cells/L
-Platelet Count
-x10^9/L 150-410 244
-(EDTA Whole Blood)
-MPV
-fl 7.5-10.5 10.7
-(EDTA Whole Blood)
-Clinical Information/ Interpretation:
-CBC Test Method:
-RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
-Hb by SLS-hemoglobin method. All other parameters are calculated.
-References:
-Practical Hematology by Dacie & Lewis (12th Edition).
-DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. ARCHI CHAWLA DR. PREETI SINGH
-MM..DD (( PPaatthhoollooggyy)) M.D Pathology M.D Pathology
-HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Assistant Consultant Pathologist
-Page 2 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 22:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:58
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 3 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 22:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:58
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
-DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
-M.D ( Pathology) M.D Pathology M.D Pathology
-Head Of Hematopathology Clinical Assistant Consultant Pathologist
-Page 4 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 22:59
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:58
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-∞ End of Report ∞
-Page 5 of 5
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 181 of 188** · `2026-02-20_Lab-Haem_Complete-Blood-Count.md`
+> **Report 85 of 91** · `2026-02-20_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -18018,10 +7870,9 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide Page 2 of 
 certificate number MC-7539
 ```
 
-
 ---
 
-> **Report 182 of 188** · `2026-02-20_Lab-ClinPath_Urine-Routine.md`
+> **Report 86 of 91** · `2026-02-20_Lab-ClinPath_Urine-Routine.md`
 
 # Urine Routine
 
@@ -18184,94 +8035,114 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
 
-> **Report 183 of 188** · `2026-02-20_Lab-Biochem_S-Electrolytes.md`
+> **Report 87 of 91** · `2026-02-20_Lab-Biochem_Liver-Profile.md`
 
-# S. Electrolytes
+# Liver Profile
 
 - **Date performed**: 2026-02-20
 - **Category**: Lab-Biochem
 - **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-02-20_Lab-Biochem_S-Electrolytes.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004178198301000.pdf`
+- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Biochem_Liver-Profile.pdf`](./report_pdf/2026-02-20_Lab-Biochem_Liver-Profile.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004176461301000.pdf`
 
 ## Summary (extracted)
 
-Department of Laboratory Medicine - Biochemistry. S. Electrolytes (Serum, Ion-selective electrode; collected 20-Feb-2026 21:16):
-- Sodium: 139.50 mmol/L (Ref: 136-145) - Normal
-- Potassium: 3.76 mmol/L (Ref: 3.5-5.1) - Normal
-- Chloride: 103.10 mmol/L (Ref: 98-107) - Normal
+Department of Laboratory Medicine - Biochemistry. Liver Profile (collected 20-Feb-2026 05:10):
+- Total Bilirubin: 0.33 mg/dL (Ref: <=1.2) - Normal
+- Direct Bilirubin: 0.18 mg/dL (Ref: <=0.3) - Normal
+- Indirect Bilirubin: 0.15 mg/dL (Ref: <=1.2) - Normal
+- Alanine Aminotransferase [ALT/PT]: 14.50 U/L (Ref: <=35) - Normal
+- Aspartate Aminotransferase [AST/OT]: 21.30 U/L (Ref: <=35) - Normal
+- Gamma Glutamyltransferase [GGT]: 26.30 U/L (Ref: <40) - Normal
+- Alkaline Phosphatase [ALP]: 65.90 U/L (Ref: 35-104) - Normal
+- Total Protein: 5.10 g/dL (Ref: 6.4-8.3) - LOW
+- Albumin: 2.91 g/dL (Ref: 3.5-5.2) - LOW
+- Globulin: 2.19 g/dL (Ref: 2-3.5) - Normal
+- A/G ratio: 1.33 (Ref: 1.0-2.5) - Normal
 
-All electrolyte values within normal limits. Trend analysis & graphs included.
+Notable: Total Protein and Albumin both below reference range (hypoproteinemia / hypoalbuminemia).
 
 ## Verbatim text from PDF
 
 ```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 05:10
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 06:51
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :20/02/2026 09:47
+Accession : 2600040488 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Liver Profile
+Bilirubin Total + Direct
+Total Bilirubin
+mg/dL <= 1.2 0.33
+(Serum,Diazo)
+Direct Bilirubin
+mg/dL <= 0.3 0.18
+(Serum,Diazo)
+Indirect Bilirubin
+mg/dL <= 1.2 0.15
+(Serum,Calculated)
+Alanine Aminotransferase [ALT/PT]
+U/L <= 35 14.50
+(Serum,IFCC-Enzymatic with P5P)
+Aspartate Aminotransferase [AST/OT]
+U/L <= 35 21.30
+(Serum,IFCC-Enzymatic with P5P)
+Gamma Glutamyltransferase [GGT]
+U/L < 40 26.30
+(Serum,Enzymatic IFCC)
+Alkaline Phosphatase [ALP]
+U/L 35-104 65.90
+(Serum,Enzymatic IFCC)
+Proteins
+Total Protein
+g/dL 6.4-8.3 5.10
+(Serum,Colorimetric - biuret)
+Albumin
+g/dL 3.5-5.2 2.91
+(Serum,Colorimetric - BCG)
+Globulin
+g/dL 2-3.5 2.19
+(Serum,Calculated)
+DR. KSHAMA PIMPALGAONKAR DR. PURVA JAGETIA DR. SRIKANT GHARPURE
+M D Biochemistry M.D (Pathology) M.D, DPB, DCP (London)
+Consultant Biochemist Clinical Associate Consultant Pathologist
+Laboratory Medicine Laboratory Medicine Laboratory Medicine
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide Page 1 of 2
+certificate number MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 05:10
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 06:51
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :20/02/2026 09:47
+Accession : 2600040488 Location :1T06N`1TR0601`1TB0605`1ONCOMED
 DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
 Reference Low Normal High
 Test Name Unit Range
-S. Electrolytes
-(Serum,Ion-selective electrode)
-Sodium mmol/L 136-145 139.50
-Potassium mmol/L 3.5-5.1 3.76
-Chloride mmol/L 98-107 103.10
-Sodium:
-• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
-causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
-and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
-increased kidney reabsorption.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
-Page 1 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-Trend Analysis & Graph
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 2 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
-DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
-Consultant Biochemist Senior Clinical Associate Consultant Pathologist
-Page 3 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+A / G ratio
+1.0-2.5 1.33
+(Serum,Calculated)
+Total Bilirubin:
+• Diseases or conditions which, through hemolytic processes, produce bilirubin faster than the liver can metabolize it,
+cause the levels of unconjugated (indirect) bilirubin to increase in the circulation.
+• Liver immaturity and several other diseases in which the bilirubin conjugation mechanism is impaired cause similar
+elevations of circulating unconjugated bilirubin.
+• Bile duct obstruction or damage to hepatocellular structure causes increases in the levels of both conjugated (direct)
+and unconjugated (indirect)bilirubin in the circulation.
 ∞ End of Report ∞
-Page 4 of 4
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. PURVA JAGETIA DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D (Pathology) M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Associate Consultant Pathologist
+LLaabboorraattoorryy MMeeddiicciinnee Laboratory Medicine Laboratory Medicine
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide Page 2 of 2
+certificate number MC-7539
 ```
-
 
 ---
 
-> **Report 184 of 188** · `2026-02-20_Lab-Biochem_Renal-Profile.md`
+> **Report 88 of 91** · `2026-02-20_Lab-Biochem_Renal-Profile.md`
 
 # Renal Profile
 
@@ -18408,17 +8279,10273 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide Page 3 of 
 certificate number MC-7539
 ```
 
+---
+
+> **Report 89 of 91** · `2026-02-20_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-02-20
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/2026-02-20_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004178198301000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Biochemistry. S. Electrolytes (Serum, Ion-selective electrode; collected 20-Feb-2026 21:16):
+- Sodium: 139.50 mmol/L (Ref: 136-145) - Normal
+- Potassium: 3.76 mmol/L (Ref: 3.5-5.1) - Normal
+- Chloride: 103.10 mmol/L (Ref: 98-107) - Normal
+
+All electrolyte values within normal limits. Trend analysis & graphs included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 139.50
+Potassium mmol/L 3.5-5.1 3.76
+Chloride mmol/L 98-107 103.10
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
+Page 1 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 2 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 3 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+∞ End of Report ∞
+Page 4 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
 
 ---
 
-> **Report 185 of 188** · `2026-02-20_Lab-Biochem_Liver-Profile_2.md`
+> **Report 90 of 91** · `2026-02-20_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-02-20
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-02-20_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004178198401000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Biochemistry. Creatinine (Serum, Jaffe-kinetic): 0.87 mg/dL (Reference range: 0.50-0.90 mg/dL) - Normal/High range. eGFR (Serum, Calculated): 65.63 mL/min/1.73 m^2 - falls in "Mild to Moderately Decreased" category (range 45-59 borderline; result is just above 60 indicating Mild Decreased). Trend analysis & graph included showing prior value 0.75 and current 0.87 mg/dL on 20-Feb-26.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.87
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+65.63
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Report 91 of 91** · `2026-02-20_ECHO_Echocardiography-Portable.md`
+
+# Echocardiography Portable
+
+- **Date performed**: 2026-02-20
+- **Category**: ECHO
+- **Source PDF**: [`./report_pdf/2026-02-20_ECHO_Echocardiography-Portable.pdf`](./report_pdf/2026-02-20_ECHO_Echocardiography-Portable.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004177700401000.pdf`
+
+## Summary (extracted)
+
+2 DIMENSIONAL ECHOCARDIOGRAPHY & COLOUR DOPPLER STUDY
+• Severe pulmonary hypertension. Grade I + TR (eccentric jet). Estimated RVSP:
+83mmHg.
+ Mildly dilated MPA (27mm) and its branches.
+ Normal RA dimension (RA area: 10 cm2).
+ Mildly dilated RV (39x40x61mm) with fair RV systolic function. TAPSE:
+16mm.
+• Normal sized LV with mild systolic septal flattening due to RV pressure
+overload. Overall LVEF : 55%.
+• No e/o LV regional wall motion abnormality.
+• Grade I LV diastolic function (E/E’: 7).
+• Structurally normal valves.
+• Normal LA dimensions.
+• Intact IAS and IVS.
+• Normal IVC (10 mm) and 50% collapse with inspiration.
+• No e/o pericardial effusion/clots/vegetation.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 20-02-2026 04:40 PM Order No. : 0040706884
+Referred By : Shah Darshit Report Date : 21-02-2026 02:07 PM
+Study Description : Echocardiography Portable
+2 DIMENSIONAL ECHOCARDIOGRAPHY & COLOUR DOPPLER STUDY
+• Severe pulmonary hypertension. Grade I + TR (eccentric jet). Estimated RVSP:
+83mmHg.
+ Mildly dilated MPA (27mm) and its branches.
+ Normal RA dimension (RA area: 10 cm2).
+ Mildly dilated RV (39x40x61mm) with fair RV systolic function. TAPSE:
+16mm.
+• Normal sized LV with mild systolic septal flattening due to RV pressure
+overload. Overall LVEF : 55%.
+• No e/o LV regional wall motion abnormality.
+• Grade I LV diastolic function (E/E’: 7).
+• Structurally normal valves.
+• Normal LA dimensions.
+• Intact IAS and IVS.
+• Normal IVC (10 mm) and 50% collapse with inspiration.
+• No e/o pericardial effusion/clots/vegetation.
+Dr.Talha Meeran
+MBBS,MD,FACC (USA)
+Consultant Cardiologist
+MMC Reg No:2009031275
+
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 20-02-2026 04:40 PM Order No. : 0040706884
+Referred By : Shah Darshit Report Date : 21-02-2026 02:07 PM
+Study Description : Echocardiography Portable
+M- MODE MEASUREMENTS
+DIMENSIONS OBSERVED VALUES
+Aortic root 28mm
+Left Atrium 24mm
+IVS(d) 10mm
+LVID(d) 30mm
+LVID(s) 20mm
+LVPW(d) 10mm
+DOPPLER MEASUREMENTS :
+E/A : 0.5 E/E’ : 7 DT : 136msec
+Peak (mmHg) Mean(mmHg) Grade
+MITRAL Normal Nil
+AORTIC 4.2 Nil
+TRICUSPID 73 I
+PULMONARY 2.9 Nil
+```
+
+---
+
+
+# Archived — routine serial monitoring (103 reports)
+
+_Values consolidated in [TRENDS.md](./TRENDS.md)._
+
+---
+
+> **Archived 1 of 103** · `2026-04-04_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-04-04
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-04-04_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-04-04_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004251869501000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (EDTA Whole Blood) — Collected 04/04/2026 04:41. Abnormal values: Red cell count 3.51 x10^12/L (low; ref 3.8-4.8), Haemoglobin 9.8 g/dL (low; ref 12.0-15.0), Haematocrit 31.9% (low; ref 36.0-46.0), MCHC 30.7 g/dL (low; ref 31.5-34.5), RDW 19.4% (high; ref 11.6-14.0), TLC 3.87 x10^9/L (low; ref 4-10), Myelocyte 4.00% (no ref), Lymphocytes 11.9% (low; ref 20-40), Eosinophils 0.0% (low; ref 1-6), Lymphocytes# 0.46 x10^9/L (low; ref 1-3), Eosinophils# 0.00 x10^9/L (low; ref 0.02-0.5), Platelet Count 93 x10^9/L (low; ref 150-410), MPV 13.0 fl (high; ref 7.5-10.5), Nucleated RBC 2.00/100 cells. Normal: MCV 90.9, MCH 27.9, Neutrophils 78.6%, Monocytes 5.2%, Basophils 0.3%, Neutrophils# 3.20, Monocytes# 0.20, Basophils# 0.01. RBC morphology: normocytic normochromic, moderate anisopoikilocytosis and mild polychromasia, occasional nRBCs (02/100 WBCs). WBC morphology: Leukopenia with toxic granulations and shift to left in myeloid series. Platelets: Thrombocytopenia. Manually verified on smear.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
+Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.51
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 9.8
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 31.9
+(EDTA Whole Blood)
+MCV
+fl 83-101 90.9
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.9
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 30.7
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 19.4
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 3.87
+(EDTA Whole Blood,Automated)
+Myelocyte
+% 4.00
+(EDTA Whole Blood)
+Neutrophils
+% 40-80 78.60
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
+Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Lymphocytes
+% 20-40 11.9
+(EDTA Whole Blood)
+Monocytes
+% 2-10 5.2
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.3
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 3.20
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.46
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.20
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.01
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 93
+(EDTA Whole Blood)
+Medical Remarks: Manually verified on smear.
+MPV
+fl 7.5-10.5 13.0
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
+Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Nucleated RBC
+/100 Cells 2.00
+(EDTA Whole Blood)
+Normocytic normochromic RBCs showing moderate
+RBC Morphology
+anisopoikilocytosis and mild polychromasia. Occasional
+(EDTA Whole Blood)
+nRBCs (02/100 WBCs) noted.
+WBC Morphology Leukopenia with toxic granulations and shift to left in myeloid
+(EDTA Whole Blood) series.
+Platelets
+Thrombocytopenia.
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
+Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
+Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/04/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 04/04/2026 05:28
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/04/2026 09:59
+Accession : 2600073936 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 2 of 103** · `2026-04-03_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-04-03
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-04-03_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-04-03_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004250769600000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
+is seen in the left midzone. Rest of the lungs are clear.
+There is no evidence of a pleural effusion.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Internal jugular line and nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 03-04-2026 06:43 AM Order No. : 0041405687
+Referred By : Shah Darshit Report Date : 03-04-2026 12:48 PM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
+is seen in the left midzone. Rest of the lungs are clear.
+There is no evidence of a pleural effusion.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Internal jugular line and nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 3 of 103** · `2026-04-03_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-04-03
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-04-03_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-04-03_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004250808001000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (EDTA Whole Blood) — Collected 03/04/2026 04:32. Abnormal values: Red cell count 3.37 x10^12/L (low; ref 3.8-4.8), Haemoglobin 9.5 g/dL (low; ref 12.0-15.0), Haematocrit 30.9% (low; ref 36.0-46.0), MCHC 30.7 g/dL (low; ref 31.5-34.5), RDW 19.0% (high; ref 11.6-14.0), Neutrophils 86.6% (high; ref 40-80), Lymphocytes 7.7% (low; ref 20-40), Eosinophils 0.0% (low; ref 1-6), Lymphocytes# 0.34 x10^9/L (low; ref 1-3), Eosinophils# 0.00 x10^9/L (low; ref 0.02-0.5), Platelet Count 86 x10^9/L (low; ref 150-410), MPV 13.5 fl (high; ref 7.5-10.5). Normal: MCV 91.7, MCH 28.2, TLC 4.40, Monocytes 5.2%, Basophils 0.5%, Neutrophils# 3.81, Monocytes# 0.23, Basophils# 0.02. Findings consistent with anemia and thrombocytopenia.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
+Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.37
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 9.5
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 30.9
+(EDTA Whole Blood)
+MCV
+fl 83-101 91.7
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 28.2
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 30.7
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 19.0
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 4.40
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 86.6
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 7.7
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
+M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
+Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 5.2
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.5
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 3.81
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.34
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.23
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.02
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 86
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 13.5
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
+M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
+Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
+M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
+Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
+M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
+Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 08:42
+Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
+M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 4 of 103** · `2026-04-03_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-04-03
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-04-03_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-04-03_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004250958702000.pdf`
+
+## Summary (extracted)
+
+Creatinine (Serum, Jaffe - kinetic): 0.71 mg/dL (Normal; reference 0.50-0.90 mg/dL). Medical Remarks: Rechecked from fresh sample. eGFR (Serum, Calculated): 82.93 mL/min/1.73 m^2 (Mild Decreased; ranges: Normal/High >=90, Mild Decreased 60-89, Mild to Moderately Decreased 45-59, Moderately to Severely Decreased 30-44, Severely Decreased 15-29, Kidney Failure <15). Page 2 contains Trend Analysis & Graph. Collected 03/04/2026 04:32; reported 03/04/2026 11:06.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:22
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 11:06
+Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.71
+(Serum,Jaffe - kinetic)
+Medical Remarks: Rechecked from fresh sample.
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+82.93
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 04:32
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 06:22
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 11:06
+Accession : 2600073348 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 5 of 103** · `2026-04-03_Lab-Biochem_S-Electrolytes_2.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-04-03
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-04-03_Lab-Biochem_S-Electrolytes_2.pdf`](./report_pdf/archived/2026-04-03_Lab-Biochem_S-Electrolytes_2.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004251481701000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode) — Collected 03/04/2026 17:09. Sodium 150.40 mmol/L (high; ref 136-145), Potassium 2.96 mmol/L (low; ref 3.5-5.1), Chloride 107.80 mmol/L (high; ref 98-107). Indicates hypernatremia, hypokalemia, and mild hyperchloremia.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 17:09
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 18:10
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 19:18
+Accession : 2600073711 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 150.40
+Potassium mmol/L 3.5-5.1 2.96
+Chloride mmol/L 98-107 107.80
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 17:09
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 18:10
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 19:18
+Accession : 2600073711 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/04/2026 17:09
+Patient ID : 0010663186 Visit Type :IP Received : 03/04/2026 18:10
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/04/2026 19:18
+Accession : 2600073711 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 6 of 103** · `2026-04-02_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-04-02
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-04-02_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-04-02_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004248717301000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (EDTA Whole Blood) — multiple abnormal values: Red cell count 3.50 x10^12/L (Low; ref 3.8-4.8), Haemoglobin 10.1 g/dL (Low; ref 12.0-15.0), Haematocrit 31.5% (Low; ref 36.0-46.0), MCV 90.0 fl (Normal), MCH 28.9 pg (Normal), MCHC 32.1 g/dL (Normal), RDW 19.1% (High; ref 11.6-14.0), Total Leukocyte Count 5.89 x10^9/L (Normal), Neutrophils 89.3% (High; ref 40-80), Lymphocytes 7.3% (Low; ref 20-40), Monocytes 2.9%, Eosinophils 0.0% (Low; ref 01-06), Basophils 0.5%, Neutrophils# 5.26 x10^9 cells/L (Normal), Lymphocytes# 0.43 x10^9 cells/L (Low; ref 1-3), Monocytes# 0.17 x10^9 cells/L (Low; ref 0.2-1.0), Eosinophils# 0.00 x10^9 cells/L (Low), Basophils# 0.03 x10^9 cells/L, Platelet Count 87 x10^9/L (Low; ref 150-410), MPV 13.1 fl (High; ref 7.5-10.5). Pages 4-5 contain Trend Analysis & Graph. Collected 02/04/2026 04:49; reported 02/04/2026 09:45.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
+Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.50
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 10.1
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 31.5
+(EDTA Whole Blood)
+MCV
+fl 83-101 90.0
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 28.9
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.1
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 19.1
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 5.89
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 89.3
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 7.3
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
+Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 2.9
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.5
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 5.26
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.43
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.17
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.03
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 87
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 13.1
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
+Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
+Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
+Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 02/04/2026 06:33
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/04/2026 09:45
+Accession : 2600072376 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 7 of 103** · `2026-04-01_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-04-01
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-04-01_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-04-01_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004246755200000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
+is seen in the left midzone. Rest of the lungs are clear.
+There is no evidence of a pleural effusion.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Internal jugular line and nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 01-04-2026 06:30 AM Order No. : 0041365635
+Referred By : Shah Darshit Report Date : 01-04-2026 10:11 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
+is seen in the left midzone. Rest of the lungs are clear.
+There is no evidence of a pleural effusion.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Internal jugular line and nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 8 of 103** · `2026-04-01_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-04-01
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-04-01_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-04-01_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004246916801000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (EDTA Whole Blood) — multiple abnormal values: Red cell count 3.55 x10^12/L (Low; ref 3.8-4.8), Haemoglobin 10.1 g/dL (Low; ref 12.0-15.0), Haematocrit 31.7% (Low; ref 36.0-46.0), MCV 89.3 fl (Normal), MCH 28.5 pg (Normal), MCHC 31.9 g/dL (Normal), RDW 18.7% (High; ref 11.6-14.0), Total Leukocyte Count 4.97 x10^9/L (Normal), Neutrophils 81.3% (High; ref 40-80), Lymphocytes 14.3% (Low; ref 20-40), Monocytes 3.4%, Eosinophils 0.0% (Low; ref 01-06), Basophils 1.0%, Neutrophils# 4.04 x10^9 cells/L (Normal), Lymphocytes# 0.71 x10^9 cells/L (Low; ref 1-3), Monocytes# 0.17 x10^9 cells/L (Low; ref 0.2-1.0), Eosinophils# 0.00 x10^9 cells/L (Low), Basophils# 0.05 x10^9 cells/L, Platelet Count 83 x10^9/L (Low; ref 150-410), MPV 13.4 fl (High; ref 7.5-10.5). Comments: Delta check failed for WBC count — kindly correlate clinically. Pages 4-5 contain Trend Analysis & Graph. Collected 01/04/2026 04:49; reported 01/04/2026 09:50.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
+Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.55
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 10.1
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 31.7
+(EDTA Whole Blood)
+MCV
+fl 83-101 89.3
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 28.5
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 31.9
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 18.7
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 4.97
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 81.3
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 14.3
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
+Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 3.4
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+Basophils
+% 0-02 1.0
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 4.04
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.71
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.17
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.05
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 83
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 13.4
+(EDTA Whole Blood)
+Comments
+Delta check failed for WBC count. Kindly correlate clinically.
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
+Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR
+M.D ( Pathology)
+Head Of Hematopathology
+DR. PREETI SINGH
+M.D Pathology
+Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
+Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
+Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/04/2026 04:49
+Patient ID : 0010663186 Visit Type :IP Received : 01/04/2026 06:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/04/2026 09:50
+Accession : 2600071499 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR
+M.D ( Pathology)
+Head Of Hematopathology
+DR. PREETI SINGH
+M.D Pathology
+Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 9 of 103** · `2026-03-31_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-31
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-31_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-31_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004244669200000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
+is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Internal jugular line is seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 31-03-2026 06:15 AM Order No. : 0041346338
+Referred By : Shah Darshit Report Date : 31-03-2026 08:26 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right midzone and the right lower zone. Subsegmental atelectasis
+is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Internal jugular line is seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 10 of 103** · `2026-03-31_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-31
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-31_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-31_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004244698201000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode): Sodium 144.60 mmol/L (Normal; ref 136-145), Potassium 4.26 mmol/L (Normal; ref 3.5-5.1), Chloride 104.00 mmol/L (Normal; ref 98-107). All values within normal range. Pages 2-3 contain Trend Analysis & Graph. Collected 31/03/2026 02:38; reported 31/03/2026 09:27.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :31/03/2026 02:38
+Patient ID : 0010663186 Visit Type :IP Received : 31/03/2026 06:34
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :31/03/2026 09:27
+Accession : 2600070553 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 144.60
+Potassium mmol/L 3.5-5.1 4.26
+Chloride mmol/L 98-107 104.00
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :31/03/2026 02:38
+Patient ID : 0010663186 Visit Type :IP Received : 31/03/2026 06:34
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :31/03/2026 09:27
+Accession : 2600070553 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :31/03/2026 02:38
+Patient ID : 0010663186 Visit Type :IP Received : 31/03/2026 06:34
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :31/03/2026 09:27
+Accession : 2600070553 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 11 of 103** · `2026-03-31_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-31
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-31_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-31_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004244698001000.pdf`
+
+## Summary (extracted)
+
+Creatinine (Serum, Jaffe - kinetic): 0.89 mg/dL (Normal; reference 0.50-0.90 mg/dL). eGFR (Serum, Calculated): 63.92 mL/min/1.73 m^2 (Mild Decreased; ranges: Normal/High >=90, Mild Decreased 60-89, Mild to Moderately Decreased 45-59, Moderately to Severely Decreased 30-44, Severely Decreased 15-29, Kidney Failure <15). Page 2 contains Trend Analysis & Graph. Collected 31/03/2026 02:38; reported 31/03/2026 09:27.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :31/03/2026 02:38
+Patient ID : 0010663186 Visit Type :IP Received : 31/03/2026 06:34
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :31/03/2026 09:27
+Accession : 2600070553 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.89
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+63.92
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :31/03/2026 02:38
+Patient ID : 0010663186 Visit Type :IP Received : 31/03/2026 06:34
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :31/03/2026 09:27
+Accession : 2600070553 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 12 of 103** · `2026-03-30_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-30
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-30_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-30_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004242676503000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (EDTA Whole Blood) — multiple abnormal values: Red cell count 3.15 x10^12/L (Low; ref 3.8-4.8), Haemoglobin 9.0 g/dL (Low; ref 12.0-15.0), Haematocrit 27.5% (Low; ref 36.0-46.0), MCV 87.3 fl (Normal), MCH 28.6 pg (Normal), MCHC 32.7 g/dL (Normal), RDW 17.9% (High; ref 11.6-14.0), Total Leukocyte Count 1.81 x10^9/L (Low; ref 4-10), Neutrophils 81.1% (High; ref 40-80), Lymphocytes 9.4% (Low; ref 20-40), Monocytes 7.2%, Eosinophils 1.7%, Basophils 0.6%, Neutrophils# 1.47 x10^9 cells/L (Low; ref 2-7), Lymphocytes# 0.17 x10^9 cells/L (Low; ref 1-3), Monocytes# 0.13 x10^9 cells/L (Low; ref 0.2-1.0), Eosinophils# 0.03 x10^9 cells/L, Basophils# 0.01 x10^9 cells/L, Platelet Count 63 x10^9/L (Low; ref 150-410), MPV 11.3 fl (High; ref 7.5-10.5). RBC Morphology: predominantly normocytic normochromic RBCs showing mild anisopoikilocytosis and mild polychromasia. WBC Morphology: Leukopenia. Platelets: Thrombocytopenia. Pages 4-5 contain Trend Analysis & Graph. Collected 30/03/2026 02:19; reported 30/03/2026 10:00.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.15
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 9.0
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 27.5
+(EDTA Whole Blood)
+MCV
+fl 83-101 87.3
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 28.6
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.7
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 17.9
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 1.81
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 81.1
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 9.4
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 7.2
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 1.7
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.6
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 1.47
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.17
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.13
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.03
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.01
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 63
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 11.3
+(EDTA Whole Blood)
+RBC Morphology Predominantly normocytic normochromic RBCs showing
+(EDTA Whole Blood) mild anisopoikilocytosis and mild polychromasia.
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+WBC Morphology
+Leukopenia
+(EDTA Whole Blood)
+Platelets
+Thrombocytopenia.
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:46
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 10:00
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR
+M.D ( Pathology)
+Head Of Hematopathology
+DR. PREETI SINGH
+M.D Pathology
+Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 13 of 103** · `2026-03-30_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-30
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-30_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-30_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004242619901000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode): Sodium 142.70 mmol/L (Normal; ref 136-145), Potassium 4.43 mmol/L (Normal; ref 3.5-5.1), Chloride 102.40 mmol/L (Normal; ref 98-107). All values within normal range. Pages 2-3 contain Trend Analysis & Graph. Collected 30/03/2026 02:19; reported 30/03/2026 09:48.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 142.70
+Potassium mmol/L 3.5-5.1 4.43
+Chloride mmol/L 98-107 102.40
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 14 of 103** · `2026-03-30_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-30
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-30_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-30_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004242620001000.pdf`
+
+## Summary (extracted)
+
+Creatinine (Serum, Jaffe - kinetic): 0.71 mg/dL (Normal; reference 0.50-0.90 mg/dL). eGFR (Serum, Calculated): 82.96 mL/min/1.73 m^2 (Mild Decreased; ranges: Normal/High >=90, Mild Decreased 60-89, Mild to Moderately Decreased 45-59, Moderately to Severely Decreased 30-44, Severely Decreased 15-29, Kidney Failure <15). Page 2 contains Trend Analysis & Graph. Collected 30/03/2026 02:19; reported 30/03/2026 09:48.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.71
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+82.96
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :30/03/2026 02:19
+Patient ID : 0010663186 Visit Type :IP Received : 30/03/2026 06:34
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :30/03/2026 09:48
+Accession : 2600069573 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 15 of 103** · `2026-03-29_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-29
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-29_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-29_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004241663300000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the left
+midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Internal jugular line and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 29-03-2026 06:01 AM Order No. : 0041317753
+Referred By : Shah Darshit Report Date : 29-03-2026 06:40 PM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the left
+midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Internal jugular line and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 16 of 103** · `2026-03-29_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-29
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-29_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-29_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004241805703000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode) collected 29/03/2026 03:40. Sodium 142.50 mmol/L (ref 136-145, normal); Potassium 3.38 mmol/L (ref 3.5-5.1, LOW, rechecked from fresh sample); Chloride 101.50 mmol/L (ref 98-107, normal).
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
+Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
+Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 142.50
+Potassium mmol/L 3.5-5.1 3.38
+Medical Remarks: Rechecked from fresh sample.
+Chloride mmol/L 98-107 101.50
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
+Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
+Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
+Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
+Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 17 of 103** · `2026-03-29_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-29
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-29_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-29_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004241808503000.pdf`
+
+## Summary (extracted)
+
+Creatinine panel collected 29/03/2026 03:40. Creatinine (Serum, Jaffe-kinetic) 0.71 mg/dL (ref 0.50-0.90, normal); rechecked from fresh sample. eGFR 82.96 mL/min/1.73 m^2 (Mild Decreased: 60-89).
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
+Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
+Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.71
+(Serum,Jaffe - kinetic)
+Medical Remarks: Rechecked from fresh sample.
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+82.96
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :29/03/2026 03:40
+Patient ID : 0010663186 Visit Type :IP Received : 29/03/2026 05:49
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :29/03/2026 08:11
+Accession : 2600069165 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 18 of 103** · `2026-03-28_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-28
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-28_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-28_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004239775700000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right lower zone.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 28-03-2026 06:13 AM Order No. : 0041300753
+Referred By : Shah Darshit Report Date : 28-03-2026 10:00 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right lower zone.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 19 of 103** · `2026-03-28_XRay_X-Ray-Portable-Chest-AP_2.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-28
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-28_XRay_X-Ray-Portable-Chest-AP_2.pdf`](./report_pdf/archived/2026-03-28_XRay_X-Ray-Portable-Chest-AP_2.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004240950800000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the
+left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Internal jugular line, endotracheal tube and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 28-03-2026 03:18 PM Order No. : 0041304941
+Referred By : Shah Darshit Report Date : 28-03-2026 11:57 PM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the
+left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Internal jugular line, endotracheal tube and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 20 of 103** · `2026-03-28_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-28
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-28_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-28_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004239820701000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (collected 28/03/2026 04:31). Abnormal values: Red cell count 2.99 x10^12/L (ref 3.8-4.8, LOW); Haemoglobin 8.4 g/dL (ref 12.0-15.0, LOW); Haematocrit 26.1% (ref 36.0-46.0, LOW); RDW 18.7% (ref 11.6-14.0, HIGH); Neutrophils 90.4% (ref 40-80, HIGH); Lymphocytes 6.1% (ref 20-40, LOW); Eosinophils 0.7% (ref 1-6, LOW); Lymphocytes# 0.27 x10^9/L (ref 1-3, LOW); Monocytes# 0.10 x10^9/L (ref 0.2-1.0, LOW); Platelet Count 67 x10^9/L (ref 150-410, LOW, manually verified on smear); MPV 11.9 fl (ref 7.5-10.5, HIGH). MCV/MCH/MCHC, Total Leukocyte Count 4.40 x10^9/L, Monocytes 2.3% and Basophils 0.5% normal. RBC Morphology: predominantly normocytic normochromic RBCs showing mild anisopoikilocytosis and mild polychromasia with few acanthocytes and elliptocytes. WBC Morphology: relative neutrophilia. Platelets: thrombocytopenia with occasional large platelets.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 2.99
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 8.4
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 26.1
+(EDTA Whole Blood)
+MCV
+fl 83-101 87.3
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 28.1
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.2
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 18.7
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 4.40
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 90.4
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 6.1
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 2.3
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.7
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.5
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 3.98
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.27
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.10
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.03
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.02
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 67
+(EDTA Whole Blood)
+Medical Remarks: Manually verified on smear.
+MPV
+fl 7.5-10.5 11.9
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Predominantly normocytic normochromic RBCs showing
+RBC Morphology
+mild anisopoikilocytosis and mild polychromasia with few
+(EDTA Whole Blood)
+acanthocytes and elliptocytes .
+WBC Morphology
+Relative neutrophilia.
+(EDTA Whole Blood)
+Platelets
+Thrombocytopenia with occasional large platelets.
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 06:07
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 10:57
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR
+M.D ( Pathology)
+Head Of Hematopathology
+DR. PREETI SINGH
+M.D Pathology
+Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 21 of 103** · `2026-03-28_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-28
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-28_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-28_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004239797601000.pdf`
+
+## Summary (extracted)
+
+Creatinine panel collected 28/03/2026 04:31. Creatinine (Serum, Jaffe-kinetic) 0.95 mg/dL (ref 0.50-0.90, HIGH); eGFR 59.28 mL/min/1.73 m^2 (Mild to Moderately Decreased: 45-59).
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 05:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 09:08
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.95
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+59.28
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 05:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 09:08
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 22 of 103** · `2026-03-28_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-28
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-28_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-28_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004239798201000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode) collected 28/03/2026 04:31. Sodium 142.30 mmol/L (ref 136-145, normal); Potassium 3.37 mmol/L (ref 3.5-5.1, LOW); Chloride 99.50 mmol/L (ref 98-107, normal).
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 05:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 09:08
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 142.30
+Potassium mmol/L 3.5-5.1 3.37
+Chloride mmol/L 98-107 99.50
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 05:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 09:08
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/03/2026 04:31
+Patient ID : 0010663186 Visit Type :IP Received : 28/03/2026 05:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/03/2026 09:08
+Accession : 2600068372 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 23 of 103** · `2026-03-27_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-27
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-27_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-27_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004237876500000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right lower zone.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 27-03-2026 05:39 AM Order No. : 0041284074
+Referred By : Shah Darshit Report Date : 27-03-2026 12:58 PM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right lower zone.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 24 of 103** · `2026-03-27_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-27
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-27_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-27_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004237901302000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (collected 27/03/2026 03:51). Abnormal values: Red cell count 3.45 x10^12/L (ref 3.8-4.8, LOW); Haemoglobin 9.8 g/dL (ref 12.0-15.0, LOW); Haematocrit 29.8% (ref 36.0-46.0, LOW); RDW 18.8% (ref 11.6-14.0, HIGH); Neutrophils 88.6% (ref 40-80, HIGH); Lymphocytes 9.0% (ref 20-40, LOW); Monocytes 1.6% (ref 2-10, LOW); Eosinophils 0.3% (ref 1-6, LOW); Lymphocytes# 0.52 x10^9/L (ref 1-3, LOW); Monocytes# 0.09 x10^9/L (ref 0.2-1.0, LOW); Platelet Count 84 x10^9/L (ref 150-410, LOW, manually verified on smear); MPV 12.2 fl (ref 7.5-10.5, HIGH). MCV/MCH/MCHC and Total Leukocyte Count normal. RBC Morphology: predominantly normocytic normochromic RBCs showing mild anisopoikilocytosis and mild polychromasia with few elliptocytes and occasional schistocytes (0.3%). WBC Morphology: relative neutrophilia with many hypolobated neutrophils. Platelets: thrombocytopenia. Comments: delta check failed for WBC count, correlate clinically; advice: reticulocyte count.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.45
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 9.8
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 29.8
+(EDTA Whole Blood)
+MCV
+fl 83-101 86.4
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 28.4
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.9
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 18.8
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 5.76
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 88.6
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 9.0
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 1.6
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.3
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.5
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 5.10
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.52
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.09
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.02
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.03
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 84
+(EDTA Whole Blood)
+Medical Remarks: Manually verified on smear.
+MPV
+fl 7.5-10.5 12.2
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Predominantly normocytic normochromic RBCs showing
+RBC Morphology
+mild anisopoikilocytosis and mild polychromasia with few
+(EDTA Whole Blood)
+elliptocytes and occasional schistocytes (0.3%).
+WBC Morphology
+Relative neutrophilia with many hypolobated neutrophils.
+(EDTA Whole Blood)
+Platelets
+Thrombocytopenia.
+(EDTA Whole Blood)
+Comments Delta check failed for WBC count. Kindly correlate clinically.
+(EDTA Whole Blood) Advice: Reticulocyte count
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:13
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 25 of 103** · `2026-03-27_Lab-Biochem_Renal-Profile.md`
+
+# Renal Profile
+
+- **Date performed**: 2026-03-27
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-27_Lab-Biochem_Renal-Profile.pdf`](./report_pdf/archived/2026-03-27_Lab-Biochem_Renal-Profile.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004238179802000.pdf`
+
+## Summary (extracted)
+
+Renal Profile (collected 27/03/2026 03:51). Abnormal results: BUN 34.67 mg/dL (ref 8-23, HIGH); Urea 74.20 mg/dL (ref 16.6-48.5, HIGH); Creatinine 1.74 mg/dL (ref 0.50-0.90, HIGH, rechecked); eGFR 29.49 mL/min/1.73 m^2 (severely decreased, range 15-29); Uric Acid 7.80 mg/dL (ref 2.4-5.7, HIGH); Calcium 7.54 mg/dL (ref 8.8-10.2, LOW). Proteins: Total Protein 4.74 g/dL (ref 6.4-8.3, LOW); Albumin 2.91 g/dL (ref 3.5-5.2, LOW); Globulin 1.83 g/dL (ref 2-3.5, LOW); A/G ratio 1.59 (normal). S. Electrolytes: Sodium 135.90 mmol/L (ref 136-145, slightly LOW); Potassium 3.52 mmol/L (normal); Chloride 95.40 mmol/L (ref 98-107, LOW); Bicarbonate 25.10 mmol/L (normal). Phosphorus 3.43 mg/dL (normal).
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Renal Profile
+BUN
+mg/dL 8-23 34.67
+(Serum,Urease/Glutamate dehydrogenase)
+Urea
+mg/dL 16.6-48.5 74.20
+(Serum,Urease/Glutamate dehydrogenase)
+Creatinine Clearance Test [eGFR]
+Creatinine
+mg/dL 0.50-0.90 1.74
+(Serum,Jaffe - kinetic)
+Medical Remarks: Rechecked.
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+29.49
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Uric Acid
+mg/dL 2.4-5.7 7.80
+(Serum,Enzymatic - colorimetric)
+Calcium
+mg/dL 8.8-10.2 7.54
+(Serum,NM - BAPTA)
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 1 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Phosphorus
+mg/dL 2.5-4.5 3.43
+(Serum,Molybdate - UV)
+Proteins
+Total Protein
+g/dL 6.4-8.3 4.74
+(Serum,Colorimetric - biuret)
+Albumin
+g/dL 3.5-5.2 2.91
+(Serum,Colorimetric - BCG)
+Globulin
+g/dL 2-3.5 1.83
+(Serum,Calculated)
+A / G ratio
+1.0-2.5 1.59
+(Serum,Calculated)
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 135.90
+Potassium mmol/L 3.5-5.1 3.52
+Chloride mmol/L 98-107 95.40
+Bicarbonate
+mmol/L 22-29 25.10
+(Serum,Enzymatic - PEPC)
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 2 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Urea:
+Urea is the final degradation product of protein and amino acid metabolism. Blood urea nitrogen currently is the most widely
+used screening test for the evaluation of kidney function. Protein catabolism causes formation of ammonia which is
+synthesized to urea with and elimination of excess nitrogen in the liver. Increased blood urea nitrogen may be due to cardiac
+decompensation, water depletion due to decreased intake and excessive loss, increased protein catabolism, high protein
+diet, acute glomerulonephritis, chronic nephritis, polycystic kidney disease, nephrosclerosis, tubular necrosis and all types of
+obstruction of the urinary tract.
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 3 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 4 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 5 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 6 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 7 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 8 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 9 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 27/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/03/2026 10:00
+Accession : 2600067603 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 10 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 26 of 103** · `2026-03-26_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-26
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-26_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-26_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004235846601000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the left
+midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 26-03-2026 01:46 AM Order No. : 0041264979
+Referred By : Shah Darshit Report Date : 26-03-2026 08:43 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the right lower zone. Subsegmental atelectasis is seen in the left
+midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line, endotracheal tube and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 27 of 103** · `2026-03-26_Lab-Haem_Prothrombin-Time-PT.md`
+
+# Prothrombin Time (PT)
+
+- **Date performed**: 2026-03-26
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-26_Lab-Haem_Prothrombin-Time-PT.pdf`](./report_pdf/archived/2026-03-26_Lab-Haem_Prothrombin-Time-PT.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004235885402000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Haematology. Prothrombin Time (PT) (Citrate Plasma, Nephelometry):
+- Prothrombin Time: 13.9 secs (reference 9.93-12.47) — HIGH
+- Mean Normal PT: 11.2 secs
+- INR (calculated): 1.24 (reference 0.86-1.14) — HIGH
+
+Test performed on fully automated coagulometer. Trend graph included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 02:21
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 03:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 08:18
+Accession : 2600066759 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Prothrombin Time (PT)
+Prothrombin Time.
+Secs 9.93-12.47 13.9
+(Citrate Plasma,Nephelometry)
+Mean Normal PT
+Secs 11.2
+(Citrate Plasma)
+INR
+sec 0.86-1.14 1.24
+(Citrate Plasma,Calculated)
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 02:21
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 03:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 08:18
+Accession : 2600066759 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Test performed on Fully Automated Coagulometer.
+Prothrombin Time (PT):
+• Prothrombin time (PT) is used to evaluate the extrinsic and common pathways of coagulation, which helps detect
+deficiencies of factors ( II, V, VII, X ) and low fibrinogen concentrations.
+• PT/INR is used to monitor oral anticoagulant therapy.
+• Prothrombin time maybe prolonged in cases of chronic liver disease, vitamin K deficiency, disseminated
+intravascular coagulation (DIC) and antiphospholipid antibody syndrome.
+Interference in the assay can be caused by:
+• Preanalytical errors such as hemolyzed, icteric, clotted specimens, improper blood-to-anticoagulant ratio and
+lipemic samples (decreased prothrombin time).
+• Contamination with saline, heparin, or other anticoagulants.
+• Polycythemia with a hematocrit greater than 55%.
+Reference: Yang R, Zubair M, Moosavi L. Prothrombin Time. [Updated 2024 Jan 23]. In: StatPearls [Internet]. Treasure
+Island (FL): StatPearls Publishing; 2024 Jan. Available from: https://www.ncbi.nlm.nih.gov/books/NBK544269.
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 02:21
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 03:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 08:18
+Accession : 2600066759 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 28 of 103** · `2026-03-26_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-26
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-26_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-26_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004235877701000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Haematology. Complete Blood Count (EDTA whole blood):
+- Red cell count: 4.02 x10^12/L (ref 3.8-4.8) — normal
+- Haemoglobin: 11.3 g/dL (ref 12.0-15.0) — LOW
+- Haematocrit: 35.3% (ref 36.0-46.0) — LOW
+- MCV: 87.8 fL (ref 83-101) — normal
+- MCH: 28.1 pg (ref 27.0-32.0) — normal
+- MCHC: 32.0 g/dL (ref 31.5-34.5) — normal
+- RDW: 19.1% (ref 11.6-14.0) — HIGH
+- Total Leukocyte Count: 17.04 x10^9/L (ref 4-10) — HIGH
+- Neutrophils: 97.4% (ref 40-80) — HIGH
+- Lymphocytes: 1.9% (ref 20-40) — LOW
+- Monocytes: 0.4% (ref 2-10) — LOW
+- Eosinophils: 0.1% (ref 1-6) — LOW
+- Basophils: 0.2% (ref 0-2) — normal
+- Neutrophils# absolute: 16.61 x10^9 cells/L (ref 2-7) — HIGH
+- Lymphocytes# absolute: 0.33 x10^9 cells/L (ref 1-3) — LOW
+- Monocytes# absolute: 0.06 x10^9 cells/L (ref 0.2-1.0) — LOW
+- Eosinophils# absolute: 0.01 x10^9 cells/L (ref 0.02-0.5) — LOW
+- Basophils# absolute: 0.03 x10^9 cells/L (ref 0.0-0.1) — normal
+- Platelet Count: 83 x10^9/L (ref 150-410) — LOW (medical remarks: manually verified on smear)
+- MPV: 11.8 fL (ref 7.5-10.5) — HIGH
+- RBC Morphology: Predominantly normocytic normochromic RBCs with mild anisopoikilocytosis and mild polychromasia
+- WBC Morphology: Neutrophilic leukocytosis
+- Platelets: Thrombocytopenia
+- Comments: Delta check failed for WBC count — clinically correlate.
+
+Trend graphs included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
+Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.02
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 11.3
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 35.3
+(EDTA Whole Blood)
+MCV
+fl 83-101 87.8
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 28.1
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.0
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 19.1
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 17.04
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 97.4
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 1.9
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
+Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 0.4
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.1
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.2
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 16.61
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.33
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.06
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.01
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.03
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 83
+(EDTA Whole Blood)
+Medical Remarks: Manually verified on smear.
+MPV
+fl 7.5-10.5 11.8
+(EDTA Whole Blood)
+RBC Morphology Predominantly normocytic normochromic RBCs with mild
+(EDTA Whole Blood) anisopoikilocytosis and mild polychromasia.
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
+Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+WBC Morphology
+Neutrophilic leukocytosis.
+(EDTA Whole Blood)
+Platelets
+Thrombocytopenia.
+(EDTA Whole Blood)
+Comments Delta check failed for WBC count. Kindly correlate clinically.
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
+Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
+Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 02:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 09:15
+Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 29 of 103** · `2026-03-26_Lab-Biochem_C-Reactive-Protein-CRP.md`
+
+# C-Reactive Protein [CRP]
+
+- **Date performed**: 2026-03-26
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-26_Lab-Biochem_C-Reactive-Protein-CRP.pdf`](./report_pdf/archived/2026-03-26_Lab-Biochem_C-Reactive-Protein-CRP.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004235939203000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Biochemistry. C-Reactive Protein [CRP] (Serum, Immunoturbidimetric): 2.04 mg/dL (reference <0.5 mg/dL) — HIGH, indicating active inflammation. Page 2 has trend analysis graph showing prior values (~1.07 on 23 Feb 2026) compared with current 2.04.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 03:51
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 08:44
+Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+C-Reactive Protein [CRP]
+mg/dL < 0.5 2.04
+(Serum,Immunoturbidimetric)
+CRP:
+C-reactive protein (CRP) is one of the most sensitive acute-phase reactants for inflammation. CRP elevations are nonspecific
+and may be useful for the detection of systemic inflammatory processes; to assess treatment of bacterial infections with
+antibiotics; to detect intrauterine infections with concomitant premature amniorrhexis; to differentiate between active and
+inactive forms of disease with concurrent infection; to therapeutically monitor rheumatic disease and assess anti-
+inflammatory therapy; to determine the presence of postoperative complications at an early stage and to distinguish between
+infection and bone marrow rejection.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/03/2026 01:57
+Patient ID : 0010663186 Visit Type :IP Received : 26/03/2026 03:51
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/03/2026 08:44
+Accession : 2600066738 Location :1T13S`1TR1322`1TB1322`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 30 of 103** · `2026-03-24_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-24
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-24_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-24_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004233599401000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Haematology. Complete Blood Count (EDTA whole blood):
+- Red cell count: 4.53 x10^12/L (ref 3.8-4.8) — normal
+- Haemoglobin: 12.9 g/dL (ref 12.0-15.0) — normal
+- Haematocrit: 39.9% (ref 36.0-46.0) — normal
+- MCV: 88.1 fL (ref 83-101) — normal
+- MCH: 28.5 pg (ref 27.0-32.0) — normal
+- MCHC: 32.3 g/dL (ref 31.5-34.5) — normal
+- RDW: 19.5% (ref 11.6-14.0) — HIGH
+- Total Leukocyte Count: 7.86 x10^9/L (ref 4-10) — normal
+- Neutrophils: 89.7% (ref 40-80) — HIGH
+- Lymphocytes: 6.1% (ref 20-40) — LOW
+- Monocytes: 3.9% (ref 2-10) — normal
+- Eosinophils: 0.0% (ref 1-6) — LOW
+- Basophils: 0.3% (ref 0-2) — normal
+- Neutrophils# absolute: 7.05 x10^9 cells/L (ref 2-7) — HIGH
+- Lymphocytes# absolute: 0.48 x10^9 cells/L (ref 1-3) — LOW
+- Monocytes# absolute: 0.31 x10^9 cells/L (ref 0.2-1.0) — normal
+- Eosinophils# absolute: 0.00 x10^9 cells/L (ref 0.02-0.5) — LOW
+- Basophils# absolute: 0.02 x10^9 cells/L (ref 0.0-0.1) — normal
+- Platelet Count: 109 x10^9/L (ref 150-410) — LOW
+- MPV: 11.8 fL (ref 7.5-10.5) — HIGH
+
+Pattern: thrombocytopenia, neutrophilic leukocytosis with lymphopenia and elevated RDW. Trend graphs included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.53
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 12.9
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 39.9
+(EDTA Whole Blood)
+MCV
+fl 83-101 88.1
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 28.5
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.3
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 19.5
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 7.86
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 89.7
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 6.1
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 3.9
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.3
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 7.05
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.48
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.31
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.02
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 109
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 11.8
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :24/03/2026 18:31
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 31 of 103** · `2026-03-24_Lab-Biochem_Liver-Profile.md`
+
+# Liver Profile
+
+- **Date performed**: 2026-03-24
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-24_Lab-Biochem_Liver-Profile.pdf`](./report_pdf/archived/2026-03-24_Lab-Biochem_Liver-Profile.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004233707801000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Biochemistry. Liver Profile:
+- Total Bilirubin (Serum, Diazo): 0.50 mg/dL (ref ≤1.2) — normal
+- Direct Bilirubin: 0.22 mg/dL (ref ≤0.3) — normal
+- Indirect Bilirubin: 0.28 mg/dL (ref ≤1.2) — normal
+- Alanine Aminotransferase [ALT/PT]: 49.80 U/L (ref ≤35) — HIGH
+- Aspartate Aminotransferase [AST/OT]: 35.30 U/L (ref ≤35) — HIGH
+- Gamma Glutamyltransferase [GGT]: 169.00 U/L (ref <40) — HIGH
+- Alkaline Phosphatase [ALP]: 77.50 U/L (ref 35-104) — normal
+- Total Protein (Serum, Biuret): 5.63 g/dL (ref 6.4-8.3) — LOW
+- Albumin (Serum, BCG): 3.38 g/dL (ref 3.5-5.2) — LOW
+- Globulin (calculated): 2.25 g/dL (ref 2-3.5) — normal
+- A/G ratio: 1.50 (ref 1.0-2.5) — normal
+
+Trend analysis graphs for ALT/PT and AST/OT included on later pages.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Liver Profile
+Bilirubin Total + Direct
+Total Bilirubin
+mg/dL <= 1.2 0.50
+(Serum,Diazo)
+Direct Bilirubin
+mg/dL <= 0.3 0.22
+(Serum,Diazo)
+Indirect Bilirubin
+mg/dL <= 1.2 0.28
+(Serum,Calculated)
+Alanine Aminotransferase [ALT/PT]
+U/L <= 35 49.80
+(Serum,IFCC-Enzymatic with P5P)
+Aspartate Aminotransferase [AST/OT]
+U/L <= 35 35.30
+(Serum,IFCC-Enzymatic with P5P)
+Gamma Glutamyltransferase [GGT]
+U/L < 40 169.00
+(Serum,Enzymatic IFCC)
+Alkaline Phosphatase [ALP]
+U/L 35-104 77.50
+(Serum,Enzymatic IFCC)
+Proteins
+Total Protein
+g/dL 6.4-8.3 5.63
+(Serum,Colorimetric - biuret)
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 1 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Albumin
+g/dL 3.5-5.2 3.38
+(Serum,Colorimetric - BCG)
+Globulin
+g/dL 2-3.5 2.25
+(Serum,Calculated)
+A / G ratio
+1.0-2.5 1.50
+(Serum,Calculated)
+Total Bilirubin:
+• Diseases or conditions which, through hemolytic processes, produce bilirubin faster than the liver can metabolize it,
+cause the levels of unconjugated (indirect) bilirubin to increase in the circulation.
+• Liver immaturity and several other diseases in which the bilirubin conjugation mechanism is impaired cause similar
+elevations of circulating unconjugated bilirubin.
+• Bile duct obstruction or damage to hepatocellular structure causes increases in the levels of both conjugated (direct)
+and unconjugated (indirect)bilirubin in the circulation.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 4 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 5 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 6 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 7 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 8 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 32 of 103** · `2026-03-24_Lab-Biochem_Renal-Profile.md`
+
+# Renal Profile
+
+- **Date performed**: 2026-03-24
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-24_Lab-Biochem_Renal-Profile.pdf`](./report_pdf/archived/2026-03-24_Lab-Biochem_Renal-Profile.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004233708201000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Biochemistry. Renal Profile:
+- BUN (Serum, Urease/GLDH): 22.38 mg/dL (ref 8-23) — normal
+- Urea: 47.90 mg/dL (ref 16.6-48.5) — normal
+- Creatinine (Serum, Jaffe-kinetic): 1.01 mg/dL (ref 0.50-0.90) — HIGH
+- eGFR (calculated): 55.24 mL/min/1.73 m^2 — Mild to Moderately Decreased (45-59 range)
+- Uric Acid: 5.33 mg/dL (ref 2.4-5.7) — normal
+- Calcium (Serum, NM-BAPTA): 8.75 mg/dL (ref 8.8-10.2) — LOW
+- Phosphorus: 4.37 mg/dL (ref 2.5-4.5) — normal
+
+Proteins:
+- Total Protein: 5.63 g/dL (ref 6.4-8.3) — LOW
+- Albumin: 3.38 g/dL (ref 3.5-5.2) — LOW
+- Globulin: 2.25 g/dL (ref 2-3.5) — normal
+- A/G ratio: 1.50 (ref 1.0-2.5) — normal
+
+Serum Electrolytes (Ion-selective electrode):
+- Sodium: 134.80 mmol/L (ref 136-145) — LOW
+- Potassium: 4.97 mmol/L (ref 3.5-5.1) — normal
+- Chloride: 97.10 mmol/L (ref 98-107) — LOW
+- Bicarbonate (PEPC): 26.20 mmol/L (ref 22-29) — normal
+
+Trend graphs included on later pages.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Renal Profile
+BUN
+mg/dL 8-23 22.38
+(Serum,Urease/Glutamate dehydrogenase)
+Urea
+mg/dL 16.6-48.5 47.90
+(Serum,Urease/Glutamate dehydrogenase)
+Creatinine Clearance Test [eGFR]
+Creatinine
+mg/dL 0.50-0.90 1.01
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+55.24
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Uric Acid
+mg/dL 2.4-5.7 5.33
+(Serum,Enzymatic - colorimetric)
+Calcium
+mg/dL 8.8-10.2 8.75
+(Serum,NM - BAPTA)
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 1 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Phosphorus
+mg/dL 2.5-4.5 4.37
+(Serum,Molybdate - UV)
+Proteins
+Total Protein
+g/dL 6.4-8.3 5.63
+(Serum,Colorimetric - biuret)
+Albumin
+g/dL 3.5-5.2 3.38
+(Serum,Colorimetric - BCG)
+Globulin
+g/dL 2-3.5 2.25
+(Serum,Calculated)
+A / G ratio
+1.0-2.5 1.50
+(Serum,Calculated)
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 134.80
+Potassium mmol/L 3.5-5.1 4.97
+Chloride mmol/L 98-107 97.10
+Bicarbonate
+mmol/L 22-29 26.20
+(Serum,Enzymatic - PEPC)
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Urea:
+Urea is the final degradation product of protein and amino acid metabolism. Blood urea nitrogen currently is the most widely
+used screening test for the evaluation of kidney function. Protein catabolism causes formation of ammonia which is
+synthesized to urea with and elimination of excess nitrogen in the liver. Increased blood urea nitrogen may be due to cardiac
+decompensation, water depletion due to decreased intake and excessive loss, increased protein catabolism, high protein
+diet, acute glomerulonephritis, chronic nephritis, polycystic kidney disease, nephrosclerosis, tubular necrosis and all types of
+obstruction of the urinary tract.
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 4 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 5 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 6 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 7 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 8 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 9 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :24/03/2026 15:57
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 18:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:28
+Accession : 2600065598 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 10 of 10
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 33 of 103** · `2026-03-23_XRay_X-Ray-Portable-Chest-AP_2.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-23
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-23_XRay_X-Ray-Portable-Chest-AP_2.pdf`](./report_pdf/archived/2026-03-23_XRay_X-Ray-Portable-Chest-AP_2.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004231689600000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 23-03-2026 07:20 PM Order No. : 0041217699
+Referred By : Shah Darshit Report Date : 23-03-2026 09:13 PM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 34 of 103** · `2026-03-23_Lab-Biochem_Blood-Gas-Analysis.md`
+
+# Blood Gas Analysis
+
+- **Date performed**: 2026-03-23
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-23_Lab-Biochem_Blood-Gas-Analysis.pdf`](./report_pdf/archived/2026-03-23_Lab-Biochem_Blood-Gas-Analysis.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004233952901000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Biochemistry. Blood Gas Analysis (arterial blood, ion-selective electrode/calculated):
+- pH: 7.47 (ref 7.35-7.45) — HIGH (mild alkalosis)
+- pCO2: 39.50 mmHg (ref 32-45) — normal
+- pO2: 65.90 mmHg (ref 83-108) — LOW (hypoxemia)
+- sO2: 93.50 % saturation (ref 94-98) — LOW
+- HCO3: 29.00 mmol/L (ref 22.2-28.3) — HIGH
+
+Pattern suggests metabolic alkalosis with hypoxemia.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/03/2026 22:53
+Patient ID : 0010663186 Visit Type :IP Received : 24/03/2026 23:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :25/03/2026 09:44
+Accession : 2600064925 Location :1T06N`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Blood Gas Analysis
+pH
+7.35-7.45 7.47
+(Arterial blood,Ion-selective electrode)
+pCO2
+mmHg 32-45 39.50
+(Arterial blood,Ion-selective electrode)
+pO2
+mmHg 83-108 65.90
+(Arterial blood,Ion-selective electrode)
+sO2 %
+94-98 93.50
+(Arterial blood,Ion-selective electrode) saturation
+HCO3
+mmol/L 22.2-28.3 29.00
+(Arterial blood,Calculated)
+Blood Gas Analysis:
+Blood gases are a group of tests that are performed together to measure the pH, the amount of oxygen and carbon dioxide
+present in arterial blood in order to evaluate lung function and help detect an acid-base imbalance that could indicate a
+respiratory, metabolic or kidney disorder.
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
+Page 1 of 1
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 35 of 103** · `2026-03-17_Lab-Biochem_Potassium.md`
+
+# Potassium
+
+- **Date performed**: 2026-03-17
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-17_Lab-Biochem_Potassium.pdf`](./report_pdf/archived/2026-03-17_Lab-Biochem_Potassium.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004220626302000.pdf`
+
+## Summary (extracted)
+
+Potassium (Serum, Ion-selective electrode), collected 17/03/2026 03:21. Potassium 4.18 mmol/L (within ref 3.5-5.1). No abnormal flag.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :17/03/2026 03:21
+Patient ID : 0010663186 Visit Type :IP Received : 17/03/2026 07:53
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :17/03/2026 09:25
+Accession : 2600059996 Location :1T06N`1TR0626`1TB0630`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+Potassium
+mmol/L 3.5-5.1 4.18
+(Serum,Ion-selective electrode)
+Potassium:
+• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
+decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
+body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
+dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :17/03/2026 03:21
+Patient ID : 0010663186 Visit Type :IP Received : 17/03/2026 07:53
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :17/03/2026 09:25
+Accession : 2600059996 Location :1T06N`1TR0626`1TB0630`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 36 of 103** · `2026-03-16_Lab-Biochem_Potassium.md`
+
+# Potassium
+
+- **Date performed**: 2026-03-16
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-16_Lab-Biochem_Potassium.pdf`](./report_pdf/archived/2026-03-16_Lab-Biochem_Potassium.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004218479403000.pdf`
+
+## Summary (extracted)
+
+Potassium (Serum, Ion-selective electrode), collected 16/03/2026 03:36. Potassium 3.78 mmol/L (within ref 3.5-5.1). No abnormal flag.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :16/03/2026 03:36
+Patient ID : 0010663186 Visit Type :IP Received : 16/03/2026 08:02
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :16/03/2026 10:10
+Accession : 2600059023 Location :1T06N`1TR0626`1TB0630`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+Potassium
+mmol/L 3.5-5.1 3.78
+(Serum,Ion-selective electrode)
+Potassium:
+• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
+decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
+body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
+dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :16/03/2026 03:36
+Patient ID : 0010663186 Visit Type :IP Received : 16/03/2026 08:02
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :16/03/2026 10:10
+Accession : 2600059023 Location :1T06N`1TR0626`1TB0630`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 37 of 103** · `2026-03-15_Lab-Biochem_Potassium.md`
+
+# Potassium
+
+- **Date performed**: 2026-03-15
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-15_Lab-Biochem_Potassium.pdf`](./report_pdf/archived/2026-03-15_Lab-Biochem_Potassium.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004217031701000.pdf`
+
+## Summary (extracted)
+
+Potassium (Serum, Ion-selective electrode), collected 15/03/2026 05:25. Potassium 4.26 mmol/L (within ref 3.5-5.1). No abnormal flag.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :15/03/2026 05:25
+Patient ID : 0010663186 Visit Type :IP Received : 15/03/2026 06:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :15/03/2026 09:50
+Accession : 2600058507 Location :1T06N`1TR0626`1TB0627`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+Potassium
+mmol/L 3.5-5.1 4.26
+(Serum,Ion-selective electrode)
+Potassium:
+• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
+decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
+body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
+dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :15/03/2026 05:25
+Patient ID : 0010663186 Visit Type :IP Received : 15/03/2026 06:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :15/03/2026 09:50
+Accession : 2600058507 Location :1T06N`1TR0626`1TB0627`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 38 of 103** · `2026-03-14_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-14
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-14_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-14_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004215151500000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 14-03-2026 06:20 AM Order No. : 0041062931
+Referred By : Shah Darshit Report Date : 14-03-2026 06:30 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 39 of 103** · `2026-03-14_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-14
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-14_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-14_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004215164201000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count, collected 14/03/2026 04:28. Abnormal findings: Haemoglobin 11.7 g/dL (low; ref 12.0-15.0), Haematocrit 36.0% (borderline at lower limit; ref 36.0-46.0), RDW 18.5% (high; ref 11.6-14.0), Neutrophils 84.8% (high; ref 40-80), Lymphocytes 10.9% (low; ref 20-40), Lymphocytes# 0.64 x10^9/L (low; ref 1-3), Eosinophils# 0.01 x10^9/L (low; ref 0.02-0.5). Within normal limits: Red cell count 4.13 x10^12/L, MCV 87.2 fl, MCH 28.3 pg, MCHC 32.5 g/dL, Total Leukocyte Count 5.86 x10^9/L, Monocytes 3.8%, Eosinophils 0.2%, Basophils 0.3%, Neutrophils# 4.97, Monocytes# 0.22, Basophils# 0.02, Platelet Count 146 x10^9/L (low; ref 150-410), MPV 10.2 fl. Mild anaemia, neutrophilic differential with lymphopenia, borderline thrombocytopenia.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
+Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
+Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.13
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 11.7
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 36.0
+(EDTA Whole Blood)
+MCV
+fl 83-101 87.2
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 28.3
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.5
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 18.5
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 5.86
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 84.8
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 10.9
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
+Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
+Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 3.8
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.2
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.3
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 4.97
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.64
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.22
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.01
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.02
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 146
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.2
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
+Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
+Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
+Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
+Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
+Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
+Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
+Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 08:51
+Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 40 of 103** · `2026-03-14_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-14
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-14_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-14_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004215146201000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode), collected 14/03/2026 04:28. All values within normal limits: Sodium 139.90 mmol/L (ref 136-145), Potassium 3.91 mmol/L (ref 3.5-5.1), Chloride 102.10 mmol/L (ref 98-107). No abnormal flags.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
+Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:43
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 09:10
+Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 139.90
+Potassium mmol/L 3.5-5.1 3.91
+Chloride mmol/L 98-107 102.10
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
+Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:43
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 09:10
+Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :14/03/2026 04:28
+Patient ID : 0010663186 Visit Type :IP Received : 14/03/2026 05:43
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :14/03/2026 09:10
+Accession : 2600057695 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 41 of 103** · `2026-03-13_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-13
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-13_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-13_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004213074500000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 13-03-2026 05:45 AM Order No. : 0041043562
+Referred By : Shah Darshit Report Date : 13-03-2026 08:09 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 42 of 103** · `2026-03-13_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-13
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-13_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-13_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004213248504000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count, collected 13/03/2026 03:37. Abnormal findings: Haemoglobin 11.1 g/dL (low; ref 12.0-15.0), Haematocrit 34.5% (low; ref 36.0-46.0), RDW 18.1% (high; ref 11.6-14.0), Lymphocytes 14.4% (low; ref 20-40), Lymphocytes# 0.84 x10^9/L (low; ref 1-3). Within normal limits: Red cell count 3.98 x10^12/L, MCV 86.7 fl, MCH 27.9 pg, MCHC 32.2 g/dL, Total Leukocyte Count 5.83 x10^9/L, Neutrophils 78.1%, Monocytes 6.5%, Eosinophils 0.5%, Basophils 0.5%, Neutrophils# 4.55, Monocytes# 0.38, Eosinophils# 0.03, Basophils# 0.03, Platelet Count 211 x10^9/L, MPV 10.4 fl. Mild anaemia with relative lymphopenia.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.98
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 11.1
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 34.5
+(EDTA Whole Blood)
+MCV
+fl 83-101 86.7
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.9
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.2
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 18.1
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 5.83
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 78.1
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 14.4
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 6.5
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.5
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.5
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 4.55
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.84
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.38
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.03
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.03
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 211
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.4
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR
+M.D ( Pathology)
+Head Of Hematopathology
+DR. PREETI SINGH
+M.D Pathology
+Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:24
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 09:20
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR
+M.D ( Pathology)
+Head Of Hematopathology
+DR. PREETI SINGH
+M.D Pathology
+Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 43 of 103** · `2026-03-13_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-13
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-13_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-13_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004213134204000.pdf`
+
+## Summary (extracted)
+
+Creatinine, collected 13/03/2026 03:37. Creatinine 0.88 mg/dL (within ref 0.50-0.90, Serum Jaffe-kinetic). eGFR (Calculated) 64.75 mL/min/1.73 m^2 — corresponds to "Mild Decreased" range (60-89). No creatinine elevation; mildly reduced eGFR.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 08:25
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.88
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+64.75
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 08:25
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 44 of 103** · `2026-03-13_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-13
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-13_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-13_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004213134404000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode), collected 13/03/2026 03:37. All values within normal limits: Sodium 140.20 mmol/L (ref 136-145), Potassium 3.56 mmol/L (ref 3.5-5.1, near lower limit), Chloride 101.50 mmol/L (ref 98-107). No abnormal flags.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 08:25
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 140.20
+Potassium mmol/L 3.5-5.1 3.56
+Chloride mmol/L 98-107 101.50
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 08:25
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :13/03/2026 03:37
+Patient ID : 0010663186 Visit Type :IP Received : 13/03/2026 06:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :13/03/2026 08:25
+Accession : 2600056888 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 45 of 103** · `2026-03-12_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-12
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-12_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-12_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004211006600000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 12-03-2026 05:46 AM Order No. : 0041026132
+Referred By : Shah Darshit Report Date : 12-03-2026 08:07 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 46 of 103** · `2026-03-12_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-12
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-12_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-12_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004211004301000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count, collected 12/03/2026 03:51. Abnormal findings: Red cell count 3.88 x10^12/L (within ref but borderline; ref 3.8-4.8), Haemoglobin 10.8 g/dL (low; ref 12.0-15.0), Haematocrit 33.6% (low; ref 36.0-46.0), RDW 17.6% (high; ref 11.6-14.0), Neutrophils 86.3% (high; ref 40-80), Lymphocytes 8.6% (low; ref 20-40), Eosinophils 0.1% (low; ref 01-06), Lymphocytes# 0.58 x10^9/L (low; ref 1-3), Eosinophils# 0.01 x10^9/L (low; ref 0.02-0.5). Within normal limits: MCV 86.6 fl, MCH 27.8 pg, MCHC 32.1 g/dL, Total Leukocyte Count 6.75 x10^9/L, Monocytes 4.6%, Basophils 0.4%, Neutrophils# 5.82, Monocytes# 0.31, Basophils# 0.03, Platelet Count 206 x10^9/L, MPV 10.3 fl. Mild anaemia with neutrophilic leucocytosis pattern and lymphopenia.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.88
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 10.8
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 33.6
+(EDTA Whole Blood)
+MCV
+fl 83-101 86.6
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.8
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.1
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 17.6
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 6.75
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 86.3
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 8.6
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 4.6
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.1
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.4
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 5.82
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.58
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.31
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.01
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.03
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 206
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.3
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:02
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 09:05
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 47 of 103** · `2026-03-12_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-12
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-12_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-12_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004211008202000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode), collected 12/03/2026 03:51. All values within normal limits: Sodium 137.90 mmol/L (ref 136-145), Potassium 3.80 mmol/L (ref 3.5-5.1), Chloride 99.80 mmol/L (ref 98-107). No abnormal flags.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 06:47
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 137.90
+Potassium mmol/L 3.5-5.1 3.80
+Chloride mmol/L 98-107 99.80
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 06:47
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 06:47
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 48 of 103** · `2026-03-12_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-12
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-12_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-12_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004211008302000.pdf`
+
+## Summary (extracted)
+
+Creatinine, collected 12/03/2026 03:51. Creatinine 0.85 mg/dL (within ref 0.50-0.90, Serum Jaffe-kinetic). eGFR (Calculated) 67.40 mL/min/1.73 m^2 — corresponds to "Mild Decreased" range (60-89). No creatinine elevation; mildly reduced eGFR.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 06:47
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.85
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+67.40
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :12/03/2026 03:51
+Patient ID : 0010663186 Visit Type :IP Received : 12/03/2026 05:21
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :12/03/2026 06:47
+Accession : 2600056012 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 49 of 103** · `2026-03-11_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-11
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-11_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-11_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004209014600000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 11-03-2026 06:00 AM Order No. : 0041006054
+Referred By : Shah Darshit Report Date : 11-03-2026 08:30 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 50 of 103** · `2026-03-11_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-11
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-11_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-11_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004209017002000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count, collected 11/03/2026 04:37. Abnormal findings: Red cell count 3.65 x10^12/L (low; ref 3.8-4.8), Haemoglobin 10.2 g/dL (low; ref 12.0-15.0), Haematocrit 31.4% (low; ref 36.0-46.0), RDW 16.9% (high; ref 11.6-14.0), Lymphocytes 16.0% (low; ref 20-40), Lymphocytes# 0.72 x10^9/L (low; ref 1-3), Eosinophils# 0.01 x10^9/L (low; ref 0.02-0.5). Within normal limits: MCV 86.0 fl, MCH 27.9 pg, MCHC 32.5 g/dL, Total Leukocyte Count 4.49 x10^9/L, Neutrophils 76.9%, Monocytes 6.5%, Eosinophils 0.2%, Basophils 0.4%, Neutrophils# 3.45, Monocytes# 0.29, Basophils# 0.02, Platelet Count 176 x10^9/L, MPV 10.4 fl. Picture suggestive of mild normocytic anaemia with relative lymphopenia.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
+Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
+Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.65
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 10.2
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 31.4
+(EDTA Whole Blood)
+MCV
+fl 83-101 86.0
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.9
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.5
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 16.9
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 4.49
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 76.9
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 16.0
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
+Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
+Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 6.5
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.2
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.4
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 3.45
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.72
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.29
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.01
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.02
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 176
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.4
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
+Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
+Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
+Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
+Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
+Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
+Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
+Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:14
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 08:58
+Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 51 of 103** · `2026-03-11_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-11
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-11_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-11_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004209017102000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode), collected 11/03/2026 04:37. All values within normal limits: Sodium 139.20 mmol/L (ref 136-145), Potassium 4.03 mmol/L (ref 3.5-5.1), Chloride 101.70 mmol/L (ref 98-107). No abnormal flags.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
+Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:40
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 09:12
+Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 139.20
+Potassium mmol/L 3.5-5.1 4.03
+Chloride mmol/L 98-107 101.70
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
+Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:40
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 09:12
+Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :11/03/2026 04:37
+Patient ID : 0010663186 Visit Type :IP Received : 11/03/2026 05:40
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :11/03/2026 09:12
+Accession : 2600055147 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 52 of 103** · `2026-03-10_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-10
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-10_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-10_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004207036900000.pdf`
+
+## Summary (extracted)
+
+he soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 10-03-2026 05:52 AM Order No. : 0040988385
+Referred By : Shah Darshit Report Date : 10-03-2026 08:02 AM
+Study Description : X Ray Portable Chest AP
+he soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 53 of 103** · `2026-03-10_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-10
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-10_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-10_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004207052702000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (collected 10/03/2026 03:08, IP, Dr. Darshit Shah). Abnormal/borderline values flagged: Red cell count 3.82 x10^12/L (low; ref 3.8-4.8); Haemoglobin 10.4 g/dL (low; ref 12.0-15.0); Haematocrit 32.3% (low; ref 36.0-46.0); RDW 16.7% (high; ref 11.6-14.0); Total Leukocyte Count 3.88 x10^9/L (low; ref 4-10); Lymphocytes 13.1% (low; ref 20-40); Eosinophils 0.0% (low; ref 01-06); Lymphocytes# 0.51 x10^9/L (low; ref 1-3); Eosinophils# 0.00 x10^9/L (low; ref 0.02-0.5). Within range: MCV 84.6 fl; MCH 27.2 pg; MCHC 32.2 g/dL; Neutrophils 78.9%; Monocytes 7.7%; Basophils 0.3%; Neutrophils# 3.06, Monocytes# 0.30, Basophils# 0.01 x10^9/L; Platelet Count 187 x10^9/L; MPV 10.3 fl. Anemia and leukopenia/lymphopenia noted. Methods: RBC and platelets by impedance; WBC total/differential by flow cytometry; Hb by SLS-hemoglobin. Includes Trend Analysis & Graph section.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
+Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
+Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.82
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 10.4
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 32.3
+(EDTA Whole Blood)
+MCV
+fl 83-101 84.6
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.2
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.2
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 16.7
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 3.88
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 78.9
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 13.1
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
+Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
+Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 7.7
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.3
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 3.06
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.51
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.30
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.01
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 187
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.3
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
+Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
+Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
+Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
+Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
+Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
+Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
+Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:36
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:04
+Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 54 of 103** · `2026-03-10_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-10
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-10_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-10_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004207068402000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (collected 10/03/2026 03:08, IP, Dr. Darshit Shah; Serum, Ion-selective electrode). Results: Sodium 133.20 mmol/L (LOW; ref 136-145); Potassium 4.15 mmol/L (Normal; ref 3.5-5.1); Chloride 98.10 mmol/L (Normal; ref 98-107). Hyponatremia noted. Notes: Sodium is the major extracellular cation maintaining fluid distribution and osmotic pressure; decreased levels can be caused by prolonged vomiting/diarrhoea, diminished kidney reabsorption, or excessive fluid retention. Includes Trend Analysis & Graph section.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
+Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:58
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:31
+Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 133.20
+Potassium mmol/L 3.5-5.1 4.15
+Chloride mmol/L 98-107 98.10
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
+Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:58
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:31
+Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :10/03/2026 03:08
+Patient ID : 0010663186 Visit Type :IP Received : 10/03/2026 05:58
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :10/03/2026 09:31
+Accession : 2600054270 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 55 of 103** · `2026-03-09_Lab-Haem_Prothrombin-Time-PT.md`
+
+# Prothrombin Time (PT)
+
+- **Date performed**: 2026-03-09
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-09_Lab-Haem_Prothrombin-Time-PT.pdf`](./report_pdf/archived/2026-03-09_Lab-Haem_Prothrombin-Time-PT.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004205155701000.pdf`
+
+## Summary (extracted)
+
+Prothrombin Time (PT) (collected 09/03/2026 03:04, IP, Dr. Darshit Shah; Citrate Plasma, Nephelometry, Fully Automated Coagulometer). Results: Prothrombin Time 11.9 sec (within ref 9.93-12.47); Mean Normal PT 11.2 sec; INR 1.06 (within ref 0.86-1.14). All values within normal range. Notes: PT evaluates extrinsic/common pathways of coagulation; PT/INR is used to monitor oral anticoagulant therapy; PT may be prolonged in chronic liver disease, vitamin K deficiency, DIC, and antiphospholipid antibody syndrome. Includes Trend Analysis & Graph section.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:27
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Prothrombin Time (PT)
+Prothrombin Time.
+Secs 9.93-12.47 11.9
+(Citrate Plasma,Nephelometry)
+Mean Normal PT
+Secs 11.2
+(Citrate Plasma)
+INR
+sec 0.86-1.14 1.06
+(Citrate Plasma,Calculated)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:27
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Test performed on Fully Automated Coagulometer.
+Prothrombin Time (PT):
+• Prothrombin time (PT) is used to evaluate the extrinsic and common pathways of coagulation, which helps detect
+deficiencies of factors ( II, V, VII, X ) and low fibrinogen concentrations.
+• PT/INR is used to monitor oral anticoagulant therapy.
+• Prothrombin time maybe prolonged in cases of chronic liver disease, vitamin K deficiency, disseminated
+intravascular coagulation (DIC) and antiphospholipid antibody syndrome.
+Interference in the assay can be caused by:
+• Preanalytical errors such as hemolyzed, icteric, clotted specimens, improper blood-to-anticoagulant ratio and
+lipemic samples (decreased prothrombin time).
+• Contamination with saline, heparin, or other anticoagulants.
+• Polycythemia with a hematocrit greater than 55%.
+Reference: Yang R, Zubair M, Moosavi L. Prothrombin Time. [Updated 2024 Jan 23]. In: StatPearls [Internet]. Treasure
+Island (FL): StatPearls Publishing; 2024 Jan. Available from: https://www.ncbi.nlm.nih.gov/books/NBK544269.
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:27
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) MD PATHOLOGY M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Senior Clinical Associate Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 56 of 103** · `2026-03-09_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-09
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-09_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-09_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004205152101000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (collected 09/03/2026 03:04, IP, Dr. Darshit Shah). Abnormal/borderline values flagged: Haemoglobin 11.4 g/dL (low; ref 12.0-15.0); Haematocrit 35.2% (low; ref 36.0-46.0); RDW 16.8% (high; ref 11.6-14.0); Total Leukocyte Count 3.84 x10^9/L (low; ref 4-10); Lymphocytes 16.7% (low; ref 20-40); MPV 10.6 fl (high; ref 7.5-10.5); Lymphocytes# 0.64 x10^9/L (low; ref 1-3). Within range: Red cell count 4.17 x10^12/L; MCV 84.4 fl; MCH 27.3 pg; MCHC 32.4 g/dL; Neutrophils 72.6%; Monocytes 9.4%; Eosinophils 0.8%; Basophils 0.5%; Neutrophils# 2.79, Monocytes# 0.36, Eosinophils# 0.03, Basophils# 0.02 x10^9/L; Platelet Count 193 x10^9/L. Methods: RBC and platelets by impedance; WBC total/differential by flow cytometry; Hb by SLS-hemoglobin. Includes Trend Analysis & Graph section.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.17
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 11.4
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 35.2
+(EDTA Whole Blood)
+MCV
+fl 83-101 84.4
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.3
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.4
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 16.8
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 3.84
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 72.6
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 16.7
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 9.4
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.8
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.5
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 2.79
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.64
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.36
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.03
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.02
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 193
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.6
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 09:04
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 57 of 103** · `2026-03-09_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-09
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-09_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-09_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004205161301000.pdf`
+
+## Summary (extracted)
+
+Creatinine (collected 09/03/2026 03:04, IP, Dr. Darshit Shah; Serum, Jaffe-kinetic). Result: 0.87 mg/dL — within reference range 0.50-0.90 mg/dL (high-normal). eGFR (Serum, Calculated): 65.61 mL/min/1.73 m^2 — corresponds to "Mild to Moderately Decreased" (45-59) / "Mild Decreased" (60-89) range, indicating mildly decreased kidney function. Notes: Creatinine is synthesized endogenously and removed by glomerular filtration; levels generally do not increase until renal function is substantially impaired. Includes Trend Analysis & Graph section.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:22
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 06:50
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.87
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+65.61
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:22
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 06:50
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 58 of 103** · `2026-03-09_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-09
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-09_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-09_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004205161001000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (collected 09/03/2026 03:04, IP, Dr. Darshit Shah; Serum, Ion-selective electrode). Results: Sodium 134.40 mmol/L (LOW; ref 136-145); Potassium 4.41 mmol/L (Normal; ref 3.5-5.1); Chloride 99.70 mmol/L (Normal; ref 98-107). Mild hyponatremia noted. Notes: Sodium is the major extracellular cation maintaining fluid distribution and osmotic pressure; decreased levels can be caused by prolonged vomiting/diarrhoea, diminished kidney reabsorption, or excessive fluid retention. Includes Trend Analysis & Graph section.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:22
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 06:50
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 134.40
+Potassium mmol/L 3.5-5.1 4.41
+Chloride mmol/L 98-107 99.70
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:22
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 06:50
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :09/03/2026 03:04
+Patient ID : 0010663186 Visit Type :IP Received : 09/03/2026 05:22
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :09/03/2026 06:50
+Accession : 2600053426 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 59 of 103** · `2026-03-08_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-08
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-08_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-08_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004204245900000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 08-03-2026 06:02 AM Order No. : 0040962258
+Referred By : Shah Darshit Report Date : 08-03-2026 03:55 PM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A right sided PICC line and a nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 60 of 103** · `2026-03-08_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-08
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-08_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-08_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004204242602000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (collected 08/03/2026 05:00, IP, Dr. Darshit Shah). Abnormal/borderline values flagged: Haemoglobin 11.8 g/dL (low; ref 12.0-15.0); Haematocrit 36.4% (low-normal; ref 36.0-46.0); RDW 16.6% (high; ref 11.6-14.0); Lymphocytes 15.3% (low; ref 20-40); MPV 11.3 fl (high; ref 7.5-10.5); Lymphocytes# 0.74 x10^9/L (low; ref 1-3). Within range: Red cell count 4.25 x10^12/L; MCV 85.6 fl; MCH 27.8 pg; MCHC 32.4 g/dL; Total Leukocyte Count 4.84 x10^9/L; Neutrophils 75.0%; Monocytes 8.9%; Eosinophils 0.6%; Basophils 0.2%; Neutrophils# 3.63, Monocytes# 0.43, Eosinophils# 0.03, Basophils# 0.01 x10^9/L; Platelet Count 153 x10^9/L. Methods: RBC and platelets by impedance; WBC total/differential by flow cytometry; Hb by SLS-hemoglobin. Includes Trend Analysis & Graph section.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
+Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.25
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 11.8
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 36.4
+(EDTA Whole Blood)
+MCV
+fl 83-101 85.6
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.8
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.4
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 16.6
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 4.84
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 75.0
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 15.3
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
+Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 8.9
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.6
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.2
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 3.63
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.74
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.43
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.03
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.01
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 153
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 11.3
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
+Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
+Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
+Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 05:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 09:12
+Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 61 of 103** · `2026-03-08_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-08
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-08_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-08_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004204272201000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode):
+- Sodium: 133.20 mmol/L (Low; Reference 136-145)
+- Potassium: 3.92 mmol/L (Normal; Reference 3.5-5.1)
+- Chloride: 98.90 mmol/L (Normal; Reference 98-107)
+
+Trend graphs included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 06:03
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 08:25
+Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 133.20
+Potassium mmol/L 3.5-5.1 3.92
+Chloride mmol/L 98-107 98.90
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 06:03
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 08:25
+Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :08/03/2026 05:00
+Patient ID : 0010663186 Visit Type :IP Received : 08/03/2026 06:03
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :08/03/2026 08:25
+Accession : 2600052958 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 62 of 103** · `2026-03-07_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-07
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-07_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-07_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004202411700000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side. There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 07-03-2026 06:04 AM Order No. : 0040941680
+Referred By : Shah Darshit Report Date : 07-03-2026 09:22 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side. There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 63 of 103** · `2026-03-07_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-07
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-07_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-07_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004202843001000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (EDTA Whole Blood):
+- Red cell count: 4.38 x10^12/L (Normal; 3.8-4.8)
+- Haemoglobin: 12.3 g/dL (Normal; 12.0-15.0)
+- Haematocrit: 38.0% (Normal; 36.0-46.0)
+- MCV: 86.8 fl (Normal; 83-101)
+- MCH: 28.1 pg (Normal; 27.0-32.0)
+- MCHC: 32.4 g/dL (Normal; 31.5-34.5)
+- RDW: 17.1% (High; 11.6-14.0)
+- Total Leukocyte Count: 5.06 x10^9/L (Normal; 4-10)
+- Neutrophils: 82.0% (High; 40-80); Neutrophils#: 4.15 x10^9/L (Normal; 2-7)
+- Lymphocytes: 11.1% (Low; 20-40); Lymphocytes#: 0.56 x10^9/L (Low; 1-3)
+- Monocytes: 5.7% (Normal; 2-10); Monocytes#: 0.29 x10^9/L (Normal; 0.2-1.0)
+- Eosinophils: 0.8% (Low; 1-6); Eosinophils#: 0.04 x10^9/L (Normal; 0.02-0.5)
+- Basophils: 0.4% (Normal; 0-2); Basophils#: 0.02 x10^9/L (Normal; 0.0-0.1)
+- Platelet Count: 144 x10^9/L (Low; 150-410)
+- MPV: 11.6 fl (High; 7.5-10.5)
+
+Trend graphs included for CBC parameters.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
+Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
+Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.38
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 12.3
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 38.0
+(EDTA Whole Blood)
+MCV
+fl 83-101 86.8
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 28.1
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.4
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 17.1
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 5.06
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 82.0
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 11.1
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
+Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
+Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 5.7
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.8
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.4
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 4.15
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.56
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.29
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.04
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.02
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 144
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 11.6
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
+Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
+Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
+Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
+Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
+Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
+Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
+Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:11
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 11:17
+Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 64 of 103** · `2026-03-07_Lab-Biochem_Potassium.md`
+
+# Potassium
+
+- **Date performed**: 2026-03-07
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-07_Lab-Biochem_Potassium.pdf`](./report_pdf/archived/2026-03-07_Lab-Biochem_Potassium.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004202986701000.pdf`
+
+## Summary (extracted)
+
+Potassium (Serum, Ion-selective electrode): 4.88 mmol/L (Normal; Reference 3.5-5.1)
+
+Trend graph included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
+Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:22
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 12:00
+Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+Potassium
+mmol/L 3.5-5.1 4.88
+(Serum,Ion-selective electrode)
+Potassium:
+• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
+decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
+body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
+dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :07/03/2026 03:45
+Patient ID : 0010663186 Visit Type :IP Received : 07/03/2026 10:22
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :07/03/2026 12:00
+Accession : 2600052164 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 65 of 103** · `2026-03-06_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-06
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-06_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-06_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004200411300000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side. There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 06-03-2026 06:35 AM Order No. : 0040922882
+Referred By : Shah Darshit Report Date : 06-03-2026 08:34 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Subsegmental atelectasis is seen in the left midzone. Rest of the lungs are clear.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side. There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 66 of 103** · `2026-03-06_Lab-Serol_Magnesium.md`
+
+# Magnesium
+
+- **Date performed**: 2026-03-06
+- **Category**: Lab-Serol
+- **Department**: IMMUNOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-06_Lab-Serol_Magnesium.pdf`](./report_pdf/archived/2026-03-06_Lab-Serol_Magnesium.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004201754301000.pdf`
+
+## Summary (extracted)
+
+Magnesium (Serum, Colorimetric Endpoint Method): 2.21 mg/dL (Normal; Reference 1.6-2.4)
+
+Trend graph included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 12:17
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 12:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 16:41
+Accession : 2600051658 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- IIMMMMUUNNOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Magnesium
+mg/dL 1.6-2.4 2.21
+(Serum,Colorimetric Endpoint Method)
+Magnesium:
+Magnesium along with potassium is a major intracellular cation. Magnesium is a cofactor of many enzyme systems.
+Approximately 70% of magnesium ions are stored in bone. Levels are regulated mainly via the kidneys. Hypermagnesemia is
+found in acute and chronic renal failure, magnesium overload and magnesium release from the intracellular space related to
+changes in calcium-, potassium- and phosphate-homeostasis. This may result in prolonged atrioventricular conduction time,
+ventricular arrhythmias , coronary artery spasms, central nervous system depression or cardiac and/or respiratory arrest.
+Conditions associated with hypomagnesemia include chronic alcoholism, childhood malnutrition, lactation, malabsorption,
+acute pancreatitis, hypothyroidism, chronic glomerulonephritis, aldosteronism and prolonged intravenous feeding.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 12:17
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 12:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 16:41
+Accession : 2600051658 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- IIIMMMMMMUUUNNNOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 67 of 103** · `2026-03-06_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-06
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-06_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-06_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004200365401000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (EDTA Whole Blood):
+- Red cell count: 4.53 x10^12/L (Normal; 3.8-4.8)
+- Haemoglobin: 12.5 g/dL (Normal; 12.0-15.0)
+- Haematocrit: 38.4% (Normal; 36.0-46.0)
+- MCV: 84.8 fl (Normal; 83-101)
+- MCH: 27.6 pg (Normal; 27.0-32.0)
+- MCHC: 32.6 g/dL (Normal; 31.5-34.5)
+- RDW: 17.0% (High; 11.6-14.0)
+- Total Leukocyte Count: 9.87 x10^9/L (Normal; 4-10)
+- Neutrophils: 94.6% (High; 40-80); Neutrophils#: 9.33 x10^9/L (High; 2-7)
+- Lymphocytes: 3.4% (Low; 20-40); Lymphocytes#: 0.34 x10^9/L (Low; 1-3)
+- Monocytes: 1.1% (Low; 2-10); Monocytes#: 0.11 x10^9/L (Low; 0.2-1.0)
+- Eosinophils: 0.7% (Low; 1-6); Eosinophils#: 0.07 x10^9/L (Normal; 0.02-0.5)
+- Basophils: 0.2% (Normal; 0-2); Basophils#: 0.02 x10^9/L (Normal; 0.0-0.1)
+- Platelet Count: 163 x10^9/L (Normal; 150-410)
+- MPV: 11.2 fl (High; 7.5-10.5)
+- Comments: Delta check failed for WBC count, Kindly correlate clinically.
+
+Trend graphs included for CBC parameters.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
+Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.53
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 12.5
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 38.4
+(EDTA Whole Blood)
+MCV
+fl 83-101 84.8
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.6
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.6
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 17.0
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 9.87
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 94.6
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 3.4
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
+Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 1.1
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.7
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.2
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 9.33
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.34
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.11
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.07
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.02
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 163
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 11.2
+(EDTA Whole Blood)
+Comments
+Delta check failed for WBC count, Kindly correlate clinically.
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
+Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
+Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
+Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 09:32
+Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 68 of 103** · `2026-03-06_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-06
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-06_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-06_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004200378902000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode):
+- Sodium: 134.20 mmol/L (Low; Reference 136-145)
+- Potassium: 4.60 mmol/L (Normal; Reference 3.5-5.1)
+- Chloride: 100.10 mmol/L (Normal; Reference 98-107)
+
+Trend graphs included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:33
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 06:31
+Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 134.20
+Potassium mmol/L 3.5-5.1 4.60
+Chloride mmol/L 98-107 100.10
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:33
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 06:31
+Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :06/03/2026 04:41
+Patient ID : 0010663186 Visit Type :IP Received : 06/03/2026 05:33
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :06/03/2026 06:31
+Accession : 2600051237 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 69 of 103** · `2026-03-05_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-05
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-05_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-05_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004198379400000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid zone and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 05-03-2026 06:24 AM Order No. : 0040907511
+Referred By : Shah Darshit Report Date : 05-03-2026 07:54 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid zone and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 70 of 103** · `2026-03-05_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-05
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-05_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-05_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004198500601000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (EDTA Whole Blood):
+- Red cell count: 4.48 x10^12/L (Normal; 3.8-4.8)
+- Haemoglobin: 12.5 g/dL (Normal; 12.0-15.0)
+- Haematocrit: 39.4% (Normal; 36.0-46.0)
+- MCV: 87.9 fl (Normal; 83-101)
+- MCH: 27.9 pg (Normal; 27.0-32.0)
+- MCHC: 31.7 g/dL (Normal; 31.5-34.5)
+- RDW: 16.8% (High; 11.6-14.0)
+- Total Leukocyte Count: 24.13 x10^9/L (High; 4-10)
+- Neutrophils: 97.4% (High; 40-80); Neutrophils#: 23.49 x10^9/L (High; 2-7)
+- Lymphocytes: 1.8% (Low; 20-40); Lymphocytes#: 0.44 x10^9/L (Low; 1-3)
+- Monocytes: 0.4% (Low; 2-10); Monocytes#: 0.09 x10^9/L (Low; 0.2-1.0)
+- Eosinophils: 0.3% (Low; 1-6); Eosinophils#: 0.08 x10^9/L (Normal; 0.02-0.5)
+- Basophils: 0.1% (Normal; 0-2); Basophils#: 0.03 x10^9/L (Normal; 0.0-0.1)
+- Platelet Count: 190 x10^9/L (Normal; 150-410)
+- MPV: 12.0 fl (High; 7.5-10.5)
+
+Trend graphs included for CBC parameters.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.48
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 12.5
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 39.4
+(EDTA Whole Blood)
+MCV
+fl 83-101 87.9
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.9
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 31.7
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 16.8
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 24.13
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 97.4
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 1.8
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 0.4
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.3
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.1
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 23.49
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.44
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.09
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.08
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.03
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 190
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 12.0
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 07:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:13
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 71 of 103** · `2026-03-05_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-05
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-05_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-05_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004198820701000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode):
+- Sodium: 133.30 mmol/L (Low; Reference 136-145)
+- Potassium: 4.79 mmol/L (Normal; Reference 3.5-5.1)
+- Chloride: 100.20 mmol/L (Normal; Reference 98-107)
+
+Medical Remarks: Rechecked from fresh sample. Trend graphs included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 06:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:20
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 133.30
+Potassium mmol/L 3.5-5.1 4.79
+Chloride mmol/L 98-107 100.20
+Medical Remarks: Rechecked from fresh sample.
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 06:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:20
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Clinical Assistant Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 06:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:20
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Clinical Assistant Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 72 of 103** · `2026-03-05_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-05
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-05_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-05_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004198820801000.pdf`
+
+## Summary (extracted)
+
+Creatinine:
+- Creatinine (Serum, Jaffe - kinetic): 0.76 mg/dL (Normal; Reference 0.50-0.90)
+- eGFR (Serum, Calculated): 76.69 mL/min/1.73 m^2 (Mild Decreased range 60-89; reference categories: Normal/High >=90, Mild 60-89, Mild-Moderate 45-59, Moderate-Severe 30-44, Severe 15-29, Kidney Failure <15)
+
+Trend graph for Creatinine included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 06:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:20
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.76
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+76.69
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :05/03/2026 04:22
+Patient ID : 0010663186 Visit Type :IP Received : 05/03/2026 06:31
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :05/03/2026 10:20
+Accession : 2600050369 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Assistant Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 73 of 103** · `2026-03-04_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-04
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-04_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-04_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004196498300000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid zone and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 04-03-2026 06:11 AM Order No. : 0040889308
+Referred By : Shah Darshit Report Date : 04-03-2026 06:14 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid zone and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 74 of 103** · `2026-03-04_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-04
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-04_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-04_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004196627802000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (EDTA Whole Blood):
+- Red cell count: 4.25 x10^12/L (Normal; 3.8-4.8)
+- Haemoglobin: 11.7 g/dL (Low; 12.0-15.0)
+- Haematocrit: 36.8% (Normal; 36.0-46.0)
+- MCV: 86.6 fl (Normal; 83-101)
+- MCH: 27.5 pg (Normal; 27.0-32.0)
+- MCHC: 31.8 g/dL (Normal; 31.5-34.5)
+- RDW: 16.1% (High; 11.6-14.0)
+- Total Leukocyte Count: 19.49 x10^9/L (High; 4-10)
+- Neutrophils: 97.0% (High; 40-80); Neutrophils#: 18.90 x10^9/L (High; 2-7)
+- Lymphocytes: 1.7% (Low; 20-40); Lymphocytes#: 0.34 x10^9/L (Low; 1-3)
+- Monocytes: 1.2% (Low; 2-10); Monocytes#: 0.24 x10^9/L (Normal; 0.2-1.0)
+- Eosinophils: 0.0% (Low; 1-6); Eosinophils#: 0.00 x10^9/L (Low; 0.02-0.5)
+- Basophils: 0.1% (Normal; 0-2); Basophils#: 0.01 x10^9/L (Normal; 0.0-0.1)
+- Platelet Count: 210 x10^9/L (Normal; 150-410)
+- MPV: 11.3 fl (High; 7.5-10.5)
+- RBC Morphology: Normocytic normochromic RBCs.
+- WBC Morphology: Neutrophilic leukocytosis.
+- Platelets: Adequate in smear.
+
+Trend graphs included for CBC parameters.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
+Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
+Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.25
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 11.7
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 36.8
+(EDTA Whole Blood)
+MCV
+fl 83-101 86.6
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.5
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 31.8
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 16.1
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 19.49
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 97.0
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 1.7
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
+Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
+Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 1.2
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.1
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 18.90
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.34
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.24
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.01
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 210
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 11.3
+(EDTA Whole Blood)
+RBC Morphology
+Normocytic normochromic RBCs
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
+Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
+Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+WBC Morphology
+Neutrophilic leukocytosis.
+(EDTA Whole Blood)
+Platelets
+Adequate in smear.
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) MD PATHOLOGY M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Senior Clinical Associate Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
+Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
+Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
+Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
+Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
+Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:38
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 11:40
+Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 75 of 103** · `2026-03-04_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-04
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-04_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-04_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004200411300000asdf.pdf`
+
+## Summary (extracted)
+
+Creatinine (Department of Laboratory Medicine - Biochemistry), collected 04/03/2026 05:21. Serum Creatinine (Jaffe - kinetic) 0.76 mg/dL (within ref 0.50-0.90). eGFR (calculated) 76.69 mL/min/1.73 m^2 (Mild Decreased: 60-89). Includes Trend Analysis & Graph.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
+Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:29
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 08:36
+Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.76
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+76.69
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :04/03/2026 05:21
+Patient ID : 0010663186 Visit Type :IP Received : 04/03/2026 06:29
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :04/03/2026 08:36
+Accession : 2600049548 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 76 of 103** · `2026-03-03_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-03
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-03_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-03_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004195568600000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid zone and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 03-03-2026 05:51 AM Order No. : 0040881299
+Referred By : Shah Darshit Report Date : 03-03-2026 04:36 PM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid zone and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 77 of 103** · `2026-03-03_XRay_X-Ray-Portable-Chest-AP_2.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-03
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-03_XRay_X-Ray-Portable-Chest-AP_2.pdf`](./report_pdf/archived/2026-03-03_XRay_X-Ray-Portable-Chest-AP_2.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004196101800000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid zone and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 03-03-2026 04:58 PM Order No. : 0040884595
+Referred By : Shah Darshit Report Date : 03-03-2026 07:04 PM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid zone and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 78 of 103** · `2026-03-03_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-03
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-03_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-03_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004195595702000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (Department of Laboratory Medicine - Haematology), collected 03/03/2026 03:18. Abnormal values: Haemoglobin 10.9 g/dL (low; ref 12.0-15.0); Haematocrit 34.2% (low; ref 36.0-46.0); MCHC 31.9 g/dL (within); RDW 15.9% (high; ref 11.6-14.0); Neutrophils 92.0% (high; ref 40-80); Lymphocytes 5.5% (low; ref 20-40); Lymphocytes# 0.36 x10^9 cells/L (low; ref 1-3); Monocytes# 0.15 x10^9 cells/L (low; ref 0.2-1.0); MPV 10.9 fl (high; ref 7.5-10.5). Within range: Red cell count 3.97 x10^12/L, MCV 86.1 fl, MCH 27.5 pg, Total Leukocyte Count 6.59 x10^9/L, Monocytes 2.3%, Eosinophils 0.0%, Basophils 0.2%, Neutrophils# 6.07, Eosinophils# 0.00, Basophils# 0.01, Platelet Count 225 x10^9/L. Includes Trend Analysis & Graph pages.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.97
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 10.9
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 34.2
+(EDTA Whole Blood)
+MCV
+fl 83-101 86.1
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.5
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 31.9
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 15.9
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 6.59
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 92.0
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 5.5
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
+M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Monocytes
+% 2-10 2.3
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+Basophils
+% 0-02 0.2
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 6.07
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.36
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.15
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.01
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 225
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.9
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
+M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
+M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
+M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 05:58
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 10:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+∞ End of Report ∞
+DR. ARCHANA VAZIFDAR DR. MONICA KANDOTH DR. PREETI SINGH
+M.D ( Pathology) M.D. PATHOLOGY M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 79 of 103** · `2026-03-03_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-03
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-03_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-03_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004195586101000.pdf`
+
+## Summary (extracted)
+
+Creatinine (Department of Laboratory Medicine - Biochemistry), collected 03/03/2026 03:18. Serum Creatinine (Jaffe - kinetic) 0.83 mg/dL (within ref 0.50-0.90). eGFR (calculated) 69.28 mL/min/1.73 m^2 (Mild Decreased: 60-89). Includes Trend Analysis & Graph.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 08:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.83
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+69.28
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 08:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 80 of 103** · `2026-03-03_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-03
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-03_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-03_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004195586301000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode), collected 03/03/2026 03:18 (Department of Laboratory Medicine - Biochemistry). Sodium 136.60 mmol/L (ref 136-145); Potassium 4.62 mmol/L (ref 3.5-5.1); Chloride 99.90 mmol/L (ref 98-107). All values within reference range. Includes Trend Analysis & Graph pages.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 08:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 136.60
+Potassium mmol/L 3.5-5.1 4.62
+Chloride mmol/L 98-107 99.90
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 08:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 03:18
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 08:08
+Accession : 2600048978 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+∞ End of Report ∞
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 3
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 81 of 103** · `2026-03-03_Lab-Biochem_Potassium.md`
+
+# Potassium
+
+- **Date performed**: 2026-03-03
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-03_Lab-Biochem_Potassium.pdf`](./report_pdf/archived/2026-03-03_Lab-Biochem_Potassium.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004196154002000.pdf`
+
+## Summary (extracted)
+
+Potassium (Department of Laboratory Medicine - Biochemistry), collected 03/03/2026 17:04. Serum Potassium (Ion-selective electrode) 4.14 mmol/L (within ref 3.5-5.1). Includes Trend Analysis & Graph.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 17:04
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 18:43
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 19:28
+Accession : 2600049277 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+Potassium
+mmol/L 3.5-5.1 4.14
+(Serum,Ion-selective electrode)
+Potassium:
+• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
+decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
+body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
+dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :03/03/2026 17:04
+Patient ID : 0010663186 Visit Type :IP Received : 03/03/2026 18:43
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :03/03/2026 19:28
+Accession : 2600049277 Location :1T05S`1TR0509`1TB0509`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 82 of 103** · `2026-03-02_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-02
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-02_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-02_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004193832902000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (Department of Laboratory Medicine - Haematology), collected 02/03/2026 03:43. Abnormal values: Haemoglobin 10.7 g/dL (low; ref 12.0-15.0); Haematocrit 34.3% (low; ref 36.0-46.0); MCHC 31.2 g/dL (low; ref 31.5-34.5); RDW 15.5% (high; ref 11.6-14.0); Neutrophils 88.1% (high; ref 40-80); Lymphocytes 5.9% (low; ref 20-40); Lymphocytes# 0.39 x10^9 cells/L (low; ref 1-3). Within range: Red cell count 3.97 x10^12/L, MCV 86.4 fl, MCH 27.0 pg, Total Leukocyte Count 6.58 x10^9/L, Monocytes 5.8%, Eosinophils 0.0%, Basophils 0.2%, Neutrophils# 5.80 x10^9 cells/L, Monocytes# 0.38, Eosinophils# 0.00, Basophils# 0.01, Platelet Count 214 x10^9/L, MPV 10.4 fl. Includes Trend Analysis & Graph pages.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 05:55
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 08:58
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.97
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 10.7
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 34.3
+(EDTA Whole Blood)
+MCV
+fl 83-101 86.4
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.0
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 31.2
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 15.5
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 6.58
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 88.1
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 5.9
+(EDTA Whole Blood)
+Monocytes
+% 2-10 5.8
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 1 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 05:55
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 08:58
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Basophils
+% 0-02 0.2
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 5.80
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.39
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.38
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.01
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 214
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.4
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
+Page 2 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 05:55
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 08:58
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 3 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 05:55
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 08:58
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 4 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 05:55
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 08:58
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+∞ End of Report ∞
+Page 5 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 83 of 103** · `2026-03-02_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-02
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-02_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-02_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004193822402000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode), collected 02/03/2026 03:43 (Department of Laboratory Medicine - Biochemistry). Sodium 141.40 mmol/L (ref 136-145); Potassium 4.13 mmol/L (ref 3.5-5.1); Chloride 102.00 mmol/L (ref 98-107). All values within reference range. Includes Trend Analysis & Graph pages.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 141.40
+Potassium mmol/L 3.5-5.1 4.13
+Chloride mmol/L 98-107 102.00
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 2 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 3 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+∞ End of Report ∞
+Page 4 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 84 of 103** · `2026-03-02_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-02
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-02_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-02_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004193822502000.pdf`
+
+## Summary (extracted)
+
+Creatinine (Department of Laboratory Medicine - Biochemistry), collected 02/03/2026 03:43. Serum Creatinine (Jaffe - kinetic) 0.86 mg/dL (within ref 0.50-0.90). eGFR (calculated) 66.50 mL/min/1.73 m^2 (Mild Decreased: 60-89). Includes Trend Analysis & Graph.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.86
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+66.50
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :02/03/2026 03:43
+Patient ID : 0010663186 Visit Type :IP Received : 02/03/2026 06:04
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :02/03/2026 09:08
+Accession : 2600048320 Location :1T05S`1TR0509`1TB0509
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 85 of 103** · `2026-03-01_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-03-01
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-03-01_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-03-01_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004193132300000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 01-03-2026 08:26 AM Order No. : 0040857790
+Referred By : Shah Darshit Report Date : 01-03-2026 02:33 PM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 86 of 103** · `2026-03-01_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-03-01
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-03-01_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-03-01_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004192959602000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (Department of Laboratory Medicine - Haematology), collected 01/03/2026 03:44. Abnormal values: Red cell count 3.83 x10^12/L (low; ref 3.8-4.8 — borderline); Haemoglobin 10.7 g/dL (low; ref 12.0-15.0); Haematocrit 33.1% (low; ref 36.0-46.0); RDW 15.1% (high; ref 11.6-14.0); Neutrophils 86.1% (high; ref 40-80); Lymphocytes 6.5% (low; ref 20-40); Neutrophils# 7.10 x10^9 cells/L (high; ref 2-7 — borderline); Lymphocytes# 0.54 x10^9 cells/L (low; ref 1-3); MPV 10.6 fl (high; ref 7.5-10.5). Within range: MCV 86.4 fl, MCH 27.9 pg, MCHC 32.3 g/dL, Total Leukocyte Count 8.25 x10^9/L, Monocytes 7.2%, Eosinophils 0.1%, Basophils 0.1%, Monocytes# 0.59, Eosinophils# 0.01, Basophils# 0.01, Platelet Count 229 x10^9/L. Includes Trend Analysis & Graph pages.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:27
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 09:51
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.83
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 10.7
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 33.1
+(EDTA Whole Blood)
+MCV
+fl 83-101 86.4
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.9
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.3
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 15.1
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 8.25
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 86.1
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 6.5
+(EDTA Whole Blood)
+Monocytes
+% 2-10 7.2
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.1
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 1 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:27
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 09:51
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Basophils
+% 0-02 0.1
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 7.10
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.54
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.59
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.01
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.01
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 229
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.6
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) MD PATHOLOGY M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Senior Clinical Associate Consultant Pathologist
+Page 2 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:27
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 09:51
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 3 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:27
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 09:51
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+DR. ARCHANA VAZIFDAR DR. TALATNOOR SHEIKH DR. PREETI SINGH
+M.D ( Pathology) MD PATHOLOGY M.D Pathology
+Head Of Hematopathology Senior Clinical Associate Consultant Pathologist
+Page 4 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:27
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 09:51
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+∞ End of Report ∞
+Page 5 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 87 of 103** · `2026-03-01_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-03-01
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-01_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-03-01_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004192977701000.pdf`
+
+## Summary (extracted)
+
+Creatinine (Department of Laboratory Medicine - Biochemistry), collected 01/03/2026 03:44. Serum Creatinine (Jaffe - kinetic) 0.94 mg/dL (high; ref 0.50-0.90). eGFR (calculated) 60.01 mL/min/1.73 m^2 (Mild to Moderately Decreased: 45-59 / Mild Decreased: 60-89 boundary). Includes Trend Analysis & Graph.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.94
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+60.01
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 88 of 103** · `2026-03-01_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-03-01
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-03-01_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-03-01_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004192977601000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode), collected 01/03/2026 03:44 (Department of Laboratory Medicine - Biochemistry). Sodium 143.60 mmol/L (ref 136-145); Potassium 3.84 mmol/L (ref 3.5-5.1); Chloride 101.80 mmol/L (ref 98-107). All values within reference range. Includes Trend Analysis & Graph pages.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 143.60
+Potassium mmol/L 3.5-5.1 3.84
+Chloride mmol/L 98-107 101.80
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist
+Page 1 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :01/03/2026 03:44
+Patient ID : 0010663186 Visit Type :IP Received : 01/03/2026 05:54
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :01/03/2026 08:07
+Accession : 2600047910 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+∞ End of Report ∞
+Page 4 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 89 of 103** · `2026-02-28_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-02-28
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-02-28_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-02-28_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004191152200000.pdf`
+
+## Summary (extracted)
+
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 28-02-2026 05:53 AM Order No. : 0040839676
+Referred By : Shah Darshit Report Date : 28-02-2026 06:43 AM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+A nasogastric tube is seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 90 of 103** · `2026-02-28_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-02-28
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-02-28_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-02-28_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004191166401000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (Department of Laboratory Medicine - Haematology), collected 28/02/2026 03:27. Abnormal values: Red cell count 3.68 x10^12/L (low; ref 3.8-4.8); Haemoglobin 9.8 g/dL (low; ref 12.0-15.0); Haematocrit 32.1% (low; ref 36.0-46.0); MCH 26.6 pg (low; ref 27.0-32.0); MCHC 30.5 g/dL (low; ref 31.5-34.5); RDW 15.1% (high; ref 11.6-14.0); Neutrophils 87.5% (high; ref 40-80); Lymphocytes 6.3% (low; ref 20-40); Neutrophils# 8.44 x10^9 cells/L (high; ref 2-7); Lymphocytes# 0.61 x10^9 cells/L (low; ref 1-3); MPV 10.6 fl (high; ref 7.5-10.5). Within range: MCV 87.2 fl, Total Leukocyte Count 9.65 x10^9/L, Monocytes 6.1%, Eosinophils 0.0%, Basophils 0.1%, Monocytes# 0.59, Eosinophils# 0.00, Basophils# 0.01, Platelet Count 209 x10^9/L. Includes Trend Analysis & Graph pages.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
+Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 05:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 08:35
+Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 3.68
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 9.8
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 32.1
+(EDTA Whole Blood)
+MCV
+fl 83-101 87.2
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 26.6
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 30.5
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 15.1
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 9.65
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 87.5
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 6.3
+(EDTA Whole Blood)
+Monocytes
+% 2-10 6.1
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 1 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
+Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 05:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 08:35
+Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Basophils
+% 0-02 0.1
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 8.44
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.61
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.59
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.01
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 209
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.6
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
+Page 2 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
+Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 05:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 08:35
+Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 3 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
+Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 05:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 08:35
+Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 4 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
+Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 05:44
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 08:35
+Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+∞ End of Report ∞
+Page 5 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 91 of 103** · `2026-02-28_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-02-28
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-02-28_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-02-28_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004191183201000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode). Abnormal/flagged values:
+- Potassium: 3.46 mmol/L (Low; ref 3.5-5.1) — mild hypokalaemia
+
+Within normal range:
+- Sodium: 141.30 mmol/L (ref 136-145)
+- Chloride: 101.10 mmol/L (ref 98-107)
+
+Reported by Dr. Kshama Pimpalgaonkar, Dr. Rina Shah, Dr. Srikant Gharpure.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
+Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 09:34
+Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 141.30
+Potassium mmol/L 3.5-5.1 3.46
+Chloride mmol/L 98-107 101.10
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
+Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 09:34
+Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 2 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
+Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 09:34
+Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 3 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :28/02/2026 03:27
+Patient ID : 0010663186 Visit Type :IP Received : 28/02/2026 06:12
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :28/02/2026 09:34
+Accession : 2600047173 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+∞ End of Report ∞
+Page 4 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 92 of 103** · `2026-02-27_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-02-27
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-02-27_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-02-27_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004189423501000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (CBC). Abnormal/flagged values:
+- Haemoglobin: 11.0 g/dL (Low; ref 12.0-15.0)
+- Haematocrit: 34.7 % (Low; ref 36.0-46.0)
+- RDW: 15.1 % (High; ref 11.6-14.0)
+- Total Leukocyte Count: 10.49 x10^9/L (High; ref 4-10) — borderline leukocytosis
+- Neutrophils: 92.5 % (High; ref 40-80)
+- Lymphocytes: 4.6 % (Low; ref 20-40)
+- Eosinophils: 0.0 % (Low; ref 01-06)
+- Neutrophils#: 9.71 x10^9 cells/L (High; ref 2-7)
+- Lymphocytes#: 0.48 x10^9 cells/L (Low; ref 1-3)
+- Eosinophils#: 0.00 x10^9 cells/L (Low; ref 0.02-0.5)
+- MPV: 10.5 fl (High; ref 7.5-10.5 — at upper limit)
+
+Within normal range: Red cell count 4.07, MCV 85.3, MCH 27.0, MCHC 31.7, Monocytes 2.7%, Basophils 0.2%, Monocytes# 0.28, Basophils# 0.02, Platelet Count 234. Picture continues to show neutrophilia with relative/absolute lymphopenia and mild anaemia. Reported by Dr. Archana Vazifdar and Dr. Preeti Singh.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:08
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:47
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:19
+Accession : 2600046331 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.07
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 11.0
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 34.7
+(EDTA Whole Blood)
+MCV
+fl 83-101 85.3
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.0
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 31.7
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 15.1
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 10.49
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 92.5
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 4.6
+(EDTA Whole Blood)
+Monocytes
+% 2-10 2.7
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.0
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 1 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:08
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:47
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:19
+Accession : 2600046331 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Basophils
+% 0-02 0.2
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 9.71
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.48
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.28
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.00
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.02
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 234
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.5
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Consultant Pathologist
+Page 2 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:08
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:47
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:19
+Accession : 2600046331 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology
+Head Of Hematopathology Consultant Pathologist
+Page 3 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:08
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:47
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:19
+Accession : 2600046331 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+DR. ARCHANA VAZIFDAR
+M.D ( Pathology)
+Head Of Hematopathology
+DR. PREETI SINGH
+M.D Pathology
+Consultant Pathologist
+Page 4 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:08
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:47
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:19
+Accession : 2600046331 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+∞ End of Report ∞
+Page 5 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 93 of 103** · `2026-02-27_Lab-Biochem_S-Electrolytes.md`
+
+# S. Electrolytes
+
+- **Date performed**: 2026-02-27
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-02-27_Lab-Biochem_S-Electrolytes.pdf`](./report_pdf/archived/2026-02-27_Lab-Biochem_S-Electrolytes.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004189414901000.pdf`
+
+## Summary (extracted)
+
+S. Electrolytes (Serum, Ion-selective electrode). All values within normal range:
+- Sodium: 142.20 mmol/L (ref 136-145)
+- Potassium: 3.75 mmol/L (ref 3.5-5.1)
+- Chloride: 98.90 mmol/L (ref 98-107)
+
+Reported by Dr. Kshama Pimpalgaonkar, Dr. Rina Shah, Dr. Srikant Gharpure.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 142.20
+Potassium mmol/L 3.5-5.1 3.75
+Chloride mmol/L 98-107 98.90
+Sodium:
+• Sodium: is the major extracellular cation and functions to maintain fluid distribution and osmotic pressure. Some
+causes of decreased levels of sodium include prolonged vomiting or diarrhoea, diminished reabsorption in the kidney
+and excessive fluid retention. Common causes of increased sodium include excessive fluid loss, high salt intake and
+increased kidney reabsorption.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 2 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+DR. KSHAMA PIMPALGAONKAR DR. RINA SHAH DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist Consultant Pathologist
+Page 3 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+∞ End of Report ∞
+Page 4 of 4
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 94 of 103** · `2026-02-27_Lab-Biochem_Creatinine.md`
+
+# Creatinine
+
+- **Date performed**: 2026-02-27
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-02-27_Lab-Biochem_Creatinine.pdf`](./report_pdf/archived/2026-02-27_Lab-Biochem_Creatinine.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004189415001000.pdf`
+
+## Summary (extracted)
+
+Creatinine. Abnormal/flagged values:
+- Creatinine (Serum, Jaffe - kinetic): 0.93 mg/dL (High; ref 0.50-0.90)
+- eGFR (Serum, Calculated): 60.77 mL/min/1.73 m^2 (Mild to Moderately Decreased band: 45-59 / Mild Decreased band: 60-89; ref Normal or High >=90)
+
+Picture suggests rising creatinine and reduced eGFR compared to 23-Feb-2026 (Cr 0.88 / eGFR 64.77) — trending toward worsening renal function. Reported by Dr. Kshama Pimpalgaonkar, Dr. Rina Shah, Dr. Srikant Gharpure.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Creatinine
+Creatinine
+mg/dL 0.50-0.90 0.93
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+60.77
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Creatinine:
+Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
+filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
+impaired.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 07:01
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 09:17
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. RINA SHAH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy M.D Pathology M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Consultant Pathologist Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 95 of 103** · `2026-02-27_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.md`
+
+# Blood Gas Analysis-Electrolyt.,Lactate & Glucose
+
+- **Date performed**: 2026-02-27
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-02-27_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.pdf`](./report_pdf/archived/2026-02-27_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004189284401000.pdf`
+
+## Summary (extracted)
+
+Blood Gas Analysis - Electrolytes, Lactate & Glucose (Arterial blood). Abnormal/flagged values:
+- pH: 7.47 (High; ref 7.35-7.45) — mild alkalosis
+- pCO2: 48.70 mmHg (High; ref 32-45)
+- pO2: 75.90 mmHg (Low; ref 83-108)
+- HCO3: 35.70 mmol/L (High; ref 22.2-28.3)
+- Chloride: 97.00 mmol/L (Low; ref 98-107)
+- Lactate: 1.60 mmol/L (High; ref 0.36-0.75)
+- Glucose: 114.00 mg/dL (High; ref 65-95)
+
+Within normal range: sO2 95.70 %, Sodium 140.00 mmol/L, Potassium 3.40 mmol/L (at lower limit). Picture suggestive of mixed metabolic alkalosis with mild respiratory acidosis (compensated alkalaemia) and mild hypoxaemia. Reported by Dr. Kshama Pimpalgaonkar and Dr. Srikant Gharpure.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 06:59
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Blood Gas Analysis-Electrolyt.,Lactate & Glucose
+Blood Gas Analysis
+pH
+7.35-7.45 7.47
+(Arterial blood,Ion-selective electrode)
+pCO2
+mmHg 32-45 48.70
+(Arterial blood,Ion-selective electrode)
+pO2
+mmHg 83-108 75.90
+(Arterial blood,Ion-selective electrode)
+sO2 %
+94-98 95.70
+(Arterial blood,Ion-selective electrode) saturation
+HCO3
+mmol/L 22.2-28.3 35.70
+(Arterial blood,Calculated)
+Sodium mmol/L 136-145 140.00
+Potassium mmol/L 3.4-4.4 3.40
+Chloride mmol/L 98-107 97.00
+Lactate mmol/L 0.36-0.75 1.60
+Glucose mg/dL 65-95 114.00
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 1 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 06:59
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Potassium:
+• Potassium: is the major intracellular cation and is critical to neural and muscle cell activity. Some causes of
+decreased potassium levels include reduced intake of dietary potassium or excessive loss of potassium from the
+body due to diarrhea, prolonged vomiting or increased renal excretion.Increased potassium levels may be caused by
+dehydration or shock, severe burns, diabetic ketoacidosis, and retention of potassium by the kidney.
+Blood Gas Analysis:
+Blood gases are a group of tests that are performed together to measure the pH, the amount of oxygen and carbon dioxide
+present in arterial blood in order to evaluate lung function and help detect an acid-base imbalance that could indicate a
+respiratory, metabolic or kidney disorder.
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 2 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 06:59
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 3 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 06:59
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+DR. KSHAMA PIMPALGAONKAR DR. SRIKANT GHARPURE
+M D Biochemistry M.D, DPB, DCP (London)
+Consultant Biochemist Consultant Pathologist
+Page 4 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :27/02/2026 04:07
+Patient ID : 0010663186 Visit Type :IP Received : 27/02/2026 06:08
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :27/02/2026 06:59
+Accession : 2600046330 Location :1T05S`1TR0513`1TB0513`1ONCOMED
+∞ End of Report ∞
+Page 5 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 96 of 103** · `2026-02-26_XRay_X-Ray-Portable-Chest-AP.md`
+
+# X Ray Portable Chest AP
+
+- **Date performed**: 2026-02-26
+- **Category**: XRay
+- **Source PDF**: [`./report_pdf/archived/2026-02-26_XRay_X-Ray-Portable-Chest-AP.pdf`](./report_pdf/archived/2026-02-26_XRay_X-Ray-Portable-Chest-AP.pdf)
+- **Original filename**: `MedicalReport_MED000000000000001004189127700000.pdf`
+
+## Summary (extracted)
+
+X Ray Portable Chest AP performed 26-02-2026 22:53. The soft tissues and bony thorax are normal. The cardiac size is within normal limits and the cardiac silhouette is normal. Patchy consolidation is seen in the left mid and both lower zones. Rest of the lungs are clear. A small pleural effusion is seen on the left side. There is no pneumothorax. No hilar, diaphragmatic or mediastinal lesion is seen. Endotracheal tube and nasogastric tube are seen in position. Reported by Dr. Bhujang Pai (MD, FRCR London; Visiting Radiologist; MMC Number 49380).
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Patient ID : 0010663186
+Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
+Performing Date : 26-02-2026 10:53 PM Order No. : 0040820796
+Referred By : Shah Darshit Report Date : 26-02-2026 11:00 PM
+Study Description : X Ray Portable Chest AP
+The soft tissues and bony thorax are normal.
+The cardiac size is within normal limits and the cardiac silhouette is normal.
+Patchy consolidation is seen in the left mid and both lower zones.
+Rest of the lungs are clear.
+A small pleural effusion is seen on the left side.
+There is no pneumothorax.
+No hilar, diaphragmatic or mediastinal lesion is seen.
+Endotracheal tube and nasogastric tube are seen in position.
+Dr. Bhujang Pai
+MD, FRCR (London)
+Visiting Radiologist
+MMC Number: 49380.
+1
+```
+
+---
+
+> **Archived 97 of 103** · `2026-02-26_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-02-26
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-02-26_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-02-26_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004188783101000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (CBC). Abnormal/flagged values:
+- Haemoglobin: 11.6 g/dL (Low; ref 12.0-15.0)
+- MCH: 26.8 pg (Low; ref 27.0-32.0)
+- MCHC: 31.4 g/dL (Low; ref 31.5-34.5)
+- RDW: 14.8 % (High; ref 11.6-14.0)
+- Neutrophils: 87.9 % (High; ref 40-80)
+- Lymphocytes: 7.0 % (Low; ref 20-40)
+- Neutrophils#: 7.77 x10^9 cells/L (High; ref 2-7)
+- Lymphocytes#: 0.62 x10^9 cells/L (Low; ref 1-3)
+
+Within normal range: Red cell count 4.33, Haematocrit 36.9%, MCV 85.2 fl, Total Leukocyte Count 8.85 x10^9/L, Monocytes 4.6%, Eosinophils 0.3%, Basophils 0.2%, Monocytes# 0.41, Eosinophils# 0.03, Basophils# 0.02, Platelet Count 216, MPV 10.2 fl. Comments: Delta checked failed for WBC, Kindly correlate clinically. (Note: previous CBC on 24-Feb-2026 had TLC 29.62 — significant interval drop after antibiotic therapy.) Reported by Dr. Archana Vazifdar, Dr. Archi Chawla, Dr. Preeti Singh.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.33
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 11.6
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 36.9
+(EDTA Whole Blood)
+MCV
+fl 83-101 85.2
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 26.8
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 31.4
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 14.8
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 8.85
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 87.9
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 7.0
+(EDTA Whole Blood)
+Monocytes
+% 2-10 4.6
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.3
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 1 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Basophils
+% 0-02 0.2
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 7.77
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.62
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.41
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.03
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.02
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 216
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.2
+(EDTA Whole Blood)
+Delta checked failed for WBC, Kindly correlate clinically.
+Comments
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 2 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 3 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 4 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 5 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:42
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 18:05
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+∞ End of Report ∞
+Page 6 of 6
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 98 of 103** · `2026-02-26_Lab-Biochem_C-Reactive-Protein-CRP.md`
+
+# C-Reactive Protein [CRP]
+
+- **Date performed**: 2026-02-26
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-02-26_Lab-Biochem_C-Reactive-Protein-CRP.pdf`](./report_pdf/archived/2026-02-26_Lab-Biochem_C-Reactive-Protein-CRP.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004188821601000.pdf`
+
+## Summary (extracted)
+
+C-Reactive Protein [CRP] (Serum, Immunoturbidimetric): 0.18 mg/dL (within reference range <0.5 mg/dL). Reported by Dr. Kshama Pimpalgaonkar, Dr. Talatnoor Sheikh, Dr. Srikant Gharpure. Note: previous CRP on 23-Feb-2026 was 1.07 mg/dL — value has decreased.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+C-Reactive Protein [CRP]
+mg/dL < 0.5 0.18
+(Serum,Immunoturbidimetric)
+CRP:
+C-reactive protein (CRP) is one of the most sensitive acute-phase reactants for inflammation. CRP elevations are nonspecific
+and may be useful for the detection of systemic inflammatory processes; to assess treatment of bacterial infections with
+antibiotics; to detect intrauterine infections with concomitant premature amniorrhexis; to differentiate between active and
+inactive forms of disease with concurrent infection; to therapeutically monitor rheumatic disease and assess anti-
+inflammatory therapy; to determine the presence of postoperative complications at an early stage and to distinguish between
+infection and bone marrow rejection.
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
+Page 1 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+∞ End of Report ∞
+DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
+CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
+Page 2 of 2
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 99 of 103** · `2026-02-26_Lab-Biochem_Renal-Profile.md`
+
+# Renal Profile
+
+- **Date performed**: 2026-02-26
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-02-26_Lab-Biochem_Renal-Profile.pdf`](./report_pdf/archived/2026-02-26_Lab-Biochem_Renal-Profile.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004188821701000.pdf`
+
+## Summary (extracted)
+
+Renal Profile. Abnormal/flagged values:
+- Calcium: 8.34 mg/dL (Low; ref 8.8-10.2)
+- Total Protein: 5.36 g/dL (Low; ref 6.4-8.3)
+- Albumin: 3.15 g/dL (Low; ref 3.5-5.2)
+- Potassium: 3.16 mmol/L (Low; ref 3.5-5.1)
+- Bicarbonate: 33.40 mmol/L (High; ref 22-29)
+
+Within normal range: BUN 17.06 mg/dL, Urea 36.50 mg/dL, Creatinine 0.67 mg/dL, eGFR 88.73 mL/min/1.73 m^2 (Mild Decreased band edge), Uric Acid 4.66 mg/dL, Phosphorus 3.25 mg/dL, Globulin 2.21 g/dL, A/G ratio 1.43, Sodium 141.10 mmol/L, Chloride 98.00 mmol/L. Picture shows persistent hypoalbuminaemia/hypoproteinaemia, hypokalaemia, mild hypocalcaemia and elevated bicarbonate (metabolic alkalosis). Reported by Dr. Kshama Pimpalgaonkar, Dr. Talatnoor Sheikh, Dr. Srikant Gharpure.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Renal Profile
+BUN
+mg/dL 8-23 17.06
+(Serum,Urease/Glutamate dehydrogenase)
+Urea
+mg/dL 16.6-48.5 36.50
+(Serum,Urease/Glutamate dehydrogenase)
+Creatinine Clearance Test [eGFR]
+Creatinine
+mg/dL 0.50-0.90 0.67
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+88.73
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Uric Acid
+mg/dL 2.4-5.7 4.66
+(Serum,Enzymatic - colorimetric)
+Calcium
+mg/dL 8.8-10.2 8.34
+(Serum,NM - BAPTA)
+Phosphorus
+mg/dL 2.5-4.5 3.25
+(Serum,Molybdate - UV)
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 1 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Proteins
+Total Protein
+g/dL 6.4-8.3 5.36
+(Serum,Colorimetric - biuret)
+Albumin
+g/dL 3.5-5.2 3.15
+(Serum,Colorimetric - BCG)
+Globulin
+g/dL 2-3.5 2.21
+(Serum,Calculated)
+A / G ratio
+1.0-2.5 1.43
+(Serum,Calculated)
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 141.10
+Potassium mmol/L 3.5-5.1 3.16
+Chloride mmol/L 98-107 98.00
+Bicarbonate
+mmol/L 22-29 33.40
+(Serum,Enzymatic - PEPC)
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 2 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Urea:
+Urea is the final degradation product of protein and amino acid metabolism. Blood urea nitrogen currently is the most widely
+used screening test for the evaluation of kidney function. Protein catabolism causes formation of ammonia which is
+synthesized to urea with and elimination of excess nitrogen in the liver. Increased blood urea nitrogen may be due to cardiac
+decompensation, water depletion due to decreased intake and excessive loss, increased protein catabolism, high protein
+diet, acute glomerulonephritis, chronic nephritis, polycystic kidney disease, nephrosclerosis, tubular necrosis and all types of
+obstruction of the urinary tract.
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 3 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 4 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 5 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 6 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+DR. KSHAMA PIMPALGAONKAR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
+M D Biochemistry MD PATHOLOGY M.D, DPB, DCP (London)
+Consultant Biochemist Senior Clinical Associate Consultant Pathologist
+Page 7 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :26/02/2026 16:18
+Patient ID : 0010663186 Visit Type :IP Received : 26/02/2026 17:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :26/02/2026 19:04
+Accession : 2600046001 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+∞ End of Report ∞
+Page 8 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 100 of 103** · `2026-02-23_Lab-Biochem_Renal-Profile.md`
+
+# Renal Profile
+
+- **Date performed**: 2026-02-23
+- **Category**: Lab-Biochem
+- **Department**: BIOCHEMISTRY
+- **Source PDF**: [`./report_pdf/archived/2026-02-23_Lab-Biochem_Renal-Profile.pdf`](./report_pdf/archived/2026-02-23_Lab-Biochem_Renal-Profile.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004182279802000.pdf`
+
+## Summary (extracted)
+
+Renal Profile. Abnormal/flagged values:
+- eGFR (Calculated): 64.77 mL/min/1.73 m^2 (Mild to Moderately Decreased; ref Normal/High >=90)
+- Calcium: 8.60 mg/dL (Low; ref 8.8-10.2)
+- Total Protein: 5.64 g/dL (Low; ref 6.4-8.3)
+- Albumin: 3.09 g/dL (Low; ref 3.5-5.2)
+- Chloride: 94.70 mmol/L (Low; ref 98-107)
+- Bicarbonate: 30.50 mmol/L (High; ref 22-29)
+
+Within normal range: BUN 14.67 mg/dL, Urea 31.40 mg/dL, Creatinine 0.88 mg/dL, Uric Acid 4.89 mg/dL, Phosphorus 4.19 mg/dL, Globulin 2.55 g/dL, A/G ratio 1.21, Sodium 138.50 mmol/L, Potassium 4.19 mmol/L. Picture shows mildly reduced eGFR with hypoalbuminaemia, hypoproteinaemia and mild metabolic alkalosis (raised bicarbonate). Reported by Dr. Kshama Pimpalgaonkar, Dr. Archi Chawla, Dr. Srikant Gharpure.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
+Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
+Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Renal Profile
+BUN
+mg/dL 8-23 14.67
+(Serum,Urease/Glutamate dehydrogenase)
+Urea
+mg/dL 16.6-48.5 31.40
+(Serum,Urease/Glutamate dehydrogenase)
+Creatinine Clearance Test [eGFR]
+Creatinine
+mg/dL 0.50-0.90 0.88
+(Serum,Jaffe - kinetic)
+Normal or High: >=
+90
+Mild Decreased: 60-
+89
+Mild to Moderately
+eGFR mL/min/1.7 Decreased: 45-59
+64.77
+(Serum,Calculated) 3 m^2 Moderately to
+Severely Decreased:
+30-44
+Severely Decreased:
+15-29
+Kidney Failure: < 15
+Uric Acid
+mg/dL 2.4-5.7 4.89
+(Serum,Enzymatic - colorimetric)
+Calcium
+mg/dL 8.8-10.2 8.60
+(Serum,NM - BAPTA)
+Phosphorus
+mg/dL 2.5-4.5 4.19
+(Serum,Molybdate - UV)
+DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Clinical Assistant Consultant Pathologist
+Page 1 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
+Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
+Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Reference Low Normal High
+Test Name Unit Range
+Proteins
+Total Protein
+g/dL 6.4-8.3 5.64
+(Serum,Colorimetric - biuret)
+Albumin
+g/dL 3.5-5.2 3.09
+(Serum,Colorimetric - BCG)
+Globulin
+g/dL 2-3.5 2.55
+(Serum,Calculated)
+A / G ratio
+1.0-2.5 1.21
+(Serum,Calculated)
+S. Electrolytes
+(Serum,Ion-selective electrode)
+Sodium mmol/L 136-145 138.50
+Potassium mmol/L 3.5-5.1 4.19
+Chloride mmol/L 98-107 94.70
+Bicarbonate
+mmol/L 22-29 30.50
+(Serum,Enzymatic - PEPC)
+DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Clinical Assistant Consultant Pathologist
+Page 2 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
+Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
+Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Urea:
+Urea is the final degradation product of protein and amino acid metabolism. Blood urea nitrogen currently is the most widely
+used screening test for the evaluation of kidney function. Protein catabolism causes formation of ammonia which is
+synthesized to urea with and elimination of excess nitrogen in the liver. Increased blood urea nitrogen may be due to cardiac
+decompensation, water depletion due to decreased intake and excessive loss, increased protein catabolism, high protein
+diet, acute glomerulonephritis, chronic nephritis, polycystic kidney disease, nephrosclerosis, tubular necrosis and all types of
+obstruction of the urinary tract.
+DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Clinical Assistant Consultant Pathologist
+Page 3 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
+Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
+Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Clinical Assistant Consultant Pathologist
+Page 4 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
+Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
+Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 5 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
+Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
+Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
+Page 6 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
+Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
+Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- BBIIOOCCHHEEMMIISSTTRRYY
+DR. KSHAMA PIMPALGAONKAR DR. ARCHI CHAWLA DR. SRIKANT GHARPURE
+M D Biochemistry M.D Pathology M.D, DPB, DCP (London)
+Consultant Biochemist Clinical Assistant Consultant Pathologist
+Page 7 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :23/02/2026 12:04
+Patient ID : 0010663186 Visit Type :IP Received : 23/02/2026 14:06
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :23/02/2026 14:51
+Accession : 2600043130 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+∞ End of Report ∞
+Page 8 of 8
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 101 of 103** · `2026-02-22_Lab-Haem_Complete-Blood-Count.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-02-22
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-02-22_Lab-Haem_Complete-Blood-Count.pdf`](./report_pdf/archived/2026-02-22_Lab-Haem_Complete-Blood-Count.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004180311002000.pdf`
+
+## Summary (extracted)
+
+Complete Blood Count (CBC). Abnormal/flagged values:
+- Red cell count: 4.85 x10^12/L (High; ref 3.8-4.8)
+- RDW: 14.6 % (High; ref 11.6-14.0)
+- Total Leukocyte Count: 15.28 x10^9/L (High; ref 4-10) — leukocytosis
+- Neutrophils: 91.6 % (High; ref 40-80)
+- Lymphocytes: 5.2 % (Low; ref 20-40)
+- Neutrophils#: 13.99 x10^9 cells/L (High; ref 2-7)
+- Lymphocytes#: 0.80 x10^9 cells/L (Low; ref 1-3)
+- MPV: 11.7 fl (High; ref 7.5-10.5)
+
+Within normal range: Haemoglobin 13.1 g/dL, Haematocrit 41.6%, MCV 85.8 fl, MCH 27.0 pg, MCHC 31.5 g/dL, Monocytes 2.9%, Eosinophils 0.1%, Basophils 0.2%, Monocytes# 0.44, Eosinophils# 0.02, Basophils# 0.03 x10^9/L, Platelet count 246 x10^9/L. Picture suggests neutrophilic leukocytosis with relative/absolute lymphopenia. Reported by Dr. Archana Vazifdar, Dr. Purva Jagetia, Dr. Preeti Singh.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :22/02/2026 03:10
+Patient ID : 0010663186 Visit Type :IP Received : 22/02/2026 06:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 09:43
+Accession : 2600042225 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.85
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 13.1
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 41.6
+(EDTA Whole Blood)
+MCV
+fl 83-101 85.8
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.0
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 31.5
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 14.6
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 15.28
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 91.6
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 5.2
+(EDTA Whole Blood)
+Monocytes
+% 2-10 2.9
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 0.1
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 1 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :22/02/2026 03:10
+Patient ID : 0010663186 Visit Type :IP Received : 22/02/2026 06:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 09:43
+Accession : 2600042225 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Basophils
+% 0-02 0.2
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 13.99
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.80
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.44
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.02
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.03
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 246
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 11.7
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. PURVA JAGETIA DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D (Pathology) M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Associate Consultant Pathologist
+Page 2 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :22/02/2026 03:10
+Patient ID : 0010663186 Visit Type :IP Received : 22/02/2026 06:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 09:43
+Accession : 2600042225 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 3 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :22/02/2026 03:10
+Patient ID : 0010663186 Visit Type :IP Received : 22/02/2026 06:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 09:43
+Accession : 2600042225 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+DR. ARCHANA VAZIFDAR DR. PURVA JAGETIA DR. PREETI SINGH
+M.D ( Pathology) M.D (Pathology) M.D Pathology
+Head Of Hematopathology Clinical Associate Consultant Pathologist
+Page 4 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :22/02/2026 03:10
+Patient ID : 0010663186 Visit Type :IP Received : 22/02/2026 06:56
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :22/02/2026 09:43
+Accession : 2600042225 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+∞ End of Report ∞
+Page 5 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 102 of 103** · `2026-02-20_Lab-Haem_Complete-Blood-Count_2.md`
+
+# Complete Blood Count
+
+- **Date performed**: 2026-02-20
+- **Category**: Lab-Haem
+- **Department**: HAEMATOLOGY
+- **Source PDF**: [`./report_pdf/archived/2026-02-20_Lab-Haem_Complete-Blood-Count_2.pdf`](./report_pdf/archived/2026-02-20_Lab-Haem_Complete-Blood-Count_2.pdf)
+- **Original filename**: `MedicalReport_OTD000000000000001004178155601000.pdf`
+
+## Summary (extracted)
+
+Department of Laboratory Medicine - Haematology. Complete Blood Count (collected 20-Feb-2026 21:16; second draw of the day):
+- Red cell count: 4.74 x10^12/L (Ref: 3.8-4.8) - Normal (upper end)
+- Haemoglobin: 12.8 g/dL (Ref: 12.0-15.0) - Normal
+- Haematocrit: 39.9 % (Ref: 36.0-46.0) - Normal
+- MCV: 84.2 fl (Ref: 83-101) - Normal
+- MCH: 27.0 pg (Ref: 27.0-32.0) - Normal
+- MCHC: 32.1 g/dL (Ref: 31.5-34.5) - Normal
+- RDW: 14.4 % (Ref: 11.6-14.0) - HIGH
+- Total Leukocyte Count: 13.88 x10^9/L (Ref: 4-10) - HIGH (worsening leukocytosis)
+- Neutrophils: 89.3 % (Ref: 40-80) - HIGH; Absolute: 12.39 x10^9/L (Ref: 2-7) - HIGH
+- Lymphocytes: 4.3 % (Ref: 20-40) - LOW; Absolute: 0.60 x10^9/L (Ref: 1-3) - LOW (lymphopenia)
+- Monocytes: 3.8 % (Ref: 2-10) - Normal; Absolute: 0.53 x10^9/L (Ref: 0.2-1.0) - Normal
+- Eosinophils: 2.3 % (Ref: 1-6); Absolute: 0.32 x10^9/L - Normal
+- Basophils: 0.3 % (Ref: 0-2); Absolute: 0.04 x10^9/L - Normal
+- Platelet Count: 244 x10^9/L (Ref: 150-410) - Normal
+- MPV: 10.7 fl (Ref: 7.5-10.5) - HIGH
+
+Notable: Worsening leukocytosis with marked neutrophilia and now absolute lymphopenia compared to morning draw - consistent with progressing acute infection. Trend analysis & graphs included.
+
+## Verbatim text from PDF
+
+```
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 22:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:58
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DEPARTMENT OF LABORATORY MEDICINE - HAEMATOLOGY
+Reference Low Normal High
+Test Name Unit Range
+Complete Blood Count
+Red cell count
+x10^12/L 3.8-4.8 4.74
+(EDTA Whole Blood)
+Haemoglobin
+g/dL 12.0-15.0 12.8
+(EDTA Whole Blood)
+Haematocrit
+% 36.0-46.0 39.9
+(EDTA Whole Blood)
+MCV
+fl 83-101 84.2
+(EDTA Whole Blood)
+MCH
+pg 27.0-32.0 27.0
+(EDTA Whole Blood)
+MCHC
+g/dL 31.5-34.5 32.1
+(EDTA Whole Blood)
+RDW
+% 11.6-14.0 14.4
+(EDTA Whole Blood)
+Total Leukocyte Count
+x10^9/L 4-10 13.88
+(EDTA Whole Blood,Automated)
+Neutrophils
+% 40-80 89.3
+(EDTA Whole Blood)
+Lymphocytes
+% 20-40 4.3
+(EDTA Whole Blood)
+Monocytes
+% 2-10 3.8
+(EDTA Whole Blood)
+Eosinophils
+% 01-06 2.3
+(EDTA Whole Blood)
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 1 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 22:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:58
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- HHHAAAEEEMMMAAATTTOOOLLLOOOGGGYYY
+Reference Low Normal High
+Test Name Unit Range
+Basophils
+% 0-02 0.3
+(EDTA Whole Blood)
+Neutrophils# x10^9
+2-7 12.39
+(EDTA Whole Blood) cells/L
+Lymphocytes# x10^9
+1-3 0.60
+(EDTA Whole Blood) cells/L
+Monocytes# x10^9
+0.2-1.0 0.53
+(EDTA Whole Blood) cells/L
+Eosinophils# x10^9
+0.02-0.5 0.32
+(EDTA Whole Blood) cells/L
+Basophils# x10^9
+0.0-0.1 0.04
+(EDTA Whole Blood) cells/L
+Platelet Count
+x10^9/L 150-410 244
+(EDTA Whole Blood)
+MPV
+fl 7.5-10.5 10.7
+(EDTA Whole Blood)
+Clinical Information/ Interpretation:
+CBC Test Method:
+RBC & platelet count by impedance method: WBC total count, WBC differential count & reticulocyte count by flow cytometry.
+Hb by SLS-hemoglobin method. All other parameters are calculated.
+References:
+Practical Hematology by Dacie & Lewis (12th Edition).
+DDRR.. AARRCCHHAANNAA VVAAZZIIFFDDAARR DR. ARCHI CHAWLA DR. PREETI SINGH
+MM..DD (( PPaatthhoollooggyy)) M.D Pathology M.D Pathology
+HHeeaadd OOff HHeemmaattooppaatthhoollooggyy Clinical Assistant Consultant Pathologist
+Page 2 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 22:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:58
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+Reference Low Normal High
+Test Name Unit Range
+Trend Analysis & Graph
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 3 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 22:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:58
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+DDEEPPAARRTTMMEENNTT OOFF LLAABBOORRAATTOORRYY MMEEDDIICCIINNEE -- HHAAEEMMAATTOOLLOOGGYY
+DR. ARCHANA VAZIFDAR DR. ARCHI CHAWLA DR. PREETI SINGH
+M.D ( Pathology) M.D Pathology M.D Pathology
+Head Of Hematopathology Clinical Assistant Consultant Pathologist
+Page 4 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+
+Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
+Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 22:59
+Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:58
+Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
+∞ End of Report ∞
+Page 5 of 5
+Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
+MC-7539
+```
+
+---
+
+> **Archived 103 of 103** · `2026-02-20_Lab-Biochem_Liver-Profile_2.md`
 
 # Liver Profile
 
 - **Date performed**: 2026-02-20
 - **Category**: Lab-Biochem
 - **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Biochem_Liver-Profile_2.pdf`](./report_pdf/2026-02-20_Lab-Biochem_Liver-Profile_2.pdf)
+- **Source PDF**: [`./report_pdf/archived/2026-02-20_Lab-Biochem_Liver-Profile_2.pdf`](./report_pdf/archived/2026-02-20_Lab-Biochem_Liver-Profile_2.pdf)
 - **Original filename**: `MedicalReport_OTD000000000000001004178198501000.pdf`
 
 ## Summary (extracted)
@@ -18559,262 +18686,4 @@ Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificat
 MC-7539
 ```
 
-
 ---
-
-> **Report 186 of 188** · `2026-02-20_Lab-Biochem_Liver-Profile.md`
-
-# Liver Profile
-
-- **Date performed**: 2026-02-20
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Biochem_Liver-Profile.pdf`](./report_pdf/2026-02-20_Lab-Biochem_Liver-Profile.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004176461301000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Biochemistry. Liver Profile (collected 20-Feb-2026 05:10):
-- Total Bilirubin: 0.33 mg/dL (Ref: <=1.2) - Normal
-- Direct Bilirubin: 0.18 mg/dL (Ref: <=0.3) - Normal
-- Indirect Bilirubin: 0.15 mg/dL (Ref: <=1.2) - Normal
-- Alanine Aminotransferase [ALT/PT]: 14.50 U/L (Ref: <=35) - Normal
-- Aspartate Aminotransferase [AST/OT]: 21.30 U/L (Ref: <=35) - Normal
-- Gamma Glutamyltransferase [GGT]: 26.30 U/L (Ref: <40) - Normal
-- Alkaline Phosphatase [ALP]: 65.90 U/L (Ref: 35-104) - Normal
-- Total Protein: 5.10 g/dL (Ref: 6.4-8.3) - LOW
-- Albumin: 2.91 g/dL (Ref: 3.5-5.2) - LOW
-- Globulin: 2.19 g/dL (Ref: 2-3.5) - Normal
-- A/G ratio: 1.33 (Ref: 1.0-2.5) - Normal
-
-Notable: Total Protein and Albumin both below reference range (hypoproteinemia / hypoalbuminemia).
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 05:10
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 06:51
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :20/02/2026 09:47
-Accession : 2600040488 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DEPARTMENT OF LABORATORY MEDICINE - BIOCHEMISTRY
-Reference Low Normal High
-Test Name Unit Range
-Liver Profile
-Bilirubin Total + Direct
-Total Bilirubin
-mg/dL <= 1.2 0.33
-(Serum,Diazo)
-Direct Bilirubin
-mg/dL <= 0.3 0.18
-(Serum,Diazo)
-Indirect Bilirubin
-mg/dL <= 1.2 0.15
-(Serum,Calculated)
-Alanine Aminotransferase [ALT/PT]
-U/L <= 35 14.50
-(Serum,IFCC-Enzymatic with P5P)
-Aspartate Aminotransferase [AST/OT]
-U/L <= 35 21.30
-(Serum,IFCC-Enzymatic with P5P)
-Gamma Glutamyltransferase [GGT]
-U/L < 40 26.30
-(Serum,Enzymatic IFCC)
-Alkaline Phosphatase [ALP]
-U/L 35-104 65.90
-(Serum,Enzymatic IFCC)
-Proteins
-Total Protein
-g/dL 6.4-8.3 5.10
-(Serum,Colorimetric - biuret)
-Albumin
-g/dL 3.5-5.2 2.91
-(Serum,Colorimetric - BCG)
-Globulin
-g/dL 2-3.5 2.19
-(Serum,Calculated)
-DR. KSHAMA PIMPALGAONKAR DR. PURVA JAGETIA DR. SRIKANT GHARPURE
-M D Biochemistry M.D (Pathology) M.D, DPB, DCP (London)
-Consultant Biochemist Clinical Associate Consultant Pathologist
-Laboratory Medicine Laboratory Medicine Laboratory Medicine
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide Page 1 of 2
-certificate number MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 05:10
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 06:51
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :20/02/2026 09:47
-Accession : 2600040488 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-A / G ratio
-1.0-2.5 1.33
-(Serum,Calculated)
-Total Bilirubin:
-• Diseases or conditions which, through hemolytic processes, produce bilirubin faster than the liver can metabolize it,
-cause the levels of unconjugated (indirect) bilirubin to increase in the circulation.
-• Liver immaturity and several other diseases in which the bilirubin conjugation mechanism is impaired cause similar
-elevations of circulating unconjugated bilirubin.
-• Bile duct obstruction or damage to hepatocellular structure causes increases in the levels of both conjugated (direct)
-and unconjugated (indirect)bilirubin in the circulation.
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. PURVA JAGETIA DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy M.D (Pathology) M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Clinical Associate Consultant Pathologist
-LLaabboorraattoorryy MMeeddiicciinnee Laboratory Medicine Laboratory Medicine
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide Page 2 of 2
-certificate number MC-7539
-```
-
-
----
-
-> **Report 187 of 188** · `2026-02-20_Lab-Biochem_Creatinine.md`
-
-# Creatinine
-
-- **Date performed**: 2026-02-20
-- **Category**: Lab-Biochem
-- **Department**: BIOCHEMISTRY
-- **Source PDF**: [`./report_pdf/2026-02-20_Lab-Biochem_Creatinine.pdf`](./report_pdf/2026-02-20_Lab-Biochem_Creatinine.pdf)
-- **Original filename**: `MedicalReport_OTD000000000000001004178198401000.pdf`
-
-## Summary (extracted)
-
-Department of Laboratory Medicine - Biochemistry. Creatinine (Serum, Jaffe-kinetic): 0.87 mg/dL (Reference range: 0.50-0.90 mg/dL) - Normal/High range. eGFR (Serum, Calculated): 65.63 mL/min/1.73 m^2 - falls in "Mild to Moderately Decreased" category (range 45-59 borderline; result is just above 60 indicating Mild Decreased). Trend analysis & graph included showing prior value 0.75 and current 0.87 mg/dL on 20-Feb-26.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Creatinine
-Creatinine
-mg/dL 0.50-0.90 0.87
-(Serum,Jaffe - kinetic)
-Normal or High: >=
-90
-Mild Decreased: 60-
-89
-Mild to Moderately
-eGFR mL/min/1.7 Decreased: 45-59
-65.63
-(Serum,Calculated) 3 m^2 Moderately to
-Severely Decreased:
-30-44
-Severely Decreased:
-15-29
-Kidney Failure: < 15
-Creatinine:
-Creatinine is synthesized endogenously from creatine and creatine phosphate and is removed from plasma by glomerular
-filtration into the urine. Creatinine levels in renal disease generally do not increase until renal function is substantially
-impaired.
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
-Page 1 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-
-Name : Saroj Agarwal Age/Gender:63 y / F Collected :20/02/2026 21:16
-Patient ID : 0010663186 Visit Type :IP Received : 20/02/2026 23:05
-Referred By : Dr. Darshit Shah DOB :27/08/1962 Reported :21/02/2026 08:59
-Accession : 2600041253 Location :1T06N`1TR0601`1TB0605`1ONCOMED
-DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF LLLAAABBBOOORRRAAATTTOOORRRYYY MMMEEEDDDIIICCCIIINNNEEE --- BBBIIIOOOCCCHHHEEEMMMIIISSSTTTRRRYYY
-Reference Low Normal High
-Test Name Unit Range
-Trend Analysis & Graph
-∞ End of Report ∞
-DDRR.. KKSSHHAAMMAA PPIIMMPPAALLGGAAOONNKKAARR DR. TALATNOOR SHEIKH DR. SRIKANT GHARPURE
-MM DD BBiioocchheemmiissttrryy MD PATHOLOGY M.D, DPB, DCP (London)
-CCoonnssuullttaanntt BBiioocchheemmiisstt Senior Clinical Associate Consultant Pathologist
-Page 2 of 2
-Disclaimer: Tests marked with NABL symbol are accredited by NABL vide certificate number
-MC-7539
-```
-
-
----
-
-> **Report 188 of 188** · `2026-02-20_ECHO_Echocardiography-Portable.md`
-
-# Echocardiography Portable
-
-- **Date performed**: 2026-02-20
-- **Category**: ECHO
-- **Source PDF**: [`./report_pdf/2026-02-20_ECHO_Echocardiography-Portable.pdf`](./report_pdf/2026-02-20_ECHO_Echocardiography-Portable.pdf)
-- **Original filename**: `MedicalReport_MED000000000000001004177700401000.pdf`
-
-## Summary (extracted)
-
-2 DIMENSIONAL ECHOCARDIOGRAPHY & COLOUR DOPPLER STUDY
-• Severe pulmonary hypertension. Grade I + TR (eccentric jet). Estimated RVSP:
-83mmHg.
- Mildly dilated MPA (27mm) and its branches.
- Normal RA dimension (RA area: 10 cm2).
- Mildly dilated RV (39x40x61mm) with fair RV systolic function. TAPSE:
-16mm.
-• Normal sized LV with mild systolic septal flattening due to RV pressure
-overload. Overall LVEF : 55%.
-• No e/o LV regional wall motion abnormality.
-• Grade I LV diastolic function (E/E’: 7).
-• Structurally normal valves.
-• Normal LA dimensions.
-• Intact IAS and IVS.
-• Normal IVC (10 mm) and 50% collapse with inspiration.
-• No e/o pericardial effusion/clots/vegetation.
-
-## Verbatim text from PDF
-
-```
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 20-02-2026 04:40 PM Order No. : 0040706884
-Referred By : Shah Darshit Report Date : 21-02-2026 02:07 PM
-Study Description : Echocardiography Portable
-2 DIMENSIONAL ECHOCARDIOGRAPHY & COLOUR DOPPLER STUDY
-• Severe pulmonary hypertension. Grade I + TR (eccentric jet). Estimated RVSP:
-83mmHg.
- Mildly dilated MPA (27mm) and its branches.
- Normal RA dimension (RA area: 10 cm2).
- Mildly dilated RV (39x40x61mm) with fair RV systolic function. TAPSE:
-16mm.
-• Normal sized LV with mild systolic septal flattening due to RV pressure
-overload. Overall LVEF : 55%.
-• No e/o LV regional wall motion abnormality.
-• Grade I LV diastolic function (E/E’: 7).
-• Structurally normal valves.
-• Normal LA dimensions.
-• Intact IAS and IVS.
-• Normal IVC (10 mm) and 50% collapse with inspiration.
-• No e/o pericardial effusion/clots/vegetation.
-Dr.Talha Meeran
-MBBS,MD,FACC (USA)
-Consultant Cardiologist
-MMC Reg No:2009031275
-
-Name : Saroj Agarwal Patient ID : 0010663186
-Date of Birth : 27-08-1962 Age/Sex : 63 Years/F
-Performing Date : 20-02-2026 04:40 PM Order No. : 0040706884
-Referred By : Shah Darshit Report Date : 21-02-2026 02:07 PM
-Study Description : Echocardiography Portable
-M- MODE MEASUREMENTS
-DIMENSIONS OBSERVED VALUES
-Aortic root 28mm
-Left Atrium 24mm
-IVS(d) 10mm
-LVID(d) 30mm
-LVID(s) 20mm
-LVPW(d) 10mm
-DOPPLER MEASUREMENTS :
-E/A : 0.5 E/E’ : 7 DT : 136msec
-Peak (mmHg) Mean(mmHg) Grade
-MITRAL Normal Nil
-AORTIC 4.2 Nil
-TRICUSPID 73 I
-PULMONARY 2.9 Nil
-```
