@@ -1,0 +1,112 @@
+=====================================================================
+EMAIL — REQUEST FOR PET-CT SCAN CD (IMAGING DISC)
+=====================================================================
+
+SEND TO (primary):   info@rfhospital.org
+CC (if overseas):    rfh.international@rfhospital.org
+
+Subject: Request for PET-CT Scan CD/DICOM Disc — Saroj Agarwal (Patient ID 0010663186), Scan dated 21 Feb 2026
+
+---------------------------------------------------------------------
+
+To,
+The Medical Records / Department of Nuclear Medicine (Imaging & Theranostics)
+Sir H. N. Reliance Foundation Hospital and Research Centre
+Raja Rammohan Roy Road, Prarthana Samaj, Girgaon, Mumbai – 400004
+
+Dear Sir/Madam,
+
+Sub: Request for a copy of the PET-CT scan CD (DICOM imaging disc)
+
+I am writing on behalf of the patient Mrs. Saroj Agarwal, who underwent a
+Whole Body FDG PET-CECT scan at your hospital. I would like to request a
+copy of the CD/disc containing the full PET-CT imaging (DICOM images) for
+this study.
+
+Patient and scan details for your reference:
+
+  • Patient name           : Saroj Agarwal
+  • Patient ID / UHID       : 0010663186
+  • Date of birth           : 27 August 1962 (Age/Sex: 63 / Female)
+  • Study                   : Whole Body 18F-FDG PET-CECT scan
+  • Scan performed on       : 21 February 2026, 02:55 PM
+  • Report dated            : 23 February 2026
+  • Order number            : 0040725914
+  • Referring physician     : Dr. Darshit Shah (Medical Oncology)
+  • Performed by            : Department of Nuclear Medicine, Imaging &
+                              Theranostics
+
+I have not received this imaging CD so far. It is possible that it was
+handed over and I have misplaced or overlooked it — if so, I apologise —
+but in either case I now need a copy urgently.
+
+The reason for the urgency is that the patient is currently undergoing her
+SECOND PET-CT scan, and the centre performing the new scan requires the CD
+of this earlier PET-CT (21 February 2026) for comparison. Having the prior
+images is important for them to accurately assess the change in disease
+status, so I would be very grateful if this could be arranged at the
+earliest.
+
+To make collection convenient, either of the following would work well for
+us:
+
+  1. You may hand the CD over to the patient's treating oncologist,
+     Dr. Darshit Shah. He visits Surat every Thursday, and we can collect
+     the CD from him here; OR
+
+  2. The CD may be couriered/dispatched directly to the following address:
+
+         Vivek M Agarwal
+         A1 402, Sai Home,
+         Behind Water Hills Residency, Althan,
+         Surat – 395017
+         (Gujarat, India)
+
+Please let me know which option is feasible, along with any charges or
+formalities (request letter, ID proof, authorisation) that I need to
+complete. I am happy to share any identity proof or authorisation that may
+be required. Please feel free to contact me on the phone number or email
+below.
+
+Thank you very much for your help.
+
+Warm regards,
+
+Vivek M Agarwal
+(On behalf of the patient, Mrs. Saroj Agarwal)
+A1 402, Sai Home, Behind Water Hills Residency, Althan, Surat – 395017
+[Your phone number]
+[Your email address]
+
+=====================================================================
+NOTES — WHERE TO SEND THIS EMAIL
+=====================================================================
+
+Primary address : info@rfhospital.org   (General Enquiries — main inbox)
+Overseas/Intl.  : rfh.international@rfhospital.org   (add as CC if useful)
+
+The hospital does not publish a separate dedicated email for medical
+records or the imaging/CD desk, so the General Enquiries inbox above is the
+correct first point of contact — they will route it to Medical Records /
+Nuclear Medicine.
+
+To FOLLOW UP by phone (recommended a day or two after sending):
+  • Radiology / Imaging appointments : +91-9137943056
+       (best number to ask specifically about the PET-CT imaging CD)
+  • General enquiries                : +91-9137943057
+  • Toll-free (India)                : 1-800-221-166 / 1-800-890-1111
+  • Hospital board                   : +91-22-3547-5000 / +91-22-6130-5000
+  • WhatsApp                         : +91-8169630357
+
+Hospital address (for in-person collection or courier):
+  Sir H. N. Reliance Foundation Hospital and Research Centre
+  Raja Rammohan Roy Road, Prarthana Samaj,
+  Girgaon, Mumbai – 400004, Maharashtra, India
+
+Source for contact details: https://www.rfhospital.org/contact-us
+
+BEFORE SENDING: fill in the two remaining bracketed [ ] fields in the
+signature (your phone number and email address), and double-check the
+Patient ID and Order No. against your own copy of the report (taken here
+from the PET report dated 21 Feb 2026).
+=====================================================================

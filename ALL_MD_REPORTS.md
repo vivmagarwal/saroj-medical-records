@@ -2,12 +2,375 @@
 
 **Patient**: Saroj Agarwal · **Patient ID**: 0010663186 · **DOB**: 27 Aug 1962 · **Sex**: Female
 
-This file combines all **188** per-report markdown files into a single document, ordered **newest → oldest** by the date the test was performed. Each report retains its title, metadata bullets, vision-verified summary, and verbatim PDF text. The individual per-report markdowns under `report_md/` are unchanged.
+This file combines all **193** per-report markdown files into a single document, ordered **newest → oldest** by the date the test was performed. Each report retains its title, metadata bullets, vision-verified summary, and verbatim PDF text. The individual per-report markdowns under `report_md/` are unchanged.
 
 Source PDFs are in `report_pdf/`. The date-grouped master index is in `MASTER_INDEX.md`.
 
+> **Update 2026-06-24**: The 5 newest reports below are post-discharge outpatient follow-ups from Surat (May–Jun 2026: 4 Nobel Micropath lab panels + the 22 Jun follow-up WB FDG PET-CT). They are labelled *Follow-up Report 1–5 of 5* and prepended here; the original 188 Reliance reports retain their *Report N of 188* labels unchanged.
+
 
 ---
+
+---
+
+> **Follow-up Report 1 of 5** (added 2026-06-24) · `2026-06-22_CT_WB-FDG-PET-CT-scan.md`
+
+# WB FDG PET - CT scan (follow-up)
+
+- **Date performed**: 2026-06-22
+- **Category**: CT
+- **Facility**: Prismaa Oncoimaging, Surat
+- **Referred by**: Dr. Kaushal B. Patel (MD, DM Medical Oncology)
+- **Source PDF**: [`./report_pdf/2026-06-22_CT_WB-FDG-PET-CT-scan.pdf`](./report_pdf/2026-06-22_CT_WB-FDG-PET-CT-scan.pdf)
+- **Original filename**: `SAROJ AGRAWAL - New PET Scan June 2026.pdf`
+- **Compared with**: prior PET-CT dated 2026-02-21 (report 23.02.2026), Sir H. N. Reliance Foundation Hospital
+
+## Summary (extracted)
+
+18 F-FDG Whole Body Digital PET-CT Study. 5.38 mCi 18F-FDG injected after 5–6 hrs fasting;
+AI-assisted 160-slice digital PET-CT acquired 60 min post-injection; separate breath-hold CT;
+extent vertex to mid-thigh.
+
+**Referral reasons**: Known case of Ca. endometrium with lung metastasis. Post immuno- and
+chemotherapy (last dose 15/06/2026). Complaints of breathing difficulty on and off. For
+follow-up evaluation. (History noted: NT-proBNP 1738 high & CPK-MB 34.67 high on 11/02/2026,
+Troponin-I negative; CA-125 635.50 on 14/02/2026; pleural fluid cytology — atypical cells
+suggestive of carcinoma with large cell morphology, 14/02/2026.)
+
+### Findings
+- **Brain**: Physiological FDG distribution, no focal hypermetabolic lesion. No intracranial
+  metastatic disease.
+- **Head & Neck**: Previously noted metabolically active necrotic left cervical nodal disease
+  shows **marked interval regression**. Residual left level V cervical node ≈ **12 × 8 mm,
+  SUVmax 3.19** (previously 20 × 24 mm, SUVmax 12.7). Mild diffuse thyroid uptake, likely
+  inflammatory. No new metabolically active cervical lymphadenopathy.
+- **Chest**: **Interval significant reduction in bilateral pleural disease** — now mild
+  residual bilateral pleural effusions, greater on the left. Right pleural hypermetabolic
+  thickening regressed, residual low-grade **SUVmax 5.4** (previously 5.6). No focal FDG-avid
+  pulmonary parenchymal lesion. Mild bibasal compressive atelectasis. Mediastinal nodal disease
+  **markedly regressed** — tiny residual prevascular node ≈ 8 × 7 mm, SUVmax 4.93; tiny right
+  upper paratracheal nodes low-grade. No significant FDG-avid hilar lymphadenopathy. Bilateral
+  axillary nodes small, low-grade, likely stable. No pericardial effusion. **No residual
+  pulmonary arterial thrombus** on the CT component.
+- **Abdomen & Pelvis**: Post-hysterectomy status; no abnormal FDG at the operative bed.
+  **Significant interval regression of omental and peritoneal metastatic disease** — residual
+  tiny metabolically active peritoneal/omental nodule ≈ **8.5 × 6.8 mm, SUVmax 7.12**;
+  previously extensive supramesocolic omental nodularity no longer measurable. Mild residual
+  ascites. Calcified bilateral common iliac nodes without significant activity. Abdominal nodal
+  disease substantially regressed. Left inguinal node now ≈ **17 × 10 mm, SUVmax 2.85**
+  (previously 23 × 14 mm, SUVmax 6.4). Multiple simple hepatic cysts (largest segment VI,
+  3.2 cm); small calcified granuloma segment III; **no FDG-avid hepatic metastasis**. Spleen,
+  pancreas, adrenals, kidneys normal. Mild subcutaneous edema of lower anterior pelvic wall.
+- **Musculoskeletal**: **No FDG-avid osseous metastatic lesion.** Mild degenerative spondylotic
+  changes.
+
+### Conclusion (vs prior PET-CT 23.02.2026)
+1. Marked interval regression of left cervical metastatic lymphadenopathy (residual left level V
+   node 12 × 8 mm, SUVmax 3.19, prev 20 × 24 mm, SUVmax 12.7).
+2. Significant regression of mediastinal, axillary, infraclavicular, abdominal and
+   inguinofemoral nodal disease — only small residual mildly FDG-avid nodes.
+3. Significant regression of peritoneal carcinomatosis and omental deposits — only tiny residual
+   metabolically active peritoneal nodule (8.5 × 6.8 mm, SUVmax 7.12).
+4. Interval reduction in bilateral malignant pleural disease — persistent mild bilateral pleural
+   effusions and mild residual pleural FDG uptake (SUVmax 5.4).
+5. Mild residual ascites.
+
+### RECIST 1.1 Assessment
+- Target lesions:
+  - Left level V cervical node: 20 mm → 8 mm (short axis)
+  - Left inguinal node: 14 mm → 10 mm (short axis)
+- Sum of target lesion diameters: **Previous 34 mm → Current 18 mm**
+- Non-target: pleural disease improved; omental/peritoneal near-complete regression; mediastinal
+  & abdominal nodal disease significantly regressed without appreciable residual FDG avidity.
+- **Percentage change: −47.1%**
+- **RECIST 1.1 overall response: PARTIAL RESPONSE (PR)**
+- Overall: significant favourable treatment response with marked reduction in nodal, pleural and
+  peritoneal metastatic disease burden; residual metabolically active disease as described.
+
+### Reporting doctors
+Dr. Manas Mayank (MD, DRM — Consultant Nuclear Medicine); Dr. Shubham Padashetty (MBBS, MD —
+Consultant Onco-Radiologist); Dr. Krishan Kant Agarwal (MBBS, MD — Consultant & Nuclear
+Medicine); Dr. Keyur Mandaliya (MBBS, DNB — Consultant Onco-Radiologist).
+
+
+---
+
+> **Follow-up Report 2 of 5** (added 2026-06-24) · `2026-06-15_Lab-Surat_Combined-Panel.md`
+
+# Combined Panel — CBC + Electrolytes + Creatinine + NT-proBNP + LFT (Surat, Nobel Micropath)
+
+- **Date performed**: 2026-06-15
+- **Category**: Lab-Surat
+- **Lab**: Nobel Micropath Laboratory, Surat (NABL MC-7707)
+- **Referring doctor**: Dr. Kaushal Patel (MD, DM Oncology)
+- **Source PDF**: [`./report_pdf/2026-06-15_Lab-Surat_Combined-Panel.pdf`](./report_pdf/2026-06-15_Lab-Surat_Combined-Panel.pdf)
+- **Original filename**: `606102844.pdf` (lab registration no.)
+
+## Summary (extracted)
+
+Bundled outpatient panel collected 15/06/2026 09:27 AM at Nobel Micropath, Surat.
+
+**CBC (EDTA Whole Blood):** Hb **10.9 g/dL (LOW; ref 11.0–15.0)**, HCT **34.70 % (LOW; ref 36.0–46.0)**, RBC **3.44 × 10⁶/cmm (LOW; ref 3.8–4.8)**, MCV **100.9 fL (HIGH; ref 83–101)**, MCH 31.7 pg (normal), **MCHC 31.4 % (LOW; ref 31.5–34.5)**, **RDW 16.9 % (HIGH; ref 11.6–14.0)**, **WBC 12170/cmm (HIGH; ref 4000–10000)**. Differential: Neut 69 % (ANC 8397), Lymph 22 % (2677), Eos 1 % (122), Mono 8 % (974), Baso 0 %. Platelets 251000/cmm (normal). MPV 9.3 fL. Peripheral smear: anisocytosis (+); **leucocytosis**; platelets adequate; no malarial parasites.
+
+**Electrolytes (Serum, ISE):** Sodium 139, Potassium 4.7, Chloride 104 mmol/L — all **normal**.
+
+**Creatinine (Serum, Jaffe):** 0.93 mg/dL — **normal** (ref 0.6–1.1).
+
+**NT-proBNP (CLIA):** **97.2 pg/mL — normal** (ref 0–531; heart failure unlikely).
+
+**Liver Function Test (Serum):** SGPT 13.9 U/L, SGOT 13.00 U/L, ALP 73.2 U/L, Total Bilirubin 0.2, Conjugated 0.1, Unconjugated 0.1, GGT 18.3, A/G ratio 1.45 — all **normal**. **Albumin 3.26 g/dL — now NORMAL (ref 3.2–4.6)**. Still mildly low: **Total Protein 5.51 g/dL (ref 6.4–8.0)**, **Globulin 2.25 g/dL (ref 2.3–3.5)**.
+
+**Findings**: Clear interval improvement vs the May labs. **Haemoglobin has risen 8.4 → 9.7 → 9.7 → 10.3 → 10.9 g/dL (06 May → 15 Jun)** — anaemia improving though still mildly low and macrocytic (MCV 100.9, high RDW). **Albumin has normalised (2.65 → 3.26)** and total protein is up (4.62 → 5.51), so the hypoproteinaemia driving earlier edema is largely corrected. **NT-proBNP 97.2 (normal)** — a major improvement from 1738 (high) in February, indicating no current cardiac strain/failure. Renal function preserved; creatinine 0.71 → 0.93 over six weeks (still normal, mild upward trend worth watching). New finding: **mild neutrophilic leucocytosis (WBC 12170, ANC 8397)** — likely reactive (post-chemo/steroid/inflammatory); correlate clinically.
+
+## Verbatim text from PDF
+
+```
+Name: Ms. SAROJ AGRAWAL    Sex/Age: Female / 63 Years
+Registration No: 606102844
+Sample Collection Time: 15-Jun-2026 09:27 AM
+Sample Receiving Time: 15-Jun-2026 09:37 AM
+Sample Report Time: 15-Jun-2026 10:01–10:14 AM (by test)
+Ref. By: Dr. Kaushal Patel MD, DM Oncology
+Sample Type: EDTA Whole Blood (CBC) / Serum (Electrolytes, Creatinine, NT-proBNP, LFT)
+
+Complete Blood Count
+  Hemoglobin (SLS)     L  10.9   g/dL         11.0 - 15.0
+  Hematocrit           L  34.70  %            36.0 - 46.0
+  RBC Count            L  3.44   million/cmm  3.8 - 4.8
+  MCV                  H  100.9  fL           83 - 101
+  MCH                     31.7   pg           27 - 32
+  MCHC                 L  31.4   %            31.5 - 34.5
+  RDW                  H  16.9   %            11.6 - 14.0
+  WBC Count            H  12170  /cmm         4000 - 10000
+  Differential: Neut 69% (8397), Lymph 22% (2677), Eos 1% (122), Mono 8% (974), Baso 0% (0)
+  Platelet Count          251000 /cmm        150000 - 450000
+  MPV                     9.3    fL           6.5 - 12.0
+  Peripheral smear: RBC anisocytosis (+); WBC leucocytosis; platelets adequate; no malarial parasites.
+
+Electrolytes (Serum, Direct ISE)
+  Sodium      139  mmol/L   137 - 145
+  Potassium   4.7  mmol/L   3.5 - 5.1
+  Chloride    104  mmol/L   98 - 107
+
+Bio-Chemistry
+  Creatinine (Jaffe)   0.93  mg/dL    0.6 - 1.1
+
+Immunology
+  NT-proBNP (CLIA)     97.2  pg/mL    0 - 531   (Heart failure unlikely)
+
+Liver Function Test (Serum)
+  SGPT                    13.9   U/L     0 - 34
+  SGOT                    13.00  U/L     <31
+  Alkaline Phosphatase    73.2   U/L     53 - 141
+  Total Bilirubin         0.2    mg/dL   0.1 - 1.2
+  Conjugated Bilirubin    0.1    mg/dL   0.0 - 0.4
+  Unconjugated Bilirubin  0.1    mg/dL   <0.8
+  Total Protein        L  5.51   g/dL    6.4 - 8.0
+  Albumin                 3.26   gm/dL   3.2 - 4.6
+  Globulin             L  2.25   g/dL    2.3 - 3.5
+  A/G Ratio               1.45           0.8 - 2.0
+  GGT                     18.3   U/L     7 - 32
+
+Trend (from report graphs):
+  Hemoglobin  06-May 8.4 → 18-May 9.7 → 25-May 9.7 → 08-Jun 10.3 → 15-Jun 10.9 g/dL
+  Creatinine  06-May 0.71 → 18-May 0.78 → 25-May 0.78 → 08-Jun 0.85 → 15-Jun 0.93 mg/dL
+  SGOT        06-May 11.90 → 15-Jun 13.00 U/L
+
+Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology)
+Lab: 6th Floor, Rhythm House, Besides Venus Hospital, Lal Darwaja, Surat
+```
+
+
+---
+
+> **Follow-up Report 3 of 5** (added 2026-06-24) · `2026-05-25_Lab-Surat_CBC-Creatinine.md`
+
+# CBC + Creatinine (Surat, Nobel Micropath)
+
+- **Date performed**: 2026-05-25
+- **Category**: Lab-Surat
+- **Lab**: Nobel Micropath Laboratory, Surat (NABL MC-7707)
+- **Referring doctor**: Dr. Kaushal Patel (MD, DM Oncology)
+- **Source PDF**: [`./report_pdf/2026-05-25_Lab-Surat_CBC-Creatinine.pdf`](./report_pdf/2026-05-25_Lab-Surat_CBC-Creatinine.pdf)
+- **Original filename**: `605104440.pdf` (lab registration no.)
+
+## Summary (extracted)
+
+Outpatient follow-up labs collected 25/05/2026 09:00 AM at Nobel Micropath, Surat.
+
+**CBC (EDTA Whole Blood):** Hb **9.7 g/dL (LOW; ref 11.0–15.0)** — stable vs 18/05/2026 (no further fall, no rebound). HCT **30.6 % (low)**, RBC **3.08 × 10⁶/cmm (low)**, MCV 99.4 fL (top-of-normal), MCH 31.5 pg (borderline high), MCHC 31.7 % (normal), **RDW 19.1 % (HIGH but improved from 21.0)**. **WBC 10060/cmm (HIGH; ref 4000–10000)** — borderline-high; up from 8200. Differential: Neut 69 % (ANC 6941), Lymph 21 % (2113), Eos 1 % (101), Mono 9 % (905; borderline-high), Baso 0 %. Platelets 267000/cmm (normal). MPV 8.8 fL. Peripheral smear: anisocytosis (+); WBCs/platelets within normal limits.
+
+**Creatinine (Serum, Jaffe):** 0.78 mg/dL — **normal**, identical to 18/05.
+
+**Findings**: Hb stable at 9.7 g/dL — recovery has plateaued vs ongoing climb. **WBC nudged into borderline-high range (10060) — first time elevated in this dataset.** With predominant neutrophilia (69 %), monitor for early infection / inflammatory response. RDW continuing to improve (21.4 → 21.0 → 19.1 over 19 days). Renal function preserved.
+
+## Verbatim text from PDF
+
+```
+Name: Ms. SAROJ AGRAWAL    Sex/Age: Female / 63 Years
+Registration No: 605104440
+Sample Collection Time: 25-May-2026 09:00 AM
+Sample Receiving Time: 25-May-2026 09:23 AM
+Sample Report Time: 25-May-2026 09:30 AM (CBC) / 09:57 AM (Creatinine)
+Ref. By: Dr. Kaushal Patel MD, DM Oncology
+
+Complete Blood Count
+  Hemoglobin           L  9.7    g/dL    11.0 - 15.0
+  Hematocrit           L  30.60  %       36.0 - 46.0
+  RBC Count            L  3.08   million/cmm  3.8 - 4.8
+  MCV                     99.4   fL      83 - 101
+  MCH                     31.5   pg      27 - 32
+  MCHC                    31.7   %       31.5 - 34.5
+  RDW                  H  19.1   %       11.6 - 14.0
+  WBC Count            H  10060  /cmm    4000 - 10000
+  Differential: Neut 69% (6941), Lymph 21% (2113), Eos 1% (101), Mono 9% (905), Baso 0%
+  Platelet Count          267000 /cmm    150000 - 450000
+  MPV                     8.8    fL      6.5 - 12.0
+  Peripheral smear: Anisocytosis (+); WBCs normal; platelets adequate; no malarial parasites.
+
+Bio-Chemistry
+  Creatinine (Jaffe)   0.78  mg/dL    0.6 - 1.1
+
+Trend (chart on page 3): Hb 8.4 (06-May) → 9.7 (18-May) → 9.7 (25-May);
+                        Creatinine 0.71 → 0.78 → 0.78
+
+Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology)
+```
+
+
+---
+
+> **Follow-up Report 4 of 5** (added 2026-06-24) · `2026-05-18_Lab-Surat_CBC-Creatinine.md`
+
+# CBC + Creatinine (Surat, Nobel Micropath)
+
+- **Date performed**: 2026-05-18
+- **Category**: Lab-Surat
+- **Lab**: Nobel Micropath Laboratory, Surat (NABL MC-7707)
+- **Referring doctor**: Dr. Kaushal Patel (MD, DM Oncology)
+- **Source PDF**: [`./report_pdf/2026-05-18_Lab-Surat_CBC-Creatinine.pdf`](./report_pdf/2026-05-18_Lab-Surat_CBC-Creatinine.pdf)
+- **Original filename**: `605103125.pdf` (lab registration no.)
+
+## Summary (extracted)
+
+Outpatient follow-up labs collected 18/05/2026 09:04 AM at Nobel Micropath, Surat.
+
+**CBC (EDTA Whole Blood):** Hb **9.7 g/dL (LOW; ref 11.0–15.0)** — ↑ from 8.4 g/dL on 06/05/2026 (improvement of +1.3 g/dL in 12 days). HCT **30.9 % (low)**, RBC **3.17 × 10⁶/cmm (low)**, MCV 97.5 fL (high-normal), MCH 30.6 pg (normal), MCHC 31.4 % (borderline low), **RDW 21.0 % (HIGH)** — slight improvement from 21.4. WBC **8200/cmm (normal)** — up from 5410. Differential: Neut 65 % (ANC 5330), Lymph 25 % (2050), Eos 1 % (82), Mono 9 % (738), Baso 0 %. Platelets 313000/cmm (normal). MPV 9.5 fL. Peripheral smear: anisocytosis (+); WBCs/platelets within normal limits.
+
+**Creatinine (Serum, Jaffe):** 0.78 mg/dL — **normal** (ref 0.6–1.1).
+
+**Findings**: **Significant haemoglobin recovery (8.4 → 9.7 g/dL in 12 days)**; anaemia still present but trending up. WBC also recovering toward normal range. Renal function preserved.
+
+## Verbatim text from PDF
+
+```
+Name: Ms. SAROJ AGRAWAL    Sex/Age: Female / 63 Years
+Registration No: 605103125
+Sample Collection Time: 18-May-2026 09:04 AM
+Sample Receiving Time: 18-May-2026 09:32 AM
+Sample Report Time: 18-May-2026 09:40 AM (CBC) / 09:58 AM (Creatinine)
+Ref. By: Dr. Kaushal Patel MD, DM Oncology
+
+Complete Blood Count
+  Hemoglobin           L  9.7    g/dL    11.0 - 15.0
+  Hematocrit           L  30.90  %       36.0 - 46.0
+  RBC Count            L  3.17   million/cmm  3.8 - 4.8
+  MCV                     97.5   fL      83 - 101
+  MCH                     30.6   pg      27 - 32
+  MCHC                 L  31.4   %       31.5 - 34.5
+  RDW                  H  21.0   %       11.6 - 14.0
+  WBC Count               8200   /cmm    4000 - 10000
+  Differential: Neut 65% (5330), Lymph 25% (2050), Eos 1% (82), Mono 9% (738), Baso 0%
+  Platelet Count          313000 /cmm    150000 - 450000
+  MPV                     9.5    fL      6.5 - 12.0
+  Peripheral smear: Anisocytosis (+); WBCs normal; platelets adequate; no malarial parasites.
+
+Bio-Chemistry
+  Creatinine (Jaffe)   0.78  mg/dL    0.6 - 1.1
+
+Trend (chart on page 3): Hb 8.4 (06-May) → 9.7 (18-May); Creatinine 0.71 → 0.78
+
+Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology)
+```
+
+
+---
+
+> **Follow-up Report 5 of 5** (added 2026-06-24) · `2026-05-06_Lab-Surat_Combined-Panel.md`
+
+# Combined Panel — CBC + Electrolytes + Creatinine + LFT (Surat, Nobel Micropath)
+
+- **Date performed**: 2026-05-06
+- **Category**: Lab-Surat
+- **Lab**: Nobel Micropath Laboratory, Surat (NABL MC-7707)
+- **Referring doctor**: Dr. Kaushal Patel (MD, DM Oncology)
+- **Source PDF**: [`./report_pdf/2026-05-06_Lab-Surat_Combined-Panel.pdf`](./report_pdf/2026-05-06_Lab-Surat_Combined-Panel.pdf)
+- **Original filename**: `605100986.pdf` (lab registration no.)
+
+## Summary (extracted)
+
+Bundled outpatient panel collected 06/05/2026 10:05 AM at Nobel Micropath, Surat.
+
+**CBC (EDTA Whole Blood):** Hb **8.4 g/dL (LOW; ref 11.0–15.0)**, HCT **26.5 % (LOW; ref 36.0–46.0)**, RBC **2.79 × 10⁶/cmm (LOW; ref 3.8–4.8)**, MCV 95.0 fL (normal), MCH 30.1 pg (normal), MCHC 31.7 % (normal), **RDW 21.4 % (HIGH; ref 11.6–14.0)**, WBC 5410/cmm (normal). Differential: Neut 53 % (ANC 2867), Lymph 34 % (1839), Eos 1 % (54), Mono 12 % (649; borderline-high), Baso 0 %. Platelets 352000/cmm (normal). MPV 9.3 fL. Peripheral smear: anisocytosis (+); WBCs/platelets within normal limits; no malarial parasites.
+
+**Electrolytes (Serum, ISE):** Sodium 139, Potassium 4.3, Chloride 103 mmol/L — all **normal**.
+
+**Creatinine (Serum, Jaffe):** 0.71 mg/dL — **normal** (ref 0.6–1.1).
+
+**Liver Function Test (Serum):** SGPT 6.7 U/L, SGOT 11.9 U/L, ALP 71.2 U/L, Total Bilirubin 0.2, Conjugated 0.1, Unconjugated 0.1, GGT 16.2 — all **normal**. However, **Total Protein 4.62 g/dL (LOW; ref 6.4–8.0)**, **Albumin 2.65 g/dL (LOW; ref 3.2–4.6)**, **Globulin 1.97 g/dL (LOW; ref 2.3–3.5)**, A/G ratio 1.35 (normal).
+
+**Findings**: Persistent normochromic-macrocytic anaemia (Hb 8.4, MCV high-normal, elevated RDW = mixed cause / nutritional + chemo-marrow effects). Liver enzymes fully normal. **Marked hypoproteinemia / hypoalbuminemia (Albumin 2.65)** continues from the April labs and is the likely driver of the new bilateral leg / abdominal edema being clinically observed. Renal function and electrolytes preserved.
+
+## Verbatim text from PDF
+
+```
+Name: Ms. SAROJ AGRAWAL    Sex/Age: Female / 63 Years
+Registration No: 605100986
+Sample Collection Time: 06-May-2026 10:05 AM
+Sample Receiving Time: 06-May-2026 10:47 AM
+Sample Report Time: 06-May-2026 11:38 AM (CBC) / 11:37 AM (Biochem)
+Ref. By: Dr. Kaushal Patel MD, DM Oncology
+Sample Type: EDTA Whole Blood (CBC) / Serum (Electrolytes, Creatinine, LFT)
+
+Complete Blood Count
+  Hemoglobin           L  8.4    g/dL    11.0 - 15.0
+  Hematocrit           L  26.50  %       36.0 - 46.0
+  RBC Count            L  2.79   million/cmm  3.8 - 4.8
+  MCV                     95.0   fL      83 - 101
+  MCH                     30.1   pg      27 - 32
+  MCHC                    31.7   %       31.5 - 34.5
+  RDW                  H  21.4   %       11.6 - 14.0
+  WBC Count               5410   /cmm    4000 - 10000
+  Differential: Neut 53% (2867), Lymph 34% (1839), Eos 1% (54), Mono 12% (649), Baso 0%
+  Platelet Count          352000 /cmm    150000 - 450000
+  MPV                     9.3    fL      6.5 - 12.0
+  Peripheral smear: Anisocytosis (+); WBCs normal limit; platelets adequate; no malarial parasites.
+
+Electrolytes (Serum, Direct ISE)
+  Sodium      139  mmol/L   137 - 145
+  Potassium   4.3  mmol/L   3.5 - 5.1
+  Chloride    103  mmol/L   98 - 107
+
+Bio-Chemistry
+  Creatinine (Jaffe)   0.71  mg/dL    0.6 - 1.1
+
+Liver Function Test (Serum)
+  SGPT                    6.7    U/L     0 - 34
+  SGOT                    11.90  U/L     <31
+  Alkaline Phosphatase    71.2   U/L     53 - 141
+  Total Bilirubin         0.2    mg/dL   0.1 - 1.2
+  Conjugated Bilirubin    0.1    mg/dL   0.0 - 0.4
+  Unconjugated Bilirubin  0.1    mg/dL   <0.8
+  Total Protein        L  4.62   g/dL    6.4 - 8.0
+  Albumin              L  2.65   gm/dL   3.2 - 4.6
+  Globulin             L  1.97   g/dL    2.3 - 3.5
+  A/G Ratio               1.35           0.8 - 2.0
+  GGT                     16.2   U/L     7 - 32
+
+Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology)
+Lab: 6th Floor, Rhythm House, Besides Venus Hospital, Lal Darwaja, Surat
+```
+
 
 > **Report 1 of 188** · `2026-04-13_XRay_X-Ray-Portable-Chest-AP.md`
 

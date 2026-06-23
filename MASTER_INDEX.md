@@ -2,9 +2,11 @@
 
 **Patient**: Saroj Agarwal  •  **Patient ID**: 0010663186  •  **DOB**: 27 Aug 1962  •  **Sex**: Female
 
-**Total reports**: 188  •  **Date range**: 2026-02-20 → 2026-04-13  •  **Generated**: 2026-04-29  •  **Vision-verified**: 188/188
+**Total reports**: 193  •  **Date range**: 2026-02-20 → 2026-06-22  •  **Generated**: 2026-04-29 (updated 2026-06-24)  •  **Vision-verified**: 193/193
 
 All reports verified for patient identity and content accuracy by reading the rendered PDF page images and comparing against the markdown summary. Reports are grouped by date the test was performed (newest first). Each entry links to the renamed source PDF in `report_pdf/` and a per-report markdown file in `report_md/`.
+
+> **Update 2026-06-24**: Added 5 outpatient follow-up reports from Surat (post-discharge) — 4 Nobel Micropath lab panels (6, 18, 25 May & 15 Jun 2026) and the follow-up **WB FDG PET-CT (22 Jun 2026, Prismaa Oncoimaging)**, which shows **RECIST 1.1 Partial Response, −47.1%** versus the 21 Feb 2026 baseline PET.
 
 ## Counts by category
 
@@ -15,10 +17,11 @@ All reports verified for patient identity and content accuracy by reading the re
 | `XRay` | 35 | Plain radiographs (mostly portable chest) |
 | `Lab-Micro` | 13 | Microbiology — cultures and sensitivity |
 | `Lab-Serol` | 12 | Serology / Immunology (autoantibodies, NT-proBNP, etc.) |
+| `Lab-Surat` | 4 | Outpatient follow-up labs, Surat (Nobel Micropath — CBC, biochem, NT-proBNP) |
 | `ECHO` | 3 | Echocardiography |
+| `CT` | 3 | Computed tomography (incl. PET-CT) |
 | `Lab-ClinPath` | 2 | Clinical pathology (urine routine, body fluids) |
 | `USG` | 2 | Ultrasonography |
-| `CT` | 2 | Computed tomography (incl. PET-CT) |
 | `ECG` | 1 | Electrocardiogram |
 | `Holter` | 1 | Continuous ambulatory ECG monitoring |
 | `Consent` | 1 | Procedure consent form |
@@ -26,6 +29,31 @@ All reports verified for patient identity and content accuracy by reading the re
 | `Summary-Daycare` | 1 | Daycare discharge summary (chemotherapy) |
 
 ## Reports by date (newest first)
+
+### Monday, 22 June 2026 (2026-06-22) — 1 report
+
+- **WB FDG PET-CT scan (follow-up)** — _CT_  [[PDF](./report_pdf/2026-06-22_CT_WB-FDG-PET-CT-scan.pdf)] [[MD](./report_md/2026-06-22_CT_WB-FDG-PET-CT-scan.md)]
+    Follow-up 18F-FDG whole-body PET-CT (Prismaa Oncoimaging, Surat; ref. Dr. Kaushal Patel), compared with the prior PET-CT of 23.02.2026. **RECIST 1.1 overall response: PARTIAL RESPONSE (PR), −47.1%** (target-lesion sum 34 mm → 18 mm). Marked interval regression of left cervical nodal disease (residual left level V node 12 × 8 mm, SUVmax 3.19, prev 20 × 24 mm, SUVmax 12.7). Significant regression of mediastinal, axillary, infraclavicular, abdominal and inguinofemoral nodal disease (left inguinal node 17 × 10 mm, SUVmax 2.85, prev 23 × 14 mm, SUVmax 6.4). Near-complete regression of peritoneal carcinomatosis/omental deposits — only a tiny residual peritoneal nodule 8.5 × 6.8 mm, SUVmax 7.12. Interval reduction in bilateral malignant pleural disease — mild residual bilateral pleural effusions (L>R) and mild pleural FDG uptake (SUVmax 5.4, prev 5.6). Mild residual ascites. No intracranial, hepatic or osseous metastasis; no residual pulmonary arterial thrombus. Overall: significant favourable treatment response with residual metabolically active disease.
+
+### Monday, 15 June 2026 (2026-06-15) — 1 report
+
+- **Combined Panel — CBC + Electrolytes + Creatinine + NT-proBNP + LFT** — _Lab-Surat_  [[PDF](./report_pdf/2026-06-15_Lab-Surat_Combined-Panel.pdf)] [[MD](./report_md/2026-06-15_Lab-Surat_Combined-Panel.md)]
+    Combined outpatient panel (Nobel Micropath, Surat; ref. Dr. Kaushal Patel) — collected 15/06/2026 09:27. CBC: Hb 10.9 g/dL (low; ref 11.0–15.0) — up from 8.4 on 06/05; HCT 34.7% (low), RBC 3.44 (low), MCV 100.9 fL (high), MCHC 31.4% (low), RDW 16.9% (high), WBC 12170/cmm (HIGH; neutrophilic, ANC 8397), platelets 251000 (normal). Electrolytes normal (Na 139, K 4.7, Cl 104). Creatinine 0.93 mg/dL (normal). NT-proBNP 97.2 pg/mL (normal; ref 0–531) — major improvement from 1738 in Feb. LFT: SGPT 13.9, SGOT 13.0, ALP 73.2, bilirubin/GGT normal; **albumin 3.26 g/dL now NORMAL (was 2.65)**; total protein 5.51 (low), globulin 2.25 (low). Findings: anaemia improving (Hb 8.4→9.7→9.7→10.3→10.9), albumin normalised, NT-proBNP normal; new mild neutrophilic leucocytosis to monitor.
+
+### Monday, 25 May 2026 (2026-05-25) — 1 report
+
+- **CBC + Creatinine** — _Lab-Surat_  [[PDF](./report_pdf/2026-05-25_Lab-Surat_CBC-Creatinine.pdf)] [[MD](./report_md/2026-05-25_Lab-Surat_CBC-Creatinine.md)]
+    Outpatient follow-up labs (Nobel Micropath, Surat) — collected 25/05/2026 09:00. CBC: Hb 9.7 g/dL (low) — stable vs 18/05; HCT 30.6% (low), RBC 3.08 (low), MCV 99.4 fL, MCHC 31.7%, RDW 19.1% (high, improved from 21.0), WBC 10060/cmm (HIGH, borderline; neutrophils 69%, ANC 6941), platelets 267000 (normal). Creatinine 0.78 mg/dL (normal, identical to 18/05). Findings: Hb recovery plateaued at 9.7; WBC nudged into borderline-high range for the first time (monitor for early infection/inflammation); RDW continuing to improve; renal function preserved.
+
+### Monday, 18 May 2026 (2026-05-18) — 1 report
+
+- **CBC + Creatinine** — _Lab-Surat_  [[PDF](./report_pdf/2026-05-18_Lab-Surat_CBC-Creatinine.pdf)] [[MD](./report_md/2026-05-18_Lab-Surat_CBC-Creatinine.md)]
+    Outpatient follow-up labs (Nobel Micropath, Surat) — collected 18/05/2026 09:04. CBC: Hb 9.7 g/dL (low) — up from 8.4 on 06/05 (+1.3 in 12 days); HCT 30.9% (low), RBC 3.17 (low), MCV 97.5 fL, MCHC 31.4% (borderline low), RDW 21.0% (high), WBC 8200/cmm (normal; up from 5410). Differential: Neut 65% (ANC 5330), Lymph 25%, Mono 9%. Platelets 313000 (normal). Creatinine 0.78 mg/dL (normal). Findings: significant haemoglobin recovery (8.4 → 9.7 in 12 days); anaemia still present but trending up; WBC recovering toward normal; renal function preserved.
+
+### Wednesday, 6 May 2026 (2026-05-06) — 1 report
+
+- **Combined Panel — CBC + Electrolytes + Creatinine + LFT** — _Lab-Surat_  [[PDF](./report_pdf/2026-05-06_Lab-Surat_Combined-Panel.pdf)] [[MD](./report_md/2026-05-06_Lab-Surat_Combined-Panel.md)]
+    Bundled outpatient panel (Nobel Micropath, Surat) — collected 06/05/2026 10:05. CBC: Hb 8.4 g/dL (low), HCT 26.5% (low), RBC 2.79 (low), MCV 95.0, RDW 21.4% (high), WBC 5410 (normal), platelets 352000 (normal); smear anisocytosis (+). Electrolytes normal (Na 139, K 4.3, Cl 103). Creatinine 0.71 mg/dL (normal). LFT: enzymes/bilirubin normal (SGPT 6.7, SGOT 11.9, ALP 71.2, GGT 16.2), but total protein 4.62 (low), albumin 2.65 (low), globulin 1.97 (low). Findings: persistent normochromic-macrocytic anaemia with elevated RDW; marked hypoproteinaemia/hypoalbuminaemia (likely driving new bilateral leg/abdominal edema); renal function and electrolytes preserved.
 
 ### Monday, 13 April 2026 (2026-04-13) — 5 reports
 
