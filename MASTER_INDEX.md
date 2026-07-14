@@ -2,7 +2,7 @@
 
 **Patient**: Saroj Agarwal  •  **Patient ID**: 0010663186  •  **DOB**: 27 Aug 1962  •  **Sex**: Female
 
-**Total reports**: 194  (91 key + 103 archived routine serial labs)  •  **Date range**: 2026-02-20 → 2026-06-22  •  **Updated**: 2026-06-24
+**Total reports**: 204  (101 key + 103 archived routine serial labs)  •  **Date range**: 2026-02-20 → 2026-07-13  •  **Updated**: 2026-07-13
 
 > 📈 **[TRENDS.md](./TRENDS.md)** collects every serial lab value (Hb, WBC, platelets, electrolytes, creatinine, CRP, NT-proBNP, coagulation) in dated tables, so the day-by-day monitoring picture is preserved even though most individual daily lab reports are now under `report_md/archived/` & `report_pdf/archived/`.
 
@@ -17,18 +17,53 @@
 | `XRay` | 35 | incl. 24 archived |
 | `Lab-Micro` | 13 |  |
 | `Lab-Serol` | 12 | incl. 1 archived |
-| `Lab-Surat` | 4 |  |
-| `CT` | 3 |  |
+| `Lab-Surat` | 8 | incl. 4 from Jul 2026 Maitreya admission |
+| `CT` | 4 | incl. 2 PET-CT + 1 HRCT |
+| `ECHO` | 4 |  |
+| `ECG` | 4 |  |
 | `USG` | 3 |  |
-| `ECHO` | 3 |  |
 | `Lab-ClinPath` | 2 |  |
+| `Holter` | 2 |  |
 | `Summary-Daycare` | 1 |  |
 | `Summary-Discharge` | 1 |  |
 | `Consent` | 1 |  |
-| `Holter` | 1 |  |
-| `ECG` | 1 |  |
 
 ## Key reports — by date (newest first)
+
+### Monday, 13 July 2026 (2026-07-13) — 1 report
+
+- **Holter ECG Report — 72-hour (10–13 Jul, Surat)** — _Holter_  [[PDF](./report_pdf/2026-07-13_Holter_Holter-ECG-Report-Surat.pdf)] [[MD](./report_md/2026-07-13_Holter_Holter-ECG-Report-Surat.md)]
+    72-hour Holter (Predicardio Rhythmsense; 10-Jul 09:23 → 13-Jul 09:23, 71 h 59 m analysed), prescribed by Dr. Talha Meeran for **syncope and chest pain**. **Predominant rhythm: sinus.** HR min 78 / avg 88 / max 115 bpm; longest RR 1.07 s; **no pauses >2.5 s, no AF, no SVT, no VT runs, no AV block (2nd degree+)**. Ventricular ectopics only 512 (0.1 % burden; 502 isolated, 5 couplets, occasional bigeminy); no supraventricular ectopics. One patient-triggered event (11-Jul 09:00 — shortness of breath, weakness/fatigue, chest discomfort): rhythm at the time was **normal sinus rhythm**. **Clinical significance**: no arrhythmic correlate for her symptoms over 72 h — a major improvement from the polymorphic PVC/VT episodes of Feb–Mar; symptoms in sinus rhythm point to her pulmonary status (severe PAH, re-accumulating effusions) rather than arrhythmia.
+
+### Wednesday, 8 July 2026 (2026-07-08) — 1 report
+
+- **ECG (Maitreya, Surat)** — _ECG_  [[PDF](./report_pdf/2026-07-08_ECG_ECG-Surat.pdf)] [[MD](./report_md/2026-07-08_ECG_ECG-Surat.md)]
+    Sinus rhythm, HR 94. Incomplete RBBB; abnormal q (V1); **right ventricular hypertrophy**; **prolonged QT (QT/QTcBz 422/529 ms)**; indeterminate axis. Third consecutive daily ECG with the pulmonary-hypertension right-heart pattern; QTc again markedly prolonged — review QT-prolonging drugs (amiodarone) and keep K⁺/Mg²⁺ replete.
+
+### Tuesday, 7 July 2026 (2026-07-07) — 2 reports
+
+- **Creatinine + Electrolytes (Maitreya, Surat)** — _Lab-Surat_  [[PDF](./report_pdf/2026-07-07_Lab-Surat_Creatinine-Electrolytes.pdf)] [[MD](./report_md/2026-07-07_Lab-Surat_Creatinine-Electrolytes.md)]
+    **Creatinine 1.20 mg/dL — HIGH (ref 0.5–1.1)** — first frankly abnormal outpatient value, continuing the climb 0.71 (06-May) → 0.93 (15-Jun) → 1.08 (05-Jul) → 1.20. Sodium 135 (bottom of range), Potassium 3.89, Chloride 98. Watch renal function (carboplatin, diuretics).
+- **ECG (Maitreya, Surat)** — _ECG_  [[PDF](./report_pdf/2026-07-07_ECG_ECG-Surat.pdf)] [[MD](./report_md/2026-07-07_ECG_ECG-Surat.md)]
+    Sinus rhythm, HR 90. Abnormal q (V1); **right ventricular hypertrophy**; **inverted T waves V3–V4**; QT/QTcBz 377/463 ms (improved vs 06-Jul). Persistent right-heart strain pattern of pulmonary hypertension.
+
+### Monday, 6 July 2026 (2026-07-06) — 4 reports
+
+- **2D Echocardiography & Colour Doppler (Maitreya, Surat)** — _ECHO_  [[PDF](./report_pdf/2026-07-06_ECHO_2D-Echo-Colour-Doppler-Surat.pdf)] [[MD](./report_md/2026-07-06_ECHO_2D-Echo-Colour-Doppler-Surat.md)]
+    Dr. Narendra Tanwar (DM Cardiology). C/o endometrial carcinoma on chemo; H/O PE, s/p mechanical thrombectomy (03/2026). Mild concentric LVH; no RWMA; **LVEF ~50 %** (RFH echoes 55–60 %); diastolic dysfunction grade I; mild MR; mild-to-moderate TR; **SEVERE PAH — RVSP/PASP ~70 mmHg**; **mildly dilated RA & RV, normal RV function**; IVC 12 mm with good collapse; no clot/vegetation/pericardial effusion. Severe pulmonary hypertension persists — RVSP 83 (20-Feb) → 72 (26-Feb) → 91 (24-Mar) → ~46 (near discharge) → 70 now; better than the March peak but re-risen vs discharge, tracking the re-accumulating effusions.
+- **Iron Profile + Ferritin (Maitreya, Surat)** — _Lab-Surat_  [[PDF](./report_pdf/2026-07-06_Lab-Surat_Iron-Profile-Ferritin.pdf)] [[MD](./report_md/2026-07-06_Lab-Surat_Iron-Profile-Ferritin.md)]
+    Iron 55.7 µg/dL (normal), TIBC 310 (normal), **transferrin saturation 17.96 % (low-normal)**, ferritin 60.7 µg/L (normal). **No iron deficiency** — pattern fits mild anaemia of chronic disease; her Hb is anyway recovering (11.4 g/dL).
+- **Routine Urine Examination (Maitreya, Surat)** — _Lab-Surat_  [[PDF](./report_pdf/2026-07-06_Lab-Surat_Urine-Routine.pdf)] [[MD](./report_md/2026-07-06_Lab-Surat_Urine-Routine.md)]
+    **Essentially normal.** Protein/glucose/ketones/nitrite absent, blood negative, RBC absent, occasional pus cells, no bacteria/yeast/casts. Marked normalisation vs the 31-Mar in-hospital urine (2+ protein, 3+ blood, budding yeasts).
+- **ECG (Maitreya, Surat)** — _ECG_  [[PDF](./report_pdf/2026-07-06_ECG_ECG-Surat.pdf)] [[MD](./report_md/2026-07-06_ECG_ECG-Surat.md)]
+    Sinus rhythm, HR ~84. Large PtfV1; **incomplete RBBB**; abnormal Q (III); **right ventricular hypertrophy**; T-wave abnormality; **prolonged QT (QT/QTc 440/520 ms — circled by clinician)**; indeterminate axis.
+
+### Sunday, 5 July 2026 (2026-07-05) — 2 reports
+
+- **Multislice HRCT Chest (Plain) (Navkar, Surat)** — _CT_  [[PDF](./report_pdf/2026-07-05_CT_HRCT-Chest-Plain-Surat.pdf)] [[MD](./report_md/2026-07-05_CT_HRCT-Chest-Plain-Surat.md)]
+    Follow-up of CA endometrium; compared with 22-Jun-2026 PET-CT. **Moderate bilateral pleural effusions (left > right; right 150–180 cc, left 180–200 cc) — INCREASED vs the prior PET-CT**, with left fissural effusion. No acute infectious pneumonia; no suspicious lung nodule; chronic subsegmental atelectasis LLL + lingula; mild bilateral pleural thickening (similar); mildly enlarged prevascular/paratracheal nodes (similar); **pulmonary artery mildly prominent at 3.4 cm** (consistent with PAH); no pericardial effusion; no aggressive osseous lesion. **Key point: effusions re-accumulating after the June response.**
+- **Combined Panel — CBC + ESR + LFT + Electrolytes + CRP + NT-proBNP (Maitreya, Surat)** — _Lab-Surat_  [[PDF](./report_pdf/2026-07-05_Lab-Surat_Combined-Panel.pdf)] [[MD](./report_md/2026-07-05_Lab-Surat_Combined-Panel.md)]
+    Admission-night panel (admitted 05-Jul 9:22 pm, Indoor I/0726/907, Dr. Sanjay Agrawal). **Hb 11.4 g/dL — NORMAL, best since February** (RBC 3.57 low, HCT 33.7 low); WBC 7270 normal; platelets 187000 normal; **lymphopenia 16 %, NLR 4.38 high**. **ESR 18 (high)**; **CRP 9.0 mg/L (high; ref 0–6)**. LFT normal; **total protein 5.63 low**, albumin 3.28 low-normal. **Creatinine 1.08 (top of range)**. Na 136, K 3.57, Cl 98. **NT-proBNP 151.4 pg/mL** — mildly above the age cut-off (was 97.2 on 15-Jun; far below Feb–Mar peaks of 1738–4089). Mild inflammation + mild cardiac-strain signal; anaemia essentially resolved.
 
 ### Monday, 22 June 2026 (2026-06-22) — 1 report
 

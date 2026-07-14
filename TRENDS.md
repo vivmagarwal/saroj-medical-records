@@ -47,6 +47,7 @@ Reference ranges: Hb 12–15 g/dL · WBC 4–10 ×10⁹/L · Platelets 150–410
 | 18 May 2026 | 9.7 | 8.2 | 313 |
 | 25 May 2026 | 9.7 | 10.06 | 267 |
 | 15 Jun 2026 | 10.9 | 12.17 | 251 |
+| 05 Jul 2026 | 11.4 | 7.27 | 187 |
 
 ## Renal & Electrolytes
 
@@ -87,6 +88,8 @@ Reference ranges: Hb 12–15 g/dL · WBC 4–10 ×10⁹/L · Platelets 150–410
 | 18 May 2026 | 0.78 | — | — | — |
 | 25 May 2026 | 0.78 | — | — | — |
 | 15 Jun 2026 | 0.93 | — | — | — |
+| 05 Jul 2026 | 1.08 | — | 136 | 3.57 |
+| 07 Jul 2026 | 1.20 | — | 135 | 3.89 |
 
 ## Inflammatory / Cardiac markers & Coagulation
 
@@ -102,4 +105,5 @@ Reference ranges: Hb 12–15 g/dL · WBC 4–10 ×10⁹/L · Platelets 150–410
 | 26 Mar 2026 | 2.04 | — | 13.9 | 1.24 | — |
 | 30 Mar 2026 | 5.34 | — | 12.0 | 1.07 | — |
 | 15 Jun 2026 | — | 97.2 | — | — | — |
+| 05 Jul 2026 | 0.90 | 151.4 | — | — | — |
 

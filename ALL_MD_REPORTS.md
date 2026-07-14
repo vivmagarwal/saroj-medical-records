@@ -2,11 +2,258 @@
 
 **Patient**: Saroj Agarwal · **Patient ID**: 0010663186 · **DOB**: 27 Aug 1962 · **Sex**: Female
 
-This file combines all **194** per-report markdowns, **newest → oldest**. The first **91** are the key reports; an **Archived** appendix at the end holds the **103** routine serial-monitoring reports (their values are tabulated in [TRENDS.md](./TRENDS.md)). Generated 2026-06-24.
+This file combines all **204** per-report markdowns, **newest → oldest**. The first **101** are the key reports; an **Archived** appendix at the end holds the **103** routine serial-monitoring reports (their values are tabulated in [TRENDS.md](./TRENDS.md)). Generated 2026-06-24; updated 2026-07-13 with the 5–13 Jul 2026 Maitreya (Surat) admission reports.
 
 ---
 
-> **Report 1 of 91** · `2026-06-22_CT_WB-FDG-PET-CT-scan.md`
+> **Report 1 of 101** · `2026-07-13_Holter_Holter-ECG-Report-Surat.md`
+
+# Holter ECG Report — 72-hour (10–13 Jul 2026)
+
+- **Monitoring period**: 2026-07-10 09:23 → 2026-07-13 09:23 (71 hrs 59 mins analysed)
+- **Category**: Holter
+- **Device / service**: Predicardio Rhythmsense (GadgEon Medical Systems), Biosensor Id CIWNI
+- **Prescribing physician**: Dr. Talha Meeran (her RFH Mumbai cardiologist)
+- **Indications**: **Syncope, chest pain**
+- **Source PDF**: [`./report_pdf/2026-07-13_Holter_Holter-ECG-Report-Surat.pdf`](./report_pdf/2026-07-13_Holter_Holter-ECG-Report-Surat.pdf)
+- **Original filename**: `HOLTER_Saroj_Agrawal_Report.pdf`
+- **Patient details on report**: Saroj Agrawal, F 63 y, 162 cm, 68 kg
+
+## Summary (extracted)
+
+**Predominant rhythm: SINUS RHYTHM — a reassuring study.** Total beats 382,391.
+
+- **Heart rate**: min **78 bpm** (13-Jul 05:16), max **115 bpm** (10-Jul 22:28), average **88 bpm**. Longest RR 1.07 s. Brady beats 0; tachy beats 13,498 (3.5 %); **no pauses >2.5 s**.
+- **Ventricular ectopics**: 512 total (**0.1 %** burden) — 502 isolated, 5 couplets, also bigeminy forms; **no VT runs** (0 runs).
+- **Supraventricular ectopics: none. Atrial fibrillation: NOT present. AV block (2nd degree or higher): not present. SVT: not present. VTAC (≥3 beats): not present.**
+- **Patient-triggered event**: 1 — on **11-Jul (Sat) 09:00**, symptoms "shortness of breath, weakness/fatigue, chest discomfort/pain" — rhythm within ±5 min: **normal sinus rhythm (NSR)**.
+
+**Clinical significance**: Over 72 hours covering her symptomatic episode, there is **no arrhythmic correlate** — no AF, no VT, no pauses, no high-grade block, and trivial ectopic burden (a big improvement on the in-hospital polymorphic PVC/VT episodes of Feb–Mar 2026 managed with Xylocard/Cordarone/Mexiletine). The reported chest discomfort/breathlessness occurred **in sinus rhythm**, pointing away from arrhythmia and toward her pulmonary/effusion status (severe PAH, re-accumulating pleural effusions) as the driver of symptoms. Resting rate runs high-normal (avg 88, min only 78 — blunted nocturnal dip).
+
+---
+
+> **Report 2 of 101** · `2026-07-08_ECG_ECG-Surat.md`
+
+# ECG (Surat, Maitreya) — 08 Jul 2026
+
+- **Date performed**: 2026-07-08 (08:33 am)
+- **Category**: ECG
+- **Facility**: Maitreya Multi Superspeciality Hospital & Research Centre, Surat (inpatient)
+- **Referring doctor**: Dr. Sanjay Agrawal
+- **Source PDF**: [`./report_pdf/2026-07-08_ECG_ECG-Surat.pdf`](./report_pdf/2026-07-08_ECG_ECG-Surat.pdf)
+- **Original filename**: page 14 of `Saroj July 2026 Reports_compressed.pdf`
+
+## Summary (extracted)
+
+Machine-read diagnosis (12-lead): **Sinus rhythm**, HR 94 bpm. **Incomplete right bundle branch block**; abnormal q wave (V1); **right ventricular hypertrophy**; **prolonged QT interval (QT/QTcBz 422/529 ms)**; indeterminate axis.
+
+**Clinical significance**: Third consecutive daily ECG with the pulmonary-hypertension right-heart pattern. **QTc again markedly prolonged (~529 ms)** — reinforces the need to review QT-prolonging medication (amiodarone) and electrolytes; keep K⁺/Mg²⁺ replete.
+
+---
+
+> **Report 3 of 101** · `2026-07-07_Lab-Surat_Creatinine-Electrolytes.md`
+
+# Creatinine + Electrolytes (Surat, Maitreya)
+
+- **Date performed**: 2026-07-07 (6:25 am)
+- **Category**: Lab-Surat
+- **Facility**: Maitreya Multi Superspeciality Hospital & Research Centre, Surat (inpatient; Indoor No. I/0726/907)
+- **Treating doctor**: Dr. Sanjay Agrawal · **Pathologist**: Dr. Jitendrakumar V. Dubey (MD)
+- **Source PDF**: [`./report_pdf/2026-07-07_Lab-Surat_Creatinine-Electrolytes.pdf`](./report_pdf/2026-07-07_Lab-Surat_Creatinine-Electrolytes.pdf)
+- **Original filename**: page 2 of `Saroj July 2026 Reports_compressed.pdf`
+
+## Summary (extracted)
+
+- **Creatinine**: **1.20 mg/dL — HIGH (ref 0.5–1.1)**
+- **Sodium**: 135 mEq/L — at the bottom of range (ref 135–155)
+- **Potassium**: 3.89 mEq/L — normal
+- **Chloride**: 98 mEq/L — at the bottom of range (ref 98–107)
+
+**Clinical significance**: First frankly **abnormal creatinine** of the outpatient period, continuing a steady upward trend: 0.71 (06-May) → 0.78 → 0.78 → 0.93 (15-Jun) → 1.08 (05-Jul) → **1.20 (07-Jul)**. Could reflect early renal strain (carboplatin exposure, diuretics, reduced intake); serial monitoring warranted. Sodium drifting to low-normal — relevant if on diuretics/aldactone.
+
+---
+
+> **Report 4 of 101** · `2026-07-07_ECG_ECG-Surat.md`
+
+# ECG (Surat, Maitreya) — 07 Jul 2026
+
+- **Date performed**: 2026-07-07 (07:42 am)
+- **Category**: ECG
+- **Facility**: Maitreya Multi Superspeciality Hospital & Research Centre, Surat (inpatient)
+- **Referring doctor**: Dr. Sanjay Agrawal
+- **Source PDF**: [`./report_pdf/2026-07-07_ECG_ECG-Surat.pdf`](./report_pdf/2026-07-07_ECG_ECG-Surat.pdf)
+- **Original filename**: page 13 of `Saroj July 2026 Reports_compressed.pdf`
+
+## Summary (extracted)
+
+Machine-read diagnosis (12-lead): **Sinus rhythm**, HR 90 bpm. Abnormal q wave (V1); **right ventricular hypertrophy**; **inverted T waves (V3, V4)**; indeterminate axis. QT/QTcBz 377/463 ms (better than the 520 ms of the previous day). Signed by reviewing physician.
+
+**Clinical significance**: Persistent right-heart strain pattern (RVH, anterior T-inversions — classic for pulmonary hypertension / RV overload). QTc improved to ~463 ms on this trace.
+
+---
+
+> **Report 5 of 101** · `2026-07-06_ECHO_2D-Echo-Colour-Doppler-Surat.md`
+
+# 2D Echocardiography & Colour Doppler Study — Surat, Maitreya
+
+- **Date performed**: 2026-07-06
+- **Category**: ECHO
+- **Facility**: Maitreya Multi Superspeciality Hospital & Research Centre, Surat (inpatient, admitted 05-Jul-2026)
+- **Referring doctor**: Dr. Sanjay Agrawal · **Cardiologist**: Dr. Narendra Tanwar (DM)
+- **Source PDF**: [`./report_pdf/2026-07-06_ECHO_2D-Echo-Colour-Doppler-Surat.pdf`](./report_pdf/2026-07-06_ECHO_2D-Echo-Colour-Doppler-Surat.pdf)
+- **Original filename**: page 1 of `Saroj July 2026 Reports_compressed.pdf`
+
+## Summary (extracted)
+
+Context per report: C/o endometrial carcinoma on chemotherapy; H/O pulmonary embolism, S/P mechanical thrombectomy (03/2026).
+
+- **LV**: Mild concentric LVH; no significant RWMA at rest; jerky IVS; **fair LV systolic function, LVEF ~50 %** (was 60 % in Feb 2026 at RFH); **diastolic dysfunction grade I**.
+- **Valves**: No MS, mild MR; no AS, trivial AR; tricuspid & pulmonary valves normal; **mild-to-moderate TR**.
+- **Right heart / pulmonary pressures**: **SEVERE PAH — RVSP/PASP ~70 mmHg**; **mildly dilated RA & RV, normal RV function**; IVC normal (12 mm), good collapse.
+- No intracardiac clot / vegetation; no pericardial effusion; intact IAS/IVS; normal aortic root & arch.
+
+**Clinical significance**: Severe pulmonary arterial hypertension **persists** (PASP ~78 mmHg Feb 2026 → ~70 mmHg now) despite resolution of the pulmonary embolism on the June PET-CT — with mildly dilated right heart but preserved RV function and a normal IVC (no systemic congestion). LVEF has drifted from 60 % to ~50 % (fair function; possible chemo effect — worth cardiology follow-up). Note: normal echo does not rule out coronary artery disease (report note).
+
+---
+
+> **Report 6 of 101** · `2026-07-06_Lab-Surat_Iron-Profile-Ferritin.md`
+
+# Iron Profile + Ferritin (Surat, Maitreya)
+
+- **Date performed**: 2026-07-06 (1:31 pm)
+- **Category**: Lab-Surat
+- **Facility**: Maitreya Multi Superspeciality Hospital & Research Centre, Surat (inpatient; Indoor No. I/0726/907)
+- **Treating doctor**: Dr. Sanjay Agrawal · **Pathologist**: Dr. Jitendrakumar V. Dubey (MD)
+- **Source PDF**: [`./report_pdf/2026-07-06_Lab-Surat_Iron-Profile-Ferritin.pdf`](./report_pdf/2026-07-06_Lab-Surat_Iron-Profile-Ferritin.pdf)
+- **Original filename**: pages 10–11 of `Saroj July 2026 Reports_compressed.pdf`
+
+## Summary (extracted)
+
+- **Serum Iron**: 55.7 µg/dL — normal for female (ref 37–145)
+- **TIBC**: 310 µg/dL — normal (ref 250–450)
+- **% Transferrin Saturation**: **17.96 %** — low-normal (ref 13–45) — circled on the report
+- **Ferritin**: 60.7 µg/L — normal (ref 15–150)
+
+**Clinical significance**: **No iron deficiency** — iron stores (ferritin) normal, TIBC not raised. The borderline-low transferrin saturation with normal/adequate ferritin fits a mild **anaemia-of-chronic-disease pattern** rather than iron-deficiency anaemia, consistent with her recovering Hb (11.4 g/dL on 05-Jul). No iron supplementation signal from this panel.
+
+---
+
+> **Report 7 of 101** · `2026-07-06_Lab-Surat_Urine-Routine.md`
+
+# Routine Urine Examination (Surat, Maitreya)
+
+- **Date performed**: 2026-07-06 (6:10 am)
+- **Category**: Lab-Surat
+- **Facility**: Maitreya Multi Superspeciality Hospital & Research Centre, Surat (inpatient; Indoor No. I/0726/907)
+- **Treating doctor**: Dr. Sanjay Agrawal · **Pathologist**: Dr. Jitendrakumar V. Dubey (MD)
+- **Source PDF**: [`./report_pdf/2026-07-06_Lab-Surat_Urine-Routine.pdf`](./report_pdf/2026-07-06_Lab-Surat_Urine-Routine.pdf)
+- **Original filename**: page 3 of `Saroj July 2026 Reports_compressed.pdf`
+
+## Summary (extracted)
+
+**Essentially normal urine.** Pale yellow, clear; pH 6.0; SG 1.010. Chemical: protein, glucose, ketones, bilirubin, nitrite **all absent**; leucocytes normal; **blood negative**. Microscopy: pus cells occasional/hpf, **RBC absent**, epithelial cells 2–3/hpf, bacteria/casts/crystals/yeast/mucus all absent.
+
+**Clinical significance**: A marked normalisation compared with the 31-Mar-2026 in-hospital urine (which had 2+ protein, 3+ blood, 60–65 RBC/hpf and budding yeasts). No urinary infection or bleeding now.
+
+---
+
+> **Report 8 of 101** · `2026-07-06_ECG_ECG-Surat.md`
+
+# ECG (Surat, Maitreya) — 06 Jul 2026
+
+- **Date performed**: 2026-07-06 (08:59 am)
+- **Category**: ECG
+- **Facility**: Maitreya Multi Superspeciality Hospital & Research Centre, Surat (inpatient; admitted 05-Jul-2026 9:22 pm)
+- **Referring doctor**: Dr. Sanjay Agrawal
+- **Source PDF**: [`./report_pdf/2026-07-06_ECG_ECG-Surat.pdf`](./report_pdf/2026-07-06_ECG_ECG-Surat.pdf)
+- **Original filename**: page 12 of `Saroj July 2026 Reports_compressed.pdf`
+
+## Summary (extracted)
+
+Machine-read diagnosis (12-lead): **Sinus rhythm**, HR ~84 bpm. Large PtfV1; **incomplete right bundle branch block**; abnormal Q wave (III); **right ventricular hypertrophy**; subsequent T-wave abnormality; **prolonged QT interval (QT/QTc 440/520 ms)** — circled by the reviewing clinician; indeterminate axis.
+
+**Clinical significance**: The right-heart strain pattern (RVH, incomplete RBBB) matches her severe pulmonary hypertension. The **QTc ~520 ms is markedly prolonged** — clinically important given she is prescribed amiodarone (Cordarone), a QT-prolonging drug, and had polymorphic PVC/VT episodes in hospital in March.
+
+---
+
+> **Report 9 of 101** · `2026-07-05_CT_HRCT-Chest-Plain-Surat.md`
+
+# Multislice HRCT Scan of Chest (Plain) — Surat, Navkar
+
+- **Date performed**: 2026-07-05
+- **Category**: CT
+- **Facility**: Navkar Radio Diagnostic & Imaging Center, Surat
+- **Referring doctor**: Dr. Sanjay Agrawal
+- **Source PDF**: [`./report_pdf/2026-07-05_CT_HRCT-Chest-Plain-Surat.pdf`](./report_pdf/2026-07-05_CT_HRCT-Chest-Plain-Surat.pdf)
+- **Original filename**: `HRCT_SAROJ AGARWAL .pdf`
+- **Compared with**: WB FDG PET-CT dated 2026-06-22 (Prismaa Oncoimaging)
+
+## Summary (extracted)
+
+Multislice axial CT sections of chest at 1 mm interval, high spatial frequency algorithm. Clinical info: follow-up case of CA endometrium; prior PET-CT 22 June 2026 available for comparison.
+
+**Key finding — pleural effusions have INCREASED.** Moderate bilateral pleural effusions (left > right) with left-sided fissural effusion; **increase in volume compared to the 22-Jun PET-CT** (which had shown only mild residual effusions). Estimated volumes: **right 150–180 cc, left 180–200 cc**.
+
+Other findings:
+- Chronic subsegmental atelectasis — left lower lobe and lingular segment of left upper lobe.
+- Mild bilateral pleural thickening — **similar** to prior PET-CT.
+- **No suspicious lung nodule.** No consolidation (no acute infectious pneumonia), no cavitation, no bronchiectasis/honeycombing.
+- Mildly enlarged prevascular (8 × 7 mm), right upper paratracheal and pretracheal (7 × 6 mm) nodes — **similar** to prior PET-CT. Bilateral axillary nodes with fatty hila.
+- No pericardial effusion. Cardiac size normal.
+- **Pulmonary artery mildly prominent at ~3.4 cm** (suggests pulmonary hypertension); ascending aorta 3.2 cm.
+- No aggressive osteolytic lesion in visualized dorsal spine.
+
+**Clinical significance**: The malignant pleural disease direction has reversed since the excellent 22-Jun PET-CT response — effusions are re-accumulating (left > right), while nodes/pleural thickening remain stable and no new parenchymal disease is seen. The prominent pulmonary artery is consistent with her known severe pulmonary arterial hypertension (echo 06-Jul: RVSP ~70 mmHg).
+
+## Impression (verbatim)
+
+```
+- Moderate bilateral pleural effusions (left > right), with left sided fissural effusion -
+  As compared to the prior PET/CT, there is increase in the volume of the pleural effusions.
+- No evidence of any acute infectious pneumonia.
+- Chronic subsegmental [atelectasis] involving the left lower lobe and lingular segment of the left upper lobe.
+- Mild bilateral pleural thickening - similar as compared to the prior PET/CT.
+- Mildly enlarged prevascular, right upper paratracheal and pretracheal lymph nodes - similar as
+  compared to the prior PET/CT.
+- The pulmonary artery is mildly prominent - measures approximately 3.4 cm in diameter.
+  No significant cardiomegaly.
+Reporting doctors: Dr. Jenish Shah (MD Radiodiagnosis), Dr. Parth Bhut (DNB), Dr. Deepa Lalwala Gandhi (DMRD, DNB), Dr. Ankit Chauhan (DNB)
+```
+
+---
+
+> **Report 10 of 101** · `2026-07-05_Lab-Surat_Combined-Panel.md`
+
+# Combined Panel — CBC + ESR + LFT + Electrolytes + CRP + NT-proBNP (Surat, Maitreya)
+
+- **Date performed**: 2026-07-05 (collected 9:48 pm, on admission)
+- **Category**: Lab-Surat
+- **Facility**: Maitreya Multi Superspeciality Hospital & Research Centre, Surat (inpatient; Indoor No. I/0726/907, Patient ID 59568/IC)
+- **Treating doctor**: Dr. Sanjay Agrawal · **Pathologist**: Dr. Jitendrakumar V. Dubey (MD)
+- **Source PDF**: [`./report_pdf/2026-07-05_Lab-Surat_Combined-Panel.pdf`](./report_pdf/2026-07-05_Lab-Surat_Combined-Panel.pdf)
+- **Original filename**: pages 4–9 of `Saroj July 2026 Reports_compressed.pdf`
+
+## Summary (extracted)
+
+Admission-night panel at Maitreya Hospital, Surat (admitted 05-Jul-2026 9:22 pm with chest pain / syncope-type complaints).
+
+**CBC (EDTA Whole Blood):** **Hb 11.4 g/dL — NORMAL (ref 11–15)**, best value since February. RBC **3.57 m/cmm (LOW; ref 3.9–5.6)**, HCT **33.7 % (LOW; ref 36–47)**, MCV 94.4 fL, MCH 31.9 pg, MCHC 33.8, RDW 15.6 % (normal). **WBC 7270/cmm (normal)**. Differential: Neut 70 %, **Lymph 16 % (LOW; ref 20–50)**, Eos 5 %, Mono 9 %; ANC 5089, ALC 1163. **Neutrophil/Lymphocyte ratio 4.38 (HIGH; ref 1.1–3.5)**. Platelets 187000/cmm (normal). Smear: platelets adequate, no malarial parasites.
+
+**ESR:** **18 mm/hr (HIGH; ref <14 for 61–70 y)**.
+
+**LFT / Biochemistry (Serum):** GGT 32.9, SGOT 16, SGPT 14, ALP 69, bilirubin (total 0.22 / direct 0.10 / indirect 0.12) — all **normal**. **Creatinine 1.08 mg/dL — top of range (ref 0.5–1.1)**, up from 0.93 on 15-Jun. **Total protein 5.63 g/dL (LOW; ref 6–8)**; Albumin 3.28 g/dL (low-normal), Globulin 2.35, A/G 1.4.
+
+**Electrolytes (Serum, ISE):** Sodium 136 (low-normal), Potassium 3.57, Chloride 98 — normal.
+
+**CRP:** **9.0 mg/L (HIGH; ref 0–6)** — mild inflammation.
+
+**NT-proBNP:** **151.40 pg/mL** — mildly above the <125 pg/mL cut-off for her age band (was 97.2 on 15-Jun; still far below the 1738–4089 peaks of Feb/Mar). Mild cardiac strain signal, consistent with the re-accumulating pleural effusions and severe PAH, not overt heart failure.
+
+**Findings**: Anaemia has essentially **resolved** (Hb 8.4 in May → 11.4 now). Attention points: **creatinine creeping up** (0.71 May → 0.93 Jun → 1.08 now), **mildly raised CRP/ESR/NLR** (low-grade inflammation), lymphopenia, low total protein, and a **mild NT-proBNP rise**.
+
+---
+
+> **Report 11 of 101** · `2026-06-22_CT_WB-FDG-PET-CT-scan.md`
 
 # WB FDG PET - CT scan (follow-up)
 
@@ -87,7 +334,7 @@ Medicine); Dr. Keyur Mandaliya (MBBS, DNB — Consultant Onco-Radiologist).
 
 ---
 
-> **Report 2 of 91** · `2026-06-15_Lab-Surat_Combined-Panel.md`
+> **Report 12 of 101** · `2026-06-15_Lab-Surat_Combined-Panel.md`
 
 # Combined Panel — CBC + Electrolytes + Creatinine + NT-proBNP + LFT (Surat, Nobel Micropath)
 
@@ -174,7 +421,7 @@ Lab: 6th Floor, Rhythm House, Besides Venus Hospital, Lal Darwaja, Surat
 
 ---
 
-> **Report 3 of 91** · `2026-05-25_Lab-Surat_CBC-Creatinine.md`
+> **Report 13 of 101** · `2026-05-25_Lab-Surat_CBC-Creatinine.md`
 
 # CBC + Creatinine (Surat, Nobel Micropath)
 
@@ -230,7 +477,7 @@ Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology
 
 ---
 
-> **Report 4 of 91** · `2026-05-18_Lab-Surat_CBC-Creatinine.md`
+> **Report 14 of 101** · `2026-05-18_Lab-Surat_CBC-Creatinine.md`
 
 # CBC + Creatinine (Surat, Nobel Micropath)
 
@@ -285,7 +532,7 @@ Reported by: Dr. Krishna Savaj (DCP Pathology) and Dr. Reena Savaj (MD Pathology
 
 ---
 
-> **Report 5 of 91** · `2026-05-06_Lab-Surat_Combined-Panel.md`
+> **Report 15 of 101** · `2026-05-06_Lab-Surat_Combined-Panel.md`
 
 # Combined Panel — CBC + Electrolytes + Creatinine + LFT (Surat, Nobel Micropath)
 
@@ -362,7 +609,7 @@ Lab: 6th Floor, Rhythm House, Besides Venus Hospital, Lal Darwaja, Surat
 
 ---
 
-> **Report 6 of 91** · `2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler.md`
+> **Report 16 of 101** · `2026-05-01_USG_Right-Lower-Limb-Arterial-Venous-Doppler.md`
 
 # Right Lower Extremity Arterial & Venous Doppler Study (Surat, Navkar)
 
@@ -450,7 +697,7 @@ Reported by: Dr. Shah Jenish (MBBS, MD Radiologist)
 
 ---
 
-> **Report 7 of 91** · `2026-04-13_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 17 of 101** · `2026-04-13_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -495,7 +742,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 8 of 91** · `2026-04-13_Summary-Daycare_Daycare-Discharge-Summary-Chemotherapy.md`
+> **Report 18 of 101** · `2026-04-13_Summary-Daycare_Daycare-Discharge-Summary-Chemotherapy.md`
 
 # Daycare Discharge Summary (Chemotherapy)
 
@@ -597,7 +844,7 @@ Print Date/Time : 28/04/2026 / 10:54 PM Page 3 of 3
 
 ---
 
-> **Report 9 of 91** · `2026-04-13_Lab-Haem_Complete-Blood-Count.md`
+> **Report 19 of 101** · `2026-04-13_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -761,7 +1008,7 @@ MC-7539
 
 ---
 
-> **Report 10 of 91** · `2026-04-13_Lab-Biochem_Renal-Profile.md`
+> **Report 20 of 101** · `2026-04-13_Lab-Biochem_Renal-Profile.md`
 
 # Renal Profile
 
@@ -955,7 +1202,7 @@ MC-7539
 
 ---
 
-> **Report 11 of 91** · `2026-04-13_Lab-Biochem_Liver-Profile.md`
+> **Report 21 of 101** · `2026-04-13_Lab-Biochem_Liver-Profile.md`
 
 # Liver Profile
 
@@ -1110,7 +1357,7 @@ MC-7539
 
 ---
 
-> **Report 12 of 91** · `2026-04-08_Summary-Discharge_Discharge-Summary.md`
+> **Report 22 of 101** · `2026-04-08_Summary-Discharge_Discharge-Summary.md`
 
 # Discharge Summary
 
@@ -1608,7 +1855,7 @@ Print Date/Time : 28/04/2026 / 11:07 PM Page 13 of
 
 ---
 
-> **Report 13 of 91** · `2026-04-07_XRay_X-RAY-Barium-Swallow.md`
+> **Report 23 of 101** · `2026-04-07_XRay_X-RAY-Barium-Swallow.md`
 
 # X-RAY Barium Swallow
 
@@ -1674,7 +1921,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 14 of 91** · `2026-04-07_Lab-Biochem_S-Electrolytes.md`
+> **Report 24 of 101** · `2026-04-07_Lab-Biochem_S-Electrolytes.md`
 
 # S. Electrolytes
 
@@ -1744,7 +1991,7 @@ MC-7539
 
 ---
 
-> **Report 15 of 91** · `2026-04-07_Consent_X-Ray-Barium-Swallow-Consent-Form.md`
+> **Report 25 of 101** · `2026-04-07_Consent_X-Ray-Barium-Swallow-Consent-Form.md`
 
 # X-Ray Barium Swallow (Consent Form)
 
@@ -1810,7 +2057,7 @@ FORM/CONSENT/123/MAY-19 Page 1 of 1
 
 ---
 
-> **Report 16 of 91** · `2026-04-06_XRay_X-RAY-Chest-AP.md`
+> **Report 26 of 101** · `2026-04-06_XRay_X-RAY-Chest-AP.md`
 
 # X-RAY Chest AP
 
@@ -1853,7 +2100,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 17 of 91** · `2026-04-06_Lab-Haem_Complete-Blood-Count.md`
+> **Report 27 of 101** · `2026-04-06_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -2034,7 +2281,7 @@ MC-7539
 
 ---
 
-> **Report 18 of 91** · `2026-04-04_Lab-Biochem_S-Electrolytes.md`
+> **Report 28 of 101** · `2026-04-04_Lab-Biochem_S-Electrolytes.md`
 
 # S. Electrolytes
 
@@ -2104,7 +2351,7 @@ MC-7539
 
 ---
 
-> **Report 19 of 91** · `2026-04-04_Lab-Biochem_Creatinine.md`
+> **Report 29 of 101** · `2026-04-04_Lab-Biochem_Creatinine.md`
 
 # Creatinine
 
@@ -2175,7 +2422,7 @@ MC-7539
 
 ---
 
-> **Report 20 of 91** · `2026-04-03_Lab-Biochem_S-Electrolytes.md`
+> **Report 30 of 101** · `2026-04-03_Lab-Biochem_S-Electrolytes.md`
 
 # S. Electrolytes
 
@@ -2248,7 +2495,7 @@ MC-7539
 
 ---
 
-> **Report 21 of 91** · `2026-03-31_Lab-Micro_Sputum-Culture.md`
+> **Report 31 of 101** · `2026-03-31_Lab-Micro_Sputum-Culture.md`
 
 # Sputum Culture
 
@@ -2350,7 +2597,7 @@ MC-7539
 
 ---
 
-> **Report 22 of 91** · `2026-03-31_Lab-Micro_Blood-Culture-Set.md`
+> **Report 32 of 101** · `2026-03-31_Lab-Micro_Blood-Culture-Set.md`
 
 # Blood Culture Set
 
@@ -2458,7 +2705,7 @@ MC-7539
 
 ---
 
-> **Report 23 of 91** · `2026-03-31_Lab-Haem_Complete-Blood-Count.md`
+> **Report 33 of 101** · `2026-03-31_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -2636,7 +2883,7 @@ MC-7539
 
 ---
 
-> **Report 24 of 91** · `2026-03-31_Lab-ClinPath_Urine-Routine.md`
+> **Report 34 of 101** · `2026-03-31_Lab-ClinPath_Urine-Routine.md`
 
 # Urine Routine
 
@@ -2779,7 +3026,7 @@ MC-7539
 
 ---
 
-> **Report 25 of 91** · `2026-03-31_Lab-Biochem_Venous-Blood-Gas-Analysis-Electrolyte-Lactate-Glucose.md`
+> **Report 35 of 101** · `2026-03-31_Lab-Biochem_Venous-Blood-Gas-Analysis-Electrolyte-Lactate-Glucose.md`
 
 # Venous Blood Gas Analysis Electrolyte, Lactate & Glucose
 
@@ -2870,7 +3117,7 @@ MC-7539
 
 ---
 
-> **Report 26 of 91** · `2026-03-30_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 36 of 101** · `2026-03-30_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -2915,7 +3162,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 27 of 91** · `2026-03-30_Lab-Serol_Procalcitonin-Quantitative.md`
+> **Report 37 of 101** · `2026-03-30_Lab-Serol_Procalcitonin-Quantitative.md`
 
 # Procalcitonin Quantitative
 
@@ -2963,7 +3210,7 @@ MC-7539
 
 ---
 
-> **Report 28 of 91** · `2026-03-30_Lab-Haem_Prothrombin-Time-PT.md`
+> **Report 38 of 101** · `2026-03-30_Lab-Haem_Prothrombin-Time-PT.md`
 
 # Prothrombin Time (PT)
 
@@ -3049,7 +3296,7 @@ MC-7539
 
 ---
 
-> **Report 29 of 91** · `2026-03-30_Lab-Biochem_Blood-Urea-Nitrogen.md`
+> **Report 39 of 101** · `2026-03-30_Lab-Biochem_Blood-Urea-Nitrogen.md`
 
 # Blood Urea Nitrogen
 
@@ -3108,7 +3355,7 @@ MC-7539
 
 ---
 
-> **Report 30 of 91** · `2026-03-30_Lab-Biochem_C-Reactive-Protein-CRP.md`
+> **Report 40 of 101** · `2026-03-30_Lab-Biochem_C-Reactive-Protein-CRP.md`
 
 # C-Reactive Protein [CRP]
 
@@ -3168,7 +3415,7 @@ MC-7539
 
 ---
 
-> **Report 31 of 91** · `2026-03-30_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.md`
+> **Report 41 of 101** · `2026-03-30_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.md`
 
 # Blood Gas Analysis-Electrolyt.,Lactate & Glucose
 
@@ -3273,7 +3520,7 @@ MC-7539
 
 ---
 
-> **Report 32 of 91** · `2026-03-29_Lab-Haem_Complete-Blood-Count.md`
+> **Report 42 of 101** · `2026-03-29_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -3451,7 +3698,7 @@ MC-7539
 
 ---
 
-> **Report 33 of 91** · `2026-03-28_Lab-Haem_Coagulation-Profile.md`
+> **Report 43 of 101** · `2026-03-28_Lab-Haem_Coagulation-Profile.md`
 
 # Coagulation Profile
 
@@ -3504,7 +3751,7 @@ MC-7539
 
 ---
 
-> **Report 34 of 91** · `2026-03-28_Lab-Biochem_Blood-Urea-Nitrogen.md`
+> **Report 44 of 101** · `2026-03-28_Lab-Biochem_Blood-Urea-Nitrogen.md`
 
 # Blood Urea Nitrogen
 
@@ -3563,7 +3810,7 @@ MC-7539
 
 ---
 
-> **Report 35 of 91** · `2026-03-26_Lab-Micro_Blood-Culture-Set.md`
+> **Report 45 of 101** · `2026-03-26_Lab-Micro_Blood-Culture-Set.md`
 
 # Blood Culture Set
 
@@ -3646,7 +3893,7 @@ MC-7539
 
 ---
 
-> **Report 36 of 91** · `2026-03-26_Lab-Haem_Activated-Partial-Thromboplastin-Time-APTT.md`
+> **Report 46 of 101** · `2026-03-26_Lab-Haem_Activated-Partial-Thromboplastin-Time-APTT.md`
 
 # Activated Partial Thromboplastin Time (APTT)
 
@@ -3705,7 +3952,7 @@ MC-7539
 
 ---
 
-> **Report 37 of 91** · `2026-03-25_Lab-Micro_Hepatitis-B-Virus-Surface-Antigen-HBsAg.md`
+> **Report 47 of 101** · `2026-03-25_Lab-Micro_Hepatitis-B-Virus-Surface-Antigen-HBsAg.md`
 
 # Hepatitis B Virus Surface Antigen [HBsAg]
 
@@ -3755,7 +4002,7 @@ MC-7539
 
 ---
 
-> **Report 38 of 91** · `2026-03-25_Lab-Micro_Human-Immunodeficiency-Virus-Ag-Ab.md`
+> **Report 48 of 101** · `2026-03-25_Lab-Micro_Human-Immunodeficiency-Virus-Ag-Ab.md`
 
 # Human Immunodeficiency Virus Ag/Ab
 
@@ -3806,7 +4053,7 @@ MC-7539
 
 ---
 
-> **Report 39 of 91** · `2026-03-25_Lab-Micro_Hepatitis-C-Antibodies-HCV-Ab.md`
+> **Report 49 of 101** · `2026-03-25_Lab-Micro_Hepatitis-C-Antibodies-HCV-Ab.md`
 
 # Hepatitis C Antibodies [HCV Ab]
 
@@ -3855,7 +4102,7 @@ MC-7539
 
 ---
 
-> **Report 40 of 91** · `2026-03-25_Lab-Biochem_Troponin-I-hs.md`
+> **Report 50 of 101** · `2026-03-25_Lab-Biochem_Troponin-I-hs.md`
 
 # Troponin I hs
 
@@ -3918,7 +4165,7 @@ MC-7539
 
 ---
 
-> **Report 41 of 91** · `2026-03-24_Lab-Serol_NT-pro-B-type-Natriuretic-Peptide-NT-pro-BNP.md`
+> **Report 51 of 101** · `2026-03-24_Lab-Serol_NT-pro-B-type-Natriuretic-Peptide-NT-pro-BNP.md`
 
 # NT pro B-type Natriuretic Peptide [NT pro BNP]
 
@@ -3979,7 +4226,7 @@ MC-7539
 
 ---
 
-> **Report 42 of 91** · `2026-03-24_ECHO_Echocardiography.md`
+> **Report 52 of 101** · `2026-03-24_ECHO_Echocardiography.md`
 
 # Echocardiography
 
@@ -4062,7 +4309,7 @@ PULMONARY 0.8 Nil
 
 ---
 
-> **Report 43 of 91** · `2026-03-24_CT_CT-Angiography-Pulmonary.md`
+> **Report 53 of 101** · `2026-03-24_CT_CT-Angiography-Pulmonary.md`
 
 # CT Angiography - Pulmonary
 
@@ -4169,7 +4416,7 @@ Med. Council No. 2016114714
 
 ---
 
-> **Report 44 of 91** · `2026-03-23_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 54 of 101** · `2026-03-23_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -4212,7 +4459,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 45 of 91** · `2026-03-19_Lab-Biochem_Potassium.md`
+> **Report 55 of 101** · `2026-03-19_Lab-Biochem_Potassium.md`
 
 # Potassium
 
@@ -4270,7 +4517,7 @@ MC-7539
 
 ---
 
-> **Report 46 of 91** · `2026-03-19_Lab-Biochem_Sodium.md`
+> **Report 56 of 101** · `2026-03-19_Lab-Biochem_Sodium.md`
 
 # Sodium
 
@@ -4328,7 +4575,7 @@ MC-7539
 
 ---
 
-> **Report 47 of 91** · `2026-03-14_Holter_Holter-ECG-Report.md`
+> **Report 57 of 101** · `2026-03-14_Holter_Holter-ECG-Report.md`
 
 # Holter ECG Report
 
@@ -4956,7 +5203,7 @@ Report ID 000457-001 © SmartCardia SA | All rights reserved | Page 14
 
 ---
 
-> **Report 48 of 91** · `2026-03-14_ECG_ECG-Report.md`
+> **Report 58 of 101** · `2026-03-14_ECG_ECG-Report.md`
 
 # ECG Report
 
@@ -4987,7 +5234,7 @@ Page 1 of 1
 
 ---
 
-> **Report 49 of 91** · `2026-03-09_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 59 of 101** · `2026-03-09_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -5030,7 +5277,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 50 of 91** · `2026-03-09_Lab-Micro_MRSA-Screening.md`
+> **Report 60 of 101** · `2026-03-09_Lab-Micro_MRSA-Screening.md`
 
 # MRSA Screening
 
@@ -5065,7 +5312,7 @@ Page 1 of 1
 
 ---
 
-> **Report 51 of 91** · `2026-03-09_Lab-Biochem_Phosphorus.md`
+> **Report 61 of 101** · `2026-03-09_Lab-Biochem_Phosphorus.md`
 
 # Phosphorus
 
@@ -5122,7 +5369,7 @@ MC-7539
 
 ---
 
-> **Report 52 of 91** · `2026-03-08_Lab-Serol_Anti-Nuclear-Antibody-ANA.md`
+> **Report 62 of 101** · `2026-03-08_Lab-Serol_Anti-Nuclear-Antibody-ANA.md`
 
 # Anti Nuclear Antibody (ANA)
 
@@ -5224,7 +5471,7 @@ MC-7539
 
 ---
 
-> **Report 53 of 91** · `2026-03-08_Lab-Serol_Magnesium.md`
+> **Report 63 of 101** · `2026-03-08_Lab-Serol_Magnesium.md`
 
 # Magnesium
 
@@ -5285,7 +5532,7 @@ MC-7539
 
 ---
 
-> **Report 54 of 91** · `2026-03-08_Lab-Serol_pANCA-MPO-ELISA-Less-than-2-0-RU-ml-Negative-20.md`
+> **Report 64 of 101** · `2026-03-08_Lab-Serol_pANCA-MPO-ELISA-Less-than-2-0-RU-ml-Negative-20.md`
 
 # pANCA/MPO ELISA Less than 2.0 RU/ml Negative: < 20
 
@@ -5339,7 +5586,7 @@ MC-7539
 
 ---
 
-> **Report 55 of 91** · `2026-03-08_Lab-Serol_ENA-Profile.md`
+> **Report 65 of 101** · `2026-03-08_Lab-Serol_ENA-Profile.md`
 
 # ENA Profile
 
@@ -5468,7 +5715,7 @@ MC-7539
 
 ---
 
-> **Report 56 of 91** · `2026-03-08_Lab-Serol_Anti-cyclic-citrullinated-peptide-Anti.md`
+> **Report 66 of 101** · `2026-03-08_Lab-Serol_Anti-cyclic-citrullinated-peptide-Anti.md`
 
 # Anti-cyclic citrullinated peptide [Anti-
 
@@ -5515,7 +5762,7 @@ MC-7539
 
 ---
 
-> **Report 57 of 91** · `2026-03-08_Lab-Serol_Anti-dsDNA-ELISA-IgG-Less-than-10-0-IU-ml-Negative-100.md`
+> **Report 67 of 101** · `2026-03-08_Lab-Serol_Anti-dsDNA-ELISA-IgG-Less-than-10-0-IU-ml-Negative-100.md`
 
 # Anti dsDNA ELISA IgG Less than 10.0 IU/ml Negative: < 100
 
@@ -5563,7 +5810,7 @@ MC-7539
 
 ---
 
-> **Report 58 of 91** · `2026-03-08_Lab-Serol_cANCA-PR3-ELISA.md`
+> **Report 68 of 101** · `2026-03-08_Lab-Serol_cANCA-PR3-ELISA.md`
 
 # cANCA/PR3 ELISA
 
@@ -5619,7 +5866,7 @@ MC-7539
 
 ---
 
-> **Report 59 of 91** · `2026-03-08_Lab-Biochem_Angiotensin-Converting-Enzyme-19-10-U-L-12-68.md`
+> **Report 69 of 101** · `2026-03-08_Lab-Biochem_Angiotensin-Converting-Enzyme-19-10-U-L-12-68.md`
 
 # Angiotensin Converting Enzyme 19.10 U/L 12-68
 
@@ -5659,7 +5906,7 @@ Page 1 of 1
 
 ---
 
-> **Report 60 of 91** · `2026-03-08_Lab-Biochem_Troponin-I-hs-Less-than.md`
+> **Report 70 of 101** · `2026-03-08_Lab-Biochem_Troponin-I-hs-Less-than.md`
 
 # Troponin I hs Less than
 
@@ -5709,7 +5956,7 @@ MC-7539
 
 ---
 
-> **Report 61 of 91** · `2026-03-07_XRay_X-RAY-Chest-AP-and-Lateral.md`
+> **Report 71 of 101** · `2026-03-07_XRay_X-RAY-Chest-AP-and-Lateral.md`
 
 # X-RAY Chest AP and Lateral
 
@@ -5752,7 +5999,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 62 of 91** · `2026-03-06_Lab-Biochem_Phosphorus.md`
+> **Report 72 of 101** · `2026-03-06_Lab-Biochem_Phosphorus.md`
 
 # Phosphorus
 
@@ -5811,7 +6058,7 @@ MC-7539
 
 ---
 
-> **Report 63 of 91** · `2026-03-04_Lab-Biochem_S-Electrolytes.md`
+> **Report 73 of 101** · `2026-03-04_Lab-Biochem_S-Electrolytes.md`
 
 # S. Electrolytes
 
@@ -5889,7 +6136,7 @@ MC-7539
 
 ---
 
-> **Report 64 of 91** · `2026-03-02_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 74 of 101** · `2026-03-02_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -5932,7 +6179,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 65 of 91** · `2026-03-02_Lab-Serol_Magnesium.md`
+> **Report 75 of 101** · `2026-03-02_Lab-Serol_Magnesium.md`
 
 # Magnesium
 
@@ -5978,7 +6225,7 @@ MC-7539
 
 ---
 
-> **Report 66 of 91** · `2026-03-01_Lab-Biochem_Potassium.md`
+> **Report 76 of 101** · `2026-03-01_Lab-Biochem_Potassium.md`
 
 # Potassium
 
@@ -6036,7 +6283,7 @@ MC-7539
 
 ---
 
-> **Report 67 of 91** · `2026-02-26_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.md`
+> **Report 77 of 101** · `2026-02-26_Lab-Biochem_Blood-Gas-Analysis-Electrolyt-Lactate-Glucose.md`
 
 # Blood Gas Analysis-Electrolyt.,Lactate & Glucose
 
@@ -6124,7 +6371,7 @@ MC-7539
 
 ---
 
-> **Report 68 of 91** · `2026-02-26_ECHO_Echocardiography-Portable.md`
+> **Report 78 of 101** · `2026-02-26_ECHO_Echocardiography-Portable.md`
 
 # Echocardiography Portable
 
@@ -6203,7 +6450,7 @@ PULMONARY Nil
 
 ---
 
-> **Report 69 of 91** · `2026-02-25_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 79 of 101** · `2026-02-25_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -6240,7 +6487,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 70 of 91** · `2026-02-24_XRay_X-Ray-Portable-Chest-PA.md`
+> **Report 80 of 101** · `2026-02-24_XRay_X-Ray-Portable-Chest-PA.md`
 
 # X-Ray Portable Chest PA
 
@@ -6277,7 +6524,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 71 of 91** · `2026-02-24_Lab-Haem_Complete-Blood-Count.md`
+> **Report 81 of 101** · `2026-02-24_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -6466,7 +6713,7 @@ MC-7539
 
 ---
 
-> **Report 72 of 91** · `2026-02-23_USG_USG-Portable-Single-Organ.md`
+> **Report 82 of 101** · `2026-02-23_USG_USG-Portable-Single-Organ.md`
 
 # USG Portable Single Organ
 
@@ -6528,7 +6775,7 @@ MMC 87736
 
 ---
 
-> **Report 73 of 91** · `2026-02-23_Lab-Biochem_C-Reactive-Protein-CRP.md`
+> **Report 83 of 101** · `2026-02-23_Lab-Biochem_C-Reactive-Protein-CRP.md`
 
 # C-Reactive Protein [CRP]
 
@@ -6573,7 +6820,7 @@ MC-7539
 
 ---
 
-> **Report 74 of 91** · `2026-02-21_Lab-Micro_Urine-Culture-Colony-Count.md`
+> **Report 84 of 101** · `2026-02-21_Lab-Micro_Urine-Culture-Colony-Count.md`
 
 # Urine Culture Colony Count
 
@@ -6794,7 +7041,7 @@ MC-7539
 
 ---
 
-> **Report 75 of 91** · `2026-02-21_Lab-Micro_Sputum-Culture.md`
+> **Report 85 of 101** · `2026-02-21_Lab-Micro_Sputum-Culture.md`
 
 # Sputum Culture
 
@@ -6920,7 +7167,7 @@ MC-7539
 
 ---
 
-> **Report 76 of 91** · `2026-02-21_CT_WB-FDG-PET-CECT-scan.md`
+> **Report 86 of 101** · `2026-02-21_CT_WB-FDG-PET-CECT-scan.md`
 
 # WB FDG PET - CECT scan
 
@@ -7184,7 +7431,7 @@ AM KL
 
 ---
 
-> **Report 77 of 91** · `2026-02-20_XRay_X-Ray-Portable-Chest-AP.md`
+> **Report 87 of 101** · `2026-02-20_XRay_X-Ray-Portable-Chest-AP.md`
 
 # X Ray Portable Chest AP
 
@@ -7225,7 +7472,7 @@ MMC Number: 49380.
 
 ---
 
-> **Report 78 of 91** · `2026-02-20_USG_USG-Portable-Kidney-Transplant-Kidney-KUB.md`
+> **Report 88 of 101** · `2026-02-20_USG_USG-Portable-Kidney-Transplant-Kidney-KUB.md`
 
 # USG Portable Kidney/Transplant Kidney/KUB
 
@@ -7287,7 +7534,7 @@ Study Description : USG Portable Kidney/Transplant Kidney/KUB
 
 ---
 
-> **Report 79 of 91** · `2026-02-20_Lab-Serol_NT-pro-B-type-Natriuretic-Peptide-NT-pro-BNP.md`
+> **Report 89 of 101** · `2026-02-20_Lab-Serol_NT-pro-B-type-Natriuretic-Peptide-NT-pro-BNP.md`
 
 # NT pro B-type Natriuretic Peptide [NT pro BNP]
 
@@ -7336,7 +7583,7 @@ MC-7539
 
 ---
 
-> **Report 80 of 91** · `2026-02-20_Lab-Micro_Urine-Culture-Colony-Count.md`
+> **Report 90 of 101** · `2026-02-20_Lab-Micro_Urine-Culture-Colony-Count.md`
 
 # Urine Culture Colony Count
 
@@ -7544,7 +7791,7 @@ MC-7539
 
 ---
 
-> **Report 81 of 91** · `2026-02-20_Lab-Micro_CRE-Screen.md`
+> **Report 91 of 101** · `2026-02-20_Lab-Micro_CRE-Screen.md`
 
 # CRE Screen
 
@@ -7585,7 +7832,7 @@ Page 1 of 1
 
 ---
 
-> **Report 82 of 91** · `2026-02-20_Lab-Micro_Candida-Auris-Screen.md`
+> **Report 92 of 101** · `2026-02-20_Lab-Micro_Candida-Auris-Screen.md`
 
 # Candida Auris Screen
 
@@ -7624,7 +7871,7 @@ Page 1 of 1
 
 ---
 
-> **Report 83 of 91** · `2026-02-20_Lab-Micro_MRSA-Screening.md`
+> **Report 93 of 101** · `2026-02-20_Lab-Micro_MRSA-Screening.md`
 
 # MRSA Screening
 
@@ -7662,7 +7909,7 @@ Page 1 of 1
 
 ---
 
-> **Report 84 of 91** · `2026-02-20_Lab-Haem_Prothrombin-Time-PT.md`
+> **Report 94 of 101** · `2026-02-20_Lab-Haem_Prothrombin-Time-PT.md`
 
 # Prothrombin Time (PT)
 
@@ -7739,7 +7986,7 @@ certificate number MC-7539
 
 ---
 
-> **Report 85 of 91** · `2026-02-20_Lab-Haem_Complete-Blood-Count.md`
+> **Report 95 of 101** · `2026-02-20_Lab-Haem_Complete-Blood-Count.md`
 
 # Complete Blood Count
 
@@ -7872,7 +8119,7 @@ certificate number MC-7539
 
 ---
 
-> **Report 86 of 91** · `2026-02-20_Lab-ClinPath_Urine-Routine.md`
+> **Report 96 of 101** · `2026-02-20_Lab-ClinPath_Urine-Routine.md`
 
 # Urine Routine
 
@@ -8037,7 +8284,7 @@ MC-7539
 
 ---
 
-> **Report 87 of 91** · `2026-02-20_Lab-Biochem_Liver-Profile.md`
+> **Report 97 of 101** · `2026-02-20_Lab-Biochem_Liver-Profile.md`
 
 # Liver Profile
 
@@ -8142,7 +8389,7 @@ certificate number MC-7539
 
 ---
 
-> **Report 88 of 91** · `2026-02-20_Lab-Biochem_Renal-Profile.md`
+> **Report 98 of 101** · `2026-02-20_Lab-Biochem_Renal-Profile.md`
 
 # Renal Profile
 
@@ -8281,7 +8528,7 @@ certificate number MC-7539
 
 ---
 
-> **Report 89 of 91** · `2026-02-20_Lab-Biochem_S-Electrolytes.md`
+> **Report 99 of 101** · `2026-02-20_Lab-Biochem_S-Electrolytes.md`
 
 # S. Electrolytes
 
@@ -8364,7 +8611,7 @@ MC-7539
 
 ---
 
-> **Report 90 of 91** · `2026-02-20_Lab-Biochem_Creatinine.md`
+> **Report 100 of 101** · `2026-02-20_Lab-Biochem_Creatinine.md`
 
 # Creatinine
 
@@ -8435,7 +8682,7 @@ MC-7539
 
 ---
 
-> **Report 91 of 91** · `2026-02-20_ECHO_Echocardiography-Portable.md`
+> **Report 101 of 101** · `2026-02-20_ECHO_Echocardiography-Portable.md`
 
 # Echocardiography Portable
 
