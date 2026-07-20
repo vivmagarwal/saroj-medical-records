@@ -18,6 +18,8 @@ For navigability, the **101 clinically pivotal reports** (imaging, summaries, cu
 | `report_pdf/` | 101 key source PDFs, renamed `YYYY-MM-DD_Type_Description.pdf` (+ companion Doppler images); routine serials under `report_pdf/archived/` |
 | `report_md/` | 101 key per-report markdowns; routine serials under `report_md/archived/` |
 | `surat_reports_and_other_details/` | Raw original Surat PDFs (Nobel Micropath), by lab registration no. |
+| `admin_and_billing/` | **Local only — git-ignored, not published.** Non-clinical: Maitreya IPD & medicine invoices, insurance Claim Form Part B, hospital establishment certificate. Held out of the repo because this repository is public and served via GitHub Pages. The **medicine invoice** is clinically useful — it evidences the IV KCl / MgSO₄ / Lasix given 05–08 Jul 2026. |
+| `Cardiology_Handover_2026-07-20.{md,pdf}` | **Cardiology handover note prepared 20 Jul 2026 for Dr. Nilesh Purushottam** (Surat) — full cardiac history, QT/QTc analysis, confirmed current medications, and the open questions. Page 1 is a stand-alone summary sheet. |
 
 ## Patient
 

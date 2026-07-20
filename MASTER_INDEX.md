@@ -2,7 +2,9 @@
 
 **Patient**: Saroj Agarwal  •  **Patient ID**: 0010663186  •  **DOB**: 27 Aug 1962  •  **Sex**: Female
 
-**Total reports**: 204  (101 key + 103 archived routine serial labs)  •  **Date range**: 2026-02-20 → 2026-07-13  •  **Updated**: 2026-07-13
+**Total reports**: 208  (105 key + 103 archived routine serial labs)  •  **Date range**: 2026-02-20 → 2026-07-17  •  **Updated**: 2026-07-20
+
+> 🗂️ Non-clinical documents (hospital invoices, insurance claim form, establishment certificate) are in **`admin_and_billing/`** and are not counted above. The Maitreya **medicine invoice** is clinically useful — it is the source for the IV KCl / MgSO₄ / Lasix given during the 05–08 Jul admission.
 
 > 📈 **[TRENDS.md](./TRENDS.md)** collects every serial lab value (Hb, WBC, platelets, electrolytes, creatinine, CRP, NT-proBNP, coagulation) in dated tables, so the day-by-day monitoring picture is preserved even though most individual daily lab reports are now under `report_md/archived/` & `report_pdf/archived/`.
 
@@ -20,22 +22,37 @@
 | `Lab-Surat` | 8 | incl. 4 from Jul 2026 Maitreya admission |
 | `CT` | 4 | incl. 2 PET-CT + 1 HRCT |
 | `ECHO` | 4 |  |
-| `ECG` | 4 |  |
+| `ECG` | 6 | incl. 13-Jul & 17-Jul traces filed from family photos |
 | `USG` | 3 |  |
 | `Lab-ClinPath` | 2 |  |
 | `Holter` | 2 |  |
 | `Summary-Daycare` | 1 |  |
-| `Summary-Discharge` | 1 |  |
+| `Summary-Discharge` | 3 | RFH 08-Apr + Maitreya 08-Jul & 17-Jul |
 | `Consent` | 1 |  |
 
 ## Key reports — by date (newest first)
 
-### Monday, 13 July 2026 (2026-07-13) — 1 report
+### Friday, 17 July 2026 (2026-07-17) — 2 reports
+
+- **⭐ Discharge Summary — Maitreya, Surat (13–17 Jul admission)** — _Summary-Discharge_  [[PDF](./report_pdf/2026-07-17_Summary-Discharge_Discharge-Summary-Maitreya-Surat.pdf)] [[MD](./report_md/2026-07-17_Summary-Discharge_Discharge-Summary-Maitreya-Surat.md)]
+    **The authoritative source for her current medication list.** Cardiac: **Apixalife (apixaban) 5 mg BD · Cordarone (amiodarone) 100 mg BD · Mexohar (mexiletine) 150 mg BD · Aldactone 50 mg OD · Dytor (torsemide) 20 mg BD · Tadalafil 20 mg HS — no beta-blocker.** Also Omnacortil (prednisolone) 40→20→10→5 mg taper, Perinorm (metoclopramide) SOS, doxycycline, Foracort nebs, Frastim (filgrastim) 14-Jul, Endace, nutritionals. Condition on discharge: **BP 130/80, PR 83, SpO₂ 93 % on 1 L O₂ support.** Follow-up: Dr. Sanjay Agrawal in 5 d, Dr. Kaushal Patel in 7 d. **Clinically:** confirms the ~13-Jul dose reduction of amiodarone (halved) and mexiletine (TDS→BD); torsemide + steroid both deplete K⁺ (torsemide also Mg²⁺) in a patient with prolonged QT and no magnesium level since 08-Mar.
+
+- **ECG (Maitreya, Surat)** — _ECG_  [[PDF](./report_pdf/2026-07-17_ECG_ECG-Maitreya-Surat.pdf)] [[MD](./report_md/2026-07-17_ECG_ECG-Maitreya-Surat.md)]
+    Sinus rhythm 87 bpm; PR 143, QRS 94; **QT/QTcBz 398/481 ms — prolonged QT**; large PtfV1, low voltage (limb leads), indeterminate axis. Most recent trace available; best QTc of the July series (520 → 463 → 529 → 491 → 481 ms). ⚠️ Trace carries **no patient name** and prints the machine default "Male" — identity to be confirmed against the hospital copy. Filed 20-Jul-2026 from a family photograph of the paper trace.
+
+### Monday, 13 July 2026 (2026-07-13) — 2 reports
+
+- **ECG (Maitreya, Surat)** — _ECG_  [[PDF](./report_pdf/2026-07-13_ECG_ECG-Maitreya-Surat.pdf)] [[MD](./report_md/2026-07-13_ECG_ECG-Maitreya-Surat.md)]
+    Indoor No. **I/0726/1017**, DOA 13-Jul-2026 2:24 pm — a **separate, later admission** from the 05-Jul one (I/0726/907). Sinus rhythm 86 bpm; PR 166, QRS 86; **QT/QTc 410/491 ms — prolonged QT**; large PtfV1, poor R-wave progression (V2), inverted T (V3), **right ventricular hypertrophy**, low voltage (chest leads), indeterminate axis. Confirmed by Dr. Narendra Tanwar. Filed 20-Jul-2026 from a family photograph of the paper trace.
+
 
 - **Holter ECG Report — 72-hour (10–13 Jul, Surat)** — _Holter_  [[PDF](./report_pdf/2026-07-13_Holter_Holter-ECG-Report-Surat.pdf)] [[MD](./report_md/2026-07-13_Holter_Holter-ECG-Report-Surat.md)]
     72-hour Holter (Predicardio Rhythmsense; 10-Jul 09:23 → 13-Jul 09:23, 71 h 59 m analysed), prescribed by Dr. Talha Meeran for **syncope and chest pain**. **Predominant rhythm: sinus.** HR min 78 / avg 88 / max 115 bpm; longest RR 1.07 s; **no pauses >2.5 s, no AF, no SVT, no VT runs, no AV block (2nd degree+)**. Ventricular ectopics only 512 (0.1 % burden; 502 isolated, 5 couplets, occasional bigeminy); no supraventricular ectopics. One patient-triggered event (11-Jul 09:00 — shortness of breath, weakness/fatigue, chest discomfort): rhythm at the time was **normal sinus rhythm**. **Clinical significance**: no arrhythmic correlate for her symptoms over 72 h — a major improvement from the polymorphic PVC/VT episodes of Feb–Mar; symptoms in sinus rhythm point to her pulmonary status (severe PAH, re-accumulating effusions) rather than arrhythmia.
 
-### Wednesday, 8 July 2026 (2026-07-08) — 1 report
+### Wednesday, 8 July 2026 (2026-07-08) — 2 reports
+
+- **⭐ Discharge Summary — Maitreya, Surat (05–08 Jul admission)** — _Summary-Discharge_  [[PDF](./report_pdf/2026-07-08_Summary-Discharge_Discharge-Summary-Maitreya-Surat.pdf)] [[MD](./report_md/2026-07-08_Summary-Discharge_Discharge-Summary-Maitreya-Surat.md)]
+    IPD I/0726/907, DOA 05-Jul 9:22 pm → DOD 08-Jul 11:00 am, "Improved". Under Dr. Sanjay Agrawal (Physician). **Emergency admission.** Diagnoses: **Viral LRTI (J22) · B/L pleural effusion (J90) · endometrial adenocarcinoma (C54.1) with lung metastasis (C78.00) · pulmonary embolism (I26) · pulmonary hypertension (I27.0) · PROLONGED QT INTERVAL (R94.31)**. Presented with high-grade fever, cough with whitish expectoration, breathlessness, vomiting, **B/L pedal oedema +++**; on arrival **febrile 101 °F and hypoxic, SpO₂ 84 % on room air**, BP 110/70, HR 100. Admitted to **ICU** on O₂; bedside echo "good LV function"; **diagnosed volume overload → antibiotics + Lasix infusion**. Improved; **O₂ tapered off completely by 07-Jul**. Labs: Hb 11.4, TC 7270, creat 1.08, K 3.57, CRP 9.0, NT-proBNP 151.40. History records tumour **operated 2022**, 6 cycles chemo + 6 cycles immunotherapy. **Corrects the earlier assumption that this admission was for chest pain/syncope — it was infective and congestive.**
 
 - **ECG (Maitreya, Surat)** — _ECG_  [[PDF](./report_pdf/2026-07-08_ECG_ECG-Surat.pdf)] [[MD](./report_md/2026-07-08_ECG_ECG-Surat.md)]
     Sinus rhythm, HR 94. Incomplete RBBB; abnormal q (V1); **right ventricular hypertrophy**; **prolonged QT (QT/QTcBz 422/529 ms)**; indeterminate axis. Third consecutive daily ECG with the pulmonary-hypertension right-heart pattern; QTc again markedly prolonged — review QT-prolonging drugs (amiodarone) and keep K⁺/Mg²⁺ replete.

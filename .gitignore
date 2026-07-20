@@ -4,3 +4,7 @@ __pycache__/
 .venv/
 .idea/
 .vscode/
+
+# Non-clinical: insurance claim form, hospital invoices, billing.
+# Kept locally only — this repo is public and served via GitHub Pages.
+admin_and_billing/
