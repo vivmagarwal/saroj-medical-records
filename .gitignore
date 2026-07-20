@@ -8,3 +8,7 @@ __pycache__/
 # Non-clinical: insurance claim form, hospital invoices, billing.
 # Kept locally only — this repo is public and served via GitHub Pages.
 admin_and_billing/
+
+# Print pack — exact duplicates of files already tracked elsewhere in this repo (~32 MB).
+# Regenerate any time; not worth versioning or republishing.
+dr_nilesh_printout_docs/

@@ -5,7 +5,7 @@
 **Prepared by:** Family (son), from the primary hospital records listed in §10
 **Referral path:** Dr. Talha Meeran (Consultant Cardiologist, Sir H. N. Reliance Foundation Hospital, Mumbai — her treating cardiologist through the Feb–Apr 2026 admission and afterwards) advised a **local Surat review by Dr. Nilesh Purushottam**.
 
-> Every figure below is quoted from a source document; the file for each is named in §10. Where the records are silent or contradict each other, that is stated explicitly rather than smoothed over.
+> Every clinical figure below is quoted from a source document; the file for each is named in §10. Where the records are silent or contradict each other, that is stated explicitly rather than smoothed over. **Items resting on the family's account rather than a document are marked as such** — see the footer.
 
 ---
 
@@ -15,29 +15,29 @@
 
 **The cardiac story in six lines:**
 
-1. **Severe pulmonary arterial hypertension** since Feb 2026, judged **Group 3** (secondary to lung/pleural disease). RVSP **83 → 72 → 91 (at PE) → 70 mmHg** (06 Jul). Never right-heart-catheterised.
+1. **Severe pulmonary arterial hypertension** since Feb 2026, judged **Group 3** (secondary to lung/pleural disease). RVSP **83 → 72 → ~46 (01 Mar nadir) → 91 (at PE) → 70 mmHg** (06 Jul). Never right-heart-catheterised.
 2. **Ventricular arrhythmia, Mar 2026** — multifocal PVCs, bigeminy, episodes of **polymorphic PVCs/VT**. Acute treatment lignocaine infusion; then maintained on **amiodarone + mexiletine ± bisoprolol**.
 3. **Acute submassive saddle pulmonary embolism, 24–25 Mar 2026** → **mechanical thrombectomy** → complicated by shock, haemoptysis, platelets to 51, Hb to 7.3. Anticoagulated since. **No residual pulmonary thrombus** on PET-CT 22 Jun.
-4. **LVEF 55–60 % (Feb–Mar) → ~50 % (Jul)**, new mild concentric LVH, grade I diastolic dysfunction. **RV function has recovered** (was FAC 20 % in March; normal now).
-5. **QTc 481–529 ms across five ECGs this month**, on amiodarone + mexiletine. **This is the reason for the visit.**
+4. **LVEF 55–60 % (Feb–Mar) → ~50 % (Jul)**, **new** mild concentric LVH (grade I diastolic dysfunction was already present in Feb). **RV function has recovered** (was FAC 20 % in March; normal now).
+5. **QTc 463–529 ms across five ECGs this month**, on amiodarone + mexiletine. **This is the reason for the visit.**
 6. **72-hour Holter 10–13 Jul was clean** — sinus, **0 VT runs**, 0 pauses, 0 AF, 0.1 % ectopic burden, and **her symptomatic episode occurred in normal sinus rhythm**.
 
 **Current cardiac drugs — confirmed from the Maitreya discharge summary of 17 Jul 2026:** Apixaban (Apixalife) 5 mg **BD** · **Amiodarone (Cordarone) 100 mg BD** · **Mexiletine (Mexohar) 150 mg BD** · Spironolactone (Aldactone) 50 mg OD · **Torsemide (Dytor) 20 mg BD** · Tadalafil 20 mg HS. **No beta-blocker.** Also on a **tapering prednisolone course** (40→20→10→5 mg) and **metoclopramide SOS**.
 
-**The proposal under review:** Dr. Narendra Tanwar (Maitreya, Surat) suggests **stopping mexiletine as pro-arrhythmic and adding a beta-blocker**. Dr. Talha Meeran (RFH Mumbai, her cardiologist throughout) referred her to you for this decision.
+**The proposal under review** *(this, the referral, and the dose change are the family's account — none appears in the written records)*: Dr. Narendra Tanwar (Maitreya, Surat) suggests **stopping mexiletine as pro-arrhythmic and adding a beta-blocker**. Dr. Talha Meeran (RFH Mumbai, her cardiologist throughout) referred her to you for this decision.
 
 **Six things from the record that bear on that decision:**
 
 - **A. Amiodarone — not mexiletine — is the QT-prolonging drug.** Mexiletine (class IB) tends to *shorten* QT; it is used therapeutically in long-QT type 3.
 - **B. Much of the "prolonged QTc" is a Bazett artefact.** All five July ECGs are Bazett-corrected at **HR 84–94**, where Bazett over-corrects. Raw QT is only **377–440 ms**. On **Fridericia** the same traces read 492 → 432 → 490 → **462 → 450 ms**.
-- **C. ⭐ The doses were already cut ~13 Jul — and the QT is responding.** Amiodarone was halved (200→100 mg BD) and mexiletine cut from TDS to BD by the Maitreya team **with Dr. Meeran's approval**. Since then: **QTc 529 → 491 → 481 ms** (Fridericia 490 → 462 → **450**). An intervention is already in flight and working.
+- **C. The doses were already cut ~13 Jul — but the QT data is not yet conclusive.** Amiodarone was halved (200→100 mg BD) and mexiletine cut from TDS to BD, reportedly with Dr. Meeran's approval *(family's account — not documented in the file)*. Since then QTc reads **491 → 481 ms**. **However, the month's lowest reading, 463 ms, was on 07 Jul — before the change**, and the QTc swung 520→463→529 in three days on unchanged doses. **An intervention is in flight but has not yet had time to be judged.** See §6.3.
 - **D. A beta-blocker was already tried — and dropped.** Concor (bisoprolol) ran **06–20 Mar 2026**, then **vanished from the 08 Apr discharge list, with no reason documented.** She has recurrent bronchospasm and a pressure-loaded RV.
 - **E. Two current drugs are actively depleting her electrolytes.** **Torsemide 20 mg BD** (wastes K⁺ *and* Mg²⁺) plus **tapering prednisolone** (wastes K⁺), while **K⁺ is 3.57–3.89** against her own team's **K⁺ > 4 / Mg²⁺ > 2** target — and **no magnesium level has been measured since 08 Mar 2026.** **Perinorm (metoclopramide) SOS is itself QT-prolonging.**
-- **F. Her cardiac biomarkers are reassuring.** Troponin has **never** been raised — 3.2 (Mar), **11.90 even during the saddle PE** (ref ≤15.6). NT-proBNP down from 4089 → **151** (05 Jul).
+- **F. Her cardiac biomarkers are reassuring.** Troponin has **never** been raised — 3.2 (Mar), **11.90 even during the saddle PE** (ref ≤15.6). NT-proBNP down from 4089 → **151** (05 Jul), which for an ED patient with acute dyspnoea is in the **"heart failure unlikely"** band (<300) by that report's own criteria.
 
 **Never done:** right heart catheterisation · coronary angiogram (considered 08 Mar, **deferred**) · thyroid/liver monitoring in 4.5 months of amiodarone.
 
-**Competing explanation for her current symptoms:** the **05–08 Jul admission was for fever + hypoxia (SpO₂ 84 % on air) — viral LRTI with volume overload**, not arrhythmia; "Prolonged QT interval" was a *listed diagnosis*, not the reason for admission. HRCT 05 Jul shows **pleural effusions re-accumulated and increased**. She left 08 Jul **off oxygen** but was discharged 17 Jul **back on 1 L/min O₂**. Clean Holter + normal troponin + near-normal NT-proBNP + recovered RV all point away from the heart.
+**Competing explanation for her current symptoms:** the **05–08 Jul admission was for fever + hypoxia (SpO₂ 84 % on air) — viral LRTI with volume overload**, not arrhythmia; "Prolonged QT interval" was a *listed diagnosis*, not the reason for admission. HRCT 05 Jul shows **pleural effusions re-accumulated and increased**. She left 08 Jul **off oxygen** but was discharged 17 Jul **back on 1 L/min O₂**. Clean Holter + normal troponin + an NT-proBNP in the "HF unlikely" band + recovered RV function all point away from the heart.
 
 ---
 
@@ -50,7 +50,7 @@
 | DOB | 27 August 1962 |
 | ID — RFH Mumbai | 0010663186 |
 | ID — Maitreya Surat | UHID 59568 |
-| Oncological diagnosis | Carcinoma of uterus / endometrium (ICD-10 C54) — operated ≈ 2023, metastatic recurrence Feb 2026 |
+| Oncological diagnosis | Endometrial adenocarcinoma (ICD-10 C54.1) with lung metastasis (C78.00) — **operated 2022** (per the 08 Jul 2026 Maitreya summary), metastatic recurrence Feb 2026 |
 
 ---
 
@@ -59,7 +59,7 @@
 Dr. Narendra Tanwar (DM Cardiology, Maitreya Multispeciality Hospital, Surat) has noted that her **QT interval remains prolonged**.
 
 - **Current antiarrhythmics (confirmed, 17 Jul discharge summary):** Mexohar (mexiletine) 150 mg **BD** + Cordarone (amiodarone) 100 mg **BD**.
-- **Already done ~13 Jul:** both were **reduced** (amiodarone halved from 200 mg BD; mexiletine cut from TDS to BD) by the Maitreya team **with Dr. Meeran's approval**, in response to the QT. The QTc has fallen on each ECG since.
+- **Already done ~13 Jul** *(family's account — not documented in the records)*: both were **reduced** (amiodarone halved from 200 mg BD; mexiletine cut from TDS to BD) by the Maitreya team, reportedly with Dr. Meeran's approval, in response to the QT. Only two ECGs have been taken since — see §6.3 before treating this as a demonstrated response.
 - **Local suggestion now:** stop mexiletine on the grounds that it is pro-arrhythmic, and add a **beta-blocker**.
 - **Second opinion sought** from Dr. Meeran, who has all the historical context; he has referred her locally to you.
 
@@ -69,9 +69,9 @@ Dr. Narendra Tanwar (DM Cardiology, Maitreya Multispeciality Hospital, Surat) ha
 
 1. **Severe pulmonary arterial hypertension** — present from day 1 of the Feb admission, attributed by the RFH team to underlying lung pathology (**Group 3**). RVSP ~70 mmHg on the most recent echo (06 Jul 2026). Never right-heart-catheterised.
 2. **Ventricular arrhythmia, currently quiescent** — frequent multifocal PVCs, ventricular bigeminy, and episodes of **polymorphic PVCs / VT** in Mar 2026, treated acutely with lignocaine (Xylocard) then maintained on amiodarone + mexiletine ± bisoprolol. A 72-hour Holter in Jul 2026 was **clean**.
-3. **Prolonged QTc, 481–529 ms across five ECGs this month**, on amiodarone + mexiletine — **improving since the doses were cut ~13 Jul**. Formally listed as a discharge diagnosis (R94.31).
+3. **Prolonged QTc, 463–529 ms across five ECGs this month**, on amiodarone + mexiletine. Doses were cut ~13 Jul; the two readings since (491, 481 ms) sit inside the pre-reduction range, so it is **too early to call it a response** (§6.3). Formally listed as a discharge diagnosis (R94.31).
 4. **Prior acute submassive saddle pulmonary embolism (24–25 Mar 2026)** — mechanical thrombectomy, then anticoagulated. **No residual pulmonary arterial thrombus** on the 22 Jun 2026 PET-CT.
-5. **Mild LV systolic decline** — LVEF 55–60 % (Feb–Mar) → **~50 %** (Jul), with new mild concentric LVH and grade I diastolic dysfunction.
+5. **Mild LV systolic decline** — LVEF 55–60 % (Feb–Mar) → **~50 %** (Jul), with **new** mild concentric LVH; grade I diastolic dysfunction was already documented on the 20 and 26 Feb echoes, so it is not new.
 6. **Re-accumulating bilateral pleural effusions** (HRCT 05 Jul) — the likely driver of her current breathlessness.
 7. **Ischaemia never formally excluded** — coronary angiography was considered on 08 Mar 2026 and **deferred**; no angiogram has ever been done. See §8.
 
@@ -80,13 +80,13 @@ Dr. Narendra Tanwar (DM Cardiology, Maitreya Multispeciality Hospital, Surat) ha
 ## 4. Chronological narrative
 
 ### 4.1 Before the Mumbai admission
-- Carcinoma of uterus, operated ~3 years prior (≈ 2023).
+- Endometrial adenocarcinoma, **operated 2022** (the 08 Apr RFH summary says only "operated 3 years back"; the 08 Jul Maitreya summary gives the year).
 - Feb 2026: recurrence with **left pleural effusion and lung collapse**; intercostal drain in situ from **12 Feb 2026** at an outside hospital. Pleural fluid cytology (14 Feb) — **atypical cells suggestive of carcinoma, large-cell morphology**. CA-125 635.50 (14 Feb). NT-proBNP 1738 high and CPK-MB 34.67 high on 11 Feb, with Troponin-I negative.
 
 ### 4.2 Sir H. N. Reliance Foundation Hospital, Mumbai — **20 Feb to 8 Apr 2026** (48 days)
 Transferred in with breathlessness, cough and bilateral pedal oedema. Attending: Dr. Darshit Shah (Medical Oncology). Cardiology: Dr. Talha Meeran.
 
-**20 Feb — severe PAH found on day 1.** Echo: **RVSP 83 mmHg**, LVEF 55 %, mildly dilated RV with fair systolic function (TAPSE 16 mm), grade I diastolic dysfunction, mild TR. Chemotherapy started same day (Paclitaxel + Carboplatin, C1D1). NT-proBNP 1761; INR 2.47 / PT 27.4 s at baseline, before any anticoagulant.
+**20 Feb — severe PAH found on day 1.** Echo: **RVSP 83 mmHg**, LVEF 55 %, mildly dilated RV with fair systolic function (TAPSE 16 mm), grade I diastolic dysfunction, mild TR. Chemotherapy started same day (Paclitaxel + Carboplatin, C1D1). NT-proBNP 1761; **INR 2.47 / PT 27.4 s on admission** — markedly deranged. (Her anticoagulant status on transfer from the outside hospital is not recorded, so the cause is not established.)
 
 **24–26 Feb — airway crisis.** Stridor; nasopharyngolaryngoscopy showed **bilateral vocal cords in paramedian position with restricted mobility** and minimal glottic chink. Desaturation episode with **irregular pulse** noted (25 Feb, MET call). On 26 Feb she underwent **left vocal cord lateralisation** under GA; desaturated intraoperatively, required intubation and ICU ventilation. Pre-op echo: RVSP 72 mmHg, LVEF 60 %. The PAH was formally attributed to **underlying lung pathology (Group III)**.
 
@@ -99,7 +99,7 @@ Transferred in with breathlessness, cough and bilateral pedal oedema. Attending:
 
 **09–13 Mar** — acute bronchospasm 09 Mar (likely microaspiration), treated with steroids. Arrhythmias settled. Regimen through this period: **Concor, Cordarone, Mexiletine**, Lasix, Aldactone, Tadalafil. IV potassium and magnesium correction given, with an explicit target of **K⁺ > 4 and Mg²⁺ > 2** — i.e. the team was already managing her electrolytes with the ventricular irritability in mind.
 
-**14–17 Mar — 72-hour Holter (RFH).** Ordered by Dr. Meeran. Result: sinus rhythm, avg 75 bpm (52–106). **1811 PVCs (<1 %)**, 1809 isolated, 1 couplet, **60 episodes of ventricular bigeminy**, **0 VT runs, 0 pauses, 0 AF, 0 AV block**. Interpretation: *"Underlying normal sinus rhythm with occasional multifocal ventricular ectopies along with brief runs of ventricular bigeminy. No NSVT or VTACH."* On 17 Mar, ECG **QTc 435 ms** — i.e. her QTc was *normal* at that point on the same drug class.
+**14–17 Mar — 72-hour Holter (RFH).** Ordered by Dr. Meeran. Result: sinus rhythm, avg 75 bpm (52–106). **1811 PVCs (<1 %)**, 1809 isolated, 1 couplet, **60 episodes of ventricular bigeminy**, **0 VT runs, 0 pauses, 0 AF, 0 AV block**. Interpretation: *"Underlying normal sinus rhythm with occasional multifocal ventricular ectopies along with brief runs of ventricular bigeminy. No NSVT or VTACH."* On 17 Mar, ECG **QTc 435 ms** — i.e. her QTc was *normal* at that point on the same drug class. (The correction method is not stated on that record, and she was **also on bisoprolol** at the time, which slowed her rate.)
 
 **20 Mar** — MET call for **chest pain**; haemodynamically stable, managed symptomatically. Cardiac drugs continued (Concor, Cordarone, Tadalafil, Mexiletine, Lasix, Aldactone).
 
@@ -140,7 +140,7 @@ Transferred in with breathlessness, cough and bilateral pedal oedema. Attending:
 **Her history as recorded here:** endometrial adenocarcinoma **operated 2022**; lung metastasis; **6 cycles of chemotherapy and 6 cycles of immunotherapy** completed; past history of pulmonary embolism.
 
 - **05 Jul — HRCT chest (Navkar):** **moderate bilateral pleural effusions, left > right, INCREASED in volume vs the 22 Jun PET-CT** (right 150–180 cc, left 180–200 cc). **No acute infectious pneumonia. No suspicious lung nodule.** Chronic subsegmental atelectasis LLL + lingula. **Pulmonary artery mildly prominent at 3.4 cm** — consistent with PAH. No pericardial effusion; cardiac size normal.
-- **05 Jul — admission bloods:** Hb **11.4** (best since Feb), WBC 7270, platelets 187 000. **Creatinine 1.08** (top of range). Na 136, K **3.57**. **CRP 9.0 mg/L (high)**, ESR 18 (high), N/L ratio 4.38 (high), lymphopenia. **NT-proBNP 151.4 pg/mL** — mildly above the 125 cut-off, far below her Feb/Mar peaks.
+- **05 Jul — admission bloods:** Hb **11.4** (highest since 24 Mar, when it was 12.9), WBC 7270, platelets 187 000. **Creatinine 1.08** (top of range). Na 136, K **3.57**. **CRP 9.0 mg/L (high)**, ESR 18 (high), N/L ratio 4.38 (high), lymphopenia. **NT-proBNP 151.4 pg/mL** — in the "heart failure unlikely" band for an ED patient with acute dyspnoea (<300), and far below her Feb/Mar peaks. See the reference-range note in §5.3.
 - **06 Jul — 2D Echo (Dr. Narendra Tanwar):** Mild concentric LVH; no RWMA at rest; jerky IVS; **LVEF ~50 %**; grade I diastolic dysfunction; mild MR; **mild-to-moderate TR**; **SEVERE PAH, RVSP/PASP 70 mmHg**; mildly dilated RA and RV with **normal RV function**; IVC 12 mm, good collapse; no clot, vegetation or pericardial effusion. Report carries the note: *"Normal Echo does not rule out coronary artery disease."*
 - **07 Jul — creatinine 1.20 mg/dL** (above range), Na 135, K 3.89.
 - **06 Jul — iron studies:** Iron 55.7, TIBC 310, transferrin sat 17.96 %, ferritin 60.7 — **no iron deficiency**. Urine routine normal.
@@ -150,7 +150,7 @@ Transferred in with breathlessness, cough and bilateral pedal oedema. Attending:
 - Ventricular ectopics **512 total (0.1 % burden)**, 502 isolated, 5 couplets. **0 VT runs.**
 - **No supraventricular ectopics. No atrial fibrillation. No SVT. No AV block. No pauses >2.5 s.**
 - **One patient-triggered event, 11 Jul 09:00** — "shortness of breath, weakness/fatigue, chest discomfort/pain" — **the rhythm during and around that episode was normal sinus rhythm.**
-- Compare with March: PVC burden fell from 1811 to 512, and bigeminy runs largely resolved.
+- Compare with March: **PVC burden fell from 1811 to 512.** The July report notes bigeminy forms are present but **does not state an episode count**, so no numerical comparison with March's 60 episodes is possible.
 
 #### Admission 2 — **13 → 17 Jul 2026** (IPD I/0726/1017, DOA 13 Jul 2:24 pm)
 
@@ -168,13 +168,14 @@ Chemotherapy appears to have been given during this admission (**Inj Frastim/fil
 
 | Date | RVSP / PASP | LVEF | RV | TR | Reporter |
 |---|---|---|---|---|---|
-| 20 Feb 2026 | **83 mmHg** | 55 % | mildly dilated, fair function, TAPSE 16 | Grade I | Dr. Talha Meeran |
+| 20 Feb 2026 * | **83 mmHg** | 55 % | mildly dilated, fair function, TAPSE 16 | Grade I | Dr. Talha Meeran |
 | 26 Feb 2026 | **72 mmHg** | 60 % | mildly dilated, normal function, TAPSE 21 | Mild | Dr. Talha Meeran |
 | 01 Mar 2026 * | **~46 mmHg** | 60 % | mildly dilated, normal function | Mild | narrative only — no report |
 | 24 Mar 2026 (PE) | **91 mmHg** | 60 % | **dilated 50×45×77, RV dysfunction, FAC 20 %** | Mod–severe | Dr. Maulik Parekh |
 | 06 Jul 2026 | **70 mmHg** | **~50 %** | mildly dilated, **normal function** | Mild–mod | Dr. Narendra Tanwar |
 
-\* From the discharge-summary narrative for 01 Mar; no standalone echo report exists.
+\* **20 Feb — the two sources disagree.** The standalone echo report (Dr. Meeran) gives **RVSP 83 mmHg, LVEF 55 %**; the 08 Apr discharge summary, describing the same study, says *"LVEF of 60% with severe PAH (PASP 78 mmHg)"*. The table uses the standalone report as the more primary document, but the discrepancy is worth knowing since 83 mmHg anchors the trajectory.
+\* **01 Mar** — from the discharge-summary narrative only; no standalone echo report exists for it.
 
 **Read:** PAH is better than the March PE peak but **has not returned to the ~46 mmHg nadir** — it has re-risen in step with the re-accumulating pleural effusions. RV function has *recovered*. LVEF has drifted 55–60 % → 50 % (different labs/operators, so interpret with care).
 
@@ -182,7 +183,7 @@ Chemotherapy appears to have been given during this admission (**Inj Frastim/fil
 
 | Date | HR | PR | QRS | Raw QT | QTc reported (Bazett) | QTcF (Fridericia)* | Other |
 |---|---|---|---|---|---|---|---|
-| 17 Mar 2026 | — | — | — | — | **435 ms** | — | sinus, *normal QTc on the same drug class* |
+| 17 Mar 2026 | — | — | — | — | **435 ms** † | — | sinus; on amiodarone + mexiletine **+ bisoprolol** |
 | 06 Jul 2026 | 84 | — | — | 440 | **520 ms** | **492 ms** | RVH, incomplete RBBB, abnormal Q III |
 | 07 Jul 2026 | 90 | — | — | 377 | **463 ms** | **432 ms** | RVH, T-inversion V3–V4 |
 | 08 Jul 2026 | 94 | — | — | 422 | **529 ms** | **490 ms** | RVH, incomplete RBBB |
@@ -197,15 +198,17 @@ Chemotherapy appears to have been given during this admission (**Inj Frastim/fil
 
 ### 5.3 Cardiac biomarkers
 
-| Date | NT-proBNP (ref 0–125) | hs-Troponin I (ref ≤15.6 pg/mL) |
+| Date | NT-proBNP | hs-Troponin I (ref ≤15.6 pg/mL) |
 |---|---|---|
-| 11 Feb 2026 (outside) | 1738 | negative |
-| 20 Feb 2026 | 1761 | — |
+| 11 Feb 2026 (outside) | 1738 (high) | negative |
+| 20 Feb 2026 | 1761 (high; RFH ref 0–125) | — |
 | 08 Mar 2026 | — | **3.2 (normal)** |
-| 24 Mar 2026 (PE) | **4089** | — |
+| 24 Mar 2026 (PE) | **4089 (high; RFH ref 0–125)** | — |
 | 25 Mar 2026 | — | **11.90 (normal)** |
-| 15 Jun 2026 | **97.2 (normal)** | — |
-| 05 Jul 2026 | **151.4** (mildly high) | — |
+| 15 Jun 2026 | **97.2 — normal** (Nobel ref 0–531) | — |
+| 05 Jul 2026 | **151.4 — see note** (Maitreya) | — |
+
+> ⚠️ **Reference ranges differ between the three labs, so this column is not a like-for-like series.** The 05 Jul Maitreya report prints **no fixed range** — it states *"Refer Interpretation"* and gives: primary-care suspected **chronic** HF, <75 y → **<125 unlikely**; but **emergency-department patients presenting with acute dyspnoea, whatever the age → <300 pg/mL HF unlikely**. She was admitted as an **emergency with dyspnoea**, so by the criterion the report itself designates for her situation, **151.4 falls in the "heart failure unlikely" band.** It is only "raised" against the chronic-HF threshold, which is not the applicable one. Either way it is an order of magnitude below her Feb/Mar values.
 
 ### 5.4 Electrolytes & renal — directly relevant to QT and to drug choice
 
@@ -224,7 +227,7 @@ Chemotherapy appears to have been given during this admission (**Inj Frastim/fil
 **Three flags:**
 - **Potassium is running 3.5–3.9**, i.e. below the **K⁺ > 4** target the RFH team explicitly set for her in March when she was ectopic. She received **IV KCl ×2 and IV MgSO₄ ×1 on 06 Jul**, and was on a **Lasix infusion** during that admission.
 - **No serum magnesium *level* has been measured since 08 Mar 2026** (2.21 mg/dL, normal) — though magnesium was *given* IV on 06 Jul. The same team had set a **Mg²⁺ > 2** target. **She is now on Dytor (torsemide) 20 mg BD plus a tapering prednisolone course — two drugs that actively deplete potassium, and in torsemide's case magnesium too — with a prolonged QT and no magnesium monitoring.**
-- **Creatinine is climbing steadily**: 0.71 (May) → 0.93 (Jun) → 1.08 (05 Jul) → **1.20 (07 Jul)**. Relevant to apixaban dosing, to diuretic titration, and if any renally-cleared antiarrhythmic (e.g. sotalol) is being contemplated.
+- **Creatinine is climbing**: 0.71 (06 May), 0.78 (18 and 25 May) → 0.93 (15 Jun) → 1.08 (05 Jul) → **1.20 (07 Jul)**. Relevant to apixaban dosing, to diuretic titration, and if any renally-cleared antiarrhythmic (e.g. sotalol) is being contemplated.
 
 ### 5.5 Holter comparison
 
@@ -235,15 +238,16 @@ Chemotherapy appears to have been given during this admission (**Inj Frastim/fil
 | PVCs | **1811** (<1 %) | **512** (0.1 %) |
 | Couplets | 1 | 5 |
 | **VT runs** | **0** | **0** |
-| Bigeminy episodes | **60** | few |
-| SVE / AF / SVT / AV block / pauses | 0 / 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 / 0 |
+| Bigeminy episodes | **60** | present, **count not stated in the report** |
+| SVE | 5 (all isolated) | 0 |
+| AF / SVT / AV block / pauses | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 |
 | Symptom correlation | — | **1 event (11 Jul) — occurred in NSR** |
 
 ---
 
 ## 6. Medications
 
-### 6.1 Cardiac regimen at RFH discharge (08 Apr 2026), per Dr. Talha Meeran — reconfirmed unchanged on 13 Apr
+### 6.1 Cardiac regimen at RFH discharge (08 Apr 2026), per Dr. Talha Meeran
 
 | Drug | Dose |
 |---|---|
@@ -285,21 +289,25 @@ Also at discharge: Pan 40 BD, Emeset 8 TDS, Foracort + Duolin nebs, short course
 **Condition at that discharge (17 Jul):** haemodynamically stable, **BP 130/80, PR 83, SpO₂ 93 % on 1 L/min O₂ support.**
 **Follow-up given:** Dr. Sanjay Agrawal in 5 days; Dr. Kaushal Patel (oncology) in 7 days.
 
-### 6.3 ⭐ The dose reduction is recent, deliberate — and appears to be working
+### 6.3 A dose reduction has already been made — but read the QT data carefully
 
-Per the family, the **amiodarone and mexiletine doses were cut about 13 July 2026 by the Maitreya team, with Dr. Talha Meeran's approval**, specifically in response to the prolonged QT.
+**Per the family** (not documented in the file), the **amiodarone and mexiletine doses were cut about 13 July 2026 by the Maitreya team, with Dr. Talha Meeran's approval**, specifically in response to the prolonged QT.
 
-**The ECGs since then support that decision:**
+**The full July QTc series — all five ECGs, not just those after the change:**
 
-| | 08 Jul | 13 Jul | 17 Jul |
-|---|---|---|---|
-| | *before/at reduction* | | |
-| QTc (Bazett) | **529 ms** | **491 ms** | **481 ms** |
-| QTcF (Fridericia) | **490 ms** | **462 ms** | **450 ms** |
+| | 06 Jul | 07 Jul | 08 Jul | ~13 Jul | 13 Jul | 17 Jul |
+|---|---|---|---|---|---|---|
+| | *before* | *before* | *before* | **← doses cut** | *after* | *after* |
+| QTc (Bazett) | 520 | **463** | 529 | | 491 | 481 |
+| QTcF (Fridericia) | 492 | **432** | 490 | | 462 | 450 |
 
-**The QT is already falling on the reduced doses.** This matters for today's decision: the question may not be *whether* to act on the QT, but whether an intervention already made ~1 week ago should be given more time before layering another change on top of it.
+> ⚠️ **Be careful about reading this as proof the reduction worked.** The **lowest QTc of the entire month — 463 ms (QTcF 432) — was recorded on 07 July, six days *before* the doses were changed.** Across 06–08 July, on unchanged doses, the QTc swung 520 → 463 → 529, a **66 ms day-to-day range**. Both post-reduction values (491, 481) sit *inside* that pre-reduction range.
+>
+> **What can fairly be said:** since the reduction the QTc has been **less erratic** (481–491 vs 463–529) and the two most recent values are below the pre-reduction mean. **What cannot fairly be said:** that the fall from 529 to 481 is demonstrably a drug effect — day-to-day variability alone could produce it. Two readings is not a trend.
+>
+> This still bears on today's decision, but as an open question rather than a settled one: **a change was made ~1 week ago and has not yet been given enough time, or enough ECGs, to be evaluated.**
 
-### 6.3 ⚠️ A beta-blocker has already been tried — and dropped
+### 6.4 ⚠️ A beta-blocker has already been tried — and dropped
 
 **Concor (bisoprolol) was started on 06 Mar 2026** alongside amiodarone when the PVCs/NSVT appeared, and it appears in the ward notes through **12 Mar and 20 Mar**. It is **absent from the 08 Apr discharge list and from the 13 Apr daycare list.**
 
@@ -315,7 +323,7 @@ Per the family, the **amiodarone and mexiletine doses were cut about 13 July 202
 - **Recurrent bronchospasm** on inhaled steroid + bronchodilator; **viral LRTI treated 05–08 Jul**, currently on doxycycline and a tapering prednisolone course.
 - **Malignant pleural effusions, currently re-accumulating** (HRCT 05 Jul), with a **volume-overload component** (diagnosed 05 Jul, treated with Lasix infusion, now on oral torsemide).
 - **Oxygen-dependent again** — off oxygen entirely on 08 Jul, but discharged 17 Jul on 1 L/min at SpO₂ 93 %.
-- **Metastatic Ca endometrium in partial response** (PET-CT 22 Jun, −47.1 %), on chemo-immunotherapy — last dose 15 Jun 2026. Oncology now Dr. Kaushal B. Patel, Surat.
+- **Metastatic Ca endometrium in partial response** (PET-CT 22 Jun, −47.1 %), on chemo-immunotherapy. The PET-CT records the last dose as **15 Jun 2026**, but the 17 Jul discharge prescription includes **Inj Frastim (filgrastim) dated 14-07-2026**, which implies a further cycle during the 13–17 Jul admission. **Confirm the actual last chemotherapy date with Dr. Kaushal B. Patel** (her Surat oncologist).
 - **Prior severe thrombocytopenia and major bleeding** in late March (platelets to 51, haemoptysis, Hb to 7.3) while anticoagulated — relevant to any future antithrombotic decision.
 - **Anaemia largely resolved** (Hb 11.4 on 05 Jul); no iron deficiency.
 
@@ -326,7 +334,7 @@ Per the family, the **amiodarone and mexiletine doses were cut about 13 July 202
 1. **No thrombectomy procedure note** — no date, no operator, no technical detail. Confirmed only indirectly (§4.2).
 2. ~~No Maitreya discharge summary or prescription~~ — **RESOLVED.** Both July discharge summaries (08 Jul and 17 Jul) are now in the file, and §6.2 is taken directly from the 17 Jul prescription.
 3. **No right heart catheterisation** — PAH severity and classification rest entirely on echo estimates and the CTPA/HRCT appearance.
-4. **No coronary angiogram, ever.** It was considered on 08 Mar 2026 and deferred. Her Jul echo explicitly notes that a normal echo does not exclude CAD, and she has documented peripheral atheroma on the May leg Doppler. She is now presenting with **chest pain**.
+4. **No coronary angiogram, ever.** It was considered on 08 Mar 2026 and deferred. Her Jul echo explicitly notes that a normal echo does not exclude CAD, and she has documented peripheral atheroma on the May leg Doppler. **Chest pain recurs through her history** — a MET call on 20 Mar 2026, the stated indication on the 10–13 Jul Holter requisition, and her own logged symptom on 11 Jul — though the 05–08 Jul admission itself was for fever and hypoxia rather than chest pain.
 5. **No serum magnesium level since 08 Mar 2026** — despite a prolonged QT, IV magnesium replacement on 06 Jul, and current torsemide + prednisolone.
 6. **No thyroid function tests anywhere in the record** — she has been on amiodarone since 06 Mar 2026, i.e. **about 4.5 months**. TSH/T4 and LFTs are the standard monitoring for that.
 7. The **17 Jul ECG carries no patient identifiers** (§4.4).
@@ -343,8 +351,8 @@ These are framed as questions, not opinions — they are the points where the re
 4. **Does the clean 72-hour Holter change the risk calculus?** No VT, no pauses, 0.1 % ectopic burden, and her symptomatic episode occurred in sinus rhythm. Does she still need two antiarrhythmics at all — or is de-escalation of one of them reasonable?
 5. **Why was Concor stopped in March, and does that reason still apply?** Given her bronchospasm and pressure-loaded RV, is a cardioselective agent at a low dose the safer option if a beta-blocker is added?
 6. **Is amiodarone monitoring due?** ~4.5 months of therapy without TFTs or interval LFTs.
-7. **Given ongoing chest pain and a never-excluded coronary question, is any ischaemia evaluation now indicated** — and is it feasible/safe given her renal trend (creatinine 1.20) and oncological status?
-8. **Are her current symptoms cardiac at all?** The Holter, the normal troponins, the near-normal NT-proBNP and the recovered RV function all point away from the heart; the increasing pleural effusions on the 05 Jul HRCT point towards the chest. Should the effusions be addressed (drainage?) as the primary symptom driver?
+7. **Given the chest-pain history and a never-excluded coronary question, is any ischaemia evaluation now indicated?** (Note the record is mixed on chest pain: the 05–08 Jul admission was for fever and hypoxia, *not* chest pain, but chest pain is listed as an indication on the 10–13 Jul Holter requisition and she logged "chest discomfort/pain" as her symptom on 11 Jul. There was also a MET call for chest pain on 20 Mar 2026.) Is evaluation — and is it feasible/safe given her renal trend (creatinine 1.20) and oncological status?
+8. **Are her current symptoms cardiac at all?** The Holter, the never-raised troponins, an NT-proBNP in the "HF unlikely" band for her presentation, and the recovered RV function all point away from the heart; the increasing pleural effusions on the 05 Jul HRCT point towards the chest. Should the effusions be addressed (drainage?) as the primary symptom driver?
 9. **Anticoagulation:** is apixaban still indicated, at what dose, and for how long, given no residual pulmonary thrombus on the 22 Jun PET-CT but an active malignancy and a prior major bleed?
 
 ---
@@ -415,4 +423,6 @@ All files are in this records archive. Original hospital PDFs are in `report_pdf
 
 ---
 
-*Compiled 20 July 2026 from the primary records listed above. Figures are quoted from source documents; inferences, gaps and inconsistencies are marked ⚠️. Current medication doses in §6.2 are the family's account and are not supported by a document in the file.*
+*Compiled 20 July 2026 from the primary records listed above. Figures are quoted from source documents; inferences, gaps and inconsistencies are marked ⚠️.*
+
+***What is NOT documented anywhere in the records** and rests solely on the family's account: the referral to Dr. Purushottam; Dr. Tanwar's proposal to stop mexiletine and add a beta-blocker; the ~13 July dose reduction and Dr. Meeran's approval of it. Dr. Tanwar appears in the records only as the reporter of the 06 Jul echo and the 13 Jul ECG. **The current medication list in §6.2 is, by contrast, fully documented** — it is transcribed from the 17 July Maitreya discharge prescription.*
